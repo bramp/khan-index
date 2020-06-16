@@ -24,17 +24,14 @@
     - [10'lu Sayılar](https://tr.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-teens) (1 Exercise, 2 Videos | [5m 58s](https://www.youtube.com/watch_videos?title=10%27lu+Say%C4%B1lar&video_ids=LMcm8a1uoCc%2CMro2xaRtdIY) )
     - [Onlar Basamağı
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-tens) (3 Exercises, 3 Videos | [13m 13s](https://www.youtube.com/watch_videos?title=Onlar+Basama%C4%9F%C4%B1%0A&video_ids=G6gZB9E-8Pc%2CyG8ybVgnJLA%2C6YhrYRId4N4) )
-    - [İki Basamaklı Sayıları Karşılaştırma
-](https://tr.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-two-digit-compare) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [5m 4s](https://www.youtube.com/watch_videos?title=%C4%B0ki+Basamakl%C4%B1+Say%C4%B1lar%C4%B1+Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%0A&video_ids=VDB76h3vU6U) )
-    - [Yüzler](https://tr.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-hundreds) (2 Exercises)
+    - [İki basamaklı sayıları karşılaştırma](https://tr.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-two-digit-compare) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [5m 4s](https://www.youtube.com/watch_videos?title=%C4%B0ki+basamakl%C4%B1+say%C4%B1lar%C4%B1+kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma&video_ids=VDB76h3vU6U) )
     - [Üç Basamaklı Sayıları Karşılaştırma
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-three-digit-compare) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [2m 4s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7+Basamakl%C4%B1+Say%C4%B1lar%C4%B1+Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%0A&video_ids=hPUXyqlwfO0) )
   - [20’ye Kadar Olan Sayılarla  Toplama ve Çıkarma İşlemi](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-20) (7 Topics)
     - [20'ye Kadar Olan Sayılarla Toplama İşlemi
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-20/cc-early-math-add-20) (2 Exercises, 3 Videos | [9m 50s](https://www.youtube.com/watch_videos?title=20%27ye+Kadar+Olan+Say%C4%B1larla+Toplama+%C4%B0%C5%9Flemi%0A&video_ids=6ZGg8MY4QK0%2C9rHxcHoRlj0%2Cq_Hlhu2OBVo) )
     - [20’ye Kadar Olan Sayılarla Çıkarma İşlemi](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-20/cc-early-math-sub-20) (1 Exercise, 1 Quiz, 1 Video | [4m 3s](https://www.youtube.com/watch_videos?title=20%E2%80%99ye+Kadar+Olan+Say%C4%B1larla+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi&video_ids=1shOsjXCyJM) )
-    - [Eşittir İşareti](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-20/cc-early-math-equals-sign) (1 Exercise, 1 Video | [4m 56s](https://www.youtube.com/watch_videos?title=E%C5%9Fittir+%C4%B0%C5%9Fareti&video_ids=HHKCDiTuTJU) )
-    - [20'ye Kadar Olan Sayılarla Toplama ve Çıkarma İşleminde Eksik Terimler](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-20/missing-number-within-20) (1 Exercise, 1 Quiz)
+    - [Eşittir işareti](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-20/cc-early-math-equals-sign) (1 Exercise, 1 Video | [4m 56s](https://www.youtube.com/watch_videos?title=E%C5%9Fittir+i%C5%9Fareti&video_ids=HHKCDiTuTJU) )
     - [20’ye Kadar Olan Sayılarla Problemler
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-20/cc-early-math-word-problems-within-20) (2 Exercises, 2 Videos | [9m 10s](https://www.youtube.com/watch_videos?title=20%E2%80%99ye+Kadar+Olan+Say%C4%B1larla+Problemler%0A&video_ids=96Yh_xGpBaw%2CP5KLjXodCm4) )
     - ["Daha Az" ve "Daha Çok" Problemleri
@@ -45,16 +42,11 @@
   - [100’e Kadar Olan Sayılarla Toplama ve Çıkarma İşlemi
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100) (11 Topics)
     - [Ritmik Sayma](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-skip-counting) (2 Exercises, 2 Videos | [4m 41s](https://www.youtube.com/watch_videos?title=Ritmik+Sayma&video_ids=Qc2MgqmN0ss%2CoAMczrP3qlw) )
-    - [Birler ve Onlar Basamağında Toplama İşlemi
-](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-ones-tens) (1 Article, 2 Exercises, 3 Videos | [8m 9s](https://www.youtube.com/watch_videos?title=Birler+ve+Onlar+Basama%C4%9F%C4%B1nda+Toplama+%C4%B0%C5%9Flemi%0A&video_ids=saXROdKIMvo%2CiX7I3rdOCkI%2CdarB8BZ-dZo) )
-    - [Birler ve Onlar Basamağında Çıkarma İşlemi
-](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-sub-ones-tens) (2 Exercises, 1 Quiz, 3 Videos | [7m 54s](https://www.youtube.com/watch_videos?title=Birler+ve+Onlar+Basama%C4%9F%C4%B1nda+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi%0A&video_ids=0suRQ3B61XI%2CtUSuA4DdVoU%2CkqDAGp4HF54) )
-    - [İki Basamaklı Sayılarla Toplama İşlemi
-](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-two-dig-intro) (3 Exercises, 5 Videos | [16m 18s](https://www.youtube.com/watch_videos?title=%C4%B0ki+Basamakl%C4%B1+Say%C4%B1larla+Toplama+%C4%B0%C5%9Flemi%0A&video_ids=LbFfUVByBAE%2CxTC_U5D1zS8%2CuF1f3xiqcxA%2CFwyVd1DPH3g%2C_LU7GDEpc2E) )
-    - [İki Basamaklı Sayılarla Çıkarma İşlemi
-](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-sub-two-dig-intro) (2 Exercises, 3 Videos | [8m 8s](https://www.youtube.com/watch_videos?title=%C4%B0ki+Basamakl%C4%B1+Say%C4%B1larla+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi%0A&video_ids=nRwTpa8Hw3w%2C3HvljNdb_q4%2CYxMYffkRYp0) )
-    - [100'e Kadar Olan Sayılarla Toplama ve Çıkarma Yaparken Kullanılabilecek Yöntemler
-](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-strategies-for-adding-within-100) (4 Exercises, 1 Quiz, 4 Videos | [11m 39s](https://www.youtube.com/watch_videos?title=100%27e+Kadar+Olan+Say%C4%B1larla+Toplama+ve+%C3%87%C4%B1karma+Yaparken+Kullan%C4%B1labilecek+Y%C3%B6ntemler%0A&video_ids=52q80JW2Vsg%2C_LU7GDEpc2E%2Caa9FgSuYoGQ%2CHIZx1KAAQcc) )
+    - [Birlikleri ve onlukları toplama](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-ones-tens) (1 Article, 2 Exercises, 3 Videos | [8m 9s](https://www.youtube.com/watch_videos?title=Birlikleri+ve+onluklar%C4%B1+toplama&video_ids=saXROdKIMvo%2CiX7I3rdOCkI%2CdarB8BZ-dZo) )
+    - [Birlikleri ve onlukları çıkarma](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-sub-ones-tens) (2 Exercises, 1 Quiz, 3 Videos | [7m 54s](https://www.youtube.com/watch_videos?title=Birlikleri+ve+onluklar%C4%B1+%C3%A7%C4%B1karma&video_ids=0suRQ3B61XI%2CtUSuA4DdVoU%2CkqDAGp4HF54) )
+    - [İki-basamaklı sayılarla toplamaya giriş](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-two-dig-intro) (3 Exercises, 5 Videos | [16m 18s](https://www.youtube.com/watch_videos?title=%C4%B0ki-basamakl%C4%B1+say%C4%B1larla+toplamaya+giri%C5%9F&video_ids=LbFfUVByBAE%2CxTC_U5D1zS8%2CuF1f3xiqcxA%2CFwyVd1DPH3g%2C_LU7GDEpc2E) )
+    - [İki-basamaklı sayılarla çıkarmaya giriş](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-sub-two-dig-intro) (2 Exercises, 3 Videos | [8m 8s](https://www.youtube.com/watch_videos?title=%C4%B0ki-basamakl%C4%B1+say%C4%B1larla+%C3%A7%C4%B1karmaya+giri%C5%9F&video_ids=nRwTpa8Hw3w%2C3HvljNdb_q4%2CYxMYffkRYp0) )
+    - [100'e kadar olan sayılarda toplama için stratejiler](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-strategies-for-adding-within-100) (4 Exercises, 1 Quiz, 4 Videos | [11m 39s](https://www.youtube.com/watch_videos?title=100%27e+kadar+olan+say%C4%B1larda+toplama+i%C3%A7in+stratejiler&video_ids=52q80JW2Vsg%2C_LU7GDEpc2E%2Caa9FgSuYoGQ%2CHIZx1KAAQcc) )
     - [100’e Kadar Olan Sayılarla Toplama İşlemi
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-subtract-100) (1 Exercise, 2 Videos | [7m 10s](https://www.youtube.com/watch_videos?title=100%E2%80%99e+Kadar+Olan+Say%C4%B1larla+Toplama+%C4%B0%C5%9Flemi%0A&video_ids=xTC_U5D1zS8%2C3h3ofBKhR44) )
     - [100’e Kadar Olan Sayılarla Çıkarma İşlemi](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-100/subtraction-within-100) (1 Exercise, 1 Quiz, 2 Videos | [8m 3s](https://www.youtube.com/watch_videos?title=100%E2%80%99e+Kadar+Olan+Say%C4%B1larla+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi&video_ids=nRwTpa8Hw3w%2C82I8GNAbQEw) )
@@ -67,15 +59,11 @@
   - [1000’e Kadar Olan Sayılarla Toplama ve Çıkarma İşlemi
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-1000) (4 Topics)
     - [Skip counting by 100s](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/skip-counting-by-100s) (1 Exercise, 1 Video | [2m 49s](https://www.youtube.com/watch_videos?title=Skip+counting+by+100s&video_ids=lGW11Skef2o) )
-    - [Birler, Onlar, Yüzler Basamaklarında Toplama İşlemi
-](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-add-ones-tens-hundreds) (2 Exercises, 3 Videos | [10m 16s](https://www.youtube.com/watch_videos?title=Birler%2C+Onlar%2C+Y%C3%BCzler+Basamaklar%C4%B1nda+Toplama+%C4%B0%C5%9Flemi%0A&video_ids=l60q5uU4BiE%2CJFWi1PSYT_s%2C5WfPR3G0GuE) )
-    - [Birler, Onlar ve Yüzler Basamaklarında Çıkarma İşlemi
-](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-sub-ones-tens-hundreds) (2 Exercises, 1 Quiz, 3 Videos | [10m 20s](https://www.youtube.com/watch_videos?title=Birler%2C+Onlar+ve+Y%C3%BCzler+Basamaklar%C4%B1nda+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi%0A&video_ids=rZiA6pvS-hU%2C97Y8-nVg_dw%2CAtpPxqLoChI) )
-    - [İki ve Üç Basamaklı Sayıları Toplama Yöntemleri
-](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-strategies-for-adding-two-and-three-digit-numbers) (3 Exercises, 1 Quiz, 1 Test, 4 Videos | [17m 33s](https://www.youtube.com/watch_videos?title=%C4%B0ki+ve+%C3%9C%C3%A7+Basamakl%C4%B1+Say%C4%B1lar%C4%B1+Toplama+Y%C3%B6ntemleri%0A&video_ids=T10eqpcw7Yw%2CrcctMmrVRBo%2Ci-deH8f8Gtc%2CPKQhZfDiDSc) )
+    - [Toplama ve birlikler, onluklar ve yüzlükler](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-add-ones-tens-hundreds) (2 Exercises, 3 Videos | [10m 16s](https://www.youtube.com/watch_videos?title=Toplama+ve+birlikler%2C+onluklar+ve+y%C3%BCzl%C3%BCkler&video_ids=l60q5uU4BiE%2CJFWi1PSYT_s%2C5WfPR3G0GuE) )
+    - [Birlikleri, onlukları ve yüzlükleri çıkarma](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-sub-ones-tens-hundreds) (2 Exercises, 1 Quiz, 3 Videos | [10m 20s](https://www.youtube.com/watch_videos?title=Birlikleri%2C+onluklar%C4%B1+ve+y%C3%BCzl%C3%BCkleri+%C3%A7%C4%B1karma&video_ids=rZiA6pvS-hU%2C97Y8-nVg_dw%2CAtpPxqLoChI) )
+    - [İki ve Üç Basamaklı Sayıları Toplamak için Stratejiler](https://tr.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-strategies-for-adding-two-and-three-digit-numbers) (3 Exercises, 1 Quiz, 1 Test, 4 Videos | [17m 33s](https://www.youtube.com/watch_videos?title=%C4%B0ki+ve+%C3%9C%C3%A7+Basamakl%C4%B1+Say%C4%B1lar%C4%B1+Toplamak+i%C3%A7in+Stratejiler&video_ids=T10eqpcw7Yw%2CrcctMmrVRBo%2Ci-deH8f8Gtc%2CPKQhZfDiDSc) )
   - [Ölçüm ve Veri](https://tr.khanacademy.org/math/early-math/cc-early-math-measure-data-topic) (9 Topics)
-    - [Uzunluk ve Boyut
-](https://tr.khanacademy.org/math/early-math/cc-early-math-measure-data-topic/cc-early-math-length-intro) (3 Exercises, 1 Video | [2m 37s](https://www.youtube.com/watch_videos?title=Uzunluk+ve+Boyut%0A&video_ids=nk5oLYxf8Dg) )
+    - [Uzunluk - Giriş](https://tr.khanacademy.org/math/early-math/cc-early-math-measure-data-topic/cc-early-math-length-intro) (3 Exercises, 1 Video | [2m 37s](https://www.youtube.com/watch_videos?title=Uzunluk+-+Giri%C5%9F&video_ids=nk5oLYxf8Dg) )
     - [Uzunluk Ölçme
 
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-measure-data-topic/cc-early-math-measuring-length) (1 Article, 2 Exercises, 1 Quiz, 2 Videos | [7m 34s](https://www.youtube.com/watch_videos?title=Uzunluk+%C3%96l%C3%A7me%0A%0A&video_ids=28A4oT3Kya4%2CRUvPNTBbuwM) )
@@ -91,8 +79,7 @@
     - [Para](https://tr.khanacademy.org/math/early-math/cc-early-math-measure-data-topic/cc-early-math-money) (1 Article, 1 Exercise, 1 Quiz, 1 Test, 2 Videos | [7m 49s](https://www.youtube.com/watch_videos?title=Para&video_ids=CUbUDsX8cdM%2CaBxnzsIURXc) )
   - [Geometri](https://tr.khanacademy.org/math/early-math/cc-early-math-geometry-topic) (4 Topics)
     - [Temel Şekiller](https://tr.khanacademy.org/math/early-math/cc-early-math-geometry-topic/cc-early-math-shapes) (4 Exercises, 2 Videos | [10m 28s](https://www.youtube.com/watch_videos?title=Temel+%C5%9Eekiller&video_ids=tG4mNuSD6LU%2C_X3VkZcNa6M) )
-    - [Geometrik Şekillerin Özellikleri
-](https://tr.khanacademy.org/math/early-math/cc-early-math-geometry-topic/cc-early-math-properties-shapes) (1 Article, 2 Exercises, 1 Quiz, 2 Videos | [10m 28s](https://www.youtube.com/watch_videos?title=Geometrik+%C5%9Eekillerin+%C3%96zellikleri%0A&video_ids=tG4mNuSD6LU%2C_X3VkZcNa6M) )
+    - [Geometrik Şekiller](https://tr.khanacademy.org/math/early-math/cc-early-math-geometry-topic/cc-early-math-properties-shapes) (1 Article, 2 Exercises, 1 Quiz, 2 Videos | [10m 28s](https://www.youtube.com/watch_videos?title=Geometrik+%C5%9Eekiller&video_ids=tG4mNuSD6LU%2C_X3VkZcNa6M) )
     - [Geometrik Şekil Çizimi
 ](https://tr.khanacademy.org/math/early-math/cc-early-math-geometry-topic/cc-early-math-composing-shapes) (1 Exercise, 1 Video | [2m 4s](https://www.youtube.com/watch_videos?title=Geometrik+%C5%9Eekil+%C3%87izimi%0A&video_ids=6ELmEEAdbRE) )
     - [Geometrik Şekillerin Kesitleri
@@ -104,36 +91,27 @@
     - [Basit Toplama ve Çıkarma İşlemleri
 ](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-basic-add-subtract) (2 Exercises, 2 Videos | [16m 14s](https://www.youtube.com/watch_videos?title=Basit+Toplama+ve+%C3%87%C4%B1karma+%C4%B0%C5%9Flemleri%0A&video_ids=jpm1rBNwe6c%2CH4UgtS4XWTY) )
     - [20’ye Kadar Olan Sayılarla  Toplama ve Çıkarma İşlemi](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-add-subtract-20) (2 Exercises, 2 Videos | [7m 22s](https://www.youtube.com/watch_videos?title=20%E2%80%99ye+Kadar+Olan+Say%C4%B1larla++Toplama+ve+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi&video_ids=9rHxcHoRlj0%2C1shOsjXCyJM) )
-    - [100'e Kadar Olan Sayılarla Toplama ve Çıkarma Yaparken Kullanılabilecek Yöntemler
-](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-strategies-for-adding-within-100) (4 Exercises, 1 Quiz, 4 Videos | [11m 39s](https://www.youtube.com/watch_videos?title=100%27e+Kadar+Olan+Say%C4%B1larla+Toplama+ve+%C3%87%C4%B1karma+Yaparken+Kullan%C4%B1labilecek+Y%C3%B6ntemler%0A&video_ids=52q80JW2Vsg%2C_LU7GDEpc2E%2Caa9FgSuYoGQ%2CHIZx1KAAQcc) )
+    - [100'e kadar olan sayılarda toplama için stratejiler](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-strategies-for-adding-within-100) (4 Exercises, 1 Quiz, 4 Videos | [11m 39s](https://www.youtube.com/watch_videos?title=100%27e+kadar+olan+say%C4%B1larda+toplama+i%C3%A7in+stratejiler&video_ids=52q80JW2Vsg%2C_LU7GDEpc2E%2Caa9FgSuYoGQ%2CHIZx1KAAQcc) )
     - [100’e Kadar Olan Sayılarla Toplama İşlemi
 ](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-add-within-100a) (1 Exercise, 2 Videos | [7m 10s](https://www.youtube.com/watch_videos?title=100%E2%80%99e+Kadar+Olan+Say%C4%B1larla+Toplama+%C4%B0%C5%9Flemi%0A&video_ids=xTC_U5D1zS8%2C3h3ofBKhR44) )
     - [100’e Kadar Olan Sayılarla Çıkarma İşlemi](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-subtract-within-100) (1 Exercise, 2 Videos | [8m 3s](https://www.youtube.com/watch_videos?title=100%E2%80%99e+Kadar+Olan+Say%C4%B1larla+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi&video_ids=nRwTpa8Hw3w%2C82I8GNAbQEw) )
     - [100’e Kadar Olan Sayılarla İlgili Problemler
 ](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-add-sub-100-word-problems) (2 Exercises, 1 Quiz, 4 Videos | [15m 48s](https://www.youtube.com/watch_videos?title=100%E2%80%99e+Kadar+Olan+Say%C4%B1larla+%C4%B0lgili+Problemler%0A&video_ids=phX4zMCmzFs%2CqccqM_0-Rz4%2CgIvlAQI8BA4%2CLR5NeIBxJgs) )
-    - [Çok Basamaklı Sayılarla Eldeli Toplama
-
-](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-adding-carrying) (2 Exercises, 4 Videos | [14m 14s](https://www.youtube.com/watch_videos?title=%C3%87ok+Basamakl%C4%B1+Say%C4%B1larla+Eldeli+Toplama%0A%0A&video_ids=NJSiYd0F-fU%2CRa7Q9g8_iXw%2CDqaHhReVpZI%2CTVtdqRNJmiw) )
-    - [1000'e Kadar Olan Sayılarla Ödünç Alarak Çıkarma
-](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-regrouping-3-dig) (2 Exercises, 1 Quiz, 1 Test, 6 Videos | [21m 35s](https://www.youtube.com/watch_videos?title=1000%27e+Kadar+Olan+Say%C4%B1larla+%C3%96d%C3%BCn%C3%A7+Alarak+%C3%87%C4%B1karma%0A&video_ids=vMraVAuVL0s%2C9l1M4LnIX00%2CUe5ceSyMdfc%2CS5wfIexs27U%2CXAPhD7EDQUk%2CbuyK1y4rV3E) )
+    - [1000'e kadar Eldeli Toplama](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-adding-carrying) (2 Exercises, 4 Videos | [14m 14s](https://www.youtube.com/watch_videos?title=1000%27e+kadar+Eldeli+Toplama&video_ids=NJSiYd0F-fU%2CRa7Q9g8_iXw%2CDqaHhReVpZI%2CTVtdqRNJmiw) )
+    - [1000 içinde onluk bozarak çıkarma ](https://tr.khanacademy.org/math/arithmetic/arith-review-add-subtract/arith-review-regrouping-3-dig) (2 Exercises, 1 Quiz, 1 Test, 6 Videos | [21m 35s](https://www.youtube.com/watch_videos?title=1000+i%C3%A7inde+onluk+bozarak+%C3%A7%C4%B1karma+&video_ids=vMraVAuVL0s%2C9l1M4LnIX00%2CUe5ceSyMdfc%2CS5wfIexs27U%2CXAPhD7EDQUk%2CbuyK1y4rV3E) )
   - [Çarpma ve Bölme](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide) (10 Topics)
     - [Çarpma İşlemi](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-intro) (1 Article, 4 Exercises, 3 Videos | [13m 21s](https://www.youtube.com/watch_videos?title=%C3%87arpma+%C4%B0%C5%9Flemi&video_ids=0T0GIKSeumc%2CyaexaIiKG04%2CSgOMSXSHcd8) )
-    - [10'lar, 100'ler ve 1000'ler ile Çarpma
-](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-10s-100s-1000s) (4 Exercises, 1 Quiz, 4 Videos | [22m 34s](https://www.youtube.com/watch_videos?title=10%27lar%2C+100%27ler+ve+1000%27ler+ile+%C3%87arpma%0A&video_ids=7745ErwOg6Y%2Cs2pe5HGSRFI%2CHqTnu4uJiXw%2C9OxXzVZkXqI) )
+    - [Onlar, yüzler, ve binlerle çarpma](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-10s-100s-1000s) (4 Exercises, 1 Quiz, 4 Videos | [22m 34s](https://www.youtube.com/watch_videos?title=Onlar%2C+y%C3%BCzler%2C+ve+binlerle+%C3%A7arpma&video_ids=7745ErwOg6Y%2Cs2pe5HGSRFI%2CHqTnu4uJiXw%2C9OxXzVZkXqI) )
     - [Çarpma Alıştırmaları: Basamak Değeri ve Alan Modelleri
 ](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-place-value-area-models) (2 Exercises, 5 Videos | [28m 58s](https://www.youtube.com/watch_videos?title=%C3%87arpma+Al%C4%B1%C5%9Ft%C4%B1rmalar%C4%B1%3A+Basamak+De%C4%9Feri+ve+Alan+Modelleri%0A&video_ids=x2E4Rhsr-BI%2CNZt-wV1XNFY%2CtrTdSoYkChc%2CHEGqFkqHHxo%2Cs_Hh2hHpOuI) )
-    - [Çok Basamaklı Sayıları Çarpma
-](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multi-digit-mult) (4 Exercises, 1 Quiz, 6 Videos | [23m 58s](https://www.youtube.com/watch_videos?title=%C3%87ok+Basamakl%C4%B1+Say%C4%B1lar%C4%B1+%C3%87arpma%0A&video_ids=8fPc2-jk-hM%2C0XQYofB2T38%2Cli22O867Z7o%2C5T9JKMrqvH0%2CHS3tWTLJm7c%2CVfo8bddiNFc) )
+    - [Çok Basamaklı Sayıları Çarpma](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multi-digit-mult) (4 Exercises, 1 Quiz, 6 Videos | [23m 58s](https://www.youtube.com/watch_videos?title=%C3%87ok+Basamakl%C4%B1+Say%C4%B1lar%C4%B1+%C3%87arpma&video_ids=8fPc2-jk-hM%2C0XQYofB2T38%2Cli22O867Z7o%2C5T9JKMrqvH0%2CHS3tWTLJm7c%2CVfo8bddiNFc) )
     - [Bölme İşlemi](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-division-intro) (1 Article, 3 Exercises, 1 Video | [8m 1s](https://www.youtube.com/watch_videos?title=B%C3%B6lme+%C4%B0%C5%9Flemi&video_ids=iA-ANJSHUmw) )
     - [Bölme Alıştırmaları: Basamak Değeri ve Alan
 ](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-div-pv-area) (2 Exercises, 2 Videos | [16m 22s](https://www.youtube.com/watch_videos?title=B%C3%B6lme+Al%C4%B1%C5%9Ft%C4%B1rmalar%C4%B1%3A+Basamak+De%C4%9Feri+ve+Alan%0A&video_ids=plo6vhAFlRQ%2C1WLAhpDcWSc) )
-    - [Çok Basamaklı Sayıları Kalansız Bölme
-](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multi-digit-div) (1 Exercise, 1 Quiz, 3 Videos | [11m 55s](https://www.youtube.com/watch_videos?title=%C3%87ok+Basamakl%C4%B1+Say%C4%B1lar%C4%B1+Kalans%C4%B1z+B%C3%B6lme%0A&video_ids=hDw1LyZ9bsA%2CaFU-kjY7A68%2CS0e6rAni6dM) )
+    - [Çok Basamaklı Bölme](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multi-digit-div) (1 Exercise, 1 Quiz, 3 Videos | [11m 55s](https://www.youtube.com/watch_videos?title=%C3%87ok+Basamakl%C4%B1+B%C3%B6lme&video_ids=hDw1LyZ9bsA%2CaFU-kjY7A68%2CS0e6rAni6dM) )
     - [Kalanlar](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-remainders) (2 Articles, 3 Exercises, 3 Videos | [15m 11s](https://www.youtube.com/watch_videos?title=Kalanlar&video_ids=JlL9pThEqp8%2CG8YJCtZ6MWo%2Ci0x_RKXsWnU) )
-    - [Çok Basamaklı Sayıları Kalanlı Bölme
-](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-digit-div-2) (2 Exercises, 2 Videos | [7m 58s](https://www.youtube.com/watch_videos?title=%C3%87ok+Basamakl%C4%B1+Say%C4%B1lar%C4%B1+Kalanl%C4%B1+B%C3%B6lme%0A&video_ids=qeXWtdz4sHU%2CR_WEzoY3wfw) )
-    - [Çarpma ve Bölme Problemleri
-](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multistep-word-problems) (2 Exercises, 1 Quiz, 1 Test, 2 Videos | [5m 37s](https://www.youtube.com/watch_videos?title=%C3%87arpma+ve+B%C3%B6lme+Problemleri%0A&video_ids=EK6XWU2lLPs%2CEFYeHsBcbug) )
+    - [Çok Basamaklı Bölme](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-mult-digit-div-2) (2 Exercises, 2 Videos | [7m 58s](https://www.youtube.com/watch_videos?title=%C3%87ok+Basamakl%C4%B1+B%C3%B6lme&video_ids=qeXWtdz4sHU%2CR_WEzoY3wfw) )
+    - [Çok aşamalı sorular](https://tr.khanacademy.org/math/arithmetic/arith-review-multiply-divide/arith-review-multistep-word-problems) (2 Exercises, 1 Quiz, 1 Test, 2 Videos | [5m 37s](https://www.youtube.com/watch_videos?title=%C3%87ok+a%C5%9Famal%C4%B1+sorular&video_ids=EK6XWU2lLPs%2CEFYeHsBcbug) )
   - [Negatif Sayılar](https://tr.khanacademy.org/math/arithmetic/arith-review-negative-numbers) (8 Topics)
     - [Negatif Tam Sayılar
 ](https://tr.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-neg-num-intro) (1 Article, 2 Exercises, 1 Video | [9m 36s](https://www.youtube.com/watch_videos?title=Negatif+Tam+Say%C4%B1lar%0A&video_ids=9Bp0xLEDNSw) )
@@ -148,11 +126,8 @@
 ](https://tr.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-negatives-intro) (1 Article, 1 Exercise, 2 Videos | [11m 13s](https://www.youtube.com/watch_videos?title=Negatif+Tam+Say%C4%B1larda+Toplama+%C4%B0%C5%9Flemi%0A%0A%0A&video_ids=abtpr3pAurs%2CP6OYyCHmHlk) )
     - [Negatif Tam Sayılarda Çıkarma İşlemi
 ](https://tr.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-sub-neg-intro) (1 Article, 2 Exercises, 2 Videos | [5m 40s](https://www.youtube.com/watch_videos?title=Negatif+Tam+Say%C4%B1larda+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi%0A&video_ids=XbgtnaQbR6Q%2Cu3p-USMll2Q) )
-    - [Negatif Sayılarla Toplama ve Çıkarma İşlemi
-](https://tr.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-and-sub-integersss) (1 Exercise, 1 Video | [5m 32s](https://www.youtube.com/watch_videos?title=Negatif+Say%C4%B1larla+Toplama+ve+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi%0A&video_ids=P6OYyCHmHlk) )
-    - [Negatif Tam Sayılarda Çarpma ve Bölme İşlemi
-
-](https://tr.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-mult-divide-negatives) (2 Articles, 3 Exercises, 1 Quiz, 1 Test, 4 Videos | [22m 27s](https://www.youtube.com/watch_videos?title=Negatif+Tam+Say%C4%B1larda+%C3%87arpma+ve+B%C3%B6lme+%C4%B0%C5%9Flemi%0A%0A&video_ids=diI35yTH5PI%2CiSaXHM9F2ok%2CCISJp1Tc_xA%2CuAkhbg8BpB4) )
+    - [Tamsayılarla Toplama ve Çıkarma](https://tr.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-add-and-sub-integersss) (1 Exercise, 1 Video | [5m 32s](https://www.youtube.com/watch_videos?title=Tamsay%C4%B1larla+Toplama+ve+%C3%87%C4%B1karma&video_ids=P6OYyCHmHlk) )
+    - [Negatif Sayılarla Çarpma ve Bölme](https://tr.khanacademy.org/math/arithmetic/arith-review-negative-numbers/arith-review-mult-divide-negatives) (2 Articles, 3 Exercises, 1 Quiz, 1 Test, 4 Videos | [22m 27s](https://www.youtube.com/watch_videos?title=Negatif+Say%C4%B1larla+%C3%87arpma+ve+B%C3%B6lme&video_ids=diI35yTH5PI%2CiSaXHM9F2ok%2CCISJp1Tc_xA%2CuAkhbg8BpB4) )
   - [Kesirler](https://tr.khanacademy.org/math/arithmetic/fraction-arithmetic) (20 Topics)
     - [Kesirler](https://tr.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-intro) (3 Exercises, 6 Videos | [14m 55s](https://www.youtube.com/watch_videos?title=Kesirler&video_ids=KPwC2hTKL4I%2CPGLPwW_fCfw%2CEFoGwuAJJSw%2CZgiTyEPoPsM%2CqMbdr0H_JHg%2CBzVjKIvbPEY) )
     - [Sayı Doğrusunda Kesirler](https://tr.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-on-the-number-line) (2 Exercises, 1 Quiz, 2 Videos | [5m 15s](https://www.youtube.com/watch_videos?title=Say%C4%B1+Do%C4%9Frusunda+Kesirler&video_ids=mStFPcEhd_I%2CkvaYkoHYD5c) )
@@ -190,15 +165,13 @@
     - [Kesirlerle Bölme İşlemi Problemleri
 ](https://tr.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-div-fractions-word-problems) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [2m 8s](https://www.youtube.com/watch_videos?title=Kesirlerle+B%C3%B6lme+%C4%B0%C5%9Flemi+Problemleri%0A&video_ids=HhkpAOhUknU) )
   - [Ondalık Sayılar](https://tr.khanacademy.org/math/arithmetic/arith-decimals) (10 Topics)
-    - [Ondalık Sayılar](https://tr.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-intro) (3 Exercises, 4 Videos | [18m 3s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar&video_ids=lP_L4t9p_AU%2Cp8cjHy2h9Bw%2CG0JlQaZw20c%2CoKfL7tWutJE) )
+    - [Ondalıklara giriş](https://tr.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-intro) (3 Exercises, 4 Videos | [18m 3s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1klara+giri%C5%9F&video_ids=lP_L4t9p_AU%2Cp8cjHy2h9Bw%2CG0JlQaZw20c%2CoKfL7tWutJE) )
     - [Sayı Doğrusunda Ondalık Sayılar](https://tr.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-number-line) (2 Exercises, 1 Quiz, 5 Videos | [13m 1s](https://www.youtube.com/watch_videos?title=Say%C4%B1+Do%C4%9Frusunda+Ondal%C4%B1k+Say%C4%B1lar&video_ids=9R7p4xM1i_g%2CxSKJR4VEcm8%2CRLmoF0X8gR0%2CcnW4orphRcE%2Cp8OfVajqYww) )
     - [Ondalık Sayıları Yuvarlama
 ](https://tr.khanacademy.org/math/arithmetic/arith-decimals/arith-review-rounding-decimals) (3 Exercises, 2 Videos | [5m 48s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+Yuvarlama%0A&video_ids=0TGKgRZmYvs%2CzPecVL97jAw) )
     - [Ondalık Sayıları Karşılaştırma
 ](https://tr.khanacademy.org/math/arithmetic/arith-decimals/arith-review-comparing-decimals) (4 Exercises, 6 Videos | [16m 58s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%0A&video_ids=bCNBj8WP69M%2CjCQ9VwsqDBo%2CjZkfvc3sJs0%2Cnn7uVq2sXig%2C6V7IjnIq158%2CJFKoOvNJPZ8) )
-    - [Ondalık Sayıları Kesir Biçiminde Yazma
-
-](https://tr.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-to-fractions) (5 Exercises, 1 Quiz, 8 Videos | [15m 55s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+Kesir+Bi%C3%A7iminde+Yazma%0A%0A&video_ids=lGtQ6DTV6qs%2CLYAk78DsHf4%2CwgdGRLhVOyI%2CDRAvAygKTBQ%2CuBT1Tbob3OA%2CORXaol7BbYs%2CXe4eiKdT2II%2CXc23gbMhzMc) )
+    - [Ondalık sayıları kesir olarak tekrar yazma](https://tr.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-to-fractions) (5 Exercises, 1 Quiz, 8 Videos | [15m 55s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+say%C4%B1lar%C4%B1+kesir+olarak+tekrar+yazma&video_ids=lGtQ6DTV6qs%2CLYAk78DsHf4%2CwgdGRLhVOyI%2CDRAvAygKTBQ%2CuBT1Tbob3OA%2CORXaol7BbYs%2CXe4eiKdT2II%2CXc23gbMhzMc) )
     - [Ondalık Sayıları Toplama
 ](https://tr.khanacademy.org/math/arithmetic/arith-decimals/arith-review-add-decimals) (1 Article, 4 Exercises, 5 Videos | [20m 34s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+Toplama%0A&video_ids=Un8cDdPivBE%2CERd-25jYALY%2CIThpJQFuXZs%2CX0JaOKCDeEM%2CgSdtxupeJ0o) )
     - [Ondalık Sayıları Çıkarma
@@ -228,9 +201,8 @@
     - [Asal Çarpanlara Ayırma](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-prime-factorization-prealg) (1 Exercise, 1 Quiz, 3 Videos | [15m 53s](https://www.youtube.com/watch_videos?title=Asal+%C3%87arpanlara+Ay%C4%B1rma&video_ids=qUckVbgN4fo%2C4QYA0QFxbnM%2C_GmSOaFXI5c) )
     - [En Küçük Ortak Kat (EKOK)
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-lcm) (1 Exercise, 3 Videos | [12m 15s](https://www.youtube.com/watch_videos?title=En+K%C3%BC%C3%A7%C3%BCk+Ortak+Kat+%28EKOK%29%0A&video_ids=jhr-7svVO98%2CjxVEX-wXk58%2C1jGReNR_f1k) )
-    - [En Büyük Ortak Bölen (EBOB)](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor) (2 Exercises, 1 Quiz, 1 Test, 3 Videos | [21m 44s](https://www.youtube.com/watch_videos?title=En+B%C3%BCy%C3%BCk+Ortak+B%C3%B6len+%28EBOB%29&video_ids=VLkwsUp0_3k%2Caj_PSyZKRZ4%2C1qT7_-D8cZQ) )
-  - [Verilerin Okunması ve Yorumlanması
-](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning) (5 Topics)
+    - [En büyük ortak bölen](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor) (2 Exercises, 1 Quiz, 1 Test, 3 Videos | [21m 44s](https://www.youtube.com/watch_videos?title=En+b%C3%BCy%C3%BCk+ortak+b%C3%B6len&video_ids=VLkwsUp0_3k%2Caj_PSyZKRZ4%2C1qT7_-D8cZQ) )
+  - [Matematiksel Muhakeme](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning) (5 Topics)
     - [Veriyi Göstermenin Yolları
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-math-reasoning/pre-algebra-representing-data) (1 Exercise, 1 Video | [8m 18s](https://www.youtube.com/watch_videos?title=Veriyi+G%C3%B6stermenin+Yollar%C4%B1%0A&video_ids=lMeS7KNHmm4) )
     - [Dal-Yaprak Grafikleri
@@ -277,31 +249,29 @@
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-mult-frac-word-probs) (1 Exercise, 1 Quiz, 3 Videos | [8m 50s](https://www.youtube.com/watch_videos?title=Kesirlerde+%C3%87arpma+%C4%B0%C5%9Flemi+Problemleri%0A&video_ids=1Ir12T23oHw%2CXrJ5p8jz_F4%2CtkvfsVZWZzM) )
     - [Bölme ve Kesir İşareti
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-fractions-as-division) (1 Exercise, 2 Videos | [9m 29s](https://www.youtube.com/watch_videos?title=B%C3%B6lme+ve+Kesir+%C4%B0%C5%9Fareti%0A&video_ids=po5uyUO3y6g%2CqMvbek6IlJw) )
-    - [Birim Kesirleri Tam Sayılara Bölme](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-div-unit-frac-by-whole) (2 Exercises, 1 Quiz)
     - [Kesirleri Kesirlerle Bölme
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-dividing-fractions) (1 Article, 2 Exercises, 3 Videos | [10m 35s](https://www.youtube.com/watch_videos?title=Kesirleri+Kesirlerle+B%C3%B6lme%0A&video_ids=_gBhkiLdMx4%2CpnwG9p799MQ%2CinlGt9I3b4s) )
     - [Kesirlerle Bölme İşlemi Problemleri
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-div-fractions-word-problems) (2 Exercises, 1 Quiz, 1 Test, 2 Videos | [4m 43s](https://www.youtube.com/watch_videos?title=Kesirlerle+B%C3%B6lme+%C4%B0%C5%9Flemi+Problemleri%0A&video_ids=HhkpAOhUknU%2CpU8oNdszVP0) )
   - [Ondalık Sayılar](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals) (10 Topics)
-    - [Ondalık Sayılar](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-decimals-intro) (3 Articles, 3 Exercises, 4 Videos | [18m 3s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar&video_ids=lP_L4t9p_AU%2Cp8cjHy2h9Bw%2CG0JlQaZw20c%2CoKfL7tWutJE) )
+    - [Ondalıklara giriş](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-decimals-intro) (3 Articles, 3 Exercises, 4 Videos | [18m 3s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1klara+giri%C5%9F&video_ids=lP_L4t9p_AU%2Cp8cjHy2h9Bw%2CG0JlQaZw20c%2CoKfL7tWutJE) )
     - [Sayı Doğrusunda Ondalık Sayılar](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-decimals-number-lines) (2 Exercises, 1 Quiz, 5 Videos | [13m 1s](https://www.youtube.com/watch_videos?title=Say%C4%B1+Do%C4%9Frusunda+Ondal%C4%B1k+Say%C4%B1lar&video_ids=9R7p4xM1i_g%2CxSKJR4VEcm8%2CRLmoF0X8gR0%2CcnW4orphRcE%2Cp8OfVajqYww) )
     - [Ondalık Sayıları Yuvarlama
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-rounding-decimals) (3 Exercises, 2 Videos | [5m 48s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+Yuvarlama%0A&video_ids=0TGKgRZmYvs%2CzPecVL97jAw) )
     - [Ondalık Sayıları Karşılaştırma
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-comparing-decimalss) (4 Exercises, 1 Quiz, 6 Videos | [16m 58s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%0A&video_ids=bCNBj8WP69M%2CjCQ9VwsqDBo%2CjZkfvc3sJs0%2Cnn7uVq2sXig%2C6V7IjnIq158%2CJFKoOvNJPZ8) )
-    - [Ondalık Sayıları Kesir Biçiminde Yazma
-
-](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-decimals-to-fractions) (5 Exercises, 1 Quiz, 8 Videos | [15m 55s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+Kesir+Bi%C3%A7iminde+Yazma%0A%0A&video_ids=lGtQ6DTV6qs%2CLYAk78DsHf4%2CwgdGRLhVOyI%2CDRAvAygKTBQ%2CuBT1Tbob3OA%2CORXaol7BbYs%2CXe4eiKdT2II%2CXc23gbMhzMc) )
+    - [Ondalık sayıları kesir olarak tekrar yazma](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-decimals-to-fractions) (5 Exercises, 1 Quiz, 8 Videos | [15m 55s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+say%C4%B1lar%C4%B1+kesir+olarak+tekrar+yazma&video_ids=lGtQ6DTV6qs%2CLYAk78DsHf4%2CwgdGRLhVOyI%2CDRAvAygKTBQ%2CuBT1Tbob3OA%2CORXaol7BbYs%2CXe4eiKdT2II%2CXc23gbMhzMc) )
     - [Ondalık Sayıları Toplama
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-add-decimals) (1 Article, 3 Exercises, 5 Videos | [20m 30s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+Toplama%0A&video_ids=Un8cDdPivBE%2CC10t9mtW6qo%2CIThpJQFuXZs%2CX0JaOKCDeEM%2CgSdtxupeJ0o) )
-    - [Ondalık Sayılarla Çıkarma](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-sub-decimals) (1 Article, 3 Exercises, 4 Videos | [18m 2s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1larla+%C3%87%C4%B1karma&video_ids=EFKaEkti-dw%2C3uFdtsawFgM%2COehXdPlwUsQ%2CzD5aDnVfOCQ) )
+    - [Ondalık Sayıları Çıkarma
+](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-sub-decimals) (1 Article, 3 Exercises, 4 Videos | [18m 2s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+%C3%87%C4%B1karma%0A&video_ids=EFKaEkti-dw%2C3uFdtsawFgM%2COehXdPlwUsQ%2CzD5aDnVfOCQ) )
     - [Ondalık Sayılarda Toplama ve Çıkarma Problemleri
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-add-sub-decimals-word-problems) (1 Exercise, 1 Quiz, 2 Videos | [3m 52s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1larda+Toplama+ve+%C3%87%C4%B1karma+Problemleri%0A&video_ids=B2Y39_PPuZI%2CfRdFTnmUDUY) )
     - [Ondalık Sayıları Çarpma
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-multiplying-decimals) (1 Article, 3 Exercises, 4 Videos | [19m 51s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+%C3%87arpma%0A&video_ids=NP_UjC5mSXc%2CmiUNXdxHHOc%2CH2-3-nXf8Xc%2CzT0LeLKxmSE) )
     - [Ondalık Sayıları Bölme
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-decimals/pre-algebra-dividing-decimals) (1 Article, 5 Exercises, 1 Quiz, 1 Test, 8 Videos | [43m 13s](https://www.youtube.com/watch_videos?title=Ondal%C4%B1k+Say%C4%B1lar%C4%B1+B%C3%B6lme%0A&video_ids=YZraZYf__08%2Ck9MsYSD9XUA%2CSz3qr_xa2Tw%2C3yYBv9Lyy9Q%2Cf-EkIZrOPEE%2CljKQLt_NpxE%2CjvT-PrXw0LQ%2CnzUnTpYTivg) )
-  - [Negatif Sayılar ve Koordinat Düzlemi ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers) (9 Topics)
+  - [Negatif Sayılar](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers) (9 Topics)
     - [Negatif Tam Sayılar
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-neg-num-intro) (1 Article, 2 Exercises, 1 Video | [9m 36s](https://www.youtube.com/watch_videos?title=Negatif+Tam+Say%C4%B1lar%0A&video_ids=9Bp0xLEDNSw) )
     - [Negatif Sayıları Sıralama
@@ -315,29 +285,25 @@
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-negatives-intros) (1 Article, 1 Exercise, 2 Videos | [11m 13s](https://www.youtube.com/watch_videos?title=Negatif+Tam+Say%C4%B1larda+Toplama+%C4%B0%C5%9Flemi%0A%0A%0A&video_ids=abtpr3pAurs%2CP6OYyCHmHlk) )
     - [Negatif Tam Sayılarda Çıkarma İşlemi
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-sub-neg-intro) (1 Article, 2 Exercises, 2 Videos | [5m 40s](https://www.youtube.com/watch_videos?title=Negatif+Tam+Say%C4%B1larda+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi%0A&video_ids=XbgtnaQbR6Q%2Cu3p-USMll2Q) )
-    - [Negatif Sayılarla Toplama ve Çıkarma İşlemi
-](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-and-sub-integersss) (1 Exercise, 1 Quiz, 1 Video | [5m 32s](https://www.youtube.com/watch_videos?title=Negatif+Say%C4%B1larla+Toplama+ve+%C3%87%C4%B1karma+%C4%B0%C5%9Flemi%0A&video_ids=P6OYyCHmHlk) )
-    - [Negatif Tam Sayılarda Çarpma ve Bölme İşlemi
-
-](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-mult-divide-negatives) (2 Articles, 3 Exercises, 1 Quiz, 4 Videos | [22m 27s](https://www.youtube.com/watch_videos?title=Negatif+Tam+Say%C4%B1larda+%C3%87arpma+ve+B%C3%B6lme+%C4%B0%C5%9Flemi%0A%0A&video_ids=diI35yTH5PI%2CiSaXHM9F2ok%2CCISJp1Tc_xA%2CuAkhbg8BpB4) )
+    - [Tamsayılarla Toplama ve Çıkarma](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-add-and-sub-integersss) (1 Exercise, 1 Quiz, 1 Video | [5m 32s](https://www.youtube.com/watch_videos?title=Tamsay%C4%B1larla+Toplama+ve+%C3%87%C4%B1karma&video_ids=P6OYyCHmHlk) )
+    - [Negatif Sayılarla Çarpma ve Bölme](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-mult-divide-negatives) (2 Articles, 3 Exercises, 1 Quiz, 4 Videos | [22m 27s](https://www.youtube.com/watch_videos?title=Negatif+Say%C4%B1larla+%C3%87arpma+ve+B%C3%B6lme&video_ids=diI35yTH5PI%2CiSaXHM9F2ok%2CCISJp1Tc_xA%2CuAkhbg8BpB4) )
     - [Koordinat Düzlemi
 
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-negative-numbers/pre-algebra-coordinate-plane) (3 Articles, 10 Exercises, 1 Quiz, 1 Test, 10 Videos | [34m 23s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzlemi%0A%0A&video_ids=OPm2q4gYQAY%2CIgQmE6oIFt0%2CHt8KZz6spF0%2CKSzDm-awHLU%2CqUhgCrCPf3s%2CUutMLPUkFDs%2CnSMcoD670cg%2CoWIe2frMasg%2CBNF8C6JQoq4%2Cgf44svMdCcQ) )
   - [Oran - Orantı](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates) (11 Topics)
-    - [Oranlar 1](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratios-intro) (1 Article, 6 Exercises, 7 Videos | [29m 46s](https://www.youtube.com/watch_videos?title=Oranlar+1&video_ids=mirzY-Rl7uA%2ClBwQoo9ROpw%2CsSoQ8mtHO44%2CGFHz5-3ZXqI%2Ct6O6_af7fEk%2ClNJyrCK1DNw%2C0z_pavnDa5g) )
+    - [Orana giriş](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratios-intro) (1 Article, 6 Exercises, 7 Videos | [29m 46s](https://www.youtube.com/watch_videos?title=Orana+giri%C5%9F&video_ids=mirzY-Rl7uA%2ClBwQoo9ROpw%2CsSoQ8mtHO44%2CGFHz5-3ZXqI%2Ct6O6_af7fEk%2ClNJyrCK1DNw%2C0z_pavnDa5g) )
     - [Oranların Görselleştirilmesi](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-visualize-ratios) (1 Article, 5 Exercises, 3 Videos | [15m 28s](https://www.youtube.com/watch_videos?title=Oranlar%C4%B1n+G%C3%B6rselle%C5%9Ftirilmesi&video_ids=ELkxMImAxsU%2Coi_1GL3svE4%2Cf-EuxFJWq0E) )
     - [Oran Problemleri
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-ratio-word-problems) (1 Exercise, 2 Videos | [3m 16s](https://www.youtube.com/watch_videos?title=Oran+Problemleri%0A&video_ids=OLYQB7FbLNs%2CvuVC5H0msqE) )
-    - [Oranlar 2](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-rates) (1 Article, 4 Exercises, 1 Quiz, 7 Videos | [42m 55s](https://www.youtube.com/watch_videos?title=Oranlar+2&video_ids=JK5Q8KxJCKY%2C-i3VS4FBgqc%2C9qjdX5UfWpA%2C1PvTJTToflk%2COw5HROXF6B8%2C1cEptvQ9o3w%2CaTjNDKlz8G4) )
+    - [Oranlara giriş](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-rates) (1 Article, 4 Exercises, 1 Quiz, 7 Videos | [42m 55s](https://www.youtube.com/watch_videos?title=Oranlara+giri%C5%9F&video_ids=JK5Q8KxJCKY%2C-i3VS4FBgqc%2C9qjdX5UfWpA%2C1PvTJTToflk%2COw5HROXF6B8%2C1cEptvQ9o3w%2CaTjNDKlz8G4) )
     - [Yüzde Hesaplamaları
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-intro-percents) (3 Exercises, 4 Videos | [13m 18s](https://www.youtube.com/watch_videos?title=Y%C3%BCzde+Hesaplamalar%C4%B1%0A&video_ids=VkbleD1UUfQ%2CPKOlCZ8RSgc%2Cs2eshW7gDX0%2CvHMq23KbX5k) )
-    - [Yüzde, Kesir, Ondalık Sayı Dönüşümleri
-](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions) (5 Articles, 4 Exercises, 1 Quiz, 6 Videos | [19m 54s](https://www.youtube.com/watch_videos?title=Y%C3%BCzde%2C+Kesir%2C+Ondal%C4%B1k+Say%C4%B1+D%C3%B6n%C3%BC%C5%9F%C3%BCmleri%0A&video_ids=TvHmYbJ9dSs%2C_oh38tv0hRs%2CHQ3nHUbcrVg%2CCc4d17JCThM%2CskRNW9hIdKc%2C8FfFAl2X85M) )
+    - [Yüzde-ondalık sayı dönüşümleri](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-decimal-conversions) (5 Articles, 4 Exercises, 1 Quiz, 6 Videos | [19m 54s](https://www.youtube.com/watch_videos?title=Y%C3%BCzde-ondal%C4%B1k+say%C4%B1+d%C3%B6n%C3%BC%C5%9F%C3%BCmleri&video_ids=TvHmYbJ9dSs%2C_oh38tv0hRs%2CHQ3nHUbcrVg%2CCc4d17JCThM%2CskRNW9hIdKc%2C8FfFAl2X85M) )
     - [Yüzde Problemleri
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems) (2 Exercises, 3 Videos | [8m 12s](https://www.youtube.com/watch_videos?title=Y%C3%BCzde+Problemleri%0A&video_ids=OsC7O72jQyI%2CS8rw_ZnmVIA%2CuA7SsbM0Yzk) )
     - [Yüzde Hesaplama Problemleri
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-word-problems) (6 Exercises, 1 Quiz, 12 Videos | [1h 38s](https://www.youtube.com/watch_videos?title=Y%C3%BCzde+Hesaplama+Problemleri%0A&video_ids=lLbFibJt7nE%2CfNORFybnJBo%2CQb_hbctnjxQ%2CZ2lByEB_Xyc%2C5I7Jfv-kve8%2C5w5Wnc93B0o%2CHQJw1cYo2cc%2CyH1v6--9gZw%2Cj_CDBiMJ2qc%2C2QsO75SOLcM%2CDZdqIbIMfBY%2CX-llahHbyM0) )
-    - [Orantı Sabiti](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-constant-of-proportionality) (6 Exercises, 1 Quiz, 5 Videos | [14m 35s](https://www.youtube.com/watch_videos?title=Orant%C4%B1+Sabiti&video_ids=LMNnqVWxWOE%2CVbuKVQI6xTY%2COT0-DhOZSrs%2CA-YtX0b4JMo%2CzGtVaHobGsE) )
+    - [Orantı sabiti](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-constant-of-proportionality) (6 Exercises, 1 Quiz, 5 Videos | [14m 35s](https://www.youtube.com/watch_videos?title=Orant%C4%B1+sabiti&video_ids=LMNnqVWxWOE%2CVbuKVQI6xTY%2COT0-DhOZSrs%2CA-YtX0b4JMo%2CzGtVaHobGsE) )
     - [Orantılı İlişkileri Tanımlama
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-proportional-rel) (2 Exercises, 5 Videos | [13m 39s](https://www.youtube.com/watch_videos?title=Orant%C4%B1l%C4%B1+%C4%B0li%C5%9Fkileri+Tan%C4%B1mlama%0A&video_ids=MohLX0ozEy0%2Cxa2EyRepmMU%2Cinbl2o0yeyE%2CgW9EhFae57E%2CiA61qCAoKVA) )
     - [Orantıların Yazılması ve Çözümü
@@ -360,8 +326,8 @@
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-alg-expression-word-problems) (1 Article, 2 Exercises, 1 Quiz, 2 Videos | [7m 51s](https://www.youtube.com/watch_videos?title=Temel+Cebirsel+%C4%B0fadelerle+%C4%B0lgili+Problemler%0A&video_ids=PxSmyCJUSoc%2CxBZaqXZgtbU) )
     - [Cebirsel Denklemler Hakkında Temel Bilgiler
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-intro-equations) (1 Article, 2 Exercises, 2 Videos | [10m 40s](https://www.youtube.com/watch_videos?title=Cebirsel+Denklemler+Hakk%C4%B1nda+Temel+Bilgiler%0A&video_ids=0ifzI5NHrVE%2CwzKxB71UVf8) )
-    - [Tek Adımlı Denklemlerin Mantığı
-](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-solving-equations) (3 Exercises, 4 Videos | [13m 49s](https://www.youtube.com/watch_videos?title=Tek+Ad%C4%B1ml%C4%B1+Denklemlerin+Mant%C4%B1%C4%9F%C4%B1%0A&video_ids=DCNGK-z6W94%2Cib3TRBxKvhY%2CjZDAFWfSAhY%2CljXwXcwlDew) )
+    - [Neden Eşitliğin İki Tarafına da Aynı İşlemleri Yaparız?
+](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-solving-equations) (3 Exercises, 4 Videos | [13m 49s](https://www.youtube.com/watch_videos?title=Neden+E%C5%9Fitli%C4%9Fin+%C4%B0ki+Taraf%C4%B1na+da+Ayn%C4%B1+%C4%B0%C5%9Flemleri+Yapar%C4%B1z%3F%0A&video_ids=DCNGK-z6W94%2Cib3TRBxKvhY%2CjZDAFWfSAhY%2CljXwXcwlDew) )
     - [Tek Adımlı Toplama ve Çıkarma Denklemleri
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss) (1 Article, 2 Exercises, 3 Videos | [8m 35s](https://www.youtube.com/watch_videos?title=Tek+Ad%C4%B1ml%C4%B1+Toplama+ve+%C3%87%C4%B1karma+Denklemleri%0A&video_ids=5xGKKA6Pdt0%2C3br4FVTMApI%2Cu0K8jZYii8E) )
     - [Tek Adımlı Çarpma ve Bölme Denklemleri
@@ -377,8 +343,7 @@
     - [Üslü Sayılar
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-exponents) (3 Articles, 3 Exercises, 1 Quiz, 8 Videos | [31m 39s](https://www.youtube.com/watch_videos?title=%C3%9Csl%C3%BC+Say%C4%B1lar%0A&video_ids=Cf6Hiz3axCQ%2ClA2t14PFAsg%2Cce4m_KFjtvQ%2Co557-KhcquI%2Clo-cHaFNrvI%2CFyOzHDV7o54%2CCFXPMEAw7ss%2CZQnLglM3RRs) )
     - [Karekökler](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-square-roots) (2 Articles, 3 Exercises, 4 Videos | [17m 6s](https://www.youtube.com/watch_videos?title=Karek%C3%B6kler&video_ids=jmpQQmR6dmc%2CR7ttO0riKt4%2CW95cwnUOtcI%2C3dHiyfykcdI) )
-    - [Küpkökler
-](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-cube-root) (1 Article, 1 Exercise, 1 Quiz, 4 Videos | [19m 47s](https://www.youtube.com/watch_videos?title=K%C3%BCpk%C3%B6kler%0A&video_ids=fiGQXRsB-K8%2CyewgiK71YJs%2Cxy4jemputxM%2C2l6TLbPXK2o) )
+    - [Küp kökler ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-cube-root) (1 Article, 1 Exercise, 1 Quiz, 4 Videos | [19m 47s](https://www.youtube.com/watch_videos?title=K%C3%BCp+k%C3%B6kler+&video_ids=fiGQXRsB-K8%2CyewgiK71YJs%2Cxy4jemputxM%2C2l6TLbPXK2o) )
     - [Üslü Sayıların Özellikleri
 ](https://tr.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-exponent-properties) (1 Article, 5 Exercises, 1 Quiz, 3 Videos | [29m 20s](https://www.youtube.com/watch_videos?title=%C3%9Csl%C3%BC+Say%C4%B1lar%C4%B1n+%C3%96zellikleri%0A&video_ids=i4iDETMEh84%2CwRm6qHD_Opw%2C0P4ZAJI08wY) )
     - [Negatif Kuvvetler
@@ -418,12 +383,12 @@
     - [Kesirli Cebirsel İfadelerde Çarpma ve Bölme
 ](https://tr.khanacademy.org/math/algebra-basics/alg-basics-algebraic-expressions/alg-basics-nested-fractions) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [5m 46s](https://www.youtube.com/watch_videos?title=Kesirli+Cebirsel+%C4%B0fadelerde+%C3%87arpma+ve+B%C3%B6lme%0A&video_ids=7DoMYOpnQCw) )
   - [Doğrusal Denklemler ve Eşitsizlikler](https://tr.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities) (7 Topics)
-    - [Tek Adımlı Denklemler
-](https://tr.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-add-sub-equations) (2 Articles, 2 Exercises, 4 Videos | [17m 32s](https://www.youtube.com/watch_videos?title=Tek+Ad%C4%B1ml%C4%B1+Denklemler%0A&video_ids=5xGKKA6Pdt0%2C3br4FVTMApI%2CfSDwrypyLpM%2CUzL3crzwOE0) )
+    - [Tek Adımlı Toplama ve Çıkarma Denklemleri
+](https://tr.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-add-sub-equations) (2 Articles, 2 Exercises, 4 Videos | [17m 32s](https://www.youtube.com/watch_videos?title=Tek+Ad%C4%B1ml%C4%B1+Toplama+ve+%C3%87%C4%B1karma+Denklemleri%0A&video_ids=5xGKKA6Pdt0%2C3br4FVTMApI%2CfSDwrypyLpM%2CUzL3crzwOE0) )
     - [İki Adımlı Denklemler
 ](https://tr.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-steps-equations-intro) (2 Exercises, 6 Videos | [29m 44s](https://www.youtube.com/watch_videos?title=%C4%B0ki+Ad%C4%B1ml%C4%B1+Denklemler%0A&video_ids=iFy941imsww%2C68-ImDlNLUI%2CJoRCVPne31o%2CyJ6fZuZS4aM%2CKpnFYpMO1_Q%2CWkW8IBprxdQ) )
-    - [Çok Adımlı Denklemler
-](https://tr.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-variables-on-both-sides) (2 Exercises, 1 Quiz, 4 Videos | [26m 39s](https://www.youtube.com/watch_videos?title=%C3%87ok+Ad%C4%B1ml%C4%B1+Denklemler%0A&video_ids=xlZeptSrUws%2CO7NpfX0KWK0%2C1gb-vyTwOSA%2CDBUq7qMS-98) )
+    - [İki Tarafı da Değişken İçeren Doğrusal Denklemler
+](https://tr.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-variables-on-both-sides) (2 Exercises, 1 Quiz, 4 Videos | [26m 39s](https://www.youtube.com/watch_videos?title=%C4%B0ki+Taraf%C4%B1+da+De%C4%9Fi%C5%9Fken+%C4%B0%C3%A7eren+Do%C4%9Frusal+Denklemler%0A&video_ids=xlZeptSrUws%2CO7NpfX0KWK0%2C1gb-vyTwOSA%2CDBUq7qMS-98) )
     - [Tek Adımlı Eşitsizlikler
 ](https://tr.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-inequalities) (1 Article, 1 Exercise, 3 Videos | [15m 30s](https://www.youtube.com/watch_videos?title=Tek+Ad%C4%B1ml%C4%B1+E%C5%9Fitsizlikler%0A&video_ids=UQ1YjzsjMOs%2CHOv_uSTHyrs%2C0dTLPaNoI18) )
     - [İki Adımlı Eşitsizlikler
@@ -461,11 +426,9 @@
 ](https://tr.khanacademy.org/math/algebra-basics/alg-basics-systems-of-equations/alg-basics-solving-systems-with-substitution) (1 Article, 1 Exercise, 1 Quiz, 2 Videos | [9m 42s](https://www.youtube.com/watch_videos?title=Denklem+Sistemlerinde+Yerine+Koyma+Y%C3%B6ntemi%0A&video_ids=gZG8FTaw8CU%2C96DEDdt-RLQ) )
     - [Denklem Sistemlerinde Çözüm Sayısı
 ](https://tr.khanacademy.org/math/algebra-basics/alg-basics-systems-of-equations/alg-basics-systems-number-of-solutions) (1 Article, 2 Exercises, 8 Videos | [45m 27s](https://www.youtube.com/watch_videos?title=Denklem+Sistemlerinde+%C3%87%C3%B6z%C3%BCm+Say%C4%B1s%C4%B1%0A&video_ids=Ph0cxPsjaMU%2CCxK5zeLzyEs%2CYmjf0655vDA%2CF4GruEEmWRA%2CZclnle6KGwU%2CZlW1DTIT5ts%2CF_Cgamm5ueY%2C3mmgTjvUqSU) )
-    - [Doğrusal Denklem Sistemlerini Çözme](https://tr.khanacademy.org/math/algebra-basics/alg-basics-systems-of-equations/alg-basics-solving-any-system) (1 Exercise, 1 Quiz, 1 Test)
   - [Üslü İfadeler
 ](https://tr.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents) (5 Topics)
-    - [Üslü Sayıların Özellikleri
-](https://tr.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents/alg-basics-exponent-properties-intro) (1 Article, 5 Exercises, 1 Quiz, 3 Videos | [29m 20s](https://www.youtube.com/watch_videos?title=%C3%9Csl%C3%BC+Say%C4%B1lar%C4%B1n+%C3%96zellikleri%0A&video_ids=i4iDETMEh84%2CwRm6qHD_Opw%2C0P4ZAJI08wY) )
+    - [Üslerin özelliklerine giriş](https://tr.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents/alg-basics-exponent-properties-intro) (1 Article, 5 Exercises, 1 Quiz, 3 Videos | [29m 20s](https://www.youtube.com/watch_videos?title=%C3%9Cslerin+%C3%B6zelliklerine+giri%C5%9F&video_ids=i4iDETMEh84%2CwRm6qHD_Opw%2C0P4ZAJI08wY) )
     - [Negatif Kuvvetler
 ](https://tr.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents/alg-basics-pos-neg-exponents) (1 Article, 1 Exercise, 2 Videos | [11m 52s](https://www.youtube.com/watch_videos?title=Negatif+Kuvvetler%0A&video_ids=WD81rsyg0qs%2C5VxYw2XCDak) )
     - [Üslerin Özellikleri (Tam Sayı Üsler)](https://tr.khanacademy.org/math/algebra-basics/alg-basics-expressions-with-exponents/alg-basics-exponent-properties) (3 Exercises, 1 Quiz, 3 Videos | [15m 23s](https://www.youtube.com/watch_videos?title=%C3%9Cslerin+%C3%96zellikleri+%28Tam+Say%C4%B1+%C3%9Csler%29&video_ids=WeE299EemnM%2CfQe5zJgXQIM%2Clo-cHaFNrvI) )
@@ -527,7 +490,8 @@
 ](https://tr.khanacademy.org/math/algebra/introduction-to-algebra/alg1-interpreting-lin-exp) (1 Exercise, 2 Videos | [3m 54s](https://www.youtube.com/watch_videos?title=Do%C4%9Frusal+%C4%B0fadeleri+Yorumlama%0A&video_ids=oCyc9LQIPdc%2CpTZ-uu-NAhY) )
     - [Bir Sayının Sıfıra Bölümü
 ](https://tr.khanacademy.org/math/algebra/introduction-to-algebra/division-by-zero) (1 Quiz, 1 Test, 3 Videos | [14m 6s](https://www.youtube.com/watch_videos?title=Bir+Say%C4%B1n%C4%B1n+S%C4%B1f%C4%B1ra+B%C3%B6l%C3%BCm%C3%BC%0A&video_ids=KvCbRkAD-_w%2CnHxI_0Yt29Q%2CSfcMIANRm98) )
-  - [Denklem Çözme](https://tr.khanacademy.org/math/algebra/one-variable-linear-equations) (11 Topics)
+  - [Tek Değişkenli Doğrusal Denklemler
+](https://tr.khanacademy.org/math/algebra/one-variable-linear-equations) (11 Topics)
     - [Cebirsel Denklemler Hakkında Temel Bilgiler
 ](https://tr.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-intro-equations) (1 Article, 1 Exercise, 2 Videos | [10m 40s](https://www.youtube.com/watch_videos?title=Cebirsel+Denklemler+Hakk%C4%B1nda+Temel+Bilgiler%0A&video_ids=0ifzI5NHrVE%2CwzKxB71UVf8) )
     - [Neden Eşitliğin İki Tarafına da Aynı İşlemleri Yaparız?
@@ -548,8 +512,7 @@
 ](https://tr.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-number-of-solutions-to-linear-equations) (2 Exercises, 4 Videos | [10m 26s](https://www.youtube.com/watch_videos?title=Do%C4%9Frusal+Denklemlerin+%C3%87%C3%B6z%C3%BCm+Say%C4%B1lar%C4%B1%0A&video_ids=5mhzcwkeHnU%2CIi040zYbikI%2CVmaLxAEpf2I%2CgfHdaapniaY) )
     - [Doğrusal Denklem Problemleri
 ](https://tr.khanacademy.org/math/algebra/one-variable-linear-equations/alg1-linear-equations-word-problems) (1 Exercise, 4 Videos | [20m 42s](https://www.youtube.com/watch_videos?title=Do%C4%9Frusal+Denklem+Problemleri%0A&video_ids=ZUXdTfjFzjI%2C47Wrq2paRi8%2CiUg7DY56yRY%2CKCobu-Mq-ik) )
-    - [Bilinmeyen Katsayılı Doğrusal Denklemler
-](https://tr.khanacademy.org/math/algebra/one-variable-linear-equations/linear-equations-with-unknown-coefficients) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [5m 35s](https://www.youtube.com/watch_videos?title=Bilinmeyen+Katsay%C4%B1l%C4%B1+Do%C4%9Frusal+Denklemler%0A&video_ids=fMocan5Q6fo) )
+    - [Bir değişkenin değerini bulma](https://tr.khanacademy.org/math/algebra/one-variable-linear-equations/linear-equations-with-unknown-coefficients) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [5m 35s](https://www.youtube.com/watch_videos?title=Bir+de%C4%9Fi%C5%9Fkenin+de%C4%9Ferini+bulma&video_ids=fMocan5Q6fo) )
   - [Eşitsizlikleri çözme](https://tr.khanacademy.org/math/algebra/one-variable-linear-inequalities) (5 Topics)
     - [Değişkenli Eşitsizlikler
 ](https://tr.khanacademy.org/math/algebra/one-variable-linear-inequalities/alg1-inequalities) (3 Exercises, 4 Videos | [15m 52s](https://www.youtube.com/watch_videos?title=De%C4%9Fi%C5%9Fkenli+E%C5%9Fitsizlikler%0A&video_ids=rFPaSHQshXY%2Cv_yQh8X_4Cs%2C6j2qa4X4eKw%2CZmyAjAF_DA0) )
@@ -561,13 +524,13 @@
 ](https://tr.khanacademy.org/math/algebra/one-variable-linear-inequalities/multi-step-inequalities) (1 Exercise, 3 Videos | [17m 27s](https://www.youtube.com/watch_videos?title=%C3%87ok+Ad%C4%B1ml%C4%B1+E%C5%9Fitsizlikler%0A&video_ids=8WpygWEWYQo%2CoNrp4UUhMZM%2CE3gnJU_Tqoo) )
     - [Bileşik Eşitsizlikler
 ](https://tr.khanacademy.org/math/algebra/one-variable-linear-inequalities/compound-inequalities) (1 Article, 1 Exercise, 1 Quiz, 1 Test, 5 Videos | [28m 38s](https://www.youtube.com/watch_videos?title=Bile%C5%9Fik+E%C5%9Fitsizlikler%0A&video_ids=2opLTI07X-E%2CmIoNVufZEQQ%2CZhPi_vMN2sY%2Cqa_xeP7jOII%2CjLWUX03tlSk) )
-  - [Birimlerle çalışma](https://tr.khanacademy.org/math/algebra/units-in-modeling) (3 Topics)
+  - [Birimlerle çalışma | Cebir 1 | Khan Academy](https://tr.khanacademy.org/math/algebra/units-in-modeling) (3 Topics)
     - [Oran Dönüşümü](https://tr.khanacademy.org/math/algebra/units-in-modeling/rate-conversion) (1 Exercise, 2 Videos | [16m 24s](https://www.youtube.com/watch_videos?title=Oran+D%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC&video_ids=sB5CP9TyL9E%2C3ulTvJM1sUo) )
     - [Uygun Birimi Belirleme
 ](https://tr.khanacademy.org/math/algebra/units-in-modeling/appropriate-units) (2 Exercises, 3 Videos | [10m 49s](https://www.youtube.com/watch_videos?title=Uygun+Birimi+Belirleme%0A&video_ids=e3fv7x-YT7g%2C8iziM8L0_2I%2C1WHJunrM8k4) )
     - [Farklı Birimler İçeren Problemler
 ](https://tr.khanacademy.org/math/algebra/units-in-modeling/word-problems-with-multiple-units) (2 Exercises, 1 Test, 4 Videos | [26m 48s](https://www.youtube.com/watch_videos?title=Farkl%C4%B1+Birimler+%C4%B0%C3%A7eren+Problemler%0A&video_ids=JtgYH1TEsjA%2C_7eM9lGihc0%2C153IANpVI-k%2CScvuRb6vsz4) )
-  - [Doğrusal denklemler & grafikler](https://tr.khanacademy.org/math/algebra/two-var-linear-equations) (10 Topics)
+  - [İki Değişkenli Doğrusal Denklemler](https://tr.khanacademy.org/math/algebra/two-var-linear-equations) (10 Topics)
     - [İki Değişkenli Doğrusal Denklemler ve Grafikleri
 ](https://tr.khanacademy.org/math/algebra/two-var-linear-equations/solutions-to-two-var-linear-equations) (2 Exercises, 4 Videos | [20m 33s](https://www.youtube.com/watch_videos?title=%C4%B0ki+De%C4%9Fi%C5%9Fkenli+Do%C4%9Frusal+Denklemler+ve+Grafikleri%0A&video_ids=qAByICH7UPg%2CeBUIzuKMg6g%2CXn4BMQT7liw%2Cv-oz0bQwl74) )
     - [X ve Y Kesim Noktaları
@@ -586,7 +549,7 @@
 ](https://tr.khanacademy.org/math/algebra/two-var-linear-equations/standard-form) (1 Article, 2 Exercises, 3 Videos | [17m 45s](https://www.youtube.com/watch_videos?title=Standart+Form%0A&video_ids=xKuPVTGVMfM%2Czbp2wTh0L2Q%2CiagA2G3KLwE) )
     - [Özet: İki Değişkenli Doğrusal Denklem Formları
 ](https://tr.khanacademy.org/math/algebra/two-var-linear-equations/forms-of-two-var-linear-equations) (1 Article, 2 Exercises, 1 Quiz, 1 Test, 2 Videos | [14m 15s](https://www.youtube.com/watch_videos?title=%C3%96zet%3A+%C4%B0ki+De%C4%9Fi%C5%9Fkenli+Do%C4%9Frusal+Denklem+Formlar%C4%B1%0A&video_ids=hndeS8KGPBw%2CYU_313SCQu0) )
-  - [Fonksiyonlar](https://tr.khanacademy.org/math/algebra/algebra-functions) (12 Topics)
+  - [Fonksiyonlar | Cebir 1 | Khan Academy](https://tr.khanacademy.org/math/algebra/algebra-functions) (12 Topics)
     - [Fonksiyonların Değerini Bulma
 ](https://tr.khanacademy.org/math/algebra/algebra-functions/evaluating-functions) (3 Exercises, 4 Videos | [11m 3s](https://www.youtube.com/watch_videos?title=Fonksiyonlar%C4%B1n+De%C4%9Ferini+Bulma%0A&video_ids=ciYDFcHtswI%2CqFbB75yF4Ko%2C4iKRnL0Tztw%2CD17Y41wV7jg) )
     - [Bir Fonksiyonun Girdileri ve Çıktıları
@@ -623,17 +586,15 @@
   - [Diziler](https://tr.khanacademy.org/math/algebra/sequences) (6 Topics)
     - [Aritmetik Diziler
 ](https://tr.khanacademy.org/math/algebra/sequences/introduction-to-arithmetic-squences) (2 Articles, 2 Exercises, 5 Videos | [23m 2s](https://www.youtube.com/watch_videos?title=Aritmetik+Diziler%0A&video_ids=bq4abnKl8bY%2CbjTUquVCs_8%2Ca3vrjQ6Oi-s%2CTV3WGcNvdgM%2CLh5SGofTCms) )
-    - [Aritmetik Dizi Oluşturma
-](https://tr.khanacademy.org/math/algebra/sequences/constructing-arithmetic-sequences) (4 Articles, 3 Exercises, 1 Quiz, 4 Videos | [21m 28s](https://www.youtube.com/watch_videos?title=Aritmetik+Dizi+Olu%C5%9Fturma%0A&video_ids=zFmJldMZnls%2CtR0uIXit4DE%2Cd6yNZl8CsTI%2Cz5AqX4QPqG0) )
+    - [Aritmetik Diziler](https://tr.khanacademy.org/math/algebra/sequences/constructing-arithmetic-sequences) (4 Articles, 3 Exercises, 1 Quiz, 4 Videos | [21m 28s](https://www.youtube.com/watch_videos?title=Aritmetik+Diziler&video_ids=zFmJldMZnls%2CtR0uIXit4DE%2Cd6yNZl8CsTI%2Cz5AqX4QPqG0) )
     - [Geometrik Diziler
 ](https://tr.khanacademy.org/math/algebra/sequences/introduction-to-geometric-sequences) (3 Exercises, 4 Videos | [18m 22s](https://www.youtube.com/watch_videos?title=Geometrik+Diziler%0A&video_ids=G_76B4mjsnc%2CXJdiO1_kIuQ%2CKfj44P9QVYk%2CKWGyJ3_4C4E) )
-    - [Geometrik Dizi Oluşturma
-](https://tr.khanacademy.org/math/algebra/sequences/constructing-geometric-sequences) (1 Article, 3 Exercises, 1 Quiz, 2 Videos | [12m 8s](https://www.youtube.com/watch_videos?title=Geometrik+Dizi+Olu%C5%9Fturma%0A&video_ids=HrUe5YEcm-w%2Cuv2a5qBw07w) )
+    - [Geometrik Diziler
+](https://tr.khanacademy.org/math/algebra/sequences/constructing-geometric-sequences) (1 Article, 3 Exercises, 1 Quiz, 2 Videos | [12m 8s](https://www.youtube.com/watch_videos?title=Geometrik+Diziler%0A&video_ids=HrUe5YEcm-w%2Cuv2a5qBw07w) )
     - [Dizilerle Modelleme
 ](https://tr.khanacademy.org/math/algebra/sequences/modeling-with-sequences) (1 Exercise, 1 Video | [5m 43s](https://www.youtube.com/watch_videos?title=Dizilerle+Modelleme%0A&video_ids=L3wo8ySTjJs) )
     - [Tekrarlamalı Formdaki Diziler](https://tr.khanacademy.org/math/algebra/sequences/general-sequences) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [9m 7s](https://www.youtube.com/watch_videos?title=Tekrarlamal%C4%B1+Formdaki+Diziler&video_ids=m5RecRLbTBs) )
-  - [Denklem Sistemleri
-](https://tr.khanacademy.org/math/algebra/systems-of-linear-equations) (7 Topics)
+  - [Denklem sistemleri| Cebir 1 | Khan Academy](https://tr.khanacademy.org/math/algebra/systems-of-linear-equations) (7 Topics)
     - [Denklem Sistemleri
 ](https://tr.khanacademy.org/math/algebra/systems-of-linear-equations/introduction-to-systems-of-linear-equations) (2 Exercises, 1 Quiz, 5 Videos | [23m 28s](https://www.youtube.com/watch_videos?title=Denklem+Sistemleri%0A&video_ids=qFCeH7UjAcU%2CIjCWEHpki3o%2CuLSALRHrntI%2CjRpkEL4W_Ow%2Cx2D1MiUD128) )
     - [Eşdeğer Denklem Sistemleri ve Yok Etme Yöntemi
@@ -644,12 +605,10 @@
 ](https://tr.khanacademy.org/math/algebra/systems-of-linear-equations/manipulating-expressions-with-unknown-variables) (1 Exercise, 1 Quiz, 2 Videos | [4m 16s](https://www.youtube.com/watch_videos?title=Bilinmeyen+De%C4%9Fi%C5%9Fkenler+%C4%B0%C3%A7eren+%C4%B0fadeleri+Sadele%C5%9Ftirme%0A&video_ids=qXXFeqgmg3Y%2CPHaM68tZJ40) )
     - [Denklem Sistemlerinde Çözüm Sayısı
 ](https://tr.khanacademy.org/math/algebra/systems-of-linear-equations/possible-number-of-solutions-of-systems-of-linear-equations) (1 Article, 2 Exercises, 8 Videos | [45m 27s](https://www.youtube.com/watch_videos?title=Denklem+Sistemlerinde+%C3%87%C3%B6z%C3%BCm+Say%C4%B1s%C4%B1%0A&video_ids=Ph0cxPsjaMU%2CCxK5zeLzyEs%2CYmjf0655vDA%2CF4GruEEmWRA%2CZclnle6KGwU%2CZlW1DTIT5ts%2CF_Cgamm5ueY%2C3mmgTjvUqSU) )
-    - [Doğrusal Denklem Sistemlerini Çözme](https://tr.khanacademy.org/math/algebra/systems-of-linear-equations/solving-any-system-of-linear-equations) (1 Exercise)
     - [Doğrusal Denklem Sistemleri Problemleri
 ](https://tr.khanacademy.org/math/algebra/systems-of-linear-equations/systems-of-linear-equations-word-problems) (3 Exercises, 1 Quiz, 1 Test, 10 Videos | [53m 46s](https://www.youtube.com/watch_videos?title=Do%C4%9Frusal+Denklem+Sistemleri+Problemleri%0A&video_ids=tfZAXh7XSTE%2CHczSDb81YOI%2CSQpQEUL5aNI%2Cj5UjZ0fGUiI%2CYJ0xd8DzyM4%2CDxGr6yGj3DE%2C4vnxH1unk1I%2CRrN1gxcNErI%2CmRNQpM7CQ9M%2CJ9-FnXvxVpc) )
   - [Eşitsizlikler (sistemler & grafikler)](https://tr.khanacademy.org/math/algebra/two-variable-linear-inequalities) (3 Topics)
-    - [İki Değişkenli Eşitsizliklerin Sağlamasını Yapma
-](https://tr.khanacademy.org/math/algebra/two-variable-linear-inequalities/checking-solutions-of-inequalities) (3 Exercises, 1 Quiz, 2 Videos | [7m 21s](https://www.youtube.com/watch_videos?title=%C4%B0ki+De%C4%9Fi%C5%9Fkenli+E%C5%9Fitsizliklerin+Sa%C4%9Flamas%C4%B1n%C4%B1+Yapma%0A&video_ids=UUj5LHOMP0g%2CsrItr-rNrEY) )
+    - [Eşitsizliklerin çözümlerini kontrol etme](https://tr.khanacademy.org/math/algebra/two-variable-linear-inequalities/checking-solutions-of-inequalities) (3 Exercises, 1 Quiz, 2 Videos | [7m 21s](https://www.youtube.com/watch_videos?title=E%C5%9Fitsizliklerin+%C3%A7%C3%B6z%C3%BCmlerini+kontrol+etme&video_ids=UUj5LHOMP0g%2CsrItr-rNrEY) )
     - [İki Değişkenli Eşitsizliklerin Grafiğini Çizme
 ](https://tr.khanacademy.org/math/algebra/two-variable-linear-inequalities/graphing-inequalities) (1 Article, 3 Exercises, 1 Quiz, 5 Videos | [23m 26s](https://www.youtube.com/watch_videos?title=%C4%B0ki+De%C4%9Fi%C5%9Fkenli+E%C5%9Fitsizliklerin+Grafi%C4%9Fini+%C3%87izme%0A&video_ids=Bp7yzswHww8%2C7SH4X3qV5zY%2C2QEU8ipbcsM%2CBo0tYpBo1pY%2CiEnFIESEwv8) )
     - [Doğrusal Eşitsizliklerle Modelleme
@@ -670,7 +629,7 @@
 ](https://tr.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-square-roots) (1 Article, 3 Exercises, 3 Videos | [15m 55s](https://www.youtube.com/watch_videos?title=Karek%C3%B6kleri+Sadele%C5%9Ftirme%0A&video_ids=3dHiyfykcdI%2C1w6awNoy5rk%2C3MijXB91DVo) )
     - [Köklü İfadeleri Sadeleştirme
 ](https://tr.khanacademy.org/math/algebra/rational-exponents-and-radicals/alg1-simplify-higher-index-roots) (1 Quiz, 1 Test, 4 Videos | [17m 51s](https://www.youtube.com/watch_videos?title=K%C3%B6kl%C3%BC+%C4%B0fadeleri+Sadele%C5%9Ftirme%0A&video_ids=lAJnUbvs3nM%2CBGSGQ4E1Zdg%2CHHGK792HNRs%2CqPEZ9YDUStM) )
-  - [Üstel büyüme & küçülme](https://tr.khanacademy.org/math/algebra/introduction-to-exponential-functions) (6 Topics)
+  - [Üstel büyüme & küçülme | Cebir 1 | Khan Academy](https://tr.khanacademy.org/math/algebra/introduction-to-exponential-functions) (6 Topics)
     - [Üstel Büyüme ve Küçülme
 ](https://tr.khanacademy.org/math/algebra/introduction-to-exponential-functions/exponential-vs-linear-growth) (3 Exercises, 4 Videos | [17m 40s](https://www.youtube.com/watch_videos?title=%C3%9Cstel+B%C3%BCy%C3%BCme+ve+K%C3%BC%C3%A7%C3%BClme%0A&video_ids=5D_TYKI2TDc%2C4uZX1s-vNhA%2C8gnbw9oIq-M%2CrzRp8Q_DhMU) )
     - [Üstel İfadeler](https://tr.khanacademy.org/math/algebra/introduction-to-exponential-functions/exponential-expressions-alg1) (3 Exercises, 1 Quiz, 4 Videos | [16m 44s](https://www.youtube.com/watch_videos?title=%C3%9Cstel+%C4%B0fadeler&video_ids=OsWcXzAXm9o%2CYxK_nehxfL0%2CCs_iEvuzq3Q%2CSuFWbJ1BiFs) )
@@ -681,16 +640,14 @@
     - [Üstel Azalma](https://tr.khanacademy.org/math/algebra/introduction-to-exponential-functions/exponential-decay-alg1) (2 Exercises, 3 Videos | [19m 39s](https://www.youtube.com/watch_videos?title=%C3%9Cstel+Azalma&video_ids=5kURx-Elz24%2CbYJwMsP9JYY%2CdSEcnJLwziU) )
     - [Üstel Büyüme ve Küçülme
 ](https://tr.khanacademy.org/math/algebra/introduction-to-exponential-functions/exponential-functions-from-tables-and-graphs) (1 Exercise, 1 Quiz, 1 Test, 7 Videos | [37m 32s](https://www.youtube.com/watch_videos?title=%C3%9Cstel+B%C3%BCy%C3%BCme+ve+K%C3%BC%C3%A7%C3%BClme%0A&video_ids=U2Cdi21l8Io%2CYteZKZXMzf4%2CHS4CtId_Rpo%2Cg28lSy-YcyY%2CgZnZ6zAc_3U%2CDURMvFS_Iec%2CPDjvEnYB0YU) )
-  - [Polinomlar](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions) (9 Topics)
+  - [Polinomlar | Cebir 1 | Khan Academy](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions) (9 Topics)
     - [Polinomlar](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/introduction-to-polynomials) (1 Exercise, 4 Videos | [18m 10s](https://www.youtube.com/watch_videos?title=Polinomlar&video_ids=O8wk3tosFxM%2CIIr6i2v24wk%2CNX8nLwngCS8%2CLWSRu1K68VA) )
-    - [Polinomlarda Toplama ve Çıkarma
-](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials) (1 Article, 3 Exercises, 4 Videos | [9m 25s](https://www.youtube.com/watch_videos?title=Polinomlarda+Toplama+ve+%C3%87%C4%B1karma%0A&video_ids=hkvT_dGKPl4%2CN4w8sqT3bLk%2CWmaFKKV3kdQ%2CPK3qHY7djbw) )
+    - [Polinom işlemlerine giriş](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/adding-and-subtracting-polynomials) (1 Article, 3 Exercises, 4 Videos | [9m 25s](https://www.youtube.com/watch_videos?title=Polinom+i%C5%9Flemlerine+giri%C5%9F&video_ids=hkvT_dGKPl4%2CN4w8sqT3bLk%2CWmaFKKV3kdQ%2CPK3qHY7djbw) )
     - [Polinomlarda Toplama ve Çıkarma: İki Değişkenli Polinomlar
 ](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/add-subtract-poly-two-var) (1 Article, 3 Exercises, 1 Quiz, 5 Videos | [26m 50s](https://www.youtube.com/watch_videos?title=Polinomlarda+Toplama+ve+%C3%87%C4%B1karma%3A+%C4%B0ki+De%C4%9Fi%C5%9Fkenli+Polinomlar%0A&video_ids=108L7GO9BcA%2CEmD1SLpH5LI%2C8-E32K14lSw%2CYoTX3N4EV2M%2C1V5wYmIlp7E) )
     - [Tek Terimli İfadelerde Çarpma
 ](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-monomials) (1 Article, 2 Exercises, 4 Videos | [14m 52s](https://www.youtube.com/watch_videos?title=Tek+Terimli+%C4%B0fadelerde+%C3%87arpma%0A&video_ids=ElPqF77wqNo%2CZjzaWJ1gmMQ%2C_AC1RWLtQZQ%2Cr2xN47yQVzA) )
-    - [Tek Terimli İfadeleri Polinomlarla Çarpma
-](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials) (1 Article, 3 Exercises, 1 Quiz, 3 Videos | [8m 35s](https://www.youtube.com/watch_videos?title=Tek+Terimli+%C4%B0fadeleri+Polinomlarla+%C3%87arpma%0A&video_ids=5jJZfg3xxrM%2CdFX4okdLlKE%2CnaMpp1lnAWw) )
+    - [Bir tek terimliyi bir polinomla çarpma](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-polynomials-by-monomials) (1 Article, 3 Exercises, 1 Quiz, 3 Videos | [8m 35s](https://www.youtube.com/watch_videos?title=Bir+tek+terimliyi+bir+polinomla+%C3%A7arpma&video_ids=5jJZfg3xxrM%2CdFX4okdLlKE%2CnaMpp1lnAWw) )
     - [Binomlarda Çarpma](https://tr.khanacademy.org/math/algebra/introduction-to-polynomial-expressions/multiplying-binomials-2) (1 Article, 4 Exercises, 3 Videos | [14m 29s](https://www.youtube.com/watch_videos?title=Binomlarda+%C3%87arpma&video_ids=-cRUt7fDN-Q%2C6aZ6jChPzTM%2Co8vBhcZAIc0) )
     - [İki Terimli İfadeleri Polinomlarla Çarpma
 
@@ -741,15 +698,14 @@
 ](https://tr.khanacademy.org/math/algebra/quadratics/transforming-quadratic-functions) (2 Exercises, 1 Quiz, 1 Test, 3 Videos | [17m 28s](https://www.youtube.com/watch_videos?title=Parabollere+D%C3%B6n%C3%BC%C5%9F%C3%BCm+Uygulama%0A&video_ids=fVqjcQz-ZsU%2CyiVVy4NZ7NQ%2CsrQZ2g22yqY) )
   - [İrrasyonel Sayılar
 ](https://tr.khanacademy.org/math/algebra/rational-and-irrational-numbers) (3 Topics)
-    - [İrrasyonel Sayılar
-](https://tr.khanacademy.org/math/algebra/rational-and-irrational-numbers/alg-1-irrational-numbers) (1 Exercise, 2 Videos | [8m 13s](https://www.youtube.com/watch_videos?title=%C4%B0rrasyonel+Say%C4%B1lar%0A&video_ids=1V1rOWne2iM%2CzOFPUEu_L8k) )
-    - [Rasyonel ve İrrasyonel Sayıların Çarpımı ve Toplamı
-](https://tr.khanacademy.org/math/algebra/rational-and-irrational-numbers/sums-and-products-of-rational-and-irrational-numbers) (1 Exercise, 6 Videos | [24m 24s](https://www.youtube.com/watch_videos?title=Rasyonel+ve+%C4%B0rrasyonel+Say%C4%B1lar%C4%B1n+%C3%87arp%C4%B1m%C4%B1+ve+Toplam%C4%B1%0A&video_ids=KvHvdo1kLNk%2CYBQTObjHozY%2CnnZkGcUZYYQ%2C16-GZWi66CI%2CLnSQJGMuiBQ%2CCNT-ToZw7tM) )
+    - [Rasyonel ve İrrasyonel Sayılar
+](https://tr.khanacademy.org/math/algebra/rational-and-irrational-numbers/alg-1-irrational-numbers) (1 Exercise, 2 Videos | [8m 13s](https://www.youtube.com/watch_videos?title=Rasyonel+ve+%C4%B0rrasyonel+Say%C4%B1lar%0A&video_ids=1V1rOWne2iM%2CzOFPUEu_L8k) )
+    - [Rasyonel ve irrasyonel ifadeler](https://tr.khanacademy.org/math/algebra/rational-and-irrational-numbers/sums-and-products-of-rational-and-irrational-numbers) (1 Exercise, 6 Videos | [24m 24s](https://www.youtube.com/watch_videos?title=Rasyonel+ve+irrasyonel+ifadeler&video_ids=KvHvdo1kLNk%2CYBQTObjHozY%2CnnZkGcUZYYQ%2C16-GZWi66CI%2CLnSQJGMuiBQ%2CCNT-ToZw7tM) )
     - [İrrasyonel Sayılarla İlgili İspatlar
 ](https://tr.khanacademy.org/math/algebra/rational-and-irrational-numbers/proofs-concerning-irrational-numbers) (1 Test, 3 Videos | [20m 48s](https://www.youtube.com/watch_videos?title=%C4%B0rrasyonel+Say%C4%B1larla+%C4%B0lgili+%C4%B0spatlar%0A&video_ids=UwCFRWoj1nc%2CDPSu15ZBPds%2CQQJFUVAV4xU) )
 
 ## [Cebir 2](https://tr.khanacademy.org/math/algebra2) (13 Topics)
-  - [Fonksiyonlar](https://tr.khanacademy.org/math/algebra2/manipulating-functions) (9 Topics)
+  - [Fonksiyonlar | Cebir 2 | Khan Academy](https://tr.khanacademy.org/math/algebra2/manipulating-functions) (9 Topics)
     - [Fonksiyonları Birleştirme
 ](https://tr.khanacademy.org/math/algebra2/manipulating-functions/combining-functions) (3 Articles, 4 Videos | [14m 7s](https://www.youtube.com/watch_videos?title=Fonksiyonlar%C4%B1+Birle%C5%9Ftirme%0A&video_ids=7siAIMsrRUc%2ChwrMBmkUHi8%2Cj8QofuXcltU%2CYTLnPDQbdzg) )
     - [Fonksiyon Oluşturma (Cebir 2 Seviyesi)
@@ -768,7 +724,7 @@
 ](https://tr.khanacademy.org/math/algebra2/manipulating-functions/verifying-that-functions-are-inverses) (1 Article, 1 Exercise, 2 Videos | [10m 53s](https://www.youtube.com/watch_videos?title=Ters+Fonksiyonlar%C4%B1+Do%C4%9Frulama+%28Cebir+2+Seviyesi%29%0A&video_ids=olha_ryis34%2Cx-Hh7vv2ezs) )
     - [Bir Fonksiyonun Ters Çevrilebilir Olup Olmadığını Bulma (Cebir 2 Seviyesi)
 ](https://tr.khanacademy.org/math/algebra2/manipulating-functions/invertible-functions) (1 Article, 2 Exercises, 1 Quiz, 1 Test, 2 Videos | [10m 4s](https://www.youtube.com/watch_videos?title=Bir+Fonksiyonun+Ters+%C3%87evrilebilir+Olup+Olmad%C4%B1%C4%9F%C4%B1n%C4%B1+Bulma+%28Cebir+2+Seviyesi%29%0A&video_ids=ovp9JN_uYe4%2Ch4SjxGugSmk) )
-  - [Karmaşık Sayılar](https://tr.khanacademy.org/math/algebra2/introduction-to-complex-numbers-algebra-2) (5 Topics)
+  - [Karmaşık sayılar | Cebir 2 | Khan Academy](https://tr.khanacademy.org/math/algebra2/introduction-to-complex-numbers-algebra-2) (5 Topics)
     - [Sanal Sayılar
 ](https://tr.khanacademy.org/math/algebra2/introduction-to-complex-numbers-algebra-2/the-imaginary-numbers-algebra-2) (2 Articles, 2 Exercises, 4 Videos | [22m 28s](https://www.youtube.com/watch_videos?title=Sanal+Say%C4%B1lar%0A&video_ids=B9Cvrc3Nm_A%2C0ggYer30K7M%2CKEGfeyPXOo0%2CYX-n2k-JNIA) )
     - [Karmaşık Sayılar](https://tr.khanacademy.org/math/algebra2/introduction-to-complex-numbers-algebra-2/the-complex-numbers-algebra-2) (1 Article, 2 Exercises, 2 Videos | [9m 23s](https://www.youtube.com/watch_videos?title=Karma%C5%9F%C4%B1k+Say%C4%B1lar&video_ids=-Y4-LekgdqU%2CwzqrpVSz4r4) )
@@ -789,9 +745,8 @@
 ](https://tr.khanacademy.org/math/algebra2/arithmetic-with-polynomials/synthetic-division-of-polynomials) (3 Videos | [17m 21s](https://www.youtube.com/watch_videos?title=Polinomlarda+Sentetik+B%C3%B6lme%0A&video_ids=icmGzaTCRME%2CwicIqrHGMEc%2CUG6xiLZD2W0) )
     - [Polinomlarda Kalanlı Bölme Alıştırması
 ](https://tr.khanacademy.org/math/algebra2/arithmetic-with-polynomials/practice-dividing-polynomials-with-remainders) (3 Exercises, 3 Videos | [13m 49s](https://www.youtube.com/watch_videos?title=Polinomlarda+Kalanl%C4%B1+B%C3%B6lme+Al%C4%B1%C5%9Ft%C4%B1rmas%C4%B1%0A&video_ids=RpFsRqUiwzw%2CISaNE3Azy30%2CtGrzj3_Otgw) )
-    - [Polinomlarda Kalan Teoremi
-](https://tr.khanacademy.org/math/algebra2/arithmetic-with-polynomials/polynomial-remainder-theorem) (1 Exercise, 1 Quiz, 1 Test, 5 Videos | [23m 2s](https://www.youtube.com/watch_videos?title=Polinomlarda+Kalan+Teoremi%0A&video_ids=dx24cSSQZh0%2CKqV2twjSlyM%2CD_7aigls358%2CDQUVSUeywpY%2CuibVysvm1bM) )
-  - [Polinomlar](https://tr.khanacademy.org/math/algebra2/polynomial-functions) (15 Topics)
+    - [Polinom kalan teoremi](https://tr.khanacademy.org/math/algebra2/arithmetic-with-polynomials/polynomial-remainder-theorem) (1 Exercise, 1 Quiz, 1 Test, 5 Videos | [23m 2s](https://www.youtube.com/watch_videos?title=Polinom+kalan+teoremi&video_ids=dx24cSSQZh0%2CKqV2twjSlyM%2CD_7aigls358%2CDQUVSUeywpY%2CuibVysvm1bM) )
+  - [Polinomlar | Cebir 2 | Khan Academy](https://tr.khanacademy.org/math/algebra2/polynomial-functions) (15 Topics)
     - [Binom Teoremi
 ](https://tr.khanacademy.org/math/algebra2/polynomial-functions/binomial-theorem) (1 Exercise, 4 Videos | [35m 15s](https://www.youtube.com/watch_videos?title=Binom+Teoremi%0A&video_ids=uJeZrrL3oyQ%2CAg8jVCJGbFU%2CcNn2eqHq7ao%2CXT7-aS91U70) )
     - [Binom Teoremini Anlama
@@ -813,7 +768,6 @@
 ](https://tr.khanacademy.org/math/algebra2/polynomial-functions/zeros-of-polynomials-and-their-graphs) (2 Articles, 2 Exercises, 1 Video | [5m 27s](https://www.youtube.com/watch_videos?title=Polinomlar%C4%B1n+S%C4%B1f%C4%B1ra+E%C5%9Fit+Oldu%C4%9Fu+De%C4%9Ferler+ve+Bunlar%C4%B1n+Grafikleri%0A&video_ids=Blr8YjW2S-k) )
     - [Polinom Fonksiyonlarının Sonsuzdaki Davranışları
 ](https://tr.khanacademy.org/math/algebra2/polynomial-functions/polynomial-end-behavior) (1 Article, 1 Exercise, 2 Videos | [10m 33s](https://www.youtube.com/watch_videos?title=Polinom+Fonksiyonlar%C4%B1n%C4%B1n+Sonsuzdaki+Davran%C4%B1%C5%9Flar%C4%B1%0A&video_ids=uhhVXwvVSv4%2C_ij7rdo_5bg) )
-    - [Polinomların Grafikleri](https://tr.khanacademy.org/math/algebra2/polynomial-functions/graphs-of-polynomials) (2 Articles, 1 Quiz)
     - [Fonksiyonlarda Simetri
 ](https://tr.khanacademy.org/math/algebra2/polynomial-functions/introduction-to-symmetry-of-functions) (1 Article, 1 Exercise, 3 Videos | [20m 26s](https://www.youtube.com/watch_videos?title=Fonksiyonlarda+Simetri%0A&video_ids=zKXEMh9yMcE%2Con4t-e4AE9I%2CBNUVL3utSUA) )
     - [Polinom Fonksiyonlarında Simetri
@@ -821,8 +775,7 @@
   - [Köklü ilişkiler](https://tr.khanacademy.org/math/algebra2/radical-equations-and-functions) (5 Topics)
     - [Karekök İçeren Denklemleri Çözme
 ](https://tr.khanacademy.org/math/algebra2/radical-equations-and-functions/solving-square-root-equations) (2 Articles, 2 Exercises, 5 Videos | [28m 11s](https://www.youtube.com/watch_videos?title=Karek%C3%B6k+%C4%B0%C3%A7eren+Denklemleri+%C3%87%C3%B6zme%0A&video_ids=WCspIa1GejM%2C1TqlosLElhQ%2CokweqMapozw%2CbUv8LBZGIf8%2CLhybviVNTIc) )
-    - [Kök İçeren Denklemlerin Reel Olmayan Çözümleri
-](https://tr.khanacademy.org/math/algebra2/radical-equations-and-functions/analyzing-extraneous-solutions-of-square-root-equations) (1 Article, 1 Exercise, 2 Videos | [10m 20s](https://www.youtube.com/watch_videos?title=K%C3%B6k+%C4%B0%C3%A7eren+Denklemlerin+Reel+Olmayan+%C3%87%C3%B6z%C3%BCmleri%0A&video_ids=Bu0Bl_FUak8%2CAeBqJPSitz4) )
+    - [Karekök denklemlerinin fazlalık çözümlerinin analizi](https://tr.khanacademy.org/math/algebra2/radical-equations-and-functions/analyzing-extraneous-solutions-of-square-root-equations) (1 Article, 1 Exercise, 2 Videos | [10m 20s](https://www.youtube.com/watch_videos?title=Karek%C3%B6k+denklemlerinin+fazlal%C4%B1k+%C3%A7%C3%B6z%C3%BCmlerinin+analizi&video_ids=Bu0Bl_FUak8%2CAeBqJPSitz4) )
     - [Küpkök İçeren Denklemleri Çözme
 ](https://tr.khanacademy.org/math/algebra2/radical-equations-and-functions/solve-cube-root-equations) (1 Video | [3m 34s](https://www.youtube.com/watch_videos?title=K%C3%BCpk%C3%B6k+%C4%B0%C3%A7eren+Denklemleri+%C3%87%C3%B6zme%0A&video_ids=njwBdLGPmIU) )
     - [Köklü Fonksiyonların Tanım Kümesi
@@ -832,10 +785,8 @@
   - [Rasyonel İfadeler](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions) (10 Topics)
     - [Rasyonel İfadeleri Sadeleştirme
 ](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/simplify-rational-expressions) (3 Articles, 3 Exercises, 1 Quiz, 8 Videos | [50m 7s](https://www.youtube.com/watch_videos?title=Rasyonel+%C4%B0fadeleri+Sadele%C5%9Ftirme%0A&video_ids=3jOz0OCEM88%2CJ_wNO-uZHJY%2CYtDQyqmf6cI%2CnUqgXps1pJE%2CohwKOewGDp8%2C8dUgxqNNK8Y%2C2xAv2-nnwco%2CH3H7ptVJNIo) )
-    - [Rasyonel İfadelerde Çarpma ve Bölme
-](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/multiplying-and-dividing-rational-expressions) (2 Articles, 3 Exercises, 1 Quiz, 5 Videos | [24m 38s](https://www.youtube.com/watch_videos?title=Rasyonel+%C4%B0fadelerde+%C3%87arpma+ve+B%C3%B6lme%0A&video_ids=VA1dORTJUH4%2CKKqSele5M6I%2CD4b-NXHCsAg%2Ceg2CFjWYKiQ%2CCNCZb9gmlyc) )
-    - [Rasyonel İfadelerde Toplama ve Çıkarma
-](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/adding-and-subtracting-rational-expressions) (2 Articles, 5 Exercises, 9 Videos | [39m 34s](https://www.youtube.com/watch_videos?title=Rasyonel+%C4%B0fadelerde+Toplama+ve+%C3%87%C4%B1karma%0A&video_ids=Q9Wo5vvuBwk%2CNV_y8NIAkQw%2CKsr0e-ePNWg%2CDN6Kc99J000%2Cjhr-7svVO98%2CjxVEX-wXk58%2CRlOPsDjyjKs%2CB8-woDJadLM%2CFm5IyP1nvCY) )
+    - [Rasyonel ifadelerle çarpma ve bölme](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/multiplying-and-dividing-rational-expressions) (2 Articles, 3 Exercises, 1 Quiz, 5 Videos | [24m 38s](https://www.youtube.com/watch_videos?title=Rasyonel+ifadelerle+%C3%A7arpma+ve+b%C3%B6lme&video_ids=VA1dORTJUH4%2CKKqSele5M6I%2CD4b-NXHCsAg%2Ceg2CFjWYKiQ%2CCNCZb9gmlyc) )
+    - [Rasyoneleri ifadelerle toplama ve çıkarma](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/adding-and-subtracting-rational-expressions) (2 Articles, 5 Exercises, 9 Videos | [39m 34s](https://www.youtube.com/watch_videos?title=Rasyoneleri+ifadelerle+toplama+ve+%C3%A7%C4%B1karma&video_ids=Q9Wo5vvuBwk%2CNV_y8NIAkQw%2CKsr0e-ePNWg%2CDN6Kc99J000%2Cjhr-7svVO98%2CjxVEX-wXk58%2CRlOPsDjyjKs%2CB8-woDJadLM%2CFm5IyP1nvCY) )
     - [Kesirli Cebirsel İfadelerde Çarpma ve Bölme
 ](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/nested-fractions) (1 Exercise, 1 Quiz, 1 Video | [5m 46s](https://www.youtube.com/watch_videos?title=Kesirli+Cebirsel+%C4%B0fadelerde+%C3%87arpma+ve+B%C3%B6lme%0A&video_ids=7DoMYOpnQCw) )
     - [Rasyonel Denklemleri Çözme
@@ -849,7 +800,7 @@
 ](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/graphs-of-rational-functions) (1 Exercise, 10 Videos | [1h 29m 14s](https://www.youtube.com/watch_videos?title=Rasyonel+Fonksiyonlar%C4%B1n+Grafikleri%0A&video_ids=t3jRKr-8JT0%2CGLOfTuoMvM8%2CZTWxtbPvpaU%2CFAVUn1XpOwk%2CBwA33FEFIz8%2CQscSQF20EOQ%2CEva7wA7xmaQ%2CRKdS7G3WcrA%2C2N62v_63SBo%2C8kf-bUy2DiY) )
     - [Rasyonel Fonksiyonlarla Modelleme
 ](https://tr.khanacademy.org/math/algebra2/rational-expressions-equations-and-functions/modeling-with-rational-functions) (1 Exercise, 1 Quiz, 1 Test, 8 Videos | [42m 29s](https://www.youtube.com/watch_videos?title=Rasyonel+Fonksiyonlarla+Modelleme%0A&video_ids=ui9BPtZjMuo%2CHxxv1A8KIuM%2CF1gaRfExnjQ%2CyTs88C6UPAE%2CaKiZpJcUwA4%2CntspPJuTxVo%2C_eJAUoSFI1Y%2ClNLm7NjZjYQ) )
-  - [Üstel büyüme & küçülme](https://tr.khanacademy.org/math/algebra2/exponential-growth-and-decay-alg-2) (6 Topics)
+  - [Üstel büyüme & küçülme | Cebir 2 | Khan Academy](https://tr.khanacademy.org/math/algebra2/exponential-growth-and-decay-alg-2) (6 Topics)
     - [Üstel İfadelerin Denk Formları
 
 ](https://tr.khanacademy.org/math/algebra2/exponential-growth-and-decay-alg-2/equivalent-forms-of-exponential-expressions) (2 Exercises, 2 Videos | [13m 42s](https://www.youtube.com/watch_videos?title=%C3%9Cstel+%C4%B0fadelerin+Denk+Formlar%C4%B1%0A%0A&video_ids=xYlWogbs9kw%2CyfH7H4OnwU4) )
@@ -882,7 +833,7 @@
 ](https://tr.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/graphs-of-logarithmic-functions) (1 Exercise, 1 Quiz, 3 Videos | [21m 20s](https://www.youtube.com/watch_videos?title=Logaritmik+Fonksiyonlar%C4%B1n+Grafikleri%0A&video_ids=pRFgl-WslYI%2CB48ZoWg2joo%2CTtGt_7jv2j8) )
     - [Logaritmik Ölçek
 ](https://tr.khanacademy.org/math/algebra2/exponential-and-logarithmic-functions/logarithmic-scale) (1 Test, 5 Videos | [44m 2s](https://www.youtube.com/watch_videos?title=Logaritmik+%C3%96l%C3%A7ek%0A&video_ids=F3gLPUtkKnM%2C4WbVbF-5Z-Y%2CUujcl5WfFiY%2C2jhyrtNEwho%2CL7nhsjzWFvo) )
-  - [Trigonometri](https://tr.khanacademy.org/math/algebra2/trig-functions) (11 Topics)
+  - [Trigonometri | Cebir 2 | Khan Academy](https://tr.khanacademy.org/math/algebra2/trig-functions) (11 Topics)
     - [Radyanlar
 ](https://tr.khanacademy.org/math/algebra2/trig-functions/intro-to-radians-alg2) (1 Exercise, 5 Videos | [32m 16s](https://www.youtube.com/watch_videos?title=Radyanlar%0A&video_ids=TALFM0amodY%2CMWOOb98jsjQ%2ChwLWgjrQ85k%2CmPaRN1wB_98%2CvSJXSWShj10) )
     - [Sinüs, Kosinüs ve Tanjantın Birim Çember Tanımları
@@ -919,25 +870,21 @@
 ](https://tr.khanacademy.org/math/algebra2/advanced-functions/interpreting-the-periodicity-of-functions) (1 Exercise, 1 Video | [3m 21s](https://www.youtube.com/watch_videos?title=Cebirsel+Modellerin+Periyodikli%C4%9Fini+Yorumlama+%28Cebir+2+Seviyesi%29%0A&video_ids=tu34hoNSZEw) )
     - [Fonksiyonların Özelliklerini Karşılaştırma (Cebir 2 Seviyesi)
 ](https://tr.khanacademy.org/math/algebra2/advanced-functions/comparing-features-of-functions) (1 Exercise, 1 Quiz, 1 Test, 3 Videos | [11m 16s](https://www.youtube.com/watch_videos?title=Fonksiyonlar%C4%B1n+%C3%96zelliklerini+Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma+%28Cebir+2+Seviyesi%29%0A&video_ids=xw2qhTnW88A%2CIGrAXuh_keA%2CsEiKA0_L4Zw) )
-  - [Seriler](https://tr.khanacademy.org/math/algebra2/sequences-and-series) (6 Topics)
+  - [Dizi ve seriler](https://tr.khanacademy.org/math/algebra2/sequences-and-series) (6 Topics)
     - [Aritmetik Diziler](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-sequences-review) (5 Articles, 4 Exercises, 1 Quiz, 4 Videos | [30m 18s](https://www.youtube.com/watch_videos?title=Aritmetik+Diziler&video_ids=bq4abnKl8bY%2CbjTUquVCs_8%2CtR0uIXit4DE%2CikfAv_q1vOs) )
-    - [Sigma Gösterimi
-](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation) (1 Exercise, 1 Video | [4m 27s](https://www.youtube.com/watch_videos?title=Sigma+G%C3%B6sterimi%0A&video_ids=Qb_8elG1BHw) )
-    - [Sonlu Aritmetik Seriler
-](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series) (2 Articles, 1 Exercise, 1 Quiz, 6 Videos | [34m 25s](https://www.youtube.com/watch_videos?title=Sonlu+Aritmetik+Seriler%0A&video_ids=KuNJ6gO0gx8%2C3rqWC5Y5g78%2CN074OI5F-Fw%2CrBAOxT6Bkjc%2ClkTCNIll0vY%2Cx72M78xcF9I) )
+    - [Toplam sembolü](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-sigma-notation) (1 Exercise, 1 Video | [4m 27s](https://www.youtube.com/watch_videos?title=Toplam+sembol%C3%BC&video_ids=Qb_8elG1BHw) )
+    - [Diziler ve seriler](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-seq-and-series) (2 Articles, 1 Exercise, 1 Quiz, 6 Videos | [34m 25s](https://www.youtube.com/watch_videos?title=Diziler+ve+seriler&video_ids=KuNJ6gO0gx8%2C3rqWC5Y5g78%2CN074OI5F-Fw%2CrBAOxT6Bkjc%2ClkTCNIll0vY%2Cx72M78xcF9I) )
     - [Geometrik Diziler
 ](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequences) (6 Exercises, 1 Quiz, 3 Videos | [22m 53s](https://www.youtube.com/watch_videos?title=Geometrik+Diziler%0A&video_ids=G_76B4mjsnc%2CHrUe5YEcm-w%2Cuv2a5qBw07w) )
     - [Sonlu Geometrik Seriler
 ](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-geometric-sequence-series) (1 Exercise, 5 Videos | [24m 19s](https://www.youtube.com/watch_videos?title=Sonlu+Geometrik+Seriler%0A&video_ids=qtRFUpK2Lc8%2CRvu5QGPm1os%2C1Lv98ZEkNAU%2C7olASr0sntI%2Ceg4gd3qb_UE) )
-    - [Sonlu Geometrik Serilerin Uygulamaları
-](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-finite-geometric-series-word-problems) (1 Exercise, 1 Quiz, 1 Test, 2 Videos | [25m 39s](https://www.youtube.com/watch_videos?title=Sonlu+Geometrik+Serilerin+Uygulamalar%C4%B1%0A&video_ids=gI8ruFDaHwM%2C9u1JH1W5ank) )
-  - [Modelleme](https://tr.khanacademy.org/math/algebra2/modeling-with-algebra) (2 Topics)
+    - [Sonlu geometrik serilerle ilgili sözlü problemler](https://tr.khanacademy.org/math/algebra2/sequences-and-series/alg2-finite-geometric-series-word-problems) (1 Exercise, 1 Quiz, 1 Test, 2 Videos | [25m 39s](https://www.youtube.com/watch_videos?title=Sonlu+geometrik+serilerle+ilgili+s%C3%B6zl%C3%BC+problemler&video_ids=gI8ruFDaHwM%2C9u1JH1W5ank) )
+  - [Modelleme | Cebir 2 | Khan Academy](https://tr.khanacademy.org/math/algebra2/modeling-with-algebra) (2 Topics)
     - [Tek Değişkenli Denklemleri ve Eşitsizlikleri Modelleme
 ](https://tr.khanacademy.org/math/algebra2/modeling-with-algebra/one-variable-modeling) (1 Exercise, 3 Videos | [27m 48s](https://www.youtube.com/watch_videos?title=Tek+De%C4%9Fi%C5%9Fkenli+Denklemleri+ve+E%C5%9Fitsizlikleri+Modelleme%0A&video_ids=iSYKENwLDmI%2Co_lGY_RDUkI%2CTobkgEMIQE4) )
     - [Sadeleştirme
 ](https://tr.khanacademy.org/math/algebra2/modeling-with-algebra/manipulating-formulas) (1 Exercise, 1 Test, 3 Videos | [12m 8s](https://www.youtube.com/watch_videos?title=Sadele%C5%9Ftirme%0A&video_ids=dFz4NKRZdYo%2CK10iLlaJxnM%2CBg1P0Qn-QDc) )
-  - [Konik Kesitler
-](https://tr.khanacademy.org/math/algebra2/intro-to-conics-alg2) (5 Topics)
+  - [Konikler | Cebir 2 | Khan Academy](https://tr.khanacademy.org/math/algebra2/intro-to-conics-alg2) (5 Topics)
     - [Konik Kesitler
 ](https://tr.khanacademy.org/math/algebra2/intro-to-conics-alg2/conic-section-intro-alg2) (1 Video | [10m 58s](https://www.youtube.com/watch_videos?title=Konik+Kesitler%0A&video_ids=iqCSEysrCl4) )
     - [Çemberin Özellikleri
@@ -952,8 +899,7 @@
 
 ## [Temel Geometri](https://tr.khanacademy.org/math/basic-geo) (8 Topics)
   - [Doğrular](https://tr.khanacademy.org/math/basic-geo/basic-geo-lines) (2 Topics)
-    - [Doğrular, Doğru Parçaları ve Işınlar
-](https://tr.khanacademy.org/math/basic-geo/basic-geo-lines/lines-rays) (1 Article, 2 Exercises, 2 Videos | [16m 36s](https://www.youtube.com/watch_videos?title=Do%C4%9Frular%2C+Do%C4%9Fru+Par%C3%A7alar%C4%B1+ve+I%C5%9F%C4%B1nlar%0A&video_ids=tbBzijO2L_Q%2CcqY7GXPuFMo) )
+    - [Doğrular, Doğru Parçaları ve Işınlar](https://tr.khanacademy.org/math/basic-geo/basic-geo-lines/lines-rays) (1 Article, 2 Exercises, 2 Videos | [16m 36s](https://www.youtube.com/watch_videos?title=Do%C4%9Frular%2C+Do%C4%9Fru+Par%C3%A7alar%C4%B1+ve+I%C5%9F%C4%B1nlar&video_ids=tbBzijO2L_Q%2CcqY7GXPuFMo) )
     - [Paralel ve Dik Doğrular
 ](https://tr.khanacademy.org/math/basic-geo/basic-geo-lines/parallel-perp) (1 Article, 2 Exercises, 1 Test, 3 Videos | [7m 38s](https://www.youtube.com/watch_videos?title=Paralel+ve+Dik+Do%C4%9Frular%0A&video_ids=sivxHk8t73o%2CXy0rRNMjHxM%2CEZBkbP5ORhY) )
   - [Açılar](https://tr.khanacademy.org/math/basic-geo/basic-geo-angle) (6 Topics)
@@ -975,21 +921,20 @@
 ](https://tr.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-properties-shapes) (1 Article, 3 Exercises, 2 Videos | [10m 28s](https://www.youtube.com/watch_videos?title=Geometrik+%C5%9Eekillerin+%C3%96zellikleri%0A&video_ids=tG4mNuSD6LU%2C_X3VkZcNa6M) )
     - [Dörtgenler](https://tr.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-quadrilaterals) (3 Articles, 3 Exercises, 1 Quiz, 5 Videos | [24m 26s](https://www.youtube.com/watch_videos?title=D%C3%B6rtgenler&video_ids=F7nYrEfKDuo%2Cf3eMj9DqDs0%2C2gJDADlYCPE%2CaHW7vSrmKSk%2CG20rygp20zk) )
     - [Üçgenler](https://tr.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classifying-triangles) (1 Article, 2 Exercises, 3 Videos | [13m 53s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genler&video_ids=lhN1raz4CS0%2CNK7tqQzg8kM%2CEirRjPYNX2w) )
-    - [Geometrik Şekillerin Sınıflandırılması
-](https://tr.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes) (2 Exercises, 1 Quiz, 2 Videos | [5m 52s](https://www.youtube.com/watch_videos?title=Geometrik+%C5%9Eekillerin+S%C4%B1n%C4%B1fland%C4%B1r%C4%B1lmas%C4%B1%0A&video_ids=kXbRfgDVsww%2C9CudARWKocM) )
+    - [Şekilleri Sınıflandırma](https://tr.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-classify-geo-shapes) (2 Exercises, 1 Quiz, 2 Videos | [5m 52s](https://www.youtube.com/watch_videos?title=%C5%9Eekilleri+S%C4%B1n%C4%B1fland%C4%B1rma&video_ids=kXbRfgDVsww%2C9CudARWKocM) )
     - [Üçgenin Açıları
 
 ](https://tr.khanacademy.org/math/basic-geo/basic-geometry-shapes/triangle-angles) (1 Article, 4 Exercises, 1 Quiz, 6 Videos | [35m 50s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genin+A%C3%A7%C4%B1lar%C4%B1%0A%0A&video_ids=ppcqVnlfwNk%2CkMsyYzhEzVg%2C9H25mRLG9HM%2C6MKeugbhgbI%2CT9grRQRR1o8%2CPNxjxpGvQ9o) )
-    - [Geometrik Cisimler (3 Boyutlu Şekiller)](https://tr.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-geometric-solids) (2 Exercises, 1 Test, 2 Videos | [7m 16s](https://www.youtube.com/watch_videos?title=Geometrik+Cisimler+%283+Boyutlu+%C5%9Eekiller%29&video_ids=3Z-fhennMkU%2CWr0-yTXteq4) )
+    - [Kopya - Geometrik katı cisimler](https://tr.khanacademy.org/math/basic-geo/basic-geometry-shapes/basic-geo-geometric-solids) (2 Exercises, 1 Test, 2 Videos | [7m 16s](https://www.youtube.com/watch_videos?title=Kopya+-+Geometrik+kat%C4%B1+cisimler&video_ids=3Z-fhennMkU%2CWr0-yTXteq4) )
   - [Koordinat Düzlemi
 
 ](https://tr.khanacademy.org/math/basic-geo/basic-geo-coord-plane) (6 Topics)
     - [Koordinat Düzlemi: 1. Bölge
 ](https://tr.khanacademy.org/math/basic-geo/basic-geo-coord-plane/coordinate-plane-quad-1) (2 Articles, 2 Exercises, 3 Videos | [11m 15s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzlemi%3A+1.+B%C3%B6lge%0A&video_ids=MTZ5jBpiDvg%2C4Rqc9-vhaSo%2Cwq6Is2fxXbU) )
-    - [Koordinat Düzlemi: 4. Bölge
-](https://tr.khanacademy.org/math/basic-geo/basic-geo-coord-plane/coordinate-plane-4-quad) (3 Articles, 2 Exercises, 4 Videos | [14m 48s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzlemi%3A+4.+B%C3%B6lge%0A&video_ids=OPm2q4gYQAY%2CIgQmE6oIFt0%2CHt8KZz6spF0%2CUutMLPUkFDs) )
-    - [Koordinat Düzleminde Bölgeler
-](https://tr.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants) (1 Exercise, 1 Quiz, 2 Videos | [4m 20s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzleminde+B%C3%B6lgeler%0A&video_ids=KSzDm-awHLU%2CqUhgCrCPf3s) )
+    - [Koordinat Düzlemi
+
+](https://tr.khanacademy.org/math/basic-geo/basic-geo-coord-plane/coordinate-plane-4-quad) (3 Articles, 2 Exercises, 4 Videos | [14m 48s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzlemi%0A%0A&video_ids=OPm2q4gYQAY%2CIgQmE6oIFt0%2CHt8KZz6spF0%2CUutMLPUkFDs) )
+    - [Çeyrek Düzlemler](https://tr.khanacademy.org/math/basic-geo/basic-geo-coord-plane/quadrants) (1 Exercise, 1 Quiz, 2 Videos | [4m 20s](https://www.youtube.com/watch_videos?title=%C3%87eyrek+D%C3%BCzlemler&video_ids=KSzDm-awHLU%2CqUhgCrCPf3s) )
     - [Koordinat Düzleminde Noktaları Yansıtma 
 ](https://tr.khanacademy.org/math/basic-geo/basic-geo-coord-plane/reflect-points-coord-plane) (1 Exercise, 1 Video | [3m 35s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzleminde+Noktalar%C4%B1+Yans%C4%B1tma+%0A&video_ids=nSMcoD670cg) )
     - [Koordinat Düzleminde Dörtgenler
@@ -1006,9 +951,7 @@
 ](https://tr.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/parallelogram-area) (1 Article, 2 Exercises, 2 Videos | [4m 39s](https://www.youtube.com/watch_videos?title=Paralelkenar%C4%B1n+Alan%C4%B1%0A&video_ids=Rb9SG4c8uDg%2CPPX2hOUiPqs) )
     - [Üçgenin Alanı
 ](https://tr.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-triangle) (1 Article, 4 Exercises, 3 Videos | [10m 10s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genin+Alan%C4%B1%0A&video_ids=5oamn1NaUgA%2CMfkPq2bNhHY%2CAx2hdD-Aruk) )
-    - [Yamuğun Alanı ve Birleşik Şekiller
-
-](https://tr.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-trap-composite) (3 Exercises, 1 Quiz, 4 Videos | [17m 49s](https://www.youtube.com/watch_videos?title=Yamu%C4%9Fun+Alan%C4%B1+ve+Birle%C5%9Fik+%C5%9Eekiller%0A%0A&video_ids=5KvjzvHeMew%2C7XVEr3mOX2Q%2CwMPG6HY_Gdo%2CIbzjlwR1-Xg) )
+    - [Yamukların ve bileşik şekillerin alanı](https://tr.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-trap-composite) (3 Exercises, 1 Quiz, 4 Videos | [17m 49s](https://www.youtube.com/watch_videos?title=Yamuklar%C4%B1n+ve+bile%C5%9Fik+%C5%9Fekillerin+alan%C4%B1&video_ids=5KvjzvHeMew%2C7XVEr3mOX2Q%2CwMPG6HY_Gdo%2CIbzjlwR1-Xg) )
     - [Çember ve Dairede Çevre ile Alan
 
 ](https://tr.khanacademy.org/math/basic-geo/basic-geo-area-and-perimeter/area-circumference-circle) (3 Articles, 4 Exercises, 1 Quiz, 1 Test, 6 Videos | [26m 52s](https://www.youtube.com/watch_videos?title=%C3%87ember+ve+Dairede+%C3%87evre+ile+Alan%0A%0A&video_ids=-gtmBrvngv0%2C7tqeMHgsQhw%2CD1dRM85J4SQ%2Cokrz3Kmv0mE%2CUnkRnXD6oxM%2Cb4DKEzGe8Bk) )
@@ -1027,8 +970,7 @@
 ](https://tr.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-app) (4 Exercises, 4 Videos | [17m 28s](https://www.youtube.com/watch_videos?title=Pisagor+Teoreminin+Uygulan%C4%B1%C5%9F%C4%B1%0A&video_ids=t8fqYEbKSws%2CD86mVnhpV1Y%2CSbyzU-nsJts%2CuXmjKdP8TOo) )
     - [Pisagor Teoremi ve İki Nokta Arasındaki Uzaklık
 ](https://tr.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/pythagorean-theorem-distance) (2 Articles, 1 Exercise, 1 Quiz, 2 Videos | [13m 20s](https://www.youtube.com/watch_videos?title=Pisagor+Teoremi+ve+%C4%B0ki+Nokta+Aras%C4%B1ndaki+Uzakl%C4%B1k%0A&video_ids=ex63toYBMNk%2C9zLS706l7Fs) )
-    - [Pisagor Teoreminin İspatı
-](https://tr.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/basic-geometry-pythagorean-proofs) (1 Test, 4 Videos | [38m 14s](https://www.youtube.com/watch_videos?title=Pisagor+Teoreminin+%C4%B0spat%C4%B1%0A&video_ids=0g45mA8OdiQ%2CRGlo6G0xvIs%2CIWKbESBon1Q%2CZUaVQrcuQxw) )
+    - [Pisagor teoremi ispatları](https://tr.khanacademy.org/math/basic-geo/basic-geometry-pythagorean-theorem/basic-geometry-pythagorean-proofs) (1 Test, 4 Videos | [38m 14s](https://www.youtube.com/watch_videos?title=Pisagor+teoremi+ispatlar%C4%B1&video_ids=0g45mA8OdiQ%2CRGlo6G0xvIs%2CIWKbESBon1Q%2CZUaVQrcuQxw) )
   - [Dönüşümler, Eşlik ve Benzerlik](https://tr.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence) (8 Topics)
     - [Simetri Ekseni](https://tr.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/line-of-symmetry) (1 Article, 3 Exercises, 2 Videos | [8m 20s](https://www.youtube.com/watch_videos?title=Simetri+Ekseni&video_ids=pc4prgW6GoY%2CYNitcnc7ysA) )
     - [Dönüşümlere Giriş](https://tr.khanacademy.org/math/basic-geo/basic-geo-transformations-congruence/transformations-intro-basic-geo) (1 Exercise, 3 Videos | [12m 41s](https://www.youtube.com/watch_videos?title=D%C3%B6n%C3%BC%C5%9F%C3%BCmlere+Giri%C5%9F&video_ids=EQLTvffpMyU%2CPQXecVCubHw%2CWOL1I_Ts9dQ) )
@@ -1065,7 +1007,6 @@
 ](https://tr.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-reflections) (1 Article, 2 Exercises, 2 Videos | [13m](https://www.youtube.com/watch_videos?title=Yans%C4%B1ma%0A&video_ids=S90s7nK_Ou8%2CrIckN3djZjI) )
     - [Bir Noktanın Çevresinde Genişletme veya Boyut Değiştirme
 ](https://tr.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-dilations) (3 Exercises, 4 Videos | [11m 50s](https://www.youtube.com/watch_videos?title=Bir+Noktan%C4%B1n+%C3%87evresinde+Geni%C5%9Fletme+veya+Boyut+De%C4%9Fi%C5%9Ftirme%0A&video_ids=wgmqxu1l6c4%2CAApec1L6qc8%2CmFFgS89ukm0%2CZAQKR7yLPCY) )
-    - [Dönüşüm Dizileri](https://tr.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-seq-of-transformations) (1 Exercise)
     - [Dönüşümlerin Boyutları ve Tanımları
 ](https://tr.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-transformations-definitions) (1 Article, 1 Exercise, 1 Video | [4m 41s](https://www.youtube.com/watch_videos?title=D%C3%B6n%C3%BC%C5%9F%C3%BCmlerin+Boyutlar%C4%B1+ve+Tan%C4%B1mlar%C4%B1%0A&video_ids=O8ibiyLyPUo) )
     - [Simetri](https://tr.khanacademy.org/math/geometry/hs-geo-transformations/hs-geo-symmetry) (1 Exercise, 4 Videos | [17m 22s](https://www.youtube.com/watch_videos?title=Simetri&video_ids=pc4prgW6GoY%2CyVRRVEVtaNE%2Cvpwp4okXmNA%2CGgQkQMvXhII) )
@@ -1078,10 +1019,8 @@
 ](https://tr.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-congruence-theorems) (3 Videos | [20m](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genlerle+%C4%B0lgili+Teoremler%0A&video_ids=ppcqVnlfwNk%2CsONYL-jRXi4%2CRYHz06sdJOk) )
     - [Üçgenlerle İşlem Yapma
 ](https://tr.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-working-with-triangles) (2 Exercises, 4 Videos | [19m 51s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genlerle+%C4%B0%C5%9Flem+Yapma%0A&video_ids=tv9Hh2TtTsc%2CBCJPGgQsC-w%2CaEa6Zeu_jl0%2CrpXpqWYCPgk) )
-    - [Dörtgenlerle İlgili Teoremler
-](https://tr.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-quadrilaterals-theorems) (6 Videos | [42m 1s](https://www.youtube.com/watch_videos?title=D%C3%B6rtgenlerle+%C4%B0lgili+Teoremler%0A&video_ids=AIOU8Kt1IEY%2Cek_NSgCemFw%2Cd-TObeXyB78%2Cq9RzQvQXcO4%2C2qoDlCetddQ%2CZLniFfrx2Wc) )
-    - [Üçgenlerde Benzerlik ile İlgili Teoremlerin İspatı
-](https://tr.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-triangle-theorems) (3 Videos | [26m 15s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genlerde+Benzerlik+ile+%C4%B0lgili+Teoremlerin+%C4%B0spat%C4%B1%0A&video_ids=PtPNEHWTEiU%2CxFGBdW8xG9s%2CErC2OEXRRm4) )
+    - [Paralelkenarın özellikleriyle ilgili teoremler](https://tr.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-quadrilaterals-theorems) (6 Videos | [42m 1s](https://www.youtube.com/watch_videos?title=Paralelkenar%C4%B1n+%C3%B6zellikleriyle+ilgili+teoremler&video_ids=AIOU8Kt1IEY%2Cek_NSgCemFw%2Cd-TObeXyB78%2Cq9RzQvQXcO4%2C2qoDlCetddQ%2CZLniFfrx2Wc) )
+    - [Üçgen eşliği kullanan teoremlerin ispatları](https://tr.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-triangle-theorems) (3 Videos | [26m 15s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7gen+e%C5%9Fli%C4%9Fi+kullanan+teoremlerin+ispatlar%C4%B1&video_ids=PtPNEHWTEiU%2CxFGBdW8xG9s%2CErC2OEXRRm4) )
     - [Doğrular, Açılar ve Açı  Ortaylar Çizme
 ](https://tr.khanacademy.org/math/geometry/hs-geo-congruence/hs-geo-bisectors) (3 Videos | [4m 55s](https://www.youtube.com/watch_videos?title=Do%C4%9Frular%2C+A%C3%A7%C4%B1lar+ve+A%C3%A7%C4%B1++Ortaylar+%C3%87izme%0A&video_ids=CVxcBGvjkBw%2CQ37R1SeckLQ%2CGH5nAiOBmUI) )
   - [Benzerlik](https://tr.khanacademy.org/math/geometry/hs-geo-similarity) (7 Topics)
@@ -1108,7 +1047,6 @@
 ](https://tr.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-trig-ratios-intro) (2 Articles, 1 Exercise, 2 Videos | [21m 28s](https://www.youtube.com/watch_videos?title=Trigonometrik+Oranlar%0A&video_ids=zPvX_JTLwqk%2CeUP9gsDzmuQ) )
     - [Trigonometrik Oranları Kullanarak Dik Üçgenin Kenar Uzunluklarını Bulma
 ](https://tr.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-a-side) (1 Article, 1 Exercise, 1 Video | [7m 4s](https://www.youtube.com/watch_videos?title=Trigonometrik+Oranlar%C4%B1+Kullanarak+Dik+%C3%9C%C3%A7genin+Kenar+Uzunluklar%C4%B1n%C4%B1+Bulma%0A&video_ids=_UtCzK1VK2M) )
-    - [Trigonometrik Oranları Kullanarak Dik Üçgende Açı Bulma](https://tr.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-solve-for-an-angle) (1 Article, 1 Exercise)
     - [Dik Üçgenlerle Modelleme
 ](https://tr.khanacademy.org/math/geometry/hs-geo-trig/hs-geo-modeling-with-right-triangles) (2 Articles, 1 Exercise, 1 Video | [4m 35s](https://www.youtube.com/watch_videos?title=Dik+%C3%9C%C3%A7genlerle+Modelleme%0A&video_ids=kCanJnoVk04) )
     - [Trigonometrik Oranlar ve Benzerlik
@@ -1140,9 +1078,8 @@
     - [Koordinat Düzleminde İspatlar
 ](https://tr.khanacademy.org/math/geometry/hs-geo-analytic-geometry/hs-geo-coordinate-plane-proofs) (1 Video | [5m 8s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzleminde+%C4%B0spatlar%0A&video_ids=j86ojNrmqJo) )
   - [Çemberler](https://tr.khanacademy.org/math/geometry/hs-geo-circles) (16 Topics)
-    - [Çemberin Temelleri
-](https://tr.khanacademy.org/math/geometry/hs-geo-circles/hs-geo-circle-basics) (3 Videos | [23m 52s](https://www.youtube.com/watch_videos?title=%C3%87emberin+Temelleri%0A&video_ids=V9hn1kYuzmc%2C-gtmBrvngv0%2Csh2dB45aVbk) )
-    - [Yayları Ölçme](https://tr.khanacademy.org/math/geometry/hs-geo-circles/hs-geo-arc-measures) (2 Exercises, 3 Videos | [19m 1s](https://www.youtube.com/watch_videos?title=Yaylar%C4%B1+%C3%96l%C3%A7me&video_ids=4FEV4Oh1yIs%2Csv4UV-tdHV0%2CwxUbKQ_jdg4) )
+    - [Çemberlere ilişkin temel bilgiler](https://tr.khanacademy.org/math/geometry/hs-geo-circles/hs-geo-circle-basics) (3 Videos | [23m 52s](https://www.youtube.com/watch_videos?title=%C3%87emberlere+ili%C5%9Fkin+temel+bilgiler&video_ids=V9hn1kYuzmc%2C-gtmBrvngv0%2Csh2dB45aVbk) )
+    - [Yay ölçüleri](https://tr.khanacademy.org/math/geometry/hs-geo-circles/hs-geo-arc-measures) (2 Exercises, 3 Videos | [19m 1s](https://www.youtube.com/watch_videos?title=Yay+%C3%B6l%C3%A7%C3%BCleri&video_ids=4FEV4Oh1yIs%2Csv4UV-tdHV0%2CwxUbKQ_jdg4) )
     - [Yay Uzunluğu (Derece)
 ](https://tr.khanacademy.org/math/geometry/hs-geo-circles/hs-geo-arc-length-deg) (2 Articles, 1 Exercise, 2 Videos | [7m 16s](https://www.youtube.com/watch_videos?title=Yay+Uzunlu%C4%9Fu+%28Derece%29%0A&video_ids=IwxoPIk6G7w%2ChfF0_nNDkwA) )
     - [Radyanlar
@@ -1170,20 +1107,17 @@
 ](https://tr.khanacademy.org/math/geometry/hs-geo-circles/hs-geo-constructing-tangents) (2 Videos | [11m 25s](https://www.youtube.com/watch_videos?title=Bir+Daireye+Te%C4%9Fet+Bir+Do%C4%9Fru+%C3%87izme%0A&video_ids=yhm8zwe6TUA%2CGVOC5Bpeuxc) )
 
 ## [Trigonometri](https://tr.khanacademy.org/math/trigonometry) (5 Topics)
-  - [Dik Üçgenlerle Trigonometri
-](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles) (10 Topics)
+  - [Temel trigonometri](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles) (10 Topics)
     - [Trigonometrik Oranlar
 ](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-trig-ratios) (2 Articles, 1 Exercise, 2 Videos | [21m 28s](https://www.youtube.com/watch_videos?title=Trigonometrik+Oranlar%0A&video_ids=zPvX_JTLwqk%2CeUP9gsDzmuQ) )
     - [Trigonometrik Oranları Kullanarak Dik Üçgenin Kenar Uzunluklarını Bulma
 ](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-a-side) (1 Article, 1 Exercise, 1 Video | [7m 4s](https://www.youtube.com/watch_videos?title=Trigonometrik+Oranlar%C4%B1+Kullanarak+Dik+%C3%9C%C3%A7genin+Kenar+Uzunluklar%C4%B1n%C4%B1+Bulma%0A&video_ids=_UtCzK1VK2M) )
-    - [Trigonometrik Oranları Kullanarak Dik Üçgende Açı Bulma](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-solve-for-an-angle) (1 Article, 1 Exercise)
     - [Dik Üçgenlerle Modelleme
 ](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles/modeling-with-right-triangles) (2 Articles, 1 Exercise, 1 Video | [4m 35s](https://www.youtube.com/watch_videos?title=Dik+%C3%9C%C3%A7genlerle+Modelleme%0A&video_ids=kCanJnoVk04) )
     - [Trigonometrik Oranlar ve Benzerlilk
 ](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-similarity) (3 Videos | [23m 27s](https://www.youtube.com/watch_videos?title=Trigonometrik+Oranlar+ve+Benzerlilk%0A&video_ids=4H6tYesb9WM%2CRaSrVDk6-yw%2C6zjtaRjeAqU) )
     - [Tümleyen Açıların Sinüsleri ve Kosinüsleri
 ](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles/sine-and-cosine-of-complementary-angles) (1 Article, 3 Videos | [14m 4s](https://www.youtube.com/watch_videos?title=T%C3%BCmleyen+A%C3%A7%C4%B1lar%C4%B1n+Sin%C3%BCsleri+ve+Kosin%C3%BCsleri%0A&video_ids=aKbQtuCn7OU%2CZ6PlYxSP6YM%2CtVkeF3F2N40) )
-    - [Özel Üçgenlerde Trigonometrik Oranlar](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles/trig-ratios-special-triangles) (1 Article)
     - [Dik Üçgenlerde Bazı Denklikler
 ](https://tr.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-pythagorean-identity) (1 Video | [4m 16s](https://www.youtube.com/watch_videos?title=Dik+%C3%9C%C3%A7genlerde+Baz%C4%B1+Denklikler%0A&video_ids=GkoZnrNw-Po) )
     - [Ters Trigonometrik Oranlar
@@ -1200,8 +1134,7 @@
 ](https://tr.khanacademy.org/math/trigonometry/unit-circle-trig-func) (8 Topics)
     - [Radyanlar
 ](https://tr.khanacademy.org/math/trigonometry/unit-circle-trig-func/intro-to-radians-trig) (1 Exercise, 5 Videos | [32m 16s](https://www.youtube.com/watch_videos?title=Radyanlar%0A&video_ids=TALFM0amodY%2CMWOOb98jsjQ%2ChwLWgjrQ85k%2CmPaRN1wB_98%2CvSJXSWShj10) )
-    - [Sinüs, Kosinüs ve Tanjantın Birim Çember Tanımları
-](https://tr.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions) (1 Article, 2 Videos | [16m 1s](https://www.youtube.com/watch_videos?title=Sin%C3%BCs%2C+Kosin%C3%BCs+ve+Tanjant%C4%B1n+Birim+%C3%87ember+Tan%C4%B1mlar%C4%B1%0A&video_ids=MmRvdi-pk7Q%2CJYaMS-ikn9Q) )
+    - [Trigonometrik fonksiyonların birim çember tanımı](https://tr.khanacademy.org/math/trigonometry/unit-circle-trig-func/unit-circle-definition-of-trig-functions) (1 Article, 2 Videos | [16m 1s](https://www.youtube.com/watch_videos?title=Trigonometrik+fonksiyonlar%C4%B1n+birim+%C3%A7ember+tan%C4%B1m%C4%B1&video_ids=MmRvdi-pk7Q%2CJYaMS-ikn9Q) )
     - [Sinüs, Kosinüs ve Tanjant Grafikleri
 ](https://tr.khanacademy.org/math/trigonometry/unit-circle-trig-func/graphs-of-sine-cosine-tangent) (3 Videos | [30m 41s](https://www.youtube.com/watch_videos?title=Sin%C3%BCs%2C+Kosin%C3%BCs+ve+Tanjant+Grafikleri%0A&video_ids=4SLkZ5R3yQg%2CvDTt6HE6a64%2CyKJijXMUzUs) )
     - [Trigonometrik Özdeşlikler
@@ -1233,7 +1166,6 @@
 ](https://tr.khanacademy.org/math/trigonometry/trig-equations-and-identities/inverse-trig-functions) (1 Article, 1 Exercise, 6 Videos | [53m 39s](https://www.youtube.com/watch_videos?title=Ters+Trigonometrik+Fonksiyonlar%0A&video_ids=oFSXQwz6HV0%2CgO2sEA2gMDQ%2CN7zHlO1oT2I%2Ch4SjxGugSmk%2CrZ7BI3kzSZw%2CfgIkbmn1PrA) )
     - [Basit Sinüzoidal Denklemleri Çözme
 ](https://tr.khanacademy.org/math/trigonometry/trig-equations-and-identities/basic-sinusoidal-equations) (1 Exercise, 2 Videos | [11m 28s](https://www.youtube.com/watch_videos?title=Basit+Sin%C3%BCzoidal+Denklemleri+%C3%87%C3%B6zme%0A&video_ids=Z_P63SrmgGw%2Ck8Ggo227YN0) )
-    - [İleri Düzey Sinüzodial Denklemleri Çözme](https://tr.khanacademy.org/math/trigonometry/trig-equations-and-identities/advanced-sinusoidal-equations) (1 Exercise)
     - [Sinüzoidal Modelleri Çözme](https://tr.khanacademy.org/math/trigonometry/trig-equations-and-identities/solving-sinusoidal-models) (1 Article, 1 Exercise, 1 Video | [8m 23s](https://www.youtube.com/watch_videos?title=Sin%C3%BCzoidal+Modelleri+%C3%87%C3%B6zme&video_ids=69qcN1IU6GY) )
     - [Trigonometrik Açı Toplam Formülleri
 ](https://tr.khanacademy.org/math/trigonometry/trig-equations-and-identities/intro-to-trig-angle-addition-identities) (1 Exercise, 5 Videos | [34m 17s](https://www.youtube.com/watch_videos?title=Trigonometrik+A%C3%A7%C4%B1+Toplam+Form%C3%BClleri%0A&video_ids=w9dGQjdTExg%2Cp_Ct3c0ti9k%2CWfShJQmgs_s%2CIhz4-rAyW04%2CSDLosQvgrns) )
@@ -1244,20 +1176,19 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/trigonometry/trig-equations-and-identities/challenge-trig-problems) (7 Videos | [1h 31m 5s](https://www.youtube.com/watch_videos?title=Trigonometri+Problemleri+%28%C4%B0leri+Seviye%29%0A&video_ids=dHJ_cFRn_Ko%2CvQH0n1gqdCE%2CW5u49pmEJYs%2CAf-ie6nukMQ%2CplauPRimiAM%2C_mmF6HOfr94%2CTjAY_djocdU) )
 
 ## [Lise Seviyesi İstatistik](https://tr.khanacademy.org/math/probability) (7 Topics)
-  - [Saçılım Grafikleri](https://tr.khanacademy.org/math/probability/scatterplots-a1) (2 Topics)
+  - [Dağılım grafikleri - Cebir I](https://tr.khanacademy.org/math/probability/scatterplots-a1) (2 Topics)
     - [Saçılım Grafiklerini Oluşturma ve Yorumlama](https://tr.khanacademy.org/math/probability/scatterplots-a1/creating-interpreting-scatterplots) (1 Article, 5 Exercises, 4 Videos | [23m 4s](https://www.youtube.com/watch_videos?title=Sa%C3%A7%C4%B1l%C4%B1m+Grafiklerini+Olu%C5%9Fturma+ve+Yorumlama&video_ids=slqUk0IPbsk%2CTYcxa9-hKhs%2C-Y-M9aD_ccQ%2CT0YLTlwAkuo) )
     - [Trend Çizgilerini Kullanarak Yaklaşık Değeri Bulma](https://tr.khanacademy.org/math/probability/scatterplots-a1/estimating-trend-lines) (1 Article, 4 Exercises, 3 Videos | [9m 32s](https://www.youtube.com/watch_videos?title=Trend+%C3%87izgilerini+Kullanarak+Yakla%C5%9F%C4%B1k+De%C4%9Feri+Bulma&video_ids=ZGjE9CavM1o%2COI0Y9DyI_Iw%2CxQhUtnvPu1I) )
   - [Veri Dağılımları](https://tr.khanacademy.org/math/probability/data-distributions-a1) (5 Topics)
     - [Dağılımların Gösterimi](https://tr.khanacademy.org/math/probability/data-distributions-a1/displays-of-distributions) (5 Exercises, 4 Videos | [24m 17s](https://www.youtube.com/watch_videos?title=Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1n+G%C3%B6sterimi&video_ids=bS9SaDtClaA%2CTKFeHbwtPFQ%2CHJW_AmzY7pk%2C_ECCAOkxjes) )
-    - [Dağılımların Merkezini Bulma (Merkezi Eğilim)](https://tr.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions) (1 Article, 3 Exercises, 5 Videos | [27m 45s](https://www.youtube.com/watch_videos?title=Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1n+Merkezini+Bulma+%28Merkezi+E%C4%9Filim%29&video_ids=6iisLu-9t68%2C6IAaqyC3UsY%2CS6IzoI57Uq0%2CiCjQJ8Gc-ZM%2C4VLI3yDDZ3Q) )
+    - [Dağılımları özetleme](https://tr.khanacademy.org/math/probability/data-distributions-a1/summarizing-center-distributions) (1 Article, 3 Exercises, 5 Videos | [27m 45s](https://www.youtube.com/watch_videos?title=Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1+%C3%B6zetleme&video_ids=6iisLu-9t68%2C6IAaqyC3UsY%2CS6IzoI57Uq0%2CiCjQJ8Gc-ZM%2C4VLI3yDDZ3Q) )
     - [Dağılımların Yayılımını Özetleme](https://tr.khanacademy.org/math/probability/data-distributions-a1/summarizing-spread-distributions) (3 Articles, 2 Exercises, 2 Videos | [18m 46s](https://www.youtube.com/watch_videos?title=Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1n+Yay%C4%B1l%C4%B1m%C4%B1n%C4%B1+%C3%96zetleme&video_ids=2EWJAN0m9_k%2Ccr6tnjvzFGY) )
     - [Kutu-Bıyık Grafikleri](https://tr.khanacademy.org/math/probability/data-distributions-a1/box--whisker-plots-a1) (3 Exercises, 3 Videos | [19m 20s](https://www.youtube.com/watch_videos?title=Kutu-B%C4%B1y%C4%B1k+Grafikleri&video_ids=k5sGZWQWnGQ%2CKNXhOYuC74U%2C4WMN46K1Rz0) )
     - [Veri Dağılımlarını Karşılaştırma](https://tr.khanacademy.org/math/probability/data-distributions-a1/comparing-distributions) (1 Exercise, 1 Video | [4m](https://www.youtube.com/watch_videos?title=Veri+Da%C4%9F%C4%B1l%C4%B1mlar%C4%B1n%C4%B1+Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma&video_ids=woODSAeZgWU) )
-  - [İki Yönlü Tablolar](https://tr.khanacademy.org/math/probability/two-way-tables-categorical-data-a1) (2 Topics)
-    - [İki Yönlü Frekans Tabloları](https://tr.khanacademy.org/math/probability/two-way-tables-categorical-data-a1/two-way-frequency-tables) (1 Article, 2 Exercises)
+  - [İki yönlü tablolar ve kategorisel veriler](https://tr.khanacademy.org/math/probability/two-way-tables-categorical-data-a1) (2 Topics)
     - [İki Yönlü Göreli Frekans Tabloları
 ](https://tr.khanacademy.org/math/probability/two-way-tables-categorical-data-a1/two-way-relative-frequency-tables) (1 Article, 3 Exercises, 2 Videos | [6m 12s](https://www.youtube.com/watch_videos?title=%C4%B0ki+Y%C3%B6nl%C3%BC+G%C3%B6reli+Frekans+Tablolar%C4%B1%0A&video_ids=Wr4qeJPijTU%2C7NrPWOW6MtM) )
-  - [Çalışma Tasarımı](https://tr.khanacademy.org/math/probability/study-design-a1) (2 Topics)
+  - [İncelemenin Tasarımı](https://tr.khanacademy.org/math/probability/study-design-a1) (2 Topics)
     - [Örneklemler ve Araştırmalar](https://tr.khanacademy.org/math/probability/study-design-a1/samples-surveys) (1 Article, 2 Exercises, 1 Video | [4m 17s](https://www.youtube.com/watch_videos?title=%C3%96rneklemler+ve+Ara%C5%9Ft%C4%B1rmalar&video_ids=6Hx8l8KQl0M) )
     - [Deneyler
 ](https://tr.khanacademy.org/math/probability/study-design-a1/observational-studies-experiments) (1 Article, 1 Exercise, 3 Videos | [25m 56s](https://www.youtube.com/watch_videos?title=Deneyler%0A&video_ids=G9FElg3kWy4%2CT0YLTlwAkuo%2CeocqX8csJJM) )
@@ -1272,10 +1203,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/probability/probability-geometry/multiplication-rule-dependent-events) (1 Exercise, 3 Videos | [18m 18s](https://www.youtube.com/watch_videos?title=Ba%C4%9F%C4%B1ml%C4%B1+Olaylar+i%C3%A7in+%C3%87arp%C4%B1m+Kural%C4%B1%0A&video_ids=h_Zn6YRlirk%2Cy-WiPU0S6-M%2Cynt77dsukC0) )
     - [Olasılık için Toplama Kuralı
 ](https://tr.khanacademy.org/math/probability/probability-geometry/addition-rule-for-probability) (1 Article, 1 Exercise, 2 Videos | [20m 45s](https://www.youtube.com/watch_videos?title=Olas%C4%B1l%C4%B1k+i%C3%A7in+Toplama+Kural%C4%B1%0A&video_ids=Mz6p8Qe_GK4%2CIDF1LmJnrh4) )
-    - [Koşullu Olasılık](https://tr.khanacademy.org/math/probability/probability-geometry/conditional-probability-geo) (1 Article)
-    - [Simülasyon ve rastgelelik](https://tr.khanacademy.org/math/probability/probability-geometry/simulation-randomness) (1 Article)
-    - [Beklenen Değer
-](https://tr.khanacademy.org/math/probability/probability-geometry/expected-value-geo) (1 Article)
   - [Binom Olasılığı](https://tr.khanacademy.org/math/probability/binomial-probability-a2) (1 Topic)
     - [Binom Olasılığı](https://tr.khanacademy.org/math/probability/binomial-probability-a2/binomial-probability-a2i) (1 Article, 4 Videos | [27m 38s](https://www.youtube.com/watch_videos?title=Binom+Olas%C4%B1l%C4%B1%C4%9F%C4%B1&video_ids=v_2VFKSpTV4%2CGJozqYXgkeM%2Cme4YaA21cjc%2ClOw989V1F6E) )
   - [Normal Dağılım
@@ -1288,9 +1215,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc) (6 Topics)
     - [Ters Trigonometrik Fonksiyonlar
 ](https://tr.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/inverse-trig-functions-precalc) (1 Article, 1 Exercise, 6 Videos | [53m 39s](https://www.youtube.com/watch_videos?title=Ters+Trigonometrik+Fonksiyonlar%0A&video_ids=oFSXQwz6HV0%2CgO2sEA2gMDQ%2CN7zHlO1oT2I%2Ch4SjxGugSmk%2CrZ7BI3kzSZw%2CfgIkbmn1PrA) )
-    - [Basit Sinüzoidal Denklemleri Çözme
-](https://tr.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/basic-sinusoidal-equations-precalc) (1 Exercise, 2 Videos | [11m 28s](https://www.youtube.com/watch_videos?title=Basit+Sin%C3%BCzoidal+Denklemleri+%C3%87%C3%B6zme%0A&video_ids=Z_P63SrmgGw%2Ck8Ggo227YN0) )
-    - [İleri Düzey Sinüzodial Denklemleri Çözme](https://tr.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/advanced-sinusoidal-equations-precalc) (1 Exercise)
+    - [Temel sinüsoidal denklemleri çözmenin kopyası](https://tr.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/basic-sinusoidal-equations-precalc) (1 Exercise, 2 Videos | [11m 28s](https://www.youtube.com/watch_videos?title=Temel+sin%C3%BCsoidal+denklemleri+%C3%A7%C3%B6zmenin+kopyas%C4%B1&video_ids=Z_P63SrmgGw%2Ck8Ggo227YN0) )
     - [Sinüzoidal Modelleri Çözme](https://tr.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/solving-sinusoidal-models-precalc) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [8m 23s](https://www.youtube.com/watch_videos?title=Sin%C3%BCzoidal+Modelleri+%C3%87%C3%B6zme&video_ids=69qcN1IU6GY) )
     - [Trigonometrik Açı Toplam Formülleri
 ](https://tr.khanacademy.org/math/precalculus/trig-equations-and-identities-precalc/intro-to-trig-angle-addition-identities-precalc) (1 Exercise, 5 Videos | [34m 17s](https://www.youtube.com/watch_videos?title=Trigonometrik+A%C3%A7%C4%B1+Toplam+Form%C3%BClleri%0A&video_ids=w9dGQjdTExg%2Cp_Ct3c0ti9k%2CWfShJQmgs_s%2CIhz4-rAyW04%2CSDLosQvgrns) )
@@ -1337,8 +1262,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/precalculus/vectors-precalc/combined-vector-operations) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [5m 59s](https://www.youtube.com/watch_videos?title=Bile%C5%9Fik+Vekt%C3%B6r+%C4%B0%C5%9Flemleri%0A&video_ids=jeRNDlM625Y) )
     - [Birim Vektörler
 ](https://tr.khanacademy.org/math/precalculus/vectors-precalc/unit-vectors) (1 Exercise, 3 Videos | [15m 54s](https://www.youtube.com/watch_videos?title=Birim+Vekt%C3%B6rler%0A&video_ids=xVfhF2n5Mww%2CZnNtFkBcjes%2CGMCNAk9ieTc) )
-    - [Vektörlerin Yönleri ve Büyüklükleri
-](https://tr.khanacademy.org/math/precalculus/vectors-precalc/magnitude-direction) (1 Article, 1 Exercise, 2 Videos | [15m 43s](https://www.youtube.com/watch_videos?title=Vekt%C3%B6rlerin+Y%C3%B6nleri+ve+B%C3%BCy%C3%BCkl%C3%BCkleri%0A&video_ids=3teepJgpZ1c%2CDTq1TO3jwOo) )
+    - [Büyüklük ve yön formunda vektörler](https://tr.khanacademy.org/math/precalculus/vectors-precalc/magnitude-direction) (1 Article, 1 Exercise, 2 Videos | [15m 43s](https://www.youtube.com/watch_videos?title=B%C3%BCy%C3%BCkl%C3%BCk+ve+y%C3%B6n+formunda+vekt%C3%B6rler&video_ids=3teepJgpZ1c%2CDTq1TO3jwOo) )
     - [Vektörlerin Bileşenleri
 ](https://tr.khanacademy.org/math/precalculus/vectors-precalc/component-form-of-vectors) (2 Articles, 1 Exercise, 1 Video | [10m 16s](https://www.youtube.com/watch_videos?title=Vekt%C3%B6rlerin+Bile%C5%9Fenleri%0A&video_ids=owv5EPIuEko) )
     - [Vektörleri Yön ve Büyüklük Cinsinden Toplama
@@ -1348,15 +1272,12 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
   - [Matrisler](https://tr.khanacademy.org/math/precalculus/precalc-matrices) (16 Topics)
     - [Matrisler
 ](https://tr.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrices) (1 Article, 2 Exercises, 1 Video | [4m 29s](https://www.youtube.com/watch_videos?title=Matrisler%0A&video_ids=YoLIRpSpaxs) )
-    - [Doğrusal Denklem Sistemlerini Genişletilmiş Matrislerle Temsil etme](https://tr.khanacademy.org/math/precalculus/precalc-matrices/representing-systems-with-matrices) (1 Article, 1 Exercise)
-    - [Matrix Problemleri](https://tr.khanacademy.org/math/precalculus/precalc-matrices/elementary-matrix-row-operations) (1 Article, 1 Exercise)
     - [Eşelon Formu ve Gauss Yöntemi
 ](https://tr.khanacademy.org/math/precalculus/precalc-matrices/row-echelon-and-gaussian-elimination) (1 Quiz, 1 Video | [7m 37s](https://www.youtube.com/watch_videos?title=E%C5%9Felon+Formu+ve+Gauss+Y%C3%B6ntemi%0A&video_ids=-Z-NimB3Xt0) )
     - [Matrislerle Toplama ve Çıkarma
 ](https://tr.khanacademy.org/math/precalculus/precalc-matrices/adding-and-subtracting-matrices) (1 Article, 2 Exercises, 1 Video | [5m 35s](https://www.youtube.com/watch_videos?title=Matrislerle+Toplama+ve+%C3%87%C4%B1karma%0A&video_ids=xcyi3FA52vw) )
     - [Matrisle Skaler Çarpımı
 ](https://tr.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-scalars) (1 Article, 2 Exercises, 1 Video | [2m 18s](https://www.youtube.com/watch_videos?title=Matrisle+Skaler+%C3%87arp%C4%B1m%C4%B1%0A&video_ids=8dGsSlvxlZA) )
-    - [Matris Toplamı ve Skaler Çarpımın Özellikleri](https://tr.khanacademy.org/math/precalculus/precalc-matrices/properties-of-matrix-addition-and-scalar-multiplication) (3 Articles, 1 Quiz)
     - [İki Matrisi Birbiriyle Çarpma
 ](https://tr.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices) (1 Article, 1 Exercise, 2 Videos | [11m 56s](https://www.youtube.com/watch_videos?title=%C4%B0ki+Matrisi+Birbiriyle+%C3%87arpma%0A&video_ids=rBO9bls7-nM%2C8gDh7MO7yo8) )
     - [Matris Çarpımının Özellikleri
@@ -1370,7 +1291,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/precalculus/precalc-matrices/intro-to-matrix-inverses) (2 Exercises, 2 Videos | [28m 41s](https://www.youtube.com/watch_videos?title=Ters+Matrisler%0A&video_ids=vYwHkBw6Cdw%2CzSpleAhdhIo) )
     - [Bir Matrisin Determinantını Kullanarak Tersini Bulma
 ](https://tr.khanacademy.org/math/precalculus/precalc-matrices/finding-inverse-matrix-with-determinant) (1 Video | [2m 48s](https://www.youtube.com/watch_videos?title=Bir+Matrisin+Determinant%C4%B1n%C4%B1+Kullanarak+Tersini+Bulma%0A&video_ids=bGdF53-3aa4) )
-    - [2x2 Matrislerinin Terslerini Bulma Alıştırması](https://tr.khanacademy.org/math/precalculus/precalc-matrices/practice-finding-inverses-of-2x2-matrices) (1 Exercise)
     - [Ters Matrisleri Kullanarak Denklem Çözme
 ](https://tr.khanacademy.org/math/precalculus/precalc-matrices/solving-equations-with-inverse-matrices) (1 Exercise, 1 Quiz, 3 Videos | [30m 55s](https://www.youtube.com/watch_videos?title=Ters+Matrisleri+Kullanarak+Denklem+%C3%87%C3%B6zme%0A&video_ids=mOLEwgJjiYo%2CVF_meOoBLaM%2CDzo37BjUpXo) )
     - [Günlük Hayattan Örnekleri Matrislerle Modelleme
@@ -1395,8 +1315,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/polar-form-of-complex-numbers) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [12m 16s](https://www.youtube.com/watch_videos?title=Karma%C5%9F%C4%B1k+Say%C4%B1lar%C4%B1n+Kutupsal+G%C3%B6sterimi%0A&video_ids=H7MK4gmIBfw) )
     - [Kutupsal Formdaki Karmaşık Sayılarla Çarpma ve Bölme
 ](https://tr.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/multiplying-and-dividing-complex-numbers-in-polar-form) (3 Articles, 2 Exercises, 1 Quiz, 3 Videos | [25m 28s](https://www.youtube.com/watch_videos?title=Kutupsal+Formdaki+Karma%C5%9F%C4%B1k+Say%C4%B1larla+%C3%87arpma+ve+B%C3%B6lme%0A&video_ids=VEhkSbjbLw0%2CPS_ktH8cTkQ%2Cvk8ZxxeLTQM) )
-    - [Karmaşık Sayı Problemleri
-](https://tr.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/complex-number-challenge) (1 Test, 4 Videos | [30m 54s](https://www.youtube.com/watch_videos?title=Karma%C5%9F%C4%B1k+Say%C4%B1+Problemleri%0A&video_ids=32hzDx0Ea2I%2C6PuuJWJzubw%2CNOfgG8yjqjc%2CbNdZEJXzLgI) )
+    - [Zor karmaşık sayı sorusu](https://tr.khanacademy.org/math/precalculus/imaginary-and-complex-numbers/complex-number-challenge) (1 Test, 4 Videos | [30m 54s](https://www.youtube.com/watch_videos?title=Zor+karma%C5%9F%C4%B1k+say%C4%B1+sorusu&video_ids=32hzDx0Ea2I%2C6PuuJWJzubw%2CNOfgG8yjqjc%2CbNdZEJXzLgI) )
   - [Olasılık ve Kombinatorik
 ](https://tr.khanacademy.org/math/precalculus/prob-comb) (8 Topics)
     - [Basit Olasılık
@@ -1416,16 +1335,13 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
   - [Diziler, Seriler ve Tümevarım
 ](https://tr.khanacademy.org/math/precalculus/seq-induction) (6 Topics)
     - [Aritmetik Diziler](https://tr.khanacademy.org/math/precalculus/seq-induction/sequences-review) (4 Exercises, 1 Quiz, 4 Videos | [30m 18s](https://www.youtube.com/watch_videos?title=Aritmetik+Diziler&video_ids=bq4abnKl8bY%2CbjTUquVCs_8%2CikfAv_q1vOs%2CtR0uIXit4DE) )
-    - [Sigma Gösterimi
-](https://tr.khanacademy.org/math/precalculus/seq-induction/sigma-notation) (1 Exercise, 1 Video | [4m 27s](https://www.youtube.com/watch_videos?title=Sigma+G%C3%B6sterimi%0A&video_ids=Qb_8elG1BHw) )
-    - [Sonlu Aritmetik Seriler
-](https://tr.khanacademy.org/math/precalculus/seq-induction/seq-and-series) (2 Articles, 1 Exercise, 1 Quiz, 6 Videos | [34m 25s](https://www.youtube.com/watch_videos?title=Sonlu+Aritmetik+Seriler%0A&video_ids=KuNJ6gO0gx8%2C3rqWC5Y5g78%2CN074OI5F-Fw%2CrBAOxT6Bkjc%2ClkTCNIll0vY%2Cx72M78xcF9I) )
+    - [Toplam sembolü](https://tr.khanacademy.org/math/precalculus/seq-induction/sigma-notation) (1 Exercise, 1 Video | [4m 27s](https://www.youtube.com/watch_videos?title=Toplam+sembol%C3%BC&video_ids=Qb_8elG1BHw) )
+    - [Diziler ve Seriler](https://tr.khanacademy.org/math/precalculus/seq-induction/seq-and-series) (2 Articles, 1 Exercise, 1 Quiz, 6 Videos | [34m 25s](https://www.youtube.com/watch_videos?title=Diziler+ve+Seriler&video_ids=KuNJ6gO0gx8%2C3rqWC5Y5g78%2CN074OI5F-Fw%2CrBAOxT6Bkjc%2ClkTCNIll0vY%2Cx72M78xcF9I) )
     - [Geometrik Diziler
 ](https://tr.khanacademy.org/math/precalculus/seq-induction/precalc-geometric-sequences) (6 Exercises, 1 Quiz, 4 Videos | [29m 32s](https://www.youtube.com/watch_videos?title=Geometrik+Diziler%0A&video_ids=G_76B4mjsnc%2Csd0bWIvXqP8%2CHrUe5YEcm-w%2Cuv2a5qBw07w) )
     - [Sonlu Geometrik Seriler
 ](https://tr.khanacademy.org/math/precalculus/seq-induction/geometric-sequence-series) (1 Exercise, 5 Videos | [24m 19s](https://www.youtube.com/watch_videos?title=Sonlu+Geometrik+Seriler%0A&video_ids=qtRFUpK2Lc8%2CRvu5QGPm1os%2C1Lv98ZEkNAU%2C7olASr0sntI%2Ceg4gd3qb_UE) )
-    - [Sonlu Geometrik Serilerin Uygulamaları
-](https://tr.khanacademy.org/math/precalculus/seq-induction/finite-geometric-series-word-problems) (1 Exercise, 1 Quiz, 1 Test, 2 Videos | [25m 39s](https://www.youtube.com/watch_videos?title=Sonlu+Geometrik+Serilerin+Uygulamalar%C4%B1%0A&video_ids=gI8ruFDaHwM%2C9u1JH1W5ank) )
+    - [Sonlu geometrik serilerle ilgili sözlü problemler](https://tr.khanacademy.org/math/precalculus/seq-induction/finite-geometric-series-word-problems) (1 Exercise, 1 Quiz, 1 Test, 2 Videos | [25m 39s](https://www.youtube.com/watch_videos?title=Sonlu+geometrik+serilerle+ilgili+s%C3%B6zl%C3%BC+problemler&video_ids=gI8ruFDaHwM%2C9u1JH1W5ank) )
 
 ## [Diferansiyel Kalkülüs](https://tr.khanacademy.org/math/differential-calculus) (6 Topics)
   - [Limitler ve Süreklilik
@@ -1436,7 +1352,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Tablodan Limiti Tahmin Etme](https://tr.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-from-tables) (1 Article, 3 Exercises, 1 Quiz, 3 Videos | [14m 11s](https://www.youtube.com/watch_videos?title=Tablodan+Limiti+Tahmin+Etme&video_ids=1tn0vd2835k%2CzX49LocrXbg%2Cm1tTal-hQjg) )
     - [Limitin Biçimsel Tanımı (Epsilon Delta)
 ](https://tr.khanacademy.org/math/differential-calculus/dc-limits/dc-epsilon-delta) (4 Videos | [25m 11s](https://www.youtube.com/watch_videos?title=Limitin+Bi%C3%A7imsel+Tan%C4%B1m%C4%B1+%28Epsilon+Delta%29%0A&video_ids=YiRABhEn3XI%2CUok5Z1aEnIc%2CB1mPJdA6xuU%2CRZC0AdjNflc) )
-    - [Properties of limits](https://tr.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-prop) (3 Exercises, 4 Videos | [20m 37s](https://www.youtube.com/watch_videos?title=Properties+of+limits&video_ids=LPKAFXl0FjA%2CcJlRqt8t-A0%2CnOf5nbY_-bE%2CsccKFN32qYk) )
+    - [Determining limits using algebraic properties of limits](https://tr.khanacademy.org/math/differential-calculus/dc-limits/dc-limit-prop) (3 Exercises, 4 Videos | [20m 37s](https://www.youtube.com/watch_videos?title=Determining+limits+using+algebraic+properties+of+limits&video_ids=LPKAFXl0FjA%2CcJlRqt8t-A0%2CnOf5nbY_-bE%2CsccKFN32qYk) )
     - [Doğrudan Yerine Koyma Yöntemiyle Limitler
 ](https://tr.khanacademy.org/math/differential-calculus/dc-limits/dc-direct-substitution) (4 Exercises, 1 Quiz, 5 Videos | [20m 36s](https://www.youtube.com/watch_videos?title=Do%C4%9Frudan+Yerine+Koyma+Y%C3%B6ntemiyle+Limitler%0A&video_ids=0EYhUdIEcJo%2Cr8mwm9sC23M%2C5_zxtSyTfOY%2C2xdh0yKopB8%2C7T0IKPaQfCw) )
     - [Cebirsel İşlem Kullanarak Limitler](https://tr.khanacademy.org/math/differential-calculus/dc-limits/dc-limits-algebraic) (3 Exercises, 4 Videos | [32m 49s](https://www.youtube.com/watch_videos?title=Cebirsel+%C4%B0%C5%9Flem+Kullanarak+Limitler&video_ids=T-YI7PBwp7k%2CyVWxxQ7SMOw%2CadgFvQf2lfk%2ClXShNH1G6Pk) )
@@ -1468,7 +1384,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Çarpım Kuralı](https://tr.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-product-rule) (2 Articles, 2 Exercises, 4 Videos | [13m 27s](https://www.youtube.com/watch_videos?title=%C3%87arp%C4%B1m+Kural%C4%B1&video_ids=mCnLcZegB54%2Ca9XMcYdrG-0%2CyTPxRQgZWUA%2C6H5RrQO8dk4) )
     - [Bölüm Kuralı](https://tr.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-quotient-rule) (1 Article, 3 Exercises, 5 Videos | [29m 12s](https://www.youtube.com/watch_videos?title=B%C3%B6l%C3%BCm+Kural%C4%B1&video_ids=I6HDhTPkZoA%2CzXscegdTRiY%2CuEOLyjD9WLQ%2C0RoqJa8riPk%2CL50dDwelpWI) )
     - [tan(x), cot(x), sec(x) ve csc(x)'in Türevleri](https://tr.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-trig-derivatives) (1 Exercise, 1 Quiz, 2 Videos | [9m 6s](https://www.youtube.com/watch_videos?title=tan%28x%29%2C+cot%28x%29%2C+sec%28x%29+ve+csc%28x%29%27in+T%C3%BCrevleri&video_ids=_ZfjXjMEVGg%2C5BQICNN6duI) )
-    - [İspat Videoları](https://tr.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-diff-intro-proofs) (1 Test, 9 Videos | [1h 2m 29s](https://www.youtube.com/watch_videos?title=%C4%B0spat+Videolar%C4%B1&video_ids=eytyVWA5ZQs%2C28qAQJ20D9s%2CryNkoxx0xUY%2C8SJatNg-OV8%2C5xitzTutKqM%2COjtwh8XDF8M%2CHVvCbnrUxek%2CPszFmdiMUcs%2CV8B_8yL4MME) )
+    - [Proof videos | Differentiation: definition and basic derivative rules | Differential calculus | Khan Academy](https://tr.khanacademy.org/math/differential-calculus/dc-diff-intro/dc-diff-intro-proofs) (1 Test, 9 Videos | [1h 2m 29s](https://www.youtube.com/watch_videos?title=Proof+videos+%7C+Differentiation%3A+definition+and+basic+derivative+rules+%7C+Differential+calculus+%7C+Khan+Academy&video_ids=eytyVWA5ZQs%2C28qAQJ20D9s%2CryNkoxx0xUY%2C8SJatNg-OV8%2C5xitzTutKqM%2COjtwh8XDF8M%2CHVvCbnrUxek%2CPszFmdiMUcs%2CV8B_8yL4MME) )
   - [Türevler: Zincir Kuralı ve Diğer İleri Seviye Konular](https://tr.khanacademy.org/math/differential-calculus/dc-chain) (12 Topics)
     - [Zincir Kuralı](https://tr.khanacademy.org/math/differential-calculus/dc-chain/dc-chain-rule) (1 Article, 3 Exercises, 7 Videos | [44m 8s](https://www.youtube.com/watch_videos?title=Zincir+Kural%C4%B1&video_ids=Mj85PoERhdQ%2CVnaUQ03J7Tk%2CMT1-bqKpal8%2CPCAaREZf1Hw%2C52Arwt-dOqg%2CLNVAdbKJTN8%2C191RfguzCiU) )
     - [Daha Fazla Zincir Kuralı Alıştırması](https://tr.khanacademy.org/math/differential-calculus/dc-chain/dc-more-chain-rule) (2 Articles, 2 Exercises, 6 Videos | [31m 9s](https://www.youtube.com/watch_videos?title=Daha+Fazla+Zincir+Kural%C4%B1+Al%C4%B1%C5%9Ft%C4%B1rmas%C4%B1&video_ids=2HBYEqp9Dts%2C31R5bV0_XzY%2Cqtks4vD8j50%2CRr6w9qysLJk%2CxI50q5cOvsY%2Cqg46tM43eYU) )
@@ -1486,17 +1402,17 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/differential-calculus/dc-chain/dc-disguised-derivatives) (1 Exercise, 1 Video | [4m 33s](https://www.youtube.com/watch_videos?title=Gizli+T%C3%BCrevler%0A&video_ids=sLondZQNSe0) )
     - [Logaritmik Türev
 ](https://tr.khanacademy.org/math/differential-calculus/dc-chain/dc-logarithmic-diff) (1 Exercise, 1 Quiz, 2 Videos | [17m 46s](https://www.youtube.com/watch_videos?title=Logaritmik+T%C3%BCrev%0A&video_ids=N5kkwVoAtkc%2CBSrJi9uEJp0) )
-    - [İspat Videoları](https://tr.khanacademy.org/math/differential-calculus/dc-chain/dc-chain-proofs) (1 Test, 4 Videos | [29m](https://www.youtube.com/watch_videos?title=%C4%B0spat+Videolar%C4%B1&video_ids=eytyVWA5ZQs%2CkgJVXvZ83p0%2CcuSU-rRUUhM%2CENSXIfOWkdw) )
+    - [Proof videos | Differentiation: composite, implicit, and inverse functions | Differential calculus | Khan Academy](https://tr.khanacademy.org/math/differential-calculus/dc-chain/dc-chain-proofs) (1 Test, 4 Videos | [29m](https://www.youtube.com/watch_videos?title=Proof+videos+%7C+Differentiation%3A+composite%2C+implicit%2C+and+inverse+functions+%7C+Differential+calculus+%7C+Khan+Academy&video_ids=eytyVWA5ZQs%2CkgJVXvZ83p0%2CcuSU-rRUUhM%2CENSXIfOWkdw) )
   - [Türev Uygulamaları](https://tr.khanacademy.org/math/differential-calculus/dc-context-app) (8 Topics)
     - [Bağlamda Türev Anlamı](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-interpret-derivatives) (1 Article, 1 Exercise, 1 Video | [4m 53s](https://www.youtube.com/watch_videos?title=Ba%C4%9Flamda+T%C3%BCrev+Anlam%C4%B1&video_ids=IElkjzC9YhQ) )
-    - [Doğru Hareketi](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-linear-motion) (1 Exercise, 2 Videos | [19m 6s](https://www.youtube.com/watch_videos?title=Do%C4%9Fru+Hareketi&video_ids=SE1ltVuE5yM%2CHDntI7zfBNs) )
+    - [Straight-line motion | Differential calculus | Khan Academy](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-linear-motion) (1 Exercise, 2 Videos | [19m 6s](https://www.youtube.com/watch_videos?title=Straight-line+motion+%7C+Differential+calculus+%7C+Khan+Academy&video_ids=SE1ltVuE5yM%2CHDntI7zfBNs) )
     - [Hareketsiz Türev Uygulamaları](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-derivative-apps) (1 Exercise, 1 Quiz, 2 Videos | [9m 40s](https://www.youtube.com/watch_videos?title=Hareketsiz+T%C3%BCrev+Uygulamalar%C4%B1&video_ids=zOqpo-E_96o%2CF_FlC9s6_L4) )
     - [Bağlantılı Oranlara Giriş](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-related-rates-intro) (1 Article, 3 Exercises, 6 Videos | [38m 42s](https://www.youtube.com/watch_videos?title=Ba%C4%9Flant%C4%B1l%C4%B1+Oranlara+Giri%C5%9F&video_ids=kQF9pOqmS0U%2CpoR9ruCpDFI%2ChFRQBhHdINM%2CXwEGKNPLQfQ%2Cfv7NmVdIJS4%2C5d4jD-jhbnE) )
     - [Bağlantılı Hız Problemlerini Çözme](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-related-rates) (4 Exercises, 1 Quiz, 5 Videos | [43m 10s](https://www.youtube.com/watch_videos?title=Ba%C4%9Flant%C4%B1l%C4%B1+H%C4%B1z+Problemlerini+%C3%87%C3%B6zme&video_ids=PTpjmQRwlys%2CFwWpt9XC_qs%2CNhe0oIHoC5M%2CcPOjnyjii-4%2Cl1yqlDg6ymc) )
     - [Yerel Doğrusallıkla Kestirim](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-linearization) (1 Exercise, 4 Videos | [26m 54s](https://www.youtube.com/watch_videos?title=Yerel+Do%C4%9Frusall%C4%B1kla+Kestirim&video_ids=Rnm1Wbh-BTM%2Ch2lARdo7Xko%2CwdQRY3Er7PE%2CvRw4ovZK1CQ) )
     - [L’Hôpital Kuralı](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-lhopital) (2 Exercises, 6 Videos | [39m 10s](https://www.youtube.com/watch_videos?title=L%E2%80%99H%C3%B4pital+Kural%C4%B1&video_ids=T6mHOfj9KA8%2Ca0Am1oeqAC0%2CSEjP2jivtrM%2CgYPxxpy396o%2CmBKKSr92lXc%2CSIB4WDYF5DQ) )
     - [L’Hôpital Kuralı: Bileşke Üstel Fonksiyonlar](https://tr.khanacademy.org/math/differential-calculus/dc-context-app/dc-lhopital-composite-exp) (1 Article, 1 Exercise, 1 Quiz, 1 Test, 1 Video | [13m 11s](https://www.youtube.com/watch_videos?title=L%E2%80%99H%C3%B4pital+Kural%C4%B1%3A+Bile%C5%9Fke+%C3%9Cstel+Fonksiyonlar&video_ids=CDf_aE5yg3A) )
-  - [Fonksiyon Analizi](https://tr.khanacademy.org/math/differential-calculus/dc-analytic-app) (14 Topics)
+  - [Analyzing functions  | Differential calculus | Khan Academy](https://tr.khanacademy.org/math/differential-calculus/dc-analytic-app) (14 Topics)
     - [Ortalama Değer Teoremi
 ](https://tr.khanacademy.org/math/differential-calculus/dc-analytic-app/dc-mvt) (2 Articles, 2 Exercises, 6 Videos | [31m 38s](https://www.youtube.com/watch_videos?title=Ortalama+De%C4%9Fer+Teoremi%0A&video_ids=IiO8Oq1Ba78%2CiebgtN3NZq4%2Cne-yywY8C4c%2CPE8NNZG9IYw%2CIJ-obdnR_j8%2Cz6Mc53d72mk) )
     - [Ortalama Değer Teoremi ve Önemli Noktalar](https://tr.khanacademy.org/math/differential-calculus/dc-analytic-app/dc-evt) (1 Exercise, 3 Videos | [21m 42s](https://www.youtube.com/watch_videos?title=Ortalama+De%C4%9Fer+Teoremi+ve+%C3%96nemli+Noktalar&video_ids=SJrysFtvgvE%2CCDc2aU3huP8%2CiueKajN6evk) )
@@ -1510,20 +1426,18 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [F, F' ve F''nü Birleştirme](https://tr.khanacademy.org/math/differential-calculus/dc-analytic-app/dc-connecting-func-derivative) (2 Articles, 3 Exercises, 1 Quiz, 7 Videos | [32m 9s](https://www.youtube.com/watch_videos?title=F%2C+F%27+ve+F%27%27n%C3%BC+Birle%C5%9Ftirme&video_ids=aAEqgBCOjFQ%2CqkCmYLtIubU%2CPBPuE3gu_bw%2CQgpjYgAAW7o%2CnN8v3ECPKTU%2CelugjT_Np3M%2CG6ReTLn9vLc) )
     - [Optimizasyon Problemlerini Çözme](https://tr.khanacademy.org/math/differential-calculus/dc-analytic-app/dc-optimization) (1 Exercise, 9 Videos | [1h 30m](https://www.youtube.com/watch_videos?title=Optimizasyon+Problemlerini+%C3%87%C3%B6zme&video_ids=1TK8V_qmqrk%2CMC0tq6fNRwU%2CcRboY08YG8g%2Cdam16G6cZ8k%2CtSMuKcN-RKM%2CIFU7Go6Qg6E%2CeS-_ZFzHjYA%2CviaPc8zDcRI%2C5P1O6tBiTlQ) )
     - [Örtük İlişkileri Analiz Etme](https://tr.khanacademy.org/math/differential-calculus/dc-analytic-app/dc-implicit-relations) (1 Exercise, 1 Video | [2m 55s](https://www.youtube.com/watch_videos?title=%C3%96rt%C3%BCk+%C4%B0li%C5%9Fkileri+Analiz+Etme&video_ids=ZhOojHeslhs) )
-    - [Hesap Makinesi Kullanılan Alıştırma](https://tr.khanacademy.org/math/differential-calculus/dc-analytic-app/dc-calculator-active) (1 Exercise, 1 Quiz, 1 Test)
   - [Parametrik Denklemler, Kutupsal Koordinatlar ve Vektör Değerli Fonksiyonlar](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs) (5 Topics)
-    - [Parametrik Denklemlere Giriş](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-parametric) (1 Exercise, 2 Videos | [16m 43s](https://www.youtube.com/watch_videos?title=Parametrik+Denklemlere+Giri%C5%9F&video_ids=QFIKpaHpRG8%2CxfRaAWKZyKM) )
+    - [Parametric equations intro | Differential calculus | Khan Academy](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-parametric) (1 Exercise, 2 Videos | [16m 43s](https://www.youtube.com/watch_videos?title=Parametric+equations+intro+%7C+Differential+calculus+%7C+Khan+Academy&video_ids=QFIKpaHpRG8%2CxfRaAWKZyKM) )
     - [Parametrik denklemlerin ikinci türevleri](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-parametric-second) (1 Exercise, 1 Video | [6m 30s](https://www.youtube.com/watch_videos?title=Parametrik+denklemlerin+ikinci+t%C3%BCrevleri&video_ids=cxjVrBgzKCI) )
-    - [Vector-valued functions](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-vector-valued-func) (2 Exercises, 3 Videos | [25m 32s](https://www.youtube.com/watch_videos?title=Vector-valued+functions&video_ids=Vva7st2A-gw%2CScz7qGxuhrE%2CE0prPJpI9qM) )
-    - [Düzlemsel Hareket
-](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-planar-motion) (2 Exercises, 1 Quiz, 3 Videos | [16m 49s](https://www.youtube.com/watch_videos?title=D%C3%BCzlemsel+Hareket%0A&video_ids=003p6V5WH1E%2CsgdoSWhR-VY%2CrPl7zpY5TH0) )
-    - [Polar functions](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-polar) (2 Exercises, 1 Quiz, 1 Test, 2 Videos | [15m 22s](https://www.youtube.com/watch_videos?title=Polar+functions&video_ids=8mS9eDHf0fQ%2CConsnUZGfmw) )
+    - [Vector-valued functions | Differential calculus | Khan Academy](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-vector-valued-func) (2 Exercises, 3 Videos | [25m 32s](https://www.youtube.com/watch_videos?title=Vector-valued+functions+%7C+Differential+calculus+%7C+Khan+Academy&video_ids=Vva7st2A-gw%2CScz7qGxuhrE%2CE0prPJpI9qM) )
+    - [Planar motion | Differential calculus | Khan Academy](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-planar-motion) (2 Exercises, 1 Quiz, 3 Videos | [16m 49s](https://www.youtube.com/watch_videos?title=Planar+motion+%7C+Differential+calculus+%7C+Khan+Academy&video_ids=003p6V5WH1E%2CsgdoSWhR-VY%2CrPl7zpY5TH0) )
+    - [Polar functions | Differential calculus | Khan Academy](https://tr.khanacademy.org/math/differential-calculus/dc-adv-funcs/dc-polar) (2 Exercises, 1 Quiz, 1 Test, 2 Videos | [15m 22s](https://www.youtube.com/watch_videos?title=Polar+functions+%7C+Differential+calculus+%7C+Khan+Academy&video_ids=8mS9eDHf0fQ%2CConsnUZGfmw) )
 
 ## [İntegral Kalkülüs](https://tr.khanacademy.org/math/integral-calculus) (5 Topics)
   - [İntegraller](https://tr.khanacademy.org/math/integral-calculus/ic-integration) (21 Topics)
     - [Biriken Değişime Giriş](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-integral-calc-intro) (1 Article, 1 Exercise, 3 Videos | [14m 15s](https://www.youtube.com/watch_videos?title=Biriken+De%C4%9Fi%C5%9Fime+Giri%C5%9F&video_ids=3AqQ_ofuW34%2C0dDIPzqKgYk%2CTHesyuLKXEc) )
     - [Riemann Toplamlarıyla Tahmin](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-riemann-sums) (3 Articles, 3 Exercises, 7 Videos | [46m 3s](https://www.youtube.com/watch_videos?title=Riemann+Toplamlar%C4%B1yla+Tahmin&video_ids=dEAk0BHBYCM%2CER5eoDkjsrc%2Cdki2K3Z-1kI%2CXmI80eJZAWM%2CkJ57S0Z4Vp8%2C1p0NHR5w0Lc%2Cv13fraCiLEg) )
-    - [Toplam Gösterimi Özeti](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-summation-notation) (1 Article, 1 Exercise, 2 Videos | [9m 48s](https://www.youtube.com/watch_videos?title=Toplam+G%C3%B6sterimi+%C3%96zeti&video_ids=Qb_8elG1BHw%2C_Gjnx0AvQC4) )
+    - [Summation notation review | Integral calculus | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-summation-notation) (1 Article, 1 Exercise, 2 Videos | [9m 48s](https://www.youtube.com/watch_videos?title=Summation+notation+review+%7C+Integral+calculus+%7C+Khan+Academy&video_ids=Qb_8elG1BHw%2C_Gjnx0AvQC4) )
     - [Reimann Toplamını Genelleme
 ](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-riemann-sums-summation-notation) (1 Article, 1 Exercise, 4 Videos | [30m 27s](https://www.youtube.com/watch_videos?title=Reimann+Toplam%C4%B1n%C4%B1+Genelleme%0A&video_ids=ViqrHGae7FA%2C3ZhUdleD1lQ%2CnaRUWPvsQbQ%2CWeVWv_OEJsY) )
     - [Riemann toplamlarıyla İntegralleri Belirleme](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-definite-integral-definition) (1 Article, 1 Exercise, 1 Quiz, 3 Videos | [16m 35s](https://www.youtube.com/watch_videos?title=Riemann+toplamlar%C4%B1yla+%C4%B0ntegralleri+Belirleme&video_ids=jCr1afzwWSQ%2CeidemLqiPyQ%2CHimr2l8Rd18) )
@@ -1545,7 +1459,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Doğrusal Basit Kesirlerine Ayırarak İntegral Alma](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-partial-frac) (1 Exercise, 1 Video | [7m 19s](https://www.youtube.com/watch_videos?title=Do%C4%9Frusal+Basit+Kesirlerine+Ay%C4%B1rarak+%C4%B0ntegral+Alma&video_ids=Mt92Ozs7aJg) )
     - [Has Olmayan İntegral
 ](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-improper-integrals) (1 Article, 1 Exercise, 1 Quiz, 3 Videos | [18m 1s](https://www.youtube.com/watch_videos?title=Has+Olmayan+%C4%B0ntegral%0A&video_ids=02IFtosHxrM%2CGC_lVzOM1FQ%2CNrkUzmRiSJw) )
-    - [İspat Videoları](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-integration-proofs) (1 Test, 2 Videos | [26m 24s](https://www.youtube.com/watch_videos?title=%C4%B0spat+Videolar%C4%B1&video_ids=pWtt0AvU0KA%2CCz_GWNdf_68) )
+    - [Proof videos | Integration and accumulation of change | Integral calculus | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-integration/ic-integration-proofs) (1 Test, 2 Videos | [26m 24s](https://www.youtube.com/watch_videos?title=Proof+videos+%7C+Integration+and+accumulation+of+change+%7C+Integral+calculus+%7C+Khan+Academy&video_ids=pWtt0AvU0KA%2CCz_GWNdf_68) )
   - [Diferansiyel Denklemler
 ](https://tr.khanacademy.org/math/integral-calculus/ic-diff-eq) (9 Topics)
     - [Diferansiyel Denklemler
@@ -1556,18 +1470,15 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Euler Metodu Yaklaşımı](https://tr.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-eulers-method) (1 Exercise, 1 Quiz, 2 Videos | [14m 43s](https://www.youtube.com/watch_videos?title=Euler+Metodu+Yakla%C5%9F%C4%B1m%C4%B1&video_ids=YYQ1YtxcJGQ%2C5QulZ_eYcbM) )
     - [Değişkenlerin Ayrılması](https://tr.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-separation-of-vars) (2 Articles, 3 Exercises, 4 Videos | [23m 11s](https://www.youtube.com/watch_videos?title=De%C4%9Fi%C5%9Fkenlerin+Ayr%C4%B1lmas%C4%B1&video_ids=ysSeGCddqEQ%2CGraz77PexaU%2C6CIR-CJ2ceE%2CK99YJ-ODnxk) )
     - [Diferansiyel Denklemlerde Farklı Çözüm Yolları](https://tr.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-diff-eq-particular-solutions) (2 Exercises, 4 Videos | [16m 28s](https://www.youtube.com/watch_videos?title=Diferansiyel+Denklemlerde+Farkl%C4%B1+%C3%87%C3%B6z%C3%BCm+Yollar%C4%B1&video_ids=CNycQBfHBVo%2CqMnUR-iGvjo%2CE444KhRcWSk%2CB8WnP_yQ2ac) )
-    - [Üstel Modeller
-](https://tr.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-exp-models) (2 Exercises, 3 Videos | [17m 1s](https://www.youtube.com/watch_videos?title=%C3%9Cstel+Modeller%0A&video_ids=EGZuetTj9e8%2Cxu-PIHL_G_Y%2C7HgFIuwFmp4) )
-    - [Lojistik Modeller
-](https://tr.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-logistic-models) (1 Exercise, 1 Quiz, 1 Test, 6 Videos | [1h 2m 23s](https://www.youtube.com/watch_videos?title=Lojistik+Modeller%0A&video_ids=_JpS8k1a9yE%2CoiDvNs15tkE%2CkDZlMFkKhWA%2Cj_Taf2Tgggo%2CNU1v-8VRirU%2C-fIsaqN-aaQ) )
+    - [Exponential models | Differential equations | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-exp-models) (2 Exercises, 3 Videos | [17m 1s](https://www.youtube.com/watch_videos?title=Exponential+models+%7C+Differential+equations+%7C+Khan+Academy&video_ids=EGZuetTj9e8%2Cxu-PIHL_G_Y%2C7HgFIuwFmp4) )
+    - [Logistic models  | Differential equations | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-diff-eq/ic-logistic-models) (1 Exercise, 1 Quiz, 1 Test, 6 Videos | [1h 2m 23s](https://www.youtube.com/watch_videos?title=Logistic+models++%7C+Differential+equations+%7C+Khan+Academy&video_ids=_JpS8k1a9yE%2CoiDvNs15tkE%2CkDZlMFkKhWA%2Cj_Taf2Tgggo%2CNU1v-8VRirU%2C-fIsaqN-aaQ) )
   - [İntegrallere İlişkin Uygulamalar](https://tr.khanacademy.org/math/integral-calculus/ic-int-app) (14 Topics)
     - [Fonksiyonun Bir Aralıktaki Ortalama Değeri
 ](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-avg-value) (1 Exercise, 3 Videos | [18m 58s](https://www.youtube.com/watch_videos?title=Fonksiyonun+Bir+Aral%C4%B1ktaki+Ortalama+De%C4%9Feri%0A&video_ids=wRXqMQpzkgM%2CFlBDU5ETpJ8%2CCs66uEODwqA) )
-    - [Doğru Hareketi](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-linear-motion) (1 Article, 2 Exercises, 5 Videos | [27m 32s](https://www.youtube.com/watch_videos?title=Do%C4%9Fru+Hareketi&video_ids=G5_J2jAToC8%2CM7IZClYqdEo%2CFFtNQPs8w5o%2CsLw902V40L0%2CWFO8V_VOl-w) )
+    - [Straight-line motion | Integral calculus | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-linear-motion) (1 Article, 2 Exercises, 5 Videos | [27m 32s](https://www.youtube.com/watch_videos?title=Straight-line+motion+%7C+Integral+calculus+%7C+Khan+Academy&video_ids=G5_J2jAToC8%2CM7IZClYqdEo%2CFFtNQPs8w5o%2CsLw902V40L0%2CWFO8V_VOl-w) )
     - [Hareketsiz İntegral Uygulamaları](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-integral-apps) (1 Article, 3 Exercises, 1 Quiz, 5 Videos | [30m 46s](https://www.youtube.com/watch_videos?title=Hareketsiz+%C4%B0ntegral+Uygulamalar%C4%B1&video_ids=ZtZMWo-tWZQ%2CLQwhyiyfAsQ%2CtN5yRAQaT2w%2CU4dtruMdQ7Y%2CvYix-RPhT64) )
     - [Alan: Eğriler Arasındaki Dikey Alanlar](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-vertical-area) (3 Exercises, 5 Videos | [29m 50s](https://www.youtube.com/watch_videos?title=Alan%3A+E%C4%9Friler+Aras%C4%B1ndaki+Dikey+Alanlar&video_ids=xR4AnXDBnsw%2CMM0FTzvedH4%2C_C1NcMD4M4I%2CaaCRnT8o-Ng%2CLbTH7MGMNjk) )
     - [Alan: Eğriler Arasındaki Yatay Alanlar](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-horizontal-area) (1 Exercise, 2 Videos | [11m 53s](https://www.youtube.com/watch_videos?title=Alan%3A+E%C4%9Friler+Aras%C4%B1ndaki+Yatay+Alanlar&video_ids=6XqsLv0QDUE%2Cu2EqNXBWJzs) )
-    - [Alan: İkiden Fazla Noktada Kesişen Eğriler](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-composite-area) (1 Exercise, 1 Quiz)
     - [Hacim: Kare ve Dikdörtgenlerin Kesitleri](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-vol-squares-rect) (2 Exercises, 1 Video | [5m 30s](https://www.youtube.com/watch_videos?title=Hacim%3A+Kare+ve+Dikd%C3%B6rtgenlerin+Kesitleri&video_ids=4vLy5VoUcQE) )
     - [Hacim: Kare ve Yarım Dairelerin Kesitleri](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-vol-tri-circle) (1 Exercise, 2 Videos | [16m 51s](https://www.youtube.com/watch_videos?title=Hacim%3A+Kare+ve+Yar%C4%B1m+Dairelerin+Kesitleri&video_ids=FY_8RFMrH20%2CskTICz4DRxU) )
     - [Hacim: Disk Yöntemi (X veya Y Ekseni Etrafında Döndürme)](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-disc-method-axes) (1 Exercise, 3 Videos | [19m 9s](https://www.youtube.com/watch_videos?title=Hacim%3A+Disk+Y%C3%B6ntemi+%28X+veya+Y+Ekseni+Etraf%C4%B1nda+D%C3%B6nd%C3%BCrme%29&video_ids=btGaOTXxXs8%2CvmS3cTaxKdA%2C43AS7bPUORc) )
@@ -1576,16 +1487,14 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Hacim: Rondela Yöntemi (Diğer Eksenler Etrafında Döndürme)](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-washer-method-non-axes) (1 Exercise, 1 Quiz, 4 Videos | [28m 17s](https://www.youtube.com/watch_videos?title=Hacim%3A+Rondela+Y%C3%B6ntemi+%28Di%C4%9Fer+Eksenler+Etraf%C4%B1nda+D%C3%B6nd%C3%BCrme%29&video_ids=OFNGpKGg9IQ%2CLKzpw_HUKNQ%2CWAPZihVUmzE%2Ci-Rb4_n929k) )
     - [Yay Uzunluğu
 ](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-arc-length) (1 Exercise, 3 Videos | [22m 42s](https://www.youtube.com/watch_videos?title=Yay+Uzunlu%C4%9Fu%0A&video_ids=8Y-snjheI9M%2COhISsmqv4_8%2CMtRXjXdXDow) )
-    - [Hesap Makinesi Kullanılan Alıştırma](https://tr.khanacademy.org/math/integral-calculus/ic-int-app/ic-calculator-active) (1 Exercise, 1 Quiz, 1 Test)
   - [Parametrik Denklemler, Kutupsal Koordinatlar ve Vektör Değerli Fonksiyonlar](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs) (7 Topics)
     - [Yay Uzunluğu: Parametrik Eğri](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-parametric-arc-length) (1 Exercise, 2 Videos | [10m 53s](https://www.youtube.com/watch_videos?title=Yay+Uzunlu%C4%9Fu%3A+Parametrik+E%C4%9Fri&video_ids=DXHM7LYGcbI%2CF3KyoI26fKI) )
-    - [Düzlemsel Hareket
-](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-planar-motion) (1 Exercise, 1 Quiz, 1 Video | [7m 8s](https://www.youtube.com/watch_videos?title=D%C3%BCzlemsel+Hareket%0A&video_ids=EZbgMfuh9C8) )
+    - [Planar motion | Integral calculus | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-planar-motion) (1 Exercise, 1 Quiz, 1 Video | [7m 8s](https://www.youtube.com/watch_videos?title=Planar+motion+%7C+Integral+calculus+%7C+Khan+Academy&video_ids=EZbgMfuh9C8) )
     - [Alan: Kutupsal Koordinatlar (Tek Eğri)](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-one-region) (2 Exercises, 2 Videos | [12m 57s](https://www.youtube.com/watch_videos?title=Alan%3A+Kutupsal+Koordinatlar+%28Tek+E%C4%9Fri%29&video_ids=qVn_Lfec-Ac%2C-cR6FzM1zNE) )
     - [Alan: Kutupsal Koordinatlar (Çift Eğri)](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-two-regions) (1 Exercise, 1 Video | [6m 9s](https://www.youtube.com/watch_videos?title=Alan%3A+Kutupsal+Koordinatlar+%28%C3%87ift+E%C4%9Fri%29&video_ids=KwR_ysrv3sg) )
     - [Yay Uzunluğu: Kutup Eğrileri](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs/dc-polar-arc-length) (1 Exercise, 2 Videos | [18m 9s](https://www.youtube.com/watch_videos?title=Yay+Uzunlu%C4%9Fu%3A+Kutup+E%C4%9Frileri&video_ids=CEPuNmVKnZM%2CsFlH7V7QDbQ) )
-    - [Hesap Makinesi Kullanılan Alıştırma](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-calc-active) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [2m 59s](https://www.youtube.com/watch_videos?title=Hesap+Makinesi+Kullan%C4%B1lan+Al%C4%B1%C5%9Ft%C4%B1rma&video_ids=4tWFdI7DkJ4) )
-  - [Seriler](https://tr.khanacademy.org/math/integral-calculus/ic-series) (18 Topics)
+    - [Calculator-active practice | Parametric equations, polar coordinates, and vector-valued functions | Integral calculus | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-adv-funcs/ic-polar-calc-active) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [2m 59s](https://www.youtube.com/watch_videos?title=Calculator-active+practice+%7C+Parametric+equations%2C+polar+coordinates%2C+and+vector-valued+functions+%7C+Integral+calculus+%7C+Khan+Academy&video_ids=4tWFdI7DkJ4) )
+  - [Series | Integral calculus | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-series) (18 Topics)
     - [Yakınsak ve Iraksak Sonsuz Seri](https://tr.khanacademy.org/math/integral-calculus/ic-series/ic-series-intro) (3 Exercises, 6 Videos | [28m 3s](https://www.youtube.com/watch_videos?title=Yak%C4%B1nsak+ve+Iraksak+Sonsuz+Seri&video_ids=v16OkCq4uGA%2CFvDMBH4VQ34%2CWAdNjpWuH4A%2CulSYG9Wn5TA%2CNqltzVjZnEU%2CAYagxIBhJIE) )
     - [Sonsuz Geometrik Seriler
 ](https://tr.khanacademy.org/math/integral-calculus/ic-series/ic-geometric-series) (1 Article, 1 Exercise, 1 Quiz, 5 Videos | [24m 32s](https://www.youtube.com/watch_videos?title=Sonsuz+Geometrik+Seriler%0A&video_ids=gN4_CYZKj_o%2CHFQlRAiMoUo%2CY16L9CzLCAk%2CXHirQxL0LZA%2CZp4zpwCKYs8) )
@@ -1610,7 +1519,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Fonksiyonları Kuvvet Serileri Olarak Gösterme](https://tr.khanacademy.org/math/integral-calculus/ic-series/ic-represent-func-as-series) (2 Exercises, 1 Quiz, 6 Videos | [36m 10s](https://www.youtube.com/watch_videos?title=Fonksiyonlar%C4%B1+Kuvvet+Serileri+Olarak+G%C3%B6sterme&video_ids=dEHZV7q5VV0%2C904esvqoJns%2CixFgd1lFe9g%2CTeIgljoLIxA%2CW2XtcR9B5Lo%2Csvcobr9ZvYs) )
     - [İç İçe Geçmiş Serilerin Toplamını Bulmak İçin Kısmi Kesir Açılımı Kullanma
 ](https://tr.khanacademy.org/math/integral-calculus/ic-series/ic-telescoping-series) (2 Videos | [17m 24s](https://www.youtube.com/watch_videos?title=%C4%B0%C3%A7+%C4%B0%C3%A7e+Ge%C3%A7mi%C5%9F+Serilerin+Toplam%C4%B1n%C4%B1+Bulmak+%C4%B0%C3%A7in+K%C4%B1smi+Kesir+A%C3%A7%C4%B1l%C4%B1m%C4%B1+Kullanma%0A&video_ids=WutI7jtWNU0%2CHXM0pAU6f0s) )
-    - [İspat Videoları](https://tr.khanacademy.org/math/integral-calculus/ic-series/ic-series-proofs) (1 Test, 6 Videos | [39m 52s](https://www.youtube.com/watch_videos?title=%C4%B0spat+Videolar%C4%B1&video_ids=qtxuUyRAv-E%2CxUeRE1YfveM%2C1Lv98ZEkNAU%2CpHkCdTAandk%2C9guLp4EFc1k%2CK25pzprzK_Y) )
+    - [Proof videos | Infinite sequences and series | Integral calculus | Khan Academy](https://tr.khanacademy.org/math/integral-calculus/ic-series/ic-series-proofs) (1 Test, 6 Videos | [39m 52s](https://www.youtube.com/watch_videos?title=Proof+videos+%7C+Infinite+sequences+and+series+%7C+Integral+calculus+%7C+Khan+Academy&video_ids=qtxuUyRAv-E%2CxUeRE1YfveM%2C1Lv98ZEkNAU%2CpHkCdTAandk%2C9guLp4EFc1k%2CK25pzprzK_Y) )
 
 ## [İstatistik ve Olasılık](https://tr.khanacademy.org/math/statistics-probability) (16 Topics)
   - [Kategorik Veriyi Analiz Etme](https://tr.khanacademy.org/math/statistics-probability/analyzing-categorical-data) (3 Topics)
@@ -1706,7 +1615,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-proportion) (1 Video | [14m 30s](https://www.youtube.com/watch_videos?title=N%C3%BCfus+Oran%C4%B1+Hakk%C4%B1nda+Testler%0A&video_ids=1JT9oODsClE) )
     - [Nüfus Ortalaması Hakkında Testler
 ](https://tr.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean) (4 Videos | [33m 43s](https://www.youtube.com/watch_videos?title=N%C3%BCfus+Ortalamas%C4%B1+Hakk%C4%B1nda+Testler%0A&video_ids=8po0MFmrJQ8%2CgTpqpUWOyBE%2CU8akyGo67EA%2C-uC6dXYRXto) )
-  - [Gruplar Arasındaki Fark için İki Örneklemli Çıkarım](https://tr.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples) (2 Topics)
+  - [ Hipotez Testi ve Güven Aralığı (İki Örneklem)](https://tr.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples) (2 Topics)
     - [İki Oranı Karşılaştırma
 ](https://tr.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples/comparing-two-proportions) (3 Videos | [37m](https://www.youtube.com/watch_videos?title=%C4%B0ki+Oran%C4%B1+Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma%0A&video_ids=a1Ye5RcWOqg%2CMNbat1lrJW4%2CdvSa_tx04hw) )
     - [İki Ortalamayı Karşılaştırma
@@ -1726,13 +1635,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library/analysis-of-variance-anova) (3 Videos | [31m 13s](https://www.youtube.com/watch_videos?title=Varyans+Analizi%0A&video_ids=pxxvt4PdP2I%2Cj9ZPMlVHJVs%2CXg8_iSkJpAE) )
 
 ## [Eğlenceli Matematik](https://tr.khanacademy.org/math/math-for-fun-and-glory) (5 Topics)
-  - [Matematik Dersinde Karalamalar ve Fazlası
-](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart) (9 Topics)
+  - [Vi Hart](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart) (9 Topics)
     - [Matematik Dersinde Karalama: Spiraller, Fibonacci Sayıları ve Bitkiler (2. Bölüm)
 
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/spirals-fibonacci) (5 Videos | [22m 18s](https://www.youtube.com/watch_videos?title=Matematik+Dersinde+Karalama%3A+Spiraller%2C+Fibonacci+Say%C4%B1lar%C4%B1+ve+Bitkiler+%282.+B%C3%B6l%C3%BCm%29%0A%0A&video_ids=ahXIMUkSXX0%2ClOIP_Z_-0Hs%2C14-NdQwKz9w%2CflbWv6k2JQY%2CR1k0Abm9AIs) )
-    - [Matematik Dersinde Karalamalar
-](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/doodling-in-math) (11 Videos | [1h 5m 10s](https://www.youtube.com/watch_videos?title=Matematik+Dersinde+Karalamalar%0A&video_ids=DK5Z709J2eo%2CCfJzrmS9UfY%2Ce4MSN6IImpI%2CYhlv5Aeuo_k%2Cik2CZqsAw28%2Cv-pyuaThp-c%2Co6KlpIWhbcw%2CheKK95DAKms%2CEdyociU35u8%2CdsvLLKQCxeA%2COc8sWN_jNF4) )
+    - [Matematiksel Karalamalar](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/doodling-in-math) (11 Videos | [1h 5m 10s](https://www.youtube.com/watch_videos?title=Matematiksel+Karalamalar&video_ids=DK5Z709J2eo%2CCfJzrmS9UfY%2Ce4MSN6IImpI%2CYhlv5Aeuo_k%2Cik2CZqsAw28%2Cv-pyuaThp-c%2Co6KlpIWhbcw%2CheKK95DAKms%2CEdyociU35u8%2CdsvLLKQCxeA%2COc8sWN_jNF4) )
     - [Heksafleksagonlar 1
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/hexaflexagons) (4 Videos | [15m 47s](https://www.youtube.com/watch_videos?title=Heksafleksagonlar+1%0A&video_ids=VIVIegSt81k%2CpaQ10POrZh8%2CAmN0YyaTD60%2CGTwrVAbV56o) )
     - [Pi ve Tau Hakkında
@@ -1743,15 +1650,12 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/mobius-strips) (2 Videos | [12m 7s](https://www.youtube.com/watch_videos?title=M%C3%B6bius+%C5%9Eeridi%0A&video_ids=Am-a5x9DGjg%2C4mdEsouIXGM) )
     - [Bayram Matematiği
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/thanksgiving-math) (4 Videos | [12m 53s](https://www.youtube.com/watch_videos?title=Bayram+Matemati%C4%9Fi%0A&video_ids=XwIs1nlDQ2I%2CAze-A5M4Jeg%2CAi4gd9F0uVo%2CpjrI91J6jOw) )
-    - [Sonsuzluk…
-](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/infinity) (3 Videos | [35m 1s](https://www.youtube.com/watch_videos?title=Sonsuzluk%E2%80%A6%0A&video_ids=TINfzxSnnIE%2C23I5GS4JiDg%2ClA6hE7NFIK0) )
+    - [Sonsuzluk . . .](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/infinity) (3 Videos | [35m 1s](https://www.youtube.com/watch_videos?title=Sonsuzluk+.+.+.&video_ids=TINfzxSnnIE%2C23I5GS4JiDg%2ClA6hE7NFIK0) )
     - [Diğer Güzel Şeyler
 
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/vi-hart/vi-cool-stuff) (12 Videos | [1h 2m 40s](https://www.youtube.com/watch_videos?title=Di%C4%9Fer+G%C3%BCzel+%C5%9Eeyler%0A%0A&video_ids=X1E7I7_r3Cw%2CGc62BAhvSFg%2CGFLkou8NvJo%2CdBVoIUASFS0%2Ca5z-OEIfw3s%2CGEGmjPnwBVo%2Ca-e8fzqv3CE%2CsxnX5_LbBDU%2Cjhd33hUy9Cc%2CtoKu2-qzJeM%2CWU3AlAOCxN0%2CN-7tcTIrers) )
   - [Bulmacalar](https://tr.khanacademy.org/math/math-for-fun-and-glory/puzzles) (3 Topics)
     - [Zeka Oyunları](https://tr.khanacademy.org/math/math-for-fun-and-glory/puzzles/brain-teasers) (11 Videos | [1h 54m 45s](https://www.youtube.com/watch_videos?title=Zeka+Oyunlar%C4%B1&video_ids=V7KA_Hib2pg%2CmYOMuIVBpnw%2CXPit_pBRAKM%2CzdWCTJVjXOU%2CTArsEfSyKYk%2CdP9huuGPpOU%2CCZXwEoIb9UM%2CvL9JT5m379Q%2C6_4FTNgji-8%2COGcTSNk8F0w%2Cmez8H6_cKTA) )
-    - [Dönüşüm Bulmacaları](https://tr.khanacademy.org/math/math-for-fun-and-glory/puzzles/transformation-puzzles) (3 Exercises)
-    - [Işık Bulmacaları](https://tr.khanacademy.org/math/math-for-fun-and-glory/puzzles/lights-puzzles) (6 Exercises)
   - [AMC 10 (Amerika Matematik Yarışmaları)
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/amc-10) (1 Topic)
     - [2013 AMC 10 A](https://tr.khanacademy.org/math/math-for-fun-and-glory/amc-10/2013-amc-10-a) (5 Videos | [30m](https://www.youtube.com/watch_videos?title=2013+AMC+10+A&video_ids=-UagBvxCReA%2CrcLw4BlxaRs%2CMyanDgvTb2g%2CduomXwMSPv8%2CcU9L1bTDePM) )
@@ -1761,10 +1665,8 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/aime/2003-aime) (23 Videos | [4h 17m](https://www.youtube.com/watch_videos?title=Trigonometri+Problemleri+%28%C4%B0leri+Seviye%29%0A&video_ids=ZbNv1HsXpGs%2C9fFZ7qGJz_g%2C977xP3cPJZ4%2CtbQ_7zvRoN4%2CEAN-KO3UthI%2Cw16lOZueSrA%2C9KAZiRttxU8%2CyXg5CYuCcU4%2ColzRtPom858%2Cl9j26EOvTYc%2CSMEvAK00gG0%2ClWdXh4unFbQ%2C9eWyvWq9CCs%2CbbeWLtarzrE%2CvXPxea68l98%2CHh3iY4tdkGI%2CdHJ_cFRn_Ko%2CKD46pC_KFWk%2CvKMNRcctwL4%2CvQH0n1gqdCE%2C2eLAEMRrR7Q%2CTljVBB7gxbE%2CJTpXK2mENH4) )
   - [Matematik Kavramlarıyla Tanışalım
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/math-warmup) (5 Topics)
-    - [Beklenti Kavramıyla Tanışalım
-](https://tr.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup) (1 Exercise, 2 Videos | [3m 39s](https://www.youtube.com/watch_videos?title=Beklenti+Kavram%C4%B1yla+Tan%C4%B1%C5%9Fal%C4%B1m%0A&video_ids=fgJ0ZsylLX8%2C30T2_Oq7zAQ) )
+    - [Olasılık ısınmaları](https://tr.khanacademy.org/math/math-for-fun-and-glory/math-warmup/probabilty-warmup) (1 Exercise, 2 Videos | [3m 39s](https://www.youtube.com/watch_videos?title=Olas%C4%B1l%C4%B1k+%C4%B1s%C4%B1nmalar%C4%B1&video_ids=fgJ0ZsylLX8%2C30T2_Oq7zAQ) )
     - [Rastgele Örneklemeyle Tanışalım](https://tr.khanacademy.org/math/math-for-fun-and-glory/math-warmup/random-sample-warmup) (1 Exercise, 1 Interactive, 2 Videos | [3m 50s](https://www.youtube.com/watch_videos?title=Rastgele+%C3%96rneklemeyle+Tan%C4%B1%C5%9Fal%C4%B1m&video_ids=iThjMrS3BBs%2C91HkstIVOHM) )
-    - [Dağıtma Kavramı ile Tanışalım](https://tr.khanacademy.org/math/math-for-fun-and-glory/math-warmup/distribution-warmup) (1 Article, 1 Exercise)
     - [Aritmetikle Tanışalım
 ](https://tr.khanacademy.org/math/math-for-fun-and-glory/math-warmup/arithmetic-warmups) (3 Videos | [11m 18s](https://www.youtube.com/watch_videos?title=Aritmetikle+Tan%C4%B1%C5%9Fal%C4%B1m%0A&video_ids=Cf6Hiz3axCQ%2CLms5HNBNLJ4%2CoBXMscwDyng) )
 
@@ -1782,12 +1684,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Vektörlerin Skaler Çarpımı
 
 ](https://tr.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products) (13 Videos | [3h 19m 17s](https://www.youtube.com/watch_videos?title=Vekt%C3%B6rlerin+Skaler+%C3%87arp%C4%B1m%C4%B1%0A%0A&video_ids=WNuIhXo39_k%2CrVQ3G9epCjw%2Cr2PogGDl8_U%2CPsNidCBr5II%2CNbC77FSVgQM%2CUJxgcVaNTqY%2CaMsVvsoWQOU%2C7MKA2QlKvHc%2CtdwFdzVqito%2Cb7JTVLc_aMk%2Cgw-4wltP5tY%2C7rIFO8hct9g%2Cv8plb6V8BQo) )
-    - [Eliminasyon (Yok Etme) Yöntemi ile Denklem Takımlarını Çözme
-](https://tr.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination) (3 Videos | [37m 28s](https://www.youtube.com/watch_videos?title=Eliminasyon+%28Yok+Etme%29+Y%C3%B6ntemi+ile+Denklem+Tak%C4%B1mlar%C4%B1n%C4%B1+%C3%87%C3%B6zme%0A&video_ids=ZQ7HXvBm7b8%2C-Z-NimB3Xt0%2Courjb6DnooU) )
+    - [Yok etme yöntemiyle sistem çözmek](https://tr.khanacademy.org/math/linear-algebra/vectors-and-spaces/matrices-elimination) (3 Videos | [37m 28s](https://www.youtube.com/watch_videos?title=Yok+etme+y%C3%B6ntemiyle+sistem+%C3%A7%C3%B6zmek&video_ids=ZQ7HXvBm7b8%2C-Z-NimB3Xt0%2Courjb6DnooU) )
     - [Sıfır Uzayı ve Sütun Uzayı
 ](https://tr.khanacademy.org/math/linear-algebra/vectors-and-spaces/null-column-space) (12 Videos | [3h 1m 51s](https://www.youtube.com/watch_videos?title=S%C4%B1f%C4%B1r+Uzay%C4%B1+ve+S%C3%BCtun+Uzay%C4%B1%0A&video_ids=yTcrpXjNZRA%2CY59nMHqSK4I%2C4yqFNeKnCbM%2C-fKh6SNEPr4%2Cc7izhN6242c%2CSA5xm_20YfY%2CJtYX1lUpwj4%2CrTfnu-zPeLc%2CvZwhAnsVmbY%2C7XS08ZIokVI%2ClIiPLPSLC6A%2CFNXwQ5iF6AE) )
-  - [Matris Dönüşümleri
-](https://tr.khanacademy.org/math/linear-algebra/matrix-transformations) (7 Topics)
+  - [Dönüşümler](https://tr.khanacademy.org/math/linear-algebra/matrix-transformations) (7 Topics)
     - [Fonksiyonlar ve Doğrusal Dönüşümler
 
 ](https://tr.khanacademy.org/math/linear-algebra/matrix-transformations/linear-transformations) (2 Articles, 11 Videos | [2h 40m 12s](https://www.youtube.com/watch_videos?title=Fonksiyonlar+ve+Do%C4%9Frusal+D%C3%B6n%C3%BC%C5%9F%C3%BCmler%0A%0A&video_ids=Ny3CfoowZWc%2C_PeZRU7toIU%2CmMCyibu62jE%2CjSxT4MQZEHA%2CPErhLkQcpZ8%2CMIAmN5kgp3k%2ChZ827mfh1Jo%2Ctzr3bQg37gQ%2C6yrPU8rYOhs%2CzOTv1FRJuzE%2CvahVAgO9P0U) )
@@ -1797,10 +1697,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/linear-algebra/matrix-transformations/composition-of-transformations) (5 Videos | [1h 8m 56s](https://www.youtube.com/watch_videos?title=D%C3%B6n%C3%BC%C5%9F%C3%BCmler+ve+Matris+%C3%87arp%C4%B1m%C4%B1%0A&video_ids=f_DTiXZpb8M%2CBuqcKpe5ZQs%2Cc5JVjr5u0Pg%2C6zmqaNoVG_Y%2C6j4TdfRFZnQ) )
     - [Ters Fonksiyonlar ve Ters Dönüşümler
 ](https://tr.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-transformations) (9 Videos | [2h 28m 2s](https://www.youtube.com/watch_videos?title=Ters+Fonksiyonlar+ve+Ters+D%C3%B6n%C3%BC%C5%9F%C3%BCmler%0A&video_ids=-eAzhBZgq28%2C7GEUgRcnfVE%2CpFjvOb0JGO8%2C_waTNAllM_o%2CeR8vEdJTvd0%2C1PsNIzUJPkc%2CM3FuL9qKTBs%2CbbUluOvlyBE%2Cmr9Tow8hpCg) )
-    - [Matrisin Tersi ve Determinantları Bulma
-
-
-](https://tr.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices) (7 Videos | [1h 27m 44s](https://www.youtube.com/watch_videos?title=Matrisin+Tersi+ve+Determinantlar%C4%B1+Bulma%0A%0A%0A&video_ids=6DpzCKJBsz0%2CehbC_d01l_g%2CeEUK_ThrHuQ%2C0c7dt2SQfLw%2CH9BWRYJNIv4%2Cnu87kfmwNfU%2CrVgoZXQQtho) )
+    - [Matris tersi bulma](https://tr.khanacademy.org/math/linear-algebra/matrix-transformations/inverse-of-matrices) (7 Videos | [1h 27m 44s](https://www.youtube.com/watch_videos?title=Matris+tersi+bulma&video_ids=6DpzCKJBsz0%2CehbC_d01l_g%2CeEUK_ThrHuQ%2C0c7dt2SQfLw%2CH9BWRYJNIv4%2Cnu87kfmwNfU%2CrVgoZXQQtho) )
     - [Derinlemesine Determinantlar
 ](https://tr.khanacademy.org/math/linear-algebra/matrix-transformations/determinant-depth) (9 Videos | [1h 50m 57s](https://www.youtube.com/watch_videos?title=Derinlemesine+Determinantlar%0A&video_ids=mXgcMY1F3UQ%2CZUMPLjFErEE%2CPNg7jeofsus%2CfmmrZtj1ipY%2CcGEvZGca4q8%2COWGuOdaoo94%2CQV0jsTiobU4%2Cn-S63_goDFg%2Cg3MqSdO5Ubc) )
     - [Bir Matrisin Transpozu (Devriği)
@@ -1815,8 +1712,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Baz (Taban) Değişimi
 
 ](https://tr.khanacademy.org/math/linear-algebra/alternate-bases/change-of-basis) (7 Videos | [2h 34s](https://www.youtube.com/watch_videos?title=Baz+%28Taban%29+De%C4%9Fi%C5%9Fimi%0A%0A&video_ids=uvgru6FcyxU%2C1j5WnqwMdCk%2CmeibWcbGqt4%2CPiuhTj0zCf4%2ClCRGNykWqFI%2CEyORbCPUAd4%2CK_na_j1Msfg) )
-    - [Ortonormal Bazlar ve Gram-Schmidt Metodu
-](https://tr.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis) (9 Videos | [2h 14m 35s](https://www.youtube.com/watch_videos?title=Ortonormal+Bazlar+ve+Gram-Schmidt+Metodu%0A&video_ids=7BFx8pt2aTQ%2CSWbis2zWIvo%2Cwe829K4NOq8%2COLvmfV1tfb4%2CgfVY7cW7VLQ%2CyDwIfYjKEeo%2CrHonltF77zI%2Ctu1GPtfsQ7M%2CZRRG386v6DI) )
+    - [Ortonormal doğuray](https://tr.khanacademy.org/math/linear-algebra/alternate-bases/orthonormal-basis) (9 Videos | [2h 14m 35s](https://www.youtube.com/watch_videos?title=Ortonormal+do%C4%9Furay&video_ids=7BFx8pt2aTQ%2CSWbis2zWIvo%2Cwe829K4NOq8%2COLvmfV1tfb4%2CgfVY7cW7VLQ%2CyDwIfYjKEeo%2CrHonltF77zI%2Ctu1GPtfsQ7M%2CZRRG386v6DI) )
     - [Özdeğer, Özvektör, Özuzay...
 ](https://tr.khanacademy.org/math/linear-algebra/alternate-bases/eigen-everything) (7 Videos | [1h 20m 6s](https://www.youtube.com/watch_videos?title=%C3%96zde%C4%9Fer%2C+%C3%96zvekt%C3%B6r%2C+%C3%96zuzay...%0A&video_ids=L4i8_8AxwiQ%2Crfm0wQObxjk%2Cva04t3hgVbw%2C3-xfmbdzkqc%2C11dNghWC4HI%2C3Md5KCCQX-0%2CC2PC9185gIw) )
 
@@ -1840,8 +1736,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/differential-equations/first-order-differential-equations/exact-equations) (7 Videos | [1h 9m 36s](https://www.youtube.com/watch_videos?title=Tam+Diferansiyel+Denklem+ve+%C4%B0ntegrasyon+%C3%87arpanlar%C4%B1%0A&video_ids=xFzg3gGK58M%2CBntI5vSKpAU%2CQsTT86DuXVk%2C7hKV6hfEWCo%2Ceu_GFuU7tLI%2CnHlyJLJkjlY%2CvH6fJqdM7OE) )
     - [Homojen Denklemler
 ](https://tr.khanacademy.org/math/differential-equations/first-order-differential-equations/homogeneous-equations) (2 Videos | [15m 43s](https://www.youtube.com/watch_videos?title=Homojen+Denklemler%0A&video_ids=3wjngQlOz6I%2CE7W77gBb8dc) )
-  - [İkinci Mertebeden Lineer Denklemler
-](https://tr.khanacademy.org/math/differential-equations/second-order-differential-equations) (3 Topics)
+  - [İkinci mertebeden diferansiyel denklemler](https://tr.khanacademy.org/math/differential-equations/second-order-differential-equations) (3 Topics)
     - [Doğrusal Homojen Denklemler
 ](https://tr.khanacademy.org/math/differential-equations/second-order-differential-equations/linear-homogeneous-2nd-order) (4 Videos | [33m 21s](https://www.youtube.com/watch_videos?title=Do%C4%9Frusal+Homojen+Denklemler%0A&video_ids=7Ff_U-ag060%2C84NZ3aeBVH0%2CTG1TVETlf-o%2C3jt3soKtsww) )
     - [Karakteristik Denklemin Karmaşık ve Tekrar Eden Kökleri
@@ -1868,15 +1763,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Vektör Değerli Fonksiyon Grafikleri
 ](https://tr.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/visualizing-vector-valued-functions) (6 Videos | [30m 6s](https://www.youtube.com/watch_videos?title=Vekt%C3%B6r+De%C4%9Ferli+Fonksiyon+Grafikleri%0A&video_ids=T4g7vAa092g%2C8r8-TzY6DQ4%2CJFovQuZdy5o%2CT-8dOAk5MNM%2CgnDmRpcc0xc%2CRWnmzxfpV6A) )
     - [Dönüşümler](https://tr.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/multivariable-transformations) (3 Videos | [13m 23s](https://www.youtube.com/watch_videos?title=D%C3%B6n%C3%BC%C5%9F%C3%BCmler&video_ids=roRR6A3TozM%2Cy5sN4c9Ui1M%2CMQ7pGGjr8TM) )
-    - [Çok Değişkenli Fonksiyon Grafikleri ](https://tr.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/ways-to-represent-multivariable-functions) (8 Articles)
-    - [Alıştırma](https://tr.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function/thinking-about-multivariable-function-review) (1 Exercise)
-  - [Çok Değişkenli Fonksiyonların Türevleri
-](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) (14 Topics)
+  - [Çok değişkenli türevler](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives) (14 Topics)
     - [Kısmi Türevler
 ](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives) (4 Videos | [32m 51s](https://www.youtube.com/watch_videos?title=K%C4%B1smi+T%C3%BCrevler%0A&video_ids=AXqhWeUEtQU%2CdfvnCHqzK54%2CkdMep5GUOBw%2CJ08-L2buigM) )
     - [Gradyan ve Yönlü Türev
 ](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/gradient-and-directional-derivatives) (7 Videos | [51m 14s](https://www.youtube.com/watch_videos?title=Gradyan+ve+Y%C3%B6nl%C3%BC+T%C3%BCrev%0A&video_ids=tIpKfDc295M%2C_-02ze7tf08%2CZTbTYEMvo10%2CN_ZRcLheNv0%2C4RBkIJPG6Yo%2C4tdyIGIEtNU%2CTEB2z7ZlRAw) )
-    - [Kısmi Türev ve Gradyan (Makaleler)](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivative-and-gradient-articles) (5 Articles)
     - [Parametrik Denklemlerde Türev
 ](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/position-vector-functions) (4 Videos | [39m 39s](https://www.youtube.com/watch_videos?title=Parametrik+Denklemlerde+T%C3%BCrev%0A&video_ids=Vva7st2A-gw%2CScz7qGxuhrE%2CObDknXuV37c%2CY6LbKF6FckY) )
     - [Çok Değişkenli Zincir Kuralı
@@ -1884,15 +1775,12 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Eğrilik](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curvature) (9 Videos | [1h 51s](https://www.youtube.com/watch_videos?title=E%C4%9Frilik&video_ids=ugtUGhBSeE0%2CgspjhwSNMWs%2CQ-BxnC-uWQo%2C8V4_4M90RfA%2CWmdN_iPhxAI%2C8aHUrjgF6s0%2CAE8NVTyESd8%2CkjNgXVZ1aZ4%2CbiK6_fWLDRc) )
     - [Vektör Değerli Fonksiyonların Kısmi Türevleri
 ](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/partial-derivatives-of-vector-valued-functions) (5 Videos | [34m 55s](https://www.youtube.com/watch_videos?title=Vekt%C3%B6r+De%C4%9Ferli+Fonksiyonlar%C4%B1n+K%C4%B1smi+T%C3%BCrevleri%0A&video_ids=ln43wOC3iC4%2Ce7Nel0UoXR8%2Clz8L-0SoMo0%2Car9SeJpbPI8%2CVhtFSSq3lXo) )
-    - [Vektör Değerli Fonksiyonların Türevini Alma (Makaleler)](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/differentiating-vector-valued-functions) (4 Articles)
     - [Diverjans](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-grant-videos) (6 Videos | [30m 32s](https://www.youtube.com/watch_videos?title=Diverjans&video_ids=c0MR-vWiUPU%2CYeie-aJT2eU%2CuOX7SijjH9w%2CTKlpZ0UUJTQ%2CAlXVrAOls-8%2CTyYlBXNETZE) )
     - [Rotasyonel](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/curl-grant-videos) (10 Videos | [59m 57s](https://www.youtube.com/watch_videos?title=Rotasyonel&video_ids=DQTHfu5C-74%2C0hBRnXAg_To%2CmD8kortZUuk%2C6O0_6PxtPQM%2CItBnGdsTDS8%2CSPJp4LhG3vY%2C4rkmb1J-8_o%2CCngbB47FvJw%2CglC6Ohq_EYc%2C733Kmx-J8JE) )
-    - [Diverjans ve Rotasyonel (Makaleler)](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/divergence-and-curl-articles) (4 Articles)
     - [Laplace Dönüşümü
 ](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/laplacian) (4 Videos | [25m 51s](https://www.youtube.com/watch_videos?title=Laplace+D%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC%0A&video_ids=EW08rD-GFh0%2CXbCvGRjjzgg%2C6cMn1F6bNPU%2CJQSC0lCPG24) )
     - [Jacobi Yinelemeli Metodu
 ](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/jacobian) (5 Videos | [33m 53s](https://www.youtube.com/watch_videos?title=Jacobi+Yinelemeli+Metodu%0A&video_ids=VmfTXVG9S0U%2CVnga_psnCAo%2CbohL918kXQk%2CCGbBbH1e7Yw%2Cp46QWyHQE6M) )
-    - [Alıştırma](https://tr.khanacademy.org/math/multivariable-calculus/multivariable-derivatives/multivariable-derivatives-review) (1 Exercise)
   - [Çok Değişkenli Fonksiyonların Türev Uygulamaları
 ](https://tr.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives) (6 Topics)
     - [Teğet Düzlemler ve Yerel Lineerizasyon
@@ -1901,51 +1789,26 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/quadratic-approximations) (2 Articles, 7 Videos | [56m 55s](https://www.youtube.com/watch_videos?title=Polinom+Fonksiyonlarda+Tahminlerde+Bulunma%0A&video_ids=80bJA_tSbo4%2CUV5yj5A3QIM%2CszHMvVXxp-g%2CfW3snxnCPEY%2CLbBcuZukCAw%2C0yEiCV-xEWQ%2CClFrIg0PpnM) )
     - [Çok Değişkenli Fonksiyonlarda Optimizasyon
 ](https://tr.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions-videos) (7 Videos | [1h 2m](https://www.youtube.com/watch_videos?title=%C3%87ok+De%C4%9Fi%C5%9Fkenli+Fonksiyonlarda+Optimizasyon%0A&video_ids=ux7EQ3ip2DU%2C8aAU4r_pUUU%2CnRJM4mY-Pq0%2Cm1FhUjMMv30%2CsJo7D74PAak%2CshWXeUn5BHk%2CTqslX-bUTD8) )
-    - [Çok Değişkenli Fonksiyonlarda Optimizasyon (Makaleler)
-](https://tr.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions) (4 Articles)
     - [Lagrange Çarpanları ve Sınırlandırılmış Optimizasyon](https://tr.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/lagrange-multipliers-and-constrained-optimization) (8 Videos | [1h 16m 28s](https://www.youtube.com/watch_videos?title=Lagrange+%C3%87arpanlar%C4%B1+ve+S%C4%B1n%C4%B1rland%C4%B1r%C4%B1lm%C4%B1%C5%9F+Optimizasyon&video_ids=vwUV2IDLP8Q%2CyuqB-d5MjZA%2Caep6lwPqm6I%2CBSKtQcLQLWU%2C5gCx5YCmXbI%2ChQ4UNu1P2kw%2Cm-G3K2GPmEQ%2CdPMEUi77qZk) )
-    - [Kısıtlanmış Optimizasyon (Makaleler)](https://tr.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization) (3 Articles)
   - [Çok Değişkenli Fonksiyonların İntegralini Alma
 ](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions) (13 Topics)
-    - [Skaler Fonksiyonların Çizgi İntegrali 
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals) (4 Videos | [54m 41s](https://www.youtube.com/watch_videos?title=Skaler+Fonksiyonlar%C4%B1n+%C3%87izgi+%C4%B0ntegrali+%0A&video_ids=ZuOaR5_mGQY%2CJWvPjn3GSyk%2CSGlNlotO5Cs%2CKkMdfMk0CNI) )
-    - [Skaler Fonksiyonların Çizgi İntegrali (Makaleler)
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-for-scalar-functions-articles) (5 Articles)
-    - [Vektör Alanlarının Çizgi İntegralleri 
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors) (9 Videos | [1h 54m 57s](https://www.youtube.com/watch_videos?title=Vekt%C3%B6r+Alanlar%C4%B1n%C4%B1n+%C3%87izgi+%C4%B0ntegralleri+%0A&video_ids=jF8j8CXgGEA%2CBLAqWlirAZ8%2CmON1utapOks%2CT2PWqSIYvO0%2CCUZTPP0DEfI%2CE4Fml_t6rOI%2CmUlixq7HFYI%2CedVUqpL3j0M%2CwJnwtvWOrU8) )
-    - [Vektör Alanlarının Çizgi İntegralleri (Makaleler)
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-in-vector-fields-articles) (5 Articles)
-    - [Çift Katlı İntegraller 
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic) (6 Videos | [57m 35s](https://www.youtube.com/watch_videos?title=%C3%87ift+Katl%C4%B1+%C4%B0ntegraller+%0A&video_ids=9YAmETcs01M%2CkC7vtdmY_lQ%2CU3jxJnUvekw%2Cz30lrGFall0%2CUwTgKIyZN8Q%2Cu0OXRA_ZOKg) )
+    - [Skaler fonksiyonlar için çizgi integralleri](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals) (4 Videos | [54m 41s](https://www.youtube.com/watch_videos?title=Skaler+fonksiyonlar+i%C3%A7in+%C3%A7izgi+integralleri&video_ids=ZuOaR5_mGQY%2CJWvPjn3GSyk%2CSGlNlotO5Cs%2CKkMdfMk0CNI) )
+    - [Vektör alanlarındaki çizgi integralleri](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/line-integrals-vectors) (9 Videos | [1h 54m 57s](https://www.youtube.com/watch_videos?title=Vekt%C3%B6r+alanlar%C4%B1ndaki+%C3%A7izgi+integralleri&video_ids=jF8j8CXgGEA%2CBLAqWlirAZ8%2CmON1utapOks%2CT2PWqSIYvO0%2CCUZTPP0DEfI%2CE4Fml_t6rOI%2CmUlixq7HFYI%2CedVUqpL3j0M%2CwJnwtvWOrU8) )
+    - [Çift katlı integraller](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-topic) (6 Videos | [57m 35s](https://www.youtube.com/watch_videos?title=%C3%87ift+katl%C4%B1+integraller&video_ids=9YAmETcs01M%2CkC7vtdmY_lQ%2CU3jxJnUvekw%2Cz30lrGFall0%2CUwTgKIyZN8Q%2Cu0OXRA_ZOKg) )
     - [Kutupsal Koordinatlar
 ](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a) (4 Articles, 1 Video | [10m 20s](https://www.youtube.com/watch_videos?title=Kutupsal+Koordinatlar%0A&video_ids=7sAxTJxL_o8) )
-    - [Üç Katlı İntegraller
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-topic) (3 Videos | [29m 52s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7+Katl%C4%B1+%C4%B0ntegraller%0A&video_ids=s7iOj9zohWM%2CUiX-XHWfK0o%2CXzhxZWz4zaY) )
-    - [Üç Katlı İntegraller (Makaleler)
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-a) (3 Articles)
-    - [Yüzey İntegralleri Başlangıç
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-parametrization) (3 Videos | [45m 41s](https://www.youtube.com/watch_videos?title=Y%C3%BCzey+%C4%B0ntegralleri+Ba%C5%9Flang%C4%B1%C3%A7%0A&video_ids=Z_4KP--QZ7s%2CB46eKuWgu_Y%2CH5g7GpHP8w4) )
-    - [Yüzey İntegralleri
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction) (13 Videos | [2h 19m 51s](https://www.youtube.com/watch_videos?title=Y%C3%BCzey+%C4%B0ntegralleri%0A&video_ids=gzlj9CT9q38%2CYNhMJ55QuUw%2CuRH5DerZVjs%2CneLgz7A72rE%2CE_Hwhp74Rhc%2CtyVCA_8MUV4%2CuzOXGgAgmPs%2CPpUWpxAb39w%2CItW5CxLsLSo%2CEOpzN8ZHqpU%2CxGiILI906C4%2CwiVWafc3JBM%2CbhrmEy0wvD0) )
-    - [Yüzey İntegralleri (Makaleler)
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-articles) (4 Articles)
-    - [Akı (Flux) 3D
-](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/3d-flux) (3 Videos | [24m 21s](https://www.youtube.com/watch_videos?title=Ak%C4%B1+%28Flux%29+3D%0A&video_ids=ivg3dLTarbs%2CxpkGmdwmjak%2CNCwwfvPEVn8) )
-    - [Akı (Flux) 3D (Makaleler)](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/flux-in-3d-articles) (3 Articles)
-  - [Green, Stokes ve Diverjans Teoremleri
-](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem) (11 Topics)
-    - [Diverjans ve Rotasyonelin Tanımı ](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/formal-definitions-of-divergence-and-curl) (5 Articles)
+    - [Üç katlı integraller](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/triple-integrals-topic) (3 Videos | [29m 52s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7+katl%C4%B1+integraller&video_ids=s7iOj9zohWM%2CUiX-XHWfK0o%2CXzhxZWz4zaY) )
+    - [Yüzeyin parametrik ifadesi](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-parametrization) (3 Videos | [45m 41s](https://www.youtube.com/watch_videos?title=Y%C3%BCzeyin+parametrik+ifadesi&video_ids=Z_4KP--QZ7s%2CB46eKuWgu_Y%2CH5g7GpHP8w4) )
+    - [Yüzey İntegralleri](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/surface-integrals-introduction) (13 Videos | [2h 19m 51s](https://www.youtube.com/watch_videos?title=Y%C3%BCzey+%C4%B0ntegralleri&video_ids=gzlj9CT9q38%2CYNhMJ55QuUw%2CuRH5DerZVjs%2CneLgz7A72rE%2CE_Hwhp74Rhc%2CtyVCA_8MUV4%2CuzOXGgAgmPs%2CPpUWpxAb39w%2CItW5CxLsLSo%2CEOpzN8ZHqpU%2CxGiILI906C4%2CwiVWafc3JBM%2CbhrmEy0wvD0) )
+    - [Üç boyutta akı ve yüzeye normal birim vektör oluşturma](https://tr.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/3d-flux) (3 Videos | [24m 21s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7+boyutta+ak%C4%B1+ve+y%C3%BCzeye+normal+birim+vekt%C3%B6r+olu%C5%9Fturma&video_ids=ivg3dLTarbs%2CxpkGmdwmjak%2CNCwwfvPEVn8) )
+  - [Green teoremi ve Stokes teoremi](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem) (11 Topics)
     - [Green Teoremi
 ](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem) (4 Videos | [51m 30s](https://www.youtube.com/watch_videos?title=Green+Teoremi%0A&video_ids=CDHSSTsAeUc%2CmHtYvx5lCSQ%2CAf5fqt0dGN0%2CYUXRzYaCf0g) )
-    - [Green Teoremi (Makaleler)](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/greens-theorem-articles) (2 Articles)
-    - [2 Boyutlu Diverjans Teoremi 
-](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp) (3 Videos | [34m 20s](https://www.youtube.com/watch_videos?title=2+Boyutlu+Diverjans+Teoremi+%0A&video_ids=_9x2cqO7-Ig%2CeoJGBr-tJXo%2Cqs0hRHfnzTQ) )
+    - [2 boyutlu Diverjans teoremi](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/2d-divergence-theorem-ddp) (3 Videos | [34m 20s](https://www.youtube.com/watch_videos?title=2+boyutlu+Diverjans+teoremi&video_ids=_9x2cqO7-Ig%2CeoJGBr-tJXo%2Cqs0hRHfnzTQ) )
     - [Stoke Teoremi
 ](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem) (11 Videos | [1h 8m 4s](https://www.youtube.com/watch_videos?title=Stoke+Teoremi%0A&video_ids=9iaYNaENVH4%2CuqRevOTffbI%2CrShlXRaLDQM%2CU6U4HhR3Fqc%2CrBV7CY8mSlA%2Cbgh7LMQXBA8%2C9bwy85M1Zxg%2CVPz4bCQDGgk%2CclL2jLXtX4I%2CA57_63yP1UU%2CJhu1M53AF0E) )
-    - [Stokes Teoremi (Makaleler)](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-theorem-articles) (3 Articles)
     - [3 Boyutlu Diverjans Teoremi
 ](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem) (3 Videos | [23m 33s](https://www.youtube.com/watch_videos?title=3+Boyutlu+Diverjans+Teoremi%0A&video_ids=XyiQ2dwJHXE%2CasyIsn59Lnc%2CvpGZJ_rAdiw) )
-    - [Diverjans Teoremi (Makaleler)](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/divergence-theorem-articles) (3 Articles)
     - [Stoke Teoreminin Kanıtı
 ](https://tr.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem/stokes-proof) (7 Videos | [47m 7s](https://www.youtube.com/watch_videos?title=Stoke+Teoreminin+Kan%C4%B1t%C4%B1%0A&video_ids=qIBqvr5_QqQ%2CapWQoMKVmW4%2C4o4P7KrkzXg%2C1og25U-d3_8%2Ca29qZSRDBdE%2C02gVmoObrjM%2CYT6XwkcPcsw) )
     - [3 Boyut ve Bölgeleri
@@ -1967,7 +1830,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/one-sided-limits-calc) (1 Exercise, 6 Videos | [29m 58s](https://www.youtube.com/watch_videos?title=Tek+Tarafl%C4%B1+Limitler%0A&video_ids=LMXudV8XT34%2Crj1_Bifn1Og%2CErc1SBFAiYU%2CUT6yRj6x74U%2C7T0IKPaQfCw%2Cl7SQtPqtQYY) )
     - [Limitin Biçimsel Tanımı (Epsilon Delta)
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/formal-definition-of-limits-calc) (4 Videos | [25m 11s](https://www.youtube.com/watch_videos?title=Limitin+Bi%C3%A7imsel+Tan%C4%B1m%C4%B1+%28Epsilon+Delta%29%0A&video_ids=YiRABhEn3XI%2CUok5Z1aEnIc%2CB1mPJdA6xuU%2CRZC0AdjNflc) )
-    - [Tekrar: Limitin Temelleri](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-basics-review-calc) (1 Exercise)
     - [Bir Noktada Süreklilik
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/continuity-at-a-point-calc) (1 Exercise, 3 Videos | [22m 38s](https://www.youtube.com/watch_videos?title=Bir+Noktada+S%C3%BCreklilik%0A&video_ids=1B_pLxJX_Os%2CwsIKYo4FisE%2CO_JqohHkTpg) )
     - [Bileşke ve Bileşik Fonksiyonların Limitleri
@@ -1975,7 +1837,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Sürekli Fonksiyonlar
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/continuous-functions-calc) (1 Exercise, 2 Videos | [7m 39s](https://www.youtube.com/watch_videos?title=S%C3%BCrekli+Fonksiyonlar%0A&video_ids=bcH7Gc0wjZM%2Cw7asyKLyvJ0) )
     - [Ara Değer Teoremi](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/intermediate-value-theorem-calc) (1 Article, 1 Exercise, 2 Videos | [14m 48s](https://www.youtube.com/watch_videos?title=Ara+De%C4%9Fer+Teoremi&video_ids=EGCf5TSaNRA%2Cx-44qKskaXc) )
-    - [Tekrar: Süreklilik](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/continuity-review-calc) (1 Exercise)
     - [Denklemlerden Limit Bulma (Doğrudan Yerine Koyma)
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-from-equations-calc) (2 Exercises, 2 Videos | [4m 21s](https://www.youtube.com/watch_videos?title=Denklemlerden+Limit+Bulma+%28Do%C4%9Frudan+Yerine+Koyma%29%0A&video_ids=0EYhUdIEcJo%2Cr8mwm9sC23M) )
     - [Denklemlerden Limit Bulma (Çarpanlarına Ayırma ve Kökten Kurtarma)
@@ -1988,13 +1849,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-of-piecewise-functions-calc) (1 Exercise, 2 Videos | [8m 2s](https://www.youtube.com/watch_videos?title=Par%C3%A7al%C4%B1+Fonksiyonlar%C4%B1n+Limitleri%0A&video_ids=m0zi_uGrLXo%2CEMA1WgsiU9s) )
     - [Kaldırılabilir Süreksizlikler
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/removable-discontinuities-calc) (1 Exercise, 2 Videos | [10m 17s](https://www.youtube.com/watch_videos?title=Kald%C4%B1r%C4%B1labilir+S%C3%BCreksizlikler%0A&video_ids=6D8wfri6Alk%2CVzvOUEdMK3o) )
-    - [Tekrar: Denklemlerden Limit Bulma](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-from-equations-review-calc) (1 Exercise)
     - [Sonsuz Limitler (Dikey Asimptotlar)
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/unbounded-limits-calc) (2 Exercises, 5 Videos | [22m 45s](https://www.youtube.com/watch_videos?title=Sonsuz+Limitler+%28Dikey+Asimptotlar%29%0A&video_ids=rXYrM9N4hEQ%2Cpj6jtXIgcXI%2C0QLQVDFafsI%2CQrFT7wR0n7k%2CiLYkDdPoZNY) )
     - [Sonsuz Limitler (Yatay Asimptotlar)
 ](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-at-infinity-calc) (3 Exercises, 8 Videos | [36m 3s](https://www.youtube.com/watch_videos?title=Sonsuz+Limitler+%28Yatay+Asimptotlar%29%0A&video_ids=rXYrM9N4hEQ%2CREaHop6Esmw%2C7x1ZavIZ2fU%2CaTB05bRUx4w%2CJnKMV9EJUw4%2CSsMQH68AWxY%2CsJPBLe4Lis8%2CzAtJqImTfqY) )
-    - [Tekrar: Sonsuz Limitler](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/infinite-limits-review-calc) (1 Exercise)
-    - [Limitler beceri kontrolü](https://tr.khanacademy.org/math/calculus-home/limits-and-continuity-calc/limits-skill-checks) (2 Exercises)
   - [Türev Alma](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc) (42 Topics)
     - [Diferansiyal Kalkülüs
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/intro-to-diff-calculus-calc) (1 Article, 2 Exercises, 3 Videos | [18m 8s](https://www.youtube.com/watch_videos?title=Diferansiyal+Kalk%C3%BCl%C3%BCs%0A&video_ids=Svz1QKg5YqM%2Ctaj5YA-JLQE%2CGF3oAzVOIuc) )
@@ -2014,7 +1872,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/differentiability-calc) (2 Exercises, 4 Videos | [20m 38s](https://www.youtube.com/watch_videos?title=T%C3%BCrevlenebilirlik%0A&video_ids=3LWfOf-VNao%2C9xP6Qn4grz4%2CS6zqQCA9rpw%2C556lEXoQTec) )
     - [Fonksiyon Olarak Türev
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/derivative-as-a-function-calc) (1 Exercise, 5 Videos | [22m 27s](https://www.youtube.com/watch_videos?title=Fonksiyon+Olarak+T%C3%BCrev%0A&video_ids=mHwMVJ6-hwk%2C07XBumAspus%2CH9MUSsI6Ri0%2CksO-VBJ7pVE%2C_tV0WwvPwow) )
-    - [Tekrar: Türevin Temelleri](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/derivative-basics-review-calc) (1 Exercise)
     - [Temel Türev Kuralları
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/basic-differentiation-rules-calc) (2 Articles, 2 Exercises, 4 Videos | [22m 50s](https://www.youtube.com/watch_videos?title=Temel+T%C3%BCrev+Kurallar%C4%B1%0A&video_ids=esTVvR-ompA%2CbC2cXjWel9E%2Cj-AmWAD3vqY%2ClVbUD-ztA0g) )
     - [Kuvvet Kuralı](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/power-rule-calc) (4 Videos | [22m 46s](https://www.youtube.com/watch_videos?title=Kuvvet+Kural%C4%B1&video_ids=Hxmw9E1StaE%2C28qAQJ20D9s%2CryNkoxx0xUY%2C8SJatNg-OV8) )
@@ -2027,12 +1884,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Sinüs ve Kosinüsün Türevleri
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/sine-and-cosine-derivatives-calc) (1 Exercise, 2 Videos | [8m 58s](https://www.youtube.com/watch_videos?title=Sin%C3%BCs+ve+Kosin%C3%BCs%C3%BCn+T%C3%BCrevleri%0A&video_ids=8O_NhjISqIU%2CKmxjAs7h7bE) )
     - [eˣ ve ln(x) Türevleri](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/ex-and-lnx-derivatives-calc) (1 Exercise, 1 Video | [3m 44s](https://www.youtube.com/watch_videos?title=e%CB%A3+ve+ln%28x%29+T%C3%BCrevleri&video_ids=8O_NhjISqIU) )
-    - [Tekrar: Türev Alma](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/basic-differentiation-review-calc) (3 Exercises)
     - [Çarpım Kuralı](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/product-rule-calc) (1 Article, 2 Exercises, 6 Videos | [26m 27s](https://www.youtube.com/watch_videos?title=%C3%87arp%C4%B1m+Kural%C4%B1&video_ids=mCnLcZegB54%2Ca9XMcYdrG-0%2CyTPxRQgZWUA%2C6H5RrQO8dk4%2CACQY-_-Fafc%2CV8B_8yL4MME) )
     - [Zincir Kuralı](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-calc) (2 Articles, 2 Exercises, 10 Videos | [56m 44s](https://www.youtube.com/watch_videos?title=Zincir+Kural%C4%B1&video_ids=Mj85PoERhdQ%2CPCAaREZf1Hw%2CLNVAdbKJTN8%2C52Arwt-dOqg%2C191RfguzCiU%2CENSXIfOWkdw%2CWsNMke4bX8U%2C8xIiGOiDiQ4%2CPP9BmyguPPM%2CFgQGrht-B_Q) )
     - [Zincir Kuralının İspatı](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/chain-rule-proof-calc) (3 Videos | [23m 45s](https://www.youtube.com/watch_videos?title=Zincir+Kural%C4%B1n%C4%B1n+%C4%B0spat%C4%B1&video_ids=eytyVWA5ZQs%2CkgJVXvZ83p0%2CcuSU-rRUUhM) )
     - [Bölüm Kuralı](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/quotient-rule-calc) (1 Article, 2 Exercises, 4 Videos | [23m 50s](https://www.youtube.com/watch_videos?title=B%C3%B6l%C3%BCm+Kural%C4%B1&video_ids=ENSXIfOWkdw%2CzXscegdTRiY%2C0RoqJa8riPk%2CL50dDwelpWI) )
-    - [Tekrar: Çarpım, Bölüm, ve Zincir Kuralı](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/product-quotient-chain-rule-review-calc) (1 Exercise)
     - [Rasyonel Fonksiyonların Türevini Alma
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/rational-functions-differentiation-calc) (1 Article, 1 Exercise, 1 Video | [6m 44s](https://www.youtube.com/watch_videos?title=Rasyonel+Fonksiyonlar%C4%B1n+T%C3%BCrevini+Alma%0A&video_ids=uEOLyjD9WLQ) )
     - [Köklü Fonksiyonların Türevini Alma](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/radical-functions-differentiation-calc) (1 Exercise, 1 Video | [5m 55s](https://www.youtube.com/watch_videos?title=K%C3%B6kl%C3%BC+Fonksiyonlar%C4%B1n+T%C3%BCrevini+Alma&video_ids=qg46tM43eYU) )
@@ -2059,14 +1914,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/logarithmic-differentiation-calc) (1 Exercise, 2 Videos | [17m 46s](https://www.youtube.com/watch_videos?title=Logaritmik+T%C3%BCrev%0A&video_ids=N5kkwVoAtkc%2CBSrJi9uEJp0) )
     - [Parametrik ve Vektör Değerli Fonksiyonlarda Türev Alma
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/parametric-and-vector-valued-function-differentiation-calc) (2 Exercises, 3 Videos | [27m 25s](https://www.youtube.com/watch_videos?title=Parametrik+ve+Vekt%C3%B6r+De%C4%9Ferli+Fonksiyonlarda+T%C3%BCrev+Alma%0A&video_ids=Vva7st2A-gw%2CScz7qGxuhrE%2CxfRaAWKZyKM) )
-    - [Terkrar: İleri Seviye Türev Alma](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/advanced-differentiation-review-calc) (1 Exercise)
     - [Yüksek Mertebeden Türevler
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/higher-order-derivatives-calc) (1 Article, 1 Exercise, 1 Video | [2m 27s](https://www.youtube.com/watch_videos?title=Y%C3%BCksek+Mertebeden+T%C3%BCrevler%0A&video_ids=61eA4cRM6BI) )
     - [Yüksek Mertebeden Türevler (Parametrik ve Vektör Değerli Fonksiyonlar)
 
 ](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/higher-order-derivatives-parametric-vector-valued-calc) (2 Exercises, 2 Videos | [10m 12s](https://www.youtube.com/watch_videos?title=Y%C3%BCksek+Mertebeden+T%C3%BCrevler+%28Parametrik+ve+Vekt%C3%B6r+De%C4%9Ferli+Fonksiyonlar%29%0A%0A&video_ids=E0prPJpI9qM%2CcxjVrBgzKCI) )
-    - [Türevler hakkında bildiklerinizi test edin!](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/taking-derivatives-skill-checks) (3 Exercises)
-    - [Kutupsal Eğrinin Türevini Alma](https://tr.khanacademy.org/math/calculus-home/taking-derivatives-calc/diff-polar-curves-calc) (1 Exercise)
   - [Türev Uygulamaları](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc) (19 Topics)
     - [Kritik Noktalar](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/critical-points-calc) (4 Videos | [22m 22s](https://www.youtube.com/watch_videos?title=Kritik+Noktalar&video_ids=75cRvpSoV_g%2CJr4fVIdHhxE%2CCDc2aU3huP8%2CiueKajN6evk) )
     - [Artan ve Azalan Aralıklar
@@ -2075,20 +1927,16 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/relative-minima-and-maxima-calc) (1 Article, 1 Exercise, 3 Videos | [22m 56s](https://www.youtube.com/watch_videos?title=Yerel+Minimum+ve+Maksimumlar%0A&video_ids=lFQ4kMcODzU%2CpInFesXIfg8%2Cx09FpMmGB4A) )
     - [Mutlak Minimum ve Maksimumlar
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/absolute-minima-and-maxima-calc) (1 Article, 2 Exercises, 3 Videos | [24m 18s](https://www.youtube.com/watch_videos?title=Mutlak+Minimum+ve+Maksimumlar%0A&video_ids=SJrysFtvgvE%2CJXVGPEOQCb8%2CXhc7Hens0f8) )
-    - [Tekrar: Artan-Azalan Aralıklar ve Uç Noktaları](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/increasing-decreasing-intervals-and-extrema-review-calc) (1 Exercise)
     - [İçbükeylik
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-calc) (1 Article, 3 Exercises, 4 Videos | [27m 46s](https://www.youtube.com/watch_videos?title=%C4%B0%C3%A7b%C3%BCkeylik%0A&video_ids=LcEqOzNov4E%2CnzJesCwLvR8%2C72L_N7AtCRE%2C-cW5hCsc9Yc) )
     - [Büküm Noktaları
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/points-of-inflection-calc) (1 Article, 2 Exercises, 4 Videos | [15m 17s](https://www.youtube.com/watch_videos?title=B%C3%BCk%C3%BCm+Noktalar%C4%B1%0A&video_ids=rjYaZiEmCO4%2CEtmjF1QKVyA%2CsAEn04aN4J8%2CRoxefQ_Qgm8) )
     - [Kalkülüs Kullanarak Grafik Çizme
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/sketching-graphs-using-calculus) (2 Videos | [45m 39s](https://www.youtube.com/watch_videos?title=Kalk%C3%BCl%C3%BCs+Kullanarak+Grafik+%C3%87izme%0A&video_ids=1KNTJw2KqDI%2C-iguavuKgFw) )
-    - [Tekrar: Bükeylik ve Büküm Noktaları](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/concavity-and-points-of-inflection-review-calc) (1 Exercise)
     - [Doğrusal Yakınsama
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/linear-approximation-calc) (1 Exercise, 3 Videos | [23m 20s](https://www.youtube.com/watch_videos?title=Do%C4%9Frusal+Yak%C4%B1nsama%0A&video_ids=Rnm1Wbh-BTM%2CvRw4ovZK1CQ%2CCDmJL-VNlaM) )
-    - [Doğrusal Hareket
-](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/rectilinear-motion-diff-calc) (1 Exercise, 4 Videos | [28m 51s](https://www.youtube.com/watch_videos?title=Do%C4%9Frusal+Hareket%0A&video_ids=SE1ltVuE5yM%2C5P1O6tBiTlQ%2CwKPyzrEVqaQ%2CHDntI7zfBNs) )
-    - [Düzlemsel Hareket
-](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc) (2 Exercises, 3 Videos | [16m 49s](https://www.youtube.com/watch_videos?title=D%C3%BCzlemsel+Hareket%0A&video_ids=003p6V5WH1E%2CsgdoSWhR-VY%2CrPl7zpY5TH0) )
+    - [Düz çizgi şeklinde hareket (diferansiyel kalkülüs)](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/rectilinear-motion-diff-calc) (1 Exercise, 4 Videos | [28m 51s](https://www.youtube.com/watch_videos?title=D%C3%BCz+%C3%A7izgi+%C5%9Feklinde+hareket+%28diferansiyel+kalk%C3%BCl%C3%BCs%29&video_ids=SE1ltVuE5yM%2C5P1O6tBiTlQ%2CwKPyzrEVqaQ%2CHDntI7zfBNs) )
+    - [Düzlemsel hareket (diferansiyel analiz)](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/planar-motion-diff-calc) (2 Exercises, 3 Videos | [16m 49s](https://www.youtube.com/watch_videos?title=D%C3%BCzlemsel+hareket+%28diferansiyel+analiz%29&video_ids=003p6V5WH1E%2CsgdoSWhR-VY%2CrPl7zpY5TH0) )
     - [Bağlantılı Oranlar
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/related-rates-calc) (4 Exercises, 6 Videos | [50m 53s](https://www.youtube.com/watch_videos?title=Ba%C4%9Flant%C4%B1l%C4%B1+Oranlar%0A&video_ids=kQF9pOqmS0U%2CPTpjmQRwlys%2CFwWpt9XC_qs%2CNhe0oIHoC5M%2CcPOjnyjii-4%2Cl1yqlDg6ymc) )
     - [Optimizasyon](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/optimization-calc) (1 Exercise, 8 Videos | [1h 25m 35s](https://www.youtube.com/watch_videos?title=Optimizasyon&video_ids=1TK8V_qmqrk%2CMC0tq6fNRwU%2CcRboY08YG8g%2Cdam16G6cZ8k%2CtSMuKcN-RKM%2CIFU7Go6Qg6E%2CeS-_ZFzHjYA%2CviaPc8zDcRI) )
@@ -2098,8 +1946,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/mean-value-theorem-calc) (1 Article, 1 Exercise, 5 Videos | [41m 51s](https://www.youtube.com/watch_videos?title=Ortalama+De%C4%9Fer+Teoremi%0A&video_ids=IiO8Oq1Ba78%2CiebgtN3NZq4%2Cne-yywY8C4c%2Cz6Mc53d72mk%2Cap4cjZ12cPY) )
     - [L'Hôpital Kuralı
 ](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/lhopitals-rule-calc) (1 Article, 2 Exercises, 7 Videos | [52m 21s](https://www.youtube.com/watch_videos?title=L%27H%C3%B4pital+Kural%C4%B1%0A&video_ids=T6mHOfj9KA8%2Ca0Am1oeqAC0%2CgYPxxpy396o%2CSEjP2jivtrM%2CmBKKSr92lXc%2CCDf_aE5yg3A%2CSIB4WDYF5DQ) )
-    - [Tekrar: Türev Uygulamaları](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-review-calc) (1 Exercise)
-    - [Türev uygulamaları beceri kontrolü](https://tr.khanacademy.org/math/calculus-home/derivative-applications-calc/derivative-applications-skill-check) (4 Exercises)
   - [Alan Hesaplama
 ](https://tr.khanacademy.org/math/calculus-home/integration-calc) (18 Topics)
     - [Anti-Türev
@@ -2109,11 +1955,9 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Ortak Fonksiyonların Belirsiz İntegralleri
 
 ](https://tr.khanacademy.org/math/calculus-home/integration-calc/indefinite-integrals-of-common-functions-calc) (2 Articles, 4 Exercises, 4 Videos | [19m 11s](https://www.youtube.com/watch_videos?title=Ortak+Fonksiyonlar%C4%B1n+Belirsiz+%C4%B0ntegralleri%0A%0A&video_ids=FrE7RPU3MgI%2Ckem_AwUuoV4%2CCNycQBfHBVo%2CqMnUR-iGvjo) )
-    - [Tekrar: Belirsiz İntegral ve Anti-Türev](https://tr.khanacademy.org/math/calculus-home/integration-calc/indefinite-integrals-and-antiderivatives-review-calc) (1 Exercise)
     - [Belirli İntegral ile Alan Bulma](https://tr.khanacademy.org/math/calculus-home/integration-calc/definite-integral-as-area-calc) (1 Article, 2 Exercises, 1 Video | [3m 31s](https://www.youtube.com/watch_videos?title=Belirli+%C4%B0ntegral+ile+Alan+Bulma&video_ids=5ZOxrVndNZ8) )
     - [Belirli İntegralin Özellikleri
 ](https://tr.khanacademy.org/math/calculus-home/integration-calc/definite-integral-properties-calc) (2 Articles, 2 Exercises, 11 Videos | [48m 43s](https://www.youtube.com/watch_videos?title=Belirli+%C4%B0ntegralin+%C3%96zellikleri%0A&video_ids=TWjDNPgEyzs%2CKuec7U34_Dk%2CSV8UDGW1IaQ%2CGskIJPU0PAg%2C1MN8gDMBVHA%2CgNmrbFAHmpY%2CYeaL-Uo2LTs%2CVTg7aFUQra8%2Cj6qgPIVlE5g%2CAe6wfdbco8E%2CtUvDLm6l_Sg) )
-    - [Tekrar: Belirli İntegral](https://tr.khanacademy.org/math/calculus-home/integration-calc/definite-integral-basics-review-calc) (1 Exercise)
     - [Riemann Toplamı
 ](https://tr.khanacademy.org/math/calculus-home/integration-calc/rieman-sums-calc) (2 Articles, 1 Exercise, 3 Videos | [25m 16s](https://www.youtube.com/watch_videos?title=Riemann+Toplam%C4%B1%0A&video_ids=dEAk0BHBYCM%2CViqrHGae7FA%2Cv13fraCiLEg) )
     - [Sigma Gösterimiyle Reimann Toplamı
@@ -2122,7 +1966,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/calculus-home/integration-calc/trapezoidal-rule-calc) (2 Articles, 1 Exercise, 2 Videos | [16m 40s](https://www.youtube.com/watch_videos?title=%C4%B0kizkenar+Yamuk+Kural%C4%B1%0A&video_ids=naRUWPvsQbQ%2C1p0NHR5w0Lc) )
     - [Riemann Toplam ve İntegralleri
 ](https://tr.khanacademy.org/math/calculus-home/integration-calc/definite-integral-as-the-limit-of-a-riemann-sum-calc) (1 Exercise, 2 Videos | [11m 35s](https://www.youtube.com/watch_videos?title=Riemann+Toplam+ve+%C4%B0ntegralleri%0A&video_ids=jCr1afzwWSQ%2CxF6VbKKzic8) )
-    - [Tekrar: Riemann Toplamı](https://tr.khanacademy.org/math/calculus-home/integration-calc/riemann-sums-review-calc) (1 Exercise)
     - [İntegral İle Tanımlanan Fonksiyonlar
 ](https://tr.khanacademy.org/math/calculus-home/integration-calc/functions-defined-by-integrals-calc) (2 Exercises, 3 Videos | [20m 4s](https://www.youtube.com/watch_videos?title=%C4%B0ntegral+%C4%B0le+Tan%C4%B1mlanan+Fonksiyonlar%0A&video_ids=DDwWZHBKMOU%2CeJu0x7A8qZE%2CW20SoZiJOHU) )
     - [Kalkülüsün Temel Teoremi
@@ -2173,18 +2016,15 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Kabuk Yöntemi
 ](https://tr.khanacademy.org/math/calculus-home/integration-applications-calc/shell-method-calc) (1 Article, 2 Exercises, 7 Videos | [44m 21s](https://www.youtube.com/watch_videos?title=Kabuk+Y%C3%B6ntemi%0A&video_ids=6Ozz3J-LRrY%2C5ZGCqKAl_CA%2CR-Qu3QWOEiA%2CSfWrVNyP9E8%2C16aKF_eDGdw%2COelluIKIkCY%2Czg3-miF4qeg) )
   - [Seriler](https://tr.khanacademy.org/math/calculus-home/series-calc) (16 Topics)
-    - [Dizilerin İncelemesi
-](https://tr.khanacademy.org/math/calculus-home/series-calc/sequences-calc) (4 Exercises, 7 Videos | [25m 24s](https://www.youtube.com/watch_videos?title=Dizilerin+%C4%B0ncelemesi%0A&video_ids=bq4abnKl8bY%2Ctf32m5VtsKY%2CGo78yAy5hjI%2Cs1LdptcDjm8%2CXJdiO1_kIuQ%2CKfj44P9QVYk%2CKWGyJ3_4C4E) )
-    - [Sonsuz Diziler
-](https://tr.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc) (1 Exercise, 4 Videos | [19m 12s](https://www.youtube.com/watch_videos?title=Sonsuz+Diziler%0A&video_ids=v16OkCq4uGA%2CFvDMBH4VQ34%2CqtxuUyRAv-E%2CxUeRE1YfveM) )
+    - [Diziler](https://tr.khanacademy.org/math/calculus-home/series-calc/sequences-calc) (4 Exercises, 7 Videos | [25m 24s](https://www.youtube.com/watch_videos?title=Diziler&video_ids=bq4abnKl8bY%2Ctf32m5VtsKY%2CGo78yAy5hjI%2Cs1LdptcDjm8%2CXJdiO1_kIuQ%2CKfj44P9QVYk%2CKWGyJ3_4C4E) )
+    - [Dizilerde yakınsama ve ıraksama](https://tr.khanacademy.org/math/calculus-home/series-calc/seq-conv-diverg-calc) (1 Exercise, 4 Videos | [19m 12s](https://www.youtube.com/watch_videos?title=Dizilerde+yak%C4%B1nsama+ve+%C4%B1raksama&video_ids=v16OkCq4uGA%2CFvDMBH4VQ34%2CqtxuUyRAv-E%2CxUeRE1YfveM) )
     - [Serilerin İncelenmesi
 ](https://tr.khanacademy.org/math/calculus-home/series-calc/series-calculus) (2 Exercises, 7 Videos | [39m 5s](https://www.youtube.com/watch_videos?title=Serilerin+%C4%B0ncelenmesi%0A&video_ids=Qb_8elG1BHw%2CW2XtcR9B5Lo%2Csvcobr9ZvYs%2C3rqWC5Y5g78%2CN074OI5F-Fw%2CrBAOxT6Bkjc%2ClkTCNIll0vY) )
     - [Sonlu Geometrik Seriler
 ](https://tr.khanacademy.org/math/calculus-home/series-calc/finite-geometric-series-calc) (1 Exercise, 5 Videos | [24m 19s](https://www.youtube.com/watch_videos?title=Sonlu+Geometrik+Seriler%0A&video_ids=qtRFUpK2Lc8%2CRvu5QGPm1os%2C7olASr0sntI%2Ceg4gd3qb_UE%2C1Lv98ZEkNAU) )
     - [Kısmi Toplamlar
 ](https://tr.khanacademy.org/math/calculus-home/series-calc/partial-sums-calc) (2 Exercises, 4 Videos | [19m 11s](https://www.youtube.com/watch_videos?title=K%C4%B1smi+Toplamlar%0A&video_ids=WAdNjpWuH4A%2CulSYG9Wn5TA%2CAYagxIBhJIE%2CNqltzVjZnEU) )
-    - [Sonsuz Geometrik Seriler
-](https://tr.khanacademy.org/math/calculus-home/series-calc/geo-series-calc) (1 Exercise, 7 Videos | [37m 12s](https://www.youtube.com/watch_videos?title=Sonsuz+Geometrik+Seriler%0A&video_ids=gN4_CYZKj_o%2CHFQlRAiMoUo%2CpHkCdTAandk%2C9guLp4EFc1k%2CY16L9CzLCAk%2CXHirQxL0LZA%2CZp4zpwCKYs8) )
+    - [Geometrik seri](https://tr.khanacademy.org/math/calculus-home/series-calc/geo-series-calc) (1 Exercise, 7 Videos | [37m 12s](https://www.youtube.com/watch_videos?title=Geometrik+seri&video_ids=gN4_CYZKj_o%2CHFQlRAiMoUo%2CpHkCdTAandk%2C9guLp4EFc1k%2CY16L9CzLCAk%2CXHirQxL0LZA%2CZp4zpwCKYs8) )
     - [Seri Problemleri
 
 ](https://tr.khanacademy.org/math/calculus-home/series-calc/series-basics-challenge) (1 Exercise, 6 Videos | [40m 37s](https://www.youtube.com/watch_videos?title=Seri+Problemleri%0A%0A&video_ids=WutI7jtWNU0%2CHXM0pAU6f0s%2CEdXgXtT46GM%2CCmgjo77wqCI%2CdPyxXdYlvuo%2CI5t2cL8MPlc) )
@@ -2202,9 +2042,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/calculus-home/series-calc/taylor-series-calc) (2 Exercises, 11 Videos | [1h 28m 50s](https://www.youtube.com/watch_videos?title=Taylor+ve+Maclaurin+Serileri%0A&video_ids=dWFuir4miC0%2C1LxhXqD3_CE%2CtWNxdsWoAd4%2CRRYh4cqv6ZQ%2Ceo9dra_yIbc%2CwgkRH5Uoavk%2CyUUPP70Fhpo%2C2KWifFPOy5s%2CIeHlXGpfaeA%2CsD0divVMtvA%2CVxGSyMPDSoU) )
     - [Maclaurin sin(x), cos(x), and eˣ Serileri 
 ](https://tr.khanacademy.org/math/calculus-home/series-calc/maclaurin-taylor-calc) (1 Exercise, 8 Videos | [54m 24s](https://www.youtube.com/watch_videos?title=Maclaurin+sin%28x%29%2C+cos%28x%29%2C+and+e%CB%A3+Serileri%C2%A0%0A&video_ids=9R6YFcMr45s%2CwPpqzQ175kQ%2C_V9Vx65kVog%2CqnwwCK_vNno%2CkXULrUxGzmU%2CBAFOOQxiwkU%2C0BdZZCwDE-I%2C8dMLK2Wueaw) )
-    - [Kuvvet Serileri Fonksiyon Gösterimi
-](https://tr.khanacademy.org/math/calculus-home/series-calc/power-series-calc) (2 Exercises, 6 Videos | [44m 23s](https://www.youtube.com/watch_videos?title=Kuvvet+Serileri+Fonksiyon+G%C3%B6sterimi%0A&video_ids=ZW9uoF4OJfI%2CLd7C4Nnjt24%2Caiwy2fNF_ZQ%2CNgYrsqoKXpM%2CznT4W6n3WkI%2CixFgd1lFe9g) )
-    - [Seri Problemleri](https://tr.khanacademy.org/math/calculus-home/series-calc/challenge-exercises-series-calc) (3 Exercises)
+    - [Cebir kullanarak kuvvet serisinin fonksiyon gösterimi](https://tr.khanacademy.org/math/calculus-home/series-calc/power-series-calc) (2 Exercises, 6 Videos | [44m 23s](https://www.youtube.com/watch_videos?title=Cebir+kullanarak+kuvvet+serisinin+fonksiyon+g%C3%B6sterimi&video_ids=ZW9uoF4OJfI%2CLd7C4Nnjt24%2Caiwy2fNF_ZQ%2CNgYrsqoKXpM%2CznT4W6n3WkI%2CixFgd1lFe9g) )
   - [İleri Seviye Kalkülüs Çalışma Soruları
 ](https://tr.khanacademy.org/math/calculus-home/ap-calc-topic) (3 Topics)
     - [İleri Seviye Kalkülüs Soru Çözümleri AB
@@ -2214,12 +2052,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 
 ## [Geometri (tüm içerik)](https://tr.khanacademy.org/math/geometry-home) (17 Topics)
   - [Doğrular](https://tr.khanacademy.org/math/geometry-home/geometry-lines) (6 Topics)
-    - [Doğrular, Doğru Parçaları ve Işınlar
-](https://tr.khanacademy.org/math/geometry-home/geometry-lines/geometry-lines-rays) (1 Article, 2 Exercises, 1 Quiz, 4 Videos | [30m 39s](https://www.youtube.com/watch_videos?title=Do%C4%9Frular%2C+Do%C4%9Fru+Par%C3%A7alar%C4%B1+ve+I%C5%9F%C4%B1nlar%0A&video_ids=WqzK3UAXaHs%2CtbBzijO2L_Q%2CcqY7GXPuFMo%2CB8UELlXinuI) )
+    - [Doğrular, Doğru Parçaları ve Işınlar](https://tr.khanacademy.org/math/geometry-home/geometry-lines/geometry-lines-rays) (1 Article, 2 Exercises, 1 Quiz, 4 Videos | [30m 39s](https://www.youtube.com/watch_videos?title=Do%C4%9Frular%2C+Do%C4%9Fru+Par%C3%A7alar%C4%B1+ve+I%C5%9F%C4%B1nlar&video_ids=WqzK3UAXaHs%2CtbBzijO2L_Q%2CcqY7GXPuFMo%2CB8UELlXinuI) )
     - [Doğru Parçalarını Ölçme](https://tr.khanacademy.org/math/geometry-home/geometry-lines/basic-geo-measuring-segments) (2 Exercises, 1 Quiz, 2 Videos | [2m 30s](https://www.youtube.com/watch_videos?title=Do%C4%9Fru+Par%C3%A7alar%C4%B1n%C4%B1+%C3%96l%C3%A7me&video_ids=WmaP-gSci18%2CWB5-5xhFcPM) )
     - [Paralel ve Dik Doğrular
 ](https://tr.khanacademy.org/math/geometry-home/geometry-lines/geometry-parallel-perp) (1 Article, 2 Exercises, 1 Quiz, 3 Videos | [7m 38s](https://www.youtube.com/watch_videos?title=Paralel+ve+Dik+Do%C4%9Frular%0A&video_ids=sivxHk8t73o%2CXy0rRNMjHxM%2CEZBkbP5ORhY) )
-    - [Noktalar, Doğrular ve Düzlemler](https://tr.khanacademy.org/math/geometry-home/geometry-lines/points-lines-planes) (1 Exercise, 1 Video | [4m 12s](https://www.youtube.com/watch_videos?title=Noktalar%2C+Do%C4%9Frular+ve+D%C3%BCzlemler&video_ids=WH6_EfLbheE) )
+    - [Noktalar, doğrular ve düzlemler](https://tr.khanacademy.org/math/geometry-home/geometry-lines/points-lines-planes) (1 Exercise, 1 Video | [4m 12s](https://www.youtube.com/watch_videos?title=Noktalar%2C+do%C4%9Frular+ve+d%C3%BCzlemler&video_ids=WH6_EfLbheE) )
     - [Geometrik Tanımlar](https://tr.khanacademy.org/math/geometry-home/geometry-lines/geometric-definitions) (1 Exercise, 1 Quiz, 1 Video | [8m 46s](https://www.youtube.com/watch_videos?title=Geometrik+Tan%C4%B1mlar&video_ids=yobDtyu-YRg) )
     - [Altın Oran](https://tr.khanacademy.org/math/geometry-home/geometry-lines/the-golden-ratio) (1 Test, 1 Video | [14m 42s](https://www.youtube.com/watch_videos?title=Alt%C4%B1n+Oran&video_ids=pDObVN720Zo) )
   - [Açılar](https://tr.khanacademy.org/math/geometry-home/geometry-angles) (8 Topics)
@@ -2238,14 +2075,12 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/geometry-home/geometry-angles/geometry-angles-between-lines) (2 Exercises, 1 Quiz, 7 Videos | [42m 52s](https://www.youtube.com/watch_videos?title=Kesi%C5%9Fen+Do%C4%9Frular%C4%B1n+Olu%C5%9Fturdu%C4%9Fu+A%C3%A7%C4%B1lar%0A&video_ids=zK9oLM31cHM%2CXy0rRNMjHxM%2CwlkIZqKWAt4%2Ci675p1TfBSY%2CrQZe1BwDyJ8%2CPuKiRHqieBg%2CCXSFj4bg61M) )
     - [Açılar (Salman Khan'ın Eski Videoları)
 ](https://tr.khanacademy.org/math/geometry-home/geometry-angles/old-angles) (1 Test, 8 Videos | [1h 6m 16s](https://www.youtube.com/watch_videos?title=A%C3%A7%C4%B1lar+%28Salman+Khan%27%C4%B1n+Eski+Videolar%C4%B1%29%0A&video_ids=cOcjBMq2Kbo%2CMYLJBXOlLNU%2CDFWFJcsXZxc%2CyWDwQM2noqU%2C8N-2au8WTn8%2C7UWzDP2x9cE%2CdnuVYJ7Y7_0%2Cehhhpq55MZQ) )
-  - [Temel Geometrik Şekiller
-](https://tr.khanacademy.org/math/geometry-home/geometry-shapes) (4 Topics)
+  - [Şekil](https://tr.khanacademy.org/math/geometry-home/geometry-shapes) (4 Topics)
     - [Geometrik Şekillerin Özellikleri
 ](https://tr.khanacademy.org/math/geometry-home/geometry-shapes/geometry-properties-shapes) (1 Article, 3 Exercises, 2 Videos | [10m 28s](https://www.youtube.com/watch_videos?title=Geometrik+%C5%9Eekillerin+%C3%96zellikleri%0A&video_ids=tG4mNuSD6LU%2C_X3VkZcNa6M) )
-    - [Geometrik Şekillerin Sınıflandırılması
-](https://tr.khanacademy.org/math/geometry-home/geometry-shapes/geometry-classify-geo-shapes) (2 Exercises, 1 Quiz, 1 Video | [2m 15s](https://www.youtube.com/watch_videos?title=Geometrik+%C5%9Eekillerin+S%C4%B1n%C4%B1fland%C4%B1r%C4%B1lmas%C4%B1%0A&video_ids=kXbRfgDVsww) )
+    - [Şekilleri Sınıflandırma](https://tr.khanacademy.org/math/geometry-home/geometry-shapes/geometry-classify-geo-shapes) (2 Exercises, 1 Quiz, 1 Video | [2m 15s](https://www.youtube.com/watch_videos?title=%C5%9Eekilleri+S%C4%B1n%C4%B1fland%C4%B1rma&video_ids=kXbRfgDVsww) )
     - [Çokgenlerle Açılar](https://tr.khanacademy.org/math/geometry-home/geometry-shapes/angles-with-polygons) (1 Exercise, 2 Videos | [14m 34s](https://www.youtube.com/watch_videos?title=%C3%87okgenlerle+A%C3%A7%C4%B1lar&video_ids=hxsisvSaRPE%2CSGByY94h9FE) )
-    - [Geometrik Cisimler (3 Boyutlu Şekiller)](https://tr.khanacademy.org/math/geometry-home/geometry-shapes/geometric-solids-geo) (2 Exercises, 1 Quiz, 1 Test, 2 Videos | [7m 16s](https://www.youtube.com/watch_videos?title=Geometrik+Cisimler+%283+Boyutlu+%C5%9Eekiller%29&video_ids=3Z-fhennMkU%2CWr0-yTXteq4) )
+    - [Geometrik cisimler](https://tr.khanacademy.org/math/geometry-home/geometry-shapes/geometric-solids-geo) (2 Exercises, 1 Quiz, 1 Test, 2 Videos | [7m 16s](https://www.youtube.com/watch_videos?title=Geometrik+cisimler&video_ids=3Z-fhennMkU%2CWr0-yTXteq4) )
   - [Üçgenler](https://tr.khanacademy.org/math/geometry-home/triangle-properties) (8 Topics)
     - [Üçgen Türleri](https://tr.khanacademy.org/math/geometry-home/triangle-properties/geometry-classifying-triangles) (1 Article, 2 Exercises, 3 Videos | [13m 53s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7gen+T%C3%BCrleri&video_ids=lhN1raz4CS0%2CNK7tqQzg8kM%2CEirRjPYNX2w) )
     - [Üçgenin Açıları
@@ -2256,8 +2091,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Orta Dikme](https://tr.khanacademy.org/math/geometry-home/triangle-properties/perpendicular-bisectors) (5 Videos | [50m 38s](https://www.youtube.com/watch_videos?title=Orta+Dikme&video_ids=riCHLtb2LD8%2Cy18RS7szl5o%2CwjUCKA24CFU%2ColzRtPom858%2CSMEvAK00gG0) )
     - [Açıortay
 ](https://tr.khanacademy.org/math/geometry-home/triangle-properties/angle-bisectors) (3 Videos | [26m 24s](https://www.youtube.com/watch_videos?title=A%C3%A7%C4%B1ortay%0A&video_ids=txht6n-ZKPM%2C9iVR1qA-DRQ%2CuVvePWQa_2s) )
-    - [Kenarortay ve Orta Nokta
-](https://tr.khanacademy.org/math/geometry-home/triangle-properties/medians-centroids) (6 Videos | [59m 29s](https://www.youtube.com/watch_videos?title=Kenarortay+ve+Orta+Nokta%0A&video_ids=dxY7LLnAFDM%2CLkSIEyUt6Pg%2CPj7hGXehPKk%2C44YS_uw0j90%2C8W8qh-AFf9I%2CbJw_J_f2Jg4) )
+    - [Kenarortaylar ve ağırlık merkezi](https://tr.khanacademy.org/math/geometry-home/triangle-properties/medians-centroids) (6 Videos | [59m 29s](https://www.youtube.com/watch_videos?title=Kenarortaylar+ve+a%C4%9F%C4%B1rl%C4%B1k+merkezi&video_ids=dxY7LLnAFDM%2CLkSIEyUt6Pg%2CPj7hGXehPKk%2C44YS_uw0j90%2C8W8qh-AFf9I%2CbJw_J_f2Jg4) )
     - [Üçgenin Yükseliği
 ](https://tr.khanacademy.org/math/geometry-home/triangle-properties/altitudes) (2 Videos | [16m 26s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genin+Y%C3%BCkseli%C4%9Fi%0A&video_ids=ZRgVttH-q5U%2CRs09bI8jjRw) )
     - [Üçgenin Tüm Özellikleri Bir Arada
@@ -2274,8 +2108,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-coordinate-plane-1-quad) (2 Articles, 2 Exercises, 2 Videos | [4m 27s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzlemi%3A+1.+B%C3%B6lge%0A&video_ids=4Rqc9-vhaSo%2Cwq6Is2fxXbU) )
     - [Koordinat Düzlemi: 4. Bölge
 ](https://tr.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-coordinate-plane-4-quads) (3 Articles, 2 Exercises, 4 Videos | [14m 48s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzlemi%3A+4.+B%C3%B6lge%0A&video_ids=OPm2q4gYQAY%2CIgQmE6oIFt0%2CHt8KZz6spF0%2CUutMLPUkFDs) )
-    - [Koordinat Düzleminde Bölgeler
-](https://tr.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-quadrants) (1 Exercise, 2 Videos | [4m 20s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzleminde+B%C3%B6lgeler%0A&video_ids=KSzDm-awHLU%2CqUhgCrCPf3s) )
+    - [Çeyrek Düzlemler](https://tr.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-quadrants) (1 Exercise, 2 Videos | [4m 20s](https://www.youtube.com/watch_videos?title=%C3%87eyrek+D%C3%BCzlemler&video_ids=KSzDm-awHLU%2CqUhgCrCPf3s) )
     - [Koordinat Düzleminde Noktaları Yansıtma 
 ](https://tr.khanacademy.org/math/geometry-home/geometry-coordinate-plane/geometry-reflect-coord-plane) (1 Exercise, 1 Quiz, 1 Video | [3m 35s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzleminde+Noktalar%C4%B1+Yans%C4%B1tma+%0A&video_ids=nSMcoD670cg) )
     - [Koordinat Düzleminde Dörtgenler
@@ -2293,9 +2126,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Üçgenin Alanı
 ](https://tr.khanacademy.org/math/geometry-home/geometry-area-perimeter/geometry-area-triangle) (1 Article, 4 Exercises, 1 Quiz, 2 Videos | [15m 53s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genin+Alan%C4%B1%0A&video_ids=5oamn1NaUgA%2C6CBJq4IRo8w) )
     - [Kareli Düzlemdeki Şekillerin Alanı](https://tr.khanacademy.org/math/geometry-home/geometry-area-perimeter/geometry-area-shapes-grids) (1 Exercise, 2 Videos | [10m 51s](https://www.youtube.com/watch_videos?title=Kareli+D%C3%BCzlemdeki+%C5%9Eekillerin+Alan%C4%B1&video_ids=SHvpPOP7IuQ%2CsnAuYH7npsQ) )
-    - [Yamuğun Alanı ve Birleşik Şekiller
-
-](https://tr.khanacademy.org/math/geometry-home/geometry-area-perimeter/geometry-area-trap-composite) (3 Exercises, 1 Quiz, 6 Videos | [29m 5s](https://www.youtube.com/watch_videos?title=Yamu%C4%9Fun+Alan%C4%B1+ve+Birle%C5%9Fik+%C5%9Eekiller%0A%0A&video_ids=5KvjzvHeMew%2C7XVEr3mOX2Q%2CwMPG6HY_Gdo%2CIbzjlwR1-Xg%2Cewy_Iitsjr0%2CK7LGUpr2VB4) )
+    - [Yamukların ve bileşik şekillerin alanı](https://tr.khanacademy.org/math/geometry-home/geometry-area-perimeter/geometry-area-trap-composite) (3 Exercises, 1 Quiz, 6 Videos | [29m 5s](https://www.youtube.com/watch_videos?title=Yamuklar%C4%B1n+ve+bile%C5%9Fik+%C5%9Fekillerin+alan%C4%B1&video_ids=5KvjzvHeMew%2C7XVEr3mOX2Q%2CwMPG6HY_Gdo%2CIbzjlwR1-Xg%2Cewy_Iitsjr0%2CK7LGUpr2VB4) )
     - [Çember ve Dairede Çevre ile Alan
 
 ](https://tr.khanacademy.org/math/geometry-home/geometry-area-perimeter/circum-area-circles) (3 Articles, 4 Exercises, 1 Quiz, 5 Videos | [30m 10s](https://www.youtube.com/watch_videos?title=%C3%87ember+ve+Dairede+%C3%87evre+ile+Alan%0A%0A&video_ids=-gtmBrvngv0%2C7tqeMHgsQhw%2C_LwYfBPlKsg%2Cokrz3Kmv0mE%2C0g8M9_D5Vlg) )
@@ -2310,7 +2141,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-surface-area) (1 Article, 4 Exercises, 1 Quiz, 5 Videos | [21m 50s](https://www.youtube.com/watch_videos?title=Y%C3%BCzey+Alan%C4%B1%0A&video_ids=_JcsaXaUykI%2CNC0CM_SZs68%2Cj6GOqyjDFb8%2Chl4DtzKR474%2C38GZKijIazQ) )
     - [Koni, Silindir ve Kürelerde Hacim
 ](https://tr.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-cones) (1 Article, 4 Exercises, 1 Quiz, 3 Videos | [16m 26s](https://www.youtube.com/watch_videos?title=Koni%2C+Silindir+ve+K%C3%BCrelerde+Hacim%0A&video_ids=qz2eJMpMyZo%2CmmTaOKjVmWs%2CmFLWX_rIczo) )
-    - [Uzay Geometrisi](https://tr.khanacademy.org/math/geometry-home/geometry-volume-surface-area/volume-tutorial) (2 Exercises)
     - [Yüzey ve Hacim Yoğunluğu](https://tr.khanacademy.org/math/geometry-home/geometry-volume-surface-area/surface-volume-density) (1 Exercise, 1 Quiz, 1 Video | [6m 5s](https://www.youtube.com/watch_videos?title=Y%C3%BCzey+ve+Hacim+Yo%C4%9Funlu%C4%9Fu&video_ids=Hmoc2AJeshY) )
     - [3 Boyutlu Nesnelerin Kesitleri](https://tr.khanacademy.org/math/geometry-home/geometry-volume-surface-area/cross-sections) (3 Exercises, 1 Quiz, 3 Videos | [15m 5s](https://www.youtube.com/watch_videos?title=3+Boyutlu+Nesnelerin+Kesitleri&video_ids=B3JyKFSN5Fg%2CSyQPZ9YnWaM%2CjT9YCNbbK-w) )
     - [Koch Kar Tanesi Fraktalı
@@ -2324,8 +2154,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/geometry-home/geometry-pythagorean-theorem/pythagorean-app) (4 Exercises, 3 Videos | [13m 28s](https://www.youtube.com/watch_videos?title=Pisagor+Teoreminin+Uygulan%C4%B1%C5%9F%C4%B1%0A&video_ids=D86mVnhpV1Y%2CSbyzU-nsJts%2CuXmjKdP8TOo) )
     - [Pisagor Teoremi ve İki Nokta Arasındaki Uzaklık
 ](https://tr.khanacademy.org/math/geometry-home/geometry-pythagorean-theorem/pythagorean-distance-points) (2 Articles, 1 Exercise, 1 Quiz, 1 Video | [9m 39s](https://www.youtube.com/watch_videos?title=Pisagor+Teoremi+ve+%C4%B0ki+Nokta+Aras%C4%B1ndaki+Uzakl%C4%B1k%0A&video_ids=9zLS706l7Fs) )
-    - [Pisagor Teoreminin İspatı
-](https://tr.khanacademy.org/math/geometry-home/geometry-pythagorean-theorem/pythagorean-proofs) (1 Test, 4 Videos | [38m 14s](https://www.youtube.com/watch_videos?title=Pisagor+Teoreminin+%C4%B0spat%C4%B1%0A&video_ids=0g45mA8OdiQ%2CRGlo6G0xvIs%2CIWKbESBon1Q%2CZUaVQrcuQxw) )
+    - [Pisagor teoremi ispatları](https://tr.khanacademy.org/math/geometry-home/geometry-pythagorean-theorem/pythagorean-proofs) (1 Test, 4 Videos | [38m 14s](https://www.youtube.com/watch_videos?title=Pisagor+teoremi+ispatlar%C4%B1&video_ids=0g45mA8OdiQ%2CRGlo6G0xvIs%2CIWKbESBon1Q%2CZUaVQrcuQxw) )
   - [Dönüşümler](https://tr.khanacademy.org/math/geometry-home/transformations) (9 Topics)
     - [Katı Dönüşümler
 ](https://tr.khanacademy.org/math/geometry-home/transformations/rigid-transformations-intro) (2 Articles, 1 Exercise, 1 Video | [7m 23s](https://www.youtube.com/watch_videos?title=Kat%C4%B1+D%C3%B6n%C3%BC%C5%9F%C3%BCmler%0A&video_ids=EQLTvffpMyU) )
@@ -2336,7 +2165,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/geometry-home/transformations/geo-rotations) (3 Articles, 4 Exercises, 1 Quiz, 3 Videos | [21m 30s](https://www.youtube.com/watch_videos?title=D%C3%B6nd%C3%BCrme%0A%0A&video_ids=6Km8IbHgP9I%2Ci6T6iqFSmqQ%2C-PWm0iGQmDY) )
     - [Yansıma
 ](https://tr.khanacademy.org/math/geometry-home/transformations/geo-reflections) (2 Articles, 5 Exercises, 1 Quiz, 2 Videos | [13m](https://www.youtube.com/watch_videos?title=Yans%C4%B1ma%0A&video_ids=S90s7nK_Ou8%2CrIckN3djZjI) )
-    - [İzometrilere Genel Bakış](https://tr.khanacademy.org/math/geometry-home/transformations/geo-rigid-transformations-overview) (3 Exercises, 1 Quiz)
     - [Bir Noktanın Çevresinde Genişletme veya Boyut Değiştirme
 ](https://tr.khanacademy.org/math/geometry-home/transformations/dilations-scaling) (5 Exercises, 1 Quiz, 3 Videos | [7m 51s](https://www.youtube.com/watch_videos?title=Bir+Noktan%C4%B1n+%C3%87evresinde+Geni%C5%9Fletme+veya+Boyut+De%C4%9Fi%C5%9Ftirme%0A&video_ids=wgmqxu1l6c4%2CAApec1L6qc8%2CmFFgS89ukm0) )
     - [Dönüşümlerin özellikleri ve Tanımları](https://tr.khanacademy.org/math/geometry-home/transformations/properties-definitions-of-translations) (1 Article, 2 Exercises, 1 Video | [4m 41s](https://www.youtube.com/watch_videos?title=D%C3%B6n%C3%BC%C5%9F%C3%BCmlerin+%C3%B6zellikleri+ve+Tan%C4%B1mlar%C4%B1&video_ids=O8ibiyLyPUo) )
@@ -2350,15 +2178,12 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/geometry-home/congruence/theorems-concerning-triangle-properties) (3 Videos | [20m](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genlerle+%C4%B0lgili+Teoremler%0A&video_ids=ppcqVnlfwNk%2CsONYL-jRXi4%2CRYHz06sdJOk) )
     - [Üçgenlerle İşlem Yapma
 ](https://tr.khanacademy.org/math/geometry-home/congruence/working-with-triangles) (2 Exercises, 4 Videos | [19m 51s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genlerle+%C4%B0%C5%9Flem+Yapma%0A&video_ids=tv9Hh2TtTsc%2CBCJPGgQsC-w%2CaEa6Zeu_jl0%2CrpXpqWYCPgk) )
-    - [Dörtgenlerle İlgili Teoremler
-](https://tr.khanacademy.org/math/geometry-home/congruence/theorems-concerning-parallelogram-properties) (6 Videos | [42m 1s](https://www.youtube.com/watch_videos?title=D%C3%B6rtgenlerle+%C4%B0lgili+Teoremler%0A&video_ids=AIOU8Kt1IEY%2Cek_NSgCemFw%2Cd-TObeXyB78%2Cq9RzQvQXcO4%2C2qoDlCetddQ%2CZLniFfrx2Wc) )
-    - [Üçgenlerde Benzerlik ile İlgili Teoremlerin İspatı
-](https://tr.khanacademy.org/math/geometry-home/congruence/theorems-using-triangle-congruence) (1 Test, 3 Videos | [26m 15s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7genlerde+Benzerlik+ile+%C4%B0lgili+Teoremlerin+%C4%B0spat%C4%B1%0A&video_ids=PtPNEHWTEiU%2CxFGBdW8xG9s%2CErC2OEXRRm4) )
+    - [Paralelkenarın özellikleriyle ilgili teoremler](https://tr.khanacademy.org/math/geometry-home/congruence/theorems-concerning-parallelogram-properties) (6 Videos | [42m 1s](https://www.youtube.com/watch_videos?title=Paralelkenar%C4%B1n+%C3%B6zellikleriyle+ilgili+teoremler&video_ids=AIOU8Kt1IEY%2Cek_NSgCemFw%2Cd-TObeXyB78%2Cq9RzQvQXcO4%2C2qoDlCetddQ%2CZLniFfrx2Wc) )
+    - [Üçgen eşliği kullanan teoremlerin ispatları](https://tr.khanacademy.org/math/geometry-home/congruence/theorems-using-triangle-congruence) (1 Test, 3 Videos | [26m 15s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7gen+e%C5%9Fli%C4%9Fi+kullanan+teoremlerin+ispatlar%C4%B1&video_ids=PtPNEHWTEiU%2CxFGBdW8xG9s%2CErC2OEXRRm4) )
   - [Benzerlik](https://tr.khanacademy.org/math/geometry-home/similarity) (6 Topics)
     - [Benzerliğin Tanımı
 ](https://tr.khanacademy.org/math/geometry-home/similarity/definitions-of-similarity) (1 Exercise, 1 Video | [2m 11s](https://www.youtube.com/watch_videos?title=Benzerli%C4%9Fin+Tan%C4%B1m%C4%B1%0A&video_ids=34CwITadhcE) )
-    - [Benzer Üçgenler
-](https://tr.khanacademy.org/math/geometry-home/similarity/intro-to-triangle-similarity) (1 Article, 2 Exercises, 1 Quiz, 4 Videos | [38m 50s](https://www.youtube.com/watch_videos?title=Benzer+%C3%9C%C3%A7genler%0A&video_ids=P5wxT92GRM4%2C7eeVy31vOag%2Cah1v1UiMpbw%2CW1V_Ym6JxDU) )
+    - [Üçgende benzerlik](https://tr.khanacademy.org/math/geometry-home/similarity/intro-to-triangle-similarity) (1 Article, 2 Exercises, 1 Quiz, 4 Videos | [38m 50s](https://www.youtube.com/watch_videos?title=%C3%9C%C3%A7gende+benzerlik&video_ids=P5wxT92GRM4%2C7eeVy31vOag%2Cah1v1UiMpbw%2CW1V_Ym6JxDU) )
     - [Benzer Üçgenlerle İlgili Sorular
 
 ](https://tr.khanacademy.org/math/geometry-home/similarity/solving-similar-triangles) (2 Exercises, 2 Videos | [13m 42s](https://www.youtube.com/watch_videos?title=Benzer+%C3%9C%C3%A7genlerle+%C4%B0lgili+Sorular%0A%0A&video_ids=cFz8nag-OOQ%2CDeF9K_PhCYc) )
@@ -2367,13 +2192,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Benzer ve Eş Üçgenlerle İlgili Soru Çözme](https://tr.khanacademy.org/math/geometry-home/similarity/solving-problems-with-similar-and-congruent-triangles) (1 Exercise, 2 Videos | [20m](https://www.youtube.com/watch_videos?title=Benzer+ve+E%C5%9F+%C3%9C%C3%A7genlerle+%C4%B0lgili+Soru+%C3%87%C3%B6zme&video_ids=wAlJvLnm8v4%2C2y4Znditl-c) )
     - [Benzer ve eş üçgenlerle modelleme problemleri çözme](https://tr.khanacademy.org/math/geometry-home/similarity/solving-modeling-problems-with-similar-and-congruent-triangles) (1 Quiz, 1 Test, 3 Videos | [21m 35s](https://www.youtube.com/watch_videos?title=Benzer+ve+e%C5%9F+%C3%BC%C3%A7genlerle+modelleme+problemleri+%C3%A7%C3%B6zme&video_ids=X0oF8qduf-4%2C6SVxemN6tcI%2Cv5562GKDCds) )
   - [Trigonometri](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic) (11 Topics)
-    - [Özel Dik Üçgenler
-](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/special-right-triangles) (1 Article, 1 Exercise, 1 Quiz, 6 Videos | [46m 21s](https://www.youtube.com/watch_videos?title=%C3%96zel+Dik+%C3%9C%C3%A7genler%0A&video_ids=zBEMeYRdj6Q%2CtJiD1V4yL8o%2CqwOr5pT3OA8%2Cfim29hkiBFM%2CS8fSZSAW3TI%2CrPReNFTBg_I) )
+    - [Özel dik üçgenler ](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/special-right-triangles) (1 Article, 1 Exercise, 1 Quiz, 6 Videos | [46m 21s](https://www.youtube.com/watch_videos?title=%C3%96zel+dik+%C3%BC%C3%A7genler+&video_ids=zBEMeYRdj6Q%2CtJiD1V4yL8o%2CqwOr5pT3OA8%2Cfim29hkiBFM%2CS8fSZSAW3TI%2CrPReNFTBg_I) )
     - [Trigonometrik Oranlar
 ](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/intro-to-the-trig-ratios-geo) (2 Articles, 1 Exercise, 2 Videos | [21m 28s](https://www.youtube.com/watch_videos?title=Trigonometrik+Oranlar%0A&video_ids=zPvX_JTLwqk%2CeUP9gsDzmuQ) )
     - [Trigonometrik Oranları Kullanarak Dik Üçgenin Kenar Uzunluklarını Bulma
 ](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-a-side-geo) (1 Article, 1 Exercise, 1 Video | [7m 4s](https://www.youtube.com/watch_videos?title=Trigonometrik+Oranlar%C4%B1+Kullanarak+Dik+%C3%9C%C3%A7genin+Kenar+Uzunluklar%C4%B1n%C4%B1+Bulma%0A&video_ids=_UtCzK1VK2M) )
-    - [Trigonometrik Oranları Kullanarak Dik Üçgende Açı Bulma](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/trig-solve-for-an-angle-geo) (1 Article, 1 Exercise)
     - [Dik Üçgenlerle Modelleme
 ](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/modeling-with-right-triangles-geo) (2 Articles, 1 Exercise, 1 Video | [4m 35s](https://www.youtube.com/watch_videos?title=Dik+%C3%9C%C3%A7genlerle+Modelleme%0A&video_ids=kCanJnoVk04) )
     - [Trigonometrik Oranlar ve Benzerlilk
@@ -2384,14 +2207,12 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/reciprocal-trig-ratios-geo) (2 Articles, 1 Exercise, 1 Quiz, 2 Videos | [10m 57s](https://www.youtube.com/watch_videos?title=Ters+Trigonometrik+Oranlar%0A&video_ids=Sg7KSCTmQxQ%2Cx0KZPfGarHo) )
     - [Sinüs Teoremleri
 ](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-sines-geo) (1 Exercise, 3 Videos | [18m 6s](https://www.youtube.com/watch_videos?title=Sin%C3%BCs+Teoremleri%0A&video_ids=jQuDff8g-rA%2CpnFYB2MBDBg%2CxheZgJKDt00) )
-    - [Kosinüs Teoremleri
-](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-cosines-geo) (1 Exercise, 3 Videos | [20m 45s](https://www.youtube.com/watch_videos?title=Kosin%C3%BCs+Teoremleri%0A&video_ids=vmcZQyRBtfI%2C22WUys2Ibak%2COqSQWkkiYPU) )
+    - [Kosinüs teoreminin kopyası](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/law-of-cosines-geo) (1 Exercise, 3 Videos | [20m 45s](https://www.youtube.com/watch_videos?title=Kosin%C3%BCs+teoreminin+kopyas%C4%B1&video_ids=vmcZQyRBtfI%2C22WUys2Ibak%2COqSQWkkiYPU) )
     - [Genel Üçgen Soruları
 ](https://tr.khanacademy.org/math/geometry-home/right-triangles-topic/solving-general-triangles-geo) (1 Article, 1 Exercise, 1 Quiz, 1 Test, 1 Video | [6m](https://www.youtube.com/watch_videos?title=Genel+%C3%9C%C3%A7gen+Sorular%C4%B1%0A&video_ids=YkrWp9VkPBA) )
   - [Çemberler](https://tr.khanacademy.org/math/geometry-home/cc-geometry-circles) (12 Topics)
-    - [Çemberin Temelleri
-](https://tr.khanacademy.org/math/geometry-home/cc-geometry-circles/circle-basics) (3 Videos | [23m 52s](https://www.youtube.com/watch_videos?title=%C3%87emberin+Temelleri%0A&video_ids=V9hn1kYuzmc%2C-gtmBrvngv0%2Csh2dB45aVbk) )
-    - [Yayları Ölçme](https://tr.khanacademy.org/math/geometry-home/cc-geometry-circles/arc-measures) (2 Exercises, 3 Videos | [19m 1s](https://www.youtube.com/watch_videos?title=Yaylar%C4%B1+%C3%96l%C3%A7me&video_ids=4FEV4Oh1yIs%2Csv4UV-tdHV0%2CwxUbKQ_jdg4) )
+    - [Çemberlere ilişkin temel bilgiler](https://tr.khanacademy.org/math/geometry-home/cc-geometry-circles/circle-basics) (3 Videos | [23m 52s](https://www.youtube.com/watch_videos?title=%C3%87emberlere+ili%C5%9Fkin+temel+bilgiler&video_ids=V9hn1kYuzmc%2C-gtmBrvngv0%2Csh2dB45aVbk) )
+    - [Yay ölçüleri](https://tr.khanacademy.org/math/geometry-home/cc-geometry-circles/arc-measures) (2 Exercises, 3 Videos | [19m 1s](https://www.youtube.com/watch_videos?title=Yay+%C3%B6l%C3%A7%C3%BCleri&video_ids=4FEV4Oh1yIs%2Csv4UV-tdHV0%2CwxUbKQ_jdg4) )
     - [Yay Uzunluğu (Derece)
 ](https://tr.khanacademy.org/math/geometry-home/cc-geometry-circles/central-angles-and-arc-length-in-degrees) (2 Articles, 1 Exercise, 1 Quiz, 2 Videos | [7m 16s](https://www.youtube.com/watch_videos?title=Yay+Uzunlu%C4%9Fu+%28Derece%29%0A&video_ids=IwxoPIk6G7w%2ChfF0_nNDkwA) )
     - [Radyanlar
@@ -2415,8 +2236,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
   - [Analitik Geometri](https://tr.khanacademy.org/math/geometry-home/analytic-geometry-topic) (6 Topics)
     - [Uzaklık ve Orta Nokta Formülü 
 ](https://tr.khanacademy.org/math/geometry-home/analytic-geometry-topic/distance-and-midpoints) (4 Articles, 2 Exercises, 2 Videos | [16m 20s](https://www.youtube.com/watch_videos?title=Uzakl%C4%B1k+ve+Orta+Nokta+Form%C3%BCl%C3%BC+%0A&video_ids=9zLS706l7Fs%2CbuKFdLEaDRI) )
-    - [Doğru Parçalarını Parçalara Ayırma
-](https://tr.khanacademy.org/math/geometry-home/analytic-geometry-topic/cc-distances-between-points) (1 Exercise, 1 Quiz, 2 Videos | [10m 18s](https://www.youtube.com/watch_videos?title=Do%C4%9Fru+Par%C3%A7alar%C4%B1n%C4%B1+Par%C3%A7alara+Ay%C4%B1rma%0A&video_ids=NbjNY83ztOc%2C_xolNas1WQM) )
+    - [Noktalar arasındaki uzaklık](https://tr.khanacademy.org/math/geometry-home/analytic-geometry-topic/cc-distances-between-points) (1 Exercise, 1 Quiz, 2 Videos | [10m 18s](https://www.youtube.com/watch_videos?title=Noktalar+aras%C4%B1ndaki+uzakl%C4%B1k&video_ids=NbjNY83ztOc%2C_xolNas1WQM) )
     - [Koordinat Düzleminde Mesafe Problemleri
 ](https://tr.khanacademy.org/math/geometry-home/analytic-geometry-topic/geometry-problems-coordinate-pla) (3 Exercises, 1 Quiz, 5 Videos | [32m 8s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzleminde+Mesafe+Problemleri%0A&video_ids=bwrPmsuVTWo%2C0mZ8jopofn4%2CABXCjExmt7k%2C-AZy6qfnPA4%2Cj86ojNrmqJo) )
     - [Koordinat Düzleminde Paralel ve Dik Doğrular](https://tr.khanacademy.org/math/geometry-home/analytic-geometry-topic/parallel-perpendicular-lines-coordinate-plane) (1 Exercise, 2 Videos | [9m 34s](https://www.youtube.com/watch_videos?title=Koordinat+D%C3%BCzleminde+Paralel+ve+Dik+Do%C4%9Frular&video_ids=sivxHk8t73o%2Cai2fqs0yNuI) )
@@ -2425,13 +2245,12 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/math/geometry-home/analytic-geometry-topic/distance-between-a-point-and-a-line) (1 Exercise, 1 Quiz, 1 Test, 1 Video | [5m 32s](https://www.youtube.com/watch_videos?title=Soru%3A+Noktan%C4%B1n+Do%C4%9Fruya+Uzakl%C4%B1%C4%9F%C4%B1%0A&video_ids=rK1rUyKSv-c) )
   - [Geometrik çizimler](https://tr.khanacademy.org/math/geometry-home/geometric-constructions) (4 Topics)
     - [Doğru ve Açı Ortay Çizimleri](https://tr.khanacademy.org/math/geometry-home/geometric-constructions/geo-bisectors) (3 Videos | [4m 55s](https://www.youtube.com/watch_videos?title=Do%C4%9Fru+ve+A%C3%A7%C4%B1+Ortay+%C3%87izimleri&video_ids=CVxcBGvjkBw%2CQ37R1SeckLQ%2CGH5nAiOBmUI) )
-    - [Çember İçinde Sıradan Poligonlar Çizme](https://tr.khanacademy.org/math/geometry-home/geometric-constructions/polygons-inscribed-in-circles) (3 Videos | [9m 56s](https://www.youtube.com/watch_videos?title=%C3%87ember+%C4%B0%C3%A7inde+S%C4%B1radan+Poligonlar+%C3%87izme&video_ids=fnRXshv5Vj0%2CUxkXRPBU6Qw%2CZAE8mTQHgzo) )
+    - [Düzgün çokgen çizimleri](https://tr.khanacademy.org/math/geometry-home/geometric-constructions/polygons-inscribed-in-circles) (3 Videos | [9m 56s](https://www.youtube.com/watch_videos?title=D%C3%BCzg%C3%BCn+%C3%A7okgen+%C3%A7izimleri&video_ids=fnRXshv5Vj0%2CUxkXRPBU6Qw%2CZAE8mTQHgzo) )
     - [Çevrel ve İç Teğet Çember Çizimi](https://tr.khanacademy.org/math/geometry-home/geometric-constructions/circum-in-circles) (2 Videos | [4m 55s](https://www.youtube.com/watch_videos?title=%C3%87evrel+ve+%C4%B0%C3%A7+Te%C4%9Fet+%C3%87ember+%C3%87izimi&video_ids=Yj17YVFm39Y%2C3NrkNnW6cVk) )
     - [Bir Daireye Teğet Bir Doğru Çizme
 ](https://tr.khanacademy.org/math/geometry-home/geometric-constructions/constructing-tangents) (2 Videos | [11m 25s](https://www.youtube.com/watch_videos?title=Bir+Daireye+Te%C4%9Fet+Bir+Do%C4%9Fru+%C3%87izme%0A&video_ids=yhm8zwe6TUA%2CGVOC5Bpeuxc) )
   - [Çeşitli Konular](https://tr.khanacademy.org/math/geometry-home/geometry-miscellaneous) (1 Topic)
-    - [Örnek Soru Çözümleri
-](https://tr.khanacademy.org/math/geometry-home/geometry-miscellaneous/geometry-worked-examples) (17 Videos | [3h 9m 38s](https://www.youtube.com/watch_videos?title=%C3%96rnek+Soru+%C3%87%C3%B6z%C3%BCmleri%0A&video_ids=K7LGUpr2VB4%2CBUjATxi6DBg%2CZIs_3_UmFkQ%2CIPSrg9uBrRQ%2Cp5NYiqghEGM%2CgeEtPl36ofk%2CZcy7ZoonhuM%2CY7W1ZrxqPQk%2CrhkxCicHlqY%2C9jxOc_e10Bk%2CKAHIz6hMZn4%2CvKEKOYUYSwk%2Crd7UDFRvSbI%2CX5YVbSvEh4I%2CjxRZtWMeGfU%2CSoIXVi-Aad0%2CLv9r2yh8Wpk) )
+    - [Çözümlü örnekler: geometri](https://tr.khanacademy.org/math/geometry-home/geometry-miscellaneous/geometry-worked-examples) (17 Videos | [3h 9m 38s](https://www.youtube.com/watch_videos?title=%C3%87%C3%B6z%C3%BCml%C3%BC+%C3%B6rnekler%3A+geometri&video_ids=K7LGUpr2VB4%2CBUjATxi6DBg%2CZIs_3_UmFkQ%2CIPSrg9uBrRQ%2Cp5NYiqghEGM%2CgeEtPl36ofk%2CZcy7ZoonhuM%2CY7W1ZrxqPQk%2CrhkxCicHlqY%2C9jxOc_e10Bk%2CKAHIz6hMZn4%2CvKEKOYUYSwk%2Crd7UDFRvSbI%2CX5YVbSvEh4I%2CjxRZtWMeGfU%2CSoIXVi-Aad0%2CLv9r2yh8Wpk) )
 
 ## [1. Sınıf](https://tr.khanacademy.org/math/1-sinif) (6 Topics)
   - [1. Ünite  Matematiğe İlk Adım](https://tr.khanacademy.org/math/1-sinif/x8bf6a896ef48c2ec:1-unite) (1 Topic)
@@ -2942,139 +2761,54 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Çemberin Analitik İncelenmesi](https://tr.khanacademy.org/math/12-sinif/x3f633b7df05569db:7-unite-analitik-geometri/x3f633b7df05569db:cemberin-analitik-incelenmesi) (8 Videos | [39m 18s](https://www.youtube.com/watch_videos?title=%C3%87emberin+Analitik+%C4%B0ncelenmesi&video_ids=UrKtZc3tnjE%2C8e6ps-G-AYw%2Cw-D0cDFSm9I%2CEJdXK3oHKf8%2CQOEmhBVv6Zw%2CrxGDDMJP5-w%2C0mZ8jopofn4%2CABXCjExmt7k) )
 
 
-# [Sınav Hazırlığı](https://tr.khanacademy.org/test-prep) (2 Topics)
-
-
 # [Bilgisayar Bilimi](https://tr.khanacademy.org/computing) (2 Topics)
 
 ## [Bilgisayar Programlama](https://tr.khanacademy.org/computing/computer-programming) (14 Topics)
   - [JavaScript'e Giriş: Çizim ve Animasyon](https://tr.khanacademy.org/computing/computer-programming/programming) (18 Topics)
-    - [Kendinizi test edin: JavaScript'e Giriş: Çizim ve Animasyon](https://tr.khanacademy.org/computing/computer-programming/programming/topic-quiz-tutorial-programming) (1 Exercise)
     - [Programlama](https://tr.khanacademy.org/computing/computer-programming/programming/intro-to-programming) (1 Article, 1 Video | [2m 1s](https://www.youtube.com/watch_videos?title=Programlama&video_ids=FCMxA3m_Imc) )
-    - [Çizim Temelleri](https://tr.khanacademy.org/computing/computer-programming/programming/drawing-basics) (1 Article, 2 Challenges, 2 Videos)
     - [Renklendirme](https://tr.khanacademy.org/computing/computer-programming/programming/coloring) (1 Article, 1 Challenge, 1 Project, 2 Videos | [6m 10s](https://www.youtube.com/watch_videos?title=Renklendirme&video_ids=PEYGsa29B0o) )
-    - [Değişkenler](https://tr.khanacademy.org/computing/computer-programming/programming/variables) (1 Article, 2 Challenges, 1 Exercise, 2 Videos)
-    - [Animasyon Hakkında Temel Bilgiler](https://tr.khanacademy.org/computing/computer-programming/programming/animation-basics) (1 Article, 2 Challenges, 1 Project, 3 Videos)
-    - [İnteraktif Programlar](https://tr.khanacademy.org/computing/computer-programming/programming/interactive-programs) (2 Challenges, 1 Video)
-    - [Bonus: Değişkenlerle Yeniden Boyutlandırma](https://tr.khanacademy.org/computing/computer-programming/programming/resizing-with-variables) (1 Article, 1 Challenge, 1 Exercise, 1 Project, 1 Video)
-    - [Metin ve Dizgiler](https://tr.khanacademy.org/computing/computer-programming/programming/text-basics) (1 Article, 2 Challenges, 1 Project, 2 Videos)
-    - [Fonksiyonlar](https://tr.khanacademy.org/computing/computer-programming/programming/functions) (1 Article, 3 Challenges, 1 Project, 5 Videos)
-    - [Mantık ve if İfadeleri](https://tr.khanacademy.org/computing/computer-programming/programming/logic-if-statements) (1 Article, 6 Challenges, 1 Project, 6 Videos)
-    - [Programlarda Hata Ayıklama](https://tr.khanacademy.org/computing/computer-programming/programming/debugging-programs) (1 Article, 1 Video)
-    - [Döngüleme](https://tr.khanacademy.org/computing/computer-programming/programming/looping) (1 Article, 3 Challenges, 1 Exercise, 1 Project, 4 Videos)
-    - [Temiz Kod Yazma](https://tr.khanacademy.org/computing/computer-programming/programming/writing-clean-code) (1 Exercise, 2 Videos)
-    - [Diziler](https://tr.khanacademy.org/computing/computer-programming/programming/arrays) (1 Article, 3 Challenges, 1 Project, 3 Videos)
-    - [Nesneler](https://tr.khanacademy.org/computing/computer-programming/programming/objects) (1 Article, 3 Challenges, 1 Project, 3 Videos)
-    - [Nesne Odaklı Tasarım](https://tr.khanacademy.org/computing/computer-programming/programming/object-oriented) (1 Article, 3 Challenges, 3 Videos)
     - [Daha İyi Bir Programcı Olma
 ](https://tr.khanacademy.org/computing/computer-programming/programming/good-practices) (2 Articles, 2 Videos | [2m 46s](https://www.youtube.com/watch_videos?title=Daha+%C4%B0yi+Bir+Programc%C4%B1+Olma%0A&video_ids=xgdZ9dxoBWA) )
   - [HTML/CSS'ye Giriş: Web Sayfası Oluşturma
 ](https://tr.khanacademy.org/computing/computer-programming/html-css) (9 Topics)
     - [HTML'e Giriş](https://tr.khanacademy.org/computing/computer-programming/html-css/intro-to-html) (1 Article, 4 Challenges, 5 Videos | [2m 48s](https://www.youtube.com/watch_videos?title=HTML%27e+Giri%C5%9F&video_ids=MbfSms67Op4) )
-    - [CSS](https://tr.khanacademy.org/computing/computer-programming/html-css/intro-to-css) (1 Article, 3 Challenges, 1 Exercise, 1 Project, 3 Videos)
-    - [Başka HTML Etiketleri](https://tr.khanacademy.org/computing/computer-programming/html-css/html-tags-continued) (3 Challenges, 1 Project, 4 Videos)
     - [CSS Metin Özellikleri
 ](https://tr.khanacademy.org/computing/computer-programming/html-css/css-text-properties) (3 Challenges, 1 Exercise, 1 Project, 6 Videos | [1m 32s](https://www.youtube.com/watch_videos?title=CSS+Metin+%C3%96zellikleri%0A&video_ids=bt5uWvRfjT8) )
-    - [Web Geliştirme Araçları](https://tr.khanacademy.org/computing/computer-programming/html-css/web-development-tools) (2 Articles)
     - [CSS Layout](https://tr.khanacademy.org/computing/computer-programming/html-css/css-layout-properties) (1 Article, 5 Challenges, 1 Exercise, 1 Project, 6 Videos | [2m 13s](https://www.youtube.com/watch_videos?title=CSS+Layout&video_ids=KnLcGChu-Qw) )
-    - [Başka CSS Seçicileri](https://tr.khanacademy.org/computing/computer-programming/html-css/more-css-selectors) (4 Challenges, 1 Exercise, 6 Videos)
-    - [CSS Kodunu Eklemek için Başka Yollar](https://tr.khanacademy.org/computing/computer-programming/html-css/more-ways-to-embed-css) (2 Videos)
-    - [Daha Fazla Öğrenelim!
-](https://tr.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning) (2 Articles, 1 Exercise, 1 Video | [2m 20s](https://www.youtube.com/watch_videos?title=Daha+Fazla+%C3%96%C4%9Frenelim%21%0A&video_ids=Ok-D7HU40fE) )
-  - [SQL'e Giriş: Veritabanı Sorgulama ve İdare Etme
-](https://tr.khanacademy.org/computing/computer-programming/sql) (5 Topics)
+    - [HTML/CSS: Daha fazlasını öğrenme](https://tr.khanacademy.org/computing/computer-programming/html-css/html-css-further-learning) (2 Articles, 1 Exercise, 1 Video | [2m 20s](https://www.youtube.com/watch_videos?title=HTML%2FCSS%3A+Daha+fazlas%C4%B1n%C4%B1+%C3%B6%C4%9Frenme&video_ids=Ok-D7HU40fE) )
+  - [SQL'ya Giriş: Veritabanlarına Başlarken](https://tr.khanacademy.org/computing/computer-programming/sql) (5 Topics)
     - [SQL Temelleri
 ](https://tr.khanacademy.org/computing/computer-programming/sql/sql-basics) (3 Challenges, 1 Project, 5 Videos | [3m 46s](https://www.youtube.com/watch_videos?title=SQL+Temelleri%0A&video_ids=XkIfyJpxFdU%2CfRAW_Dm9Q1g) )
-    - [Web Sayfalarınızı İnteraktif Hale Getirmeye Hazır mısınız?
-](https://tr.khanacademy.org/computing/computer-programming/sql/more-advanced-sql-queries) (1 Article, 4 Challenges, 1 Project, 4 Videos)
-    - [SQL'de İlişkisel Sorgular](https://tr.khanacademy.org/computing/computer-programming/sql/relational-queries-in-sql) (2 Articles, 4 Challenges, 1 Project, 4 Videos)
-    - [SQL ile Veritabanlarını Değiştirme](https://tr.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql) (2 Articles, 2 Challenges, 1 Project, 2 Videos)
-    - [SQL'de İleri Düzey Öğrenme](https://tr.khanacademy.org/computing/computer-programming/sql/further-learning-in-sql) (1 Article)
   - [İleri JS (JavaScript) : Oyunlar ve Görselleştirme
 ](https://tr.khanacademy.org/computing/computer-programming/programming-games-visualizations) (7 Topics)
     - [Oyunlar ve Görselleştirmeler
 ](https://tr.khanacademy.org/computing/computer-programming/programming-games-visualizations/intro-games-visualizations) (1 Video | [3m 7s](https://www.youtube.com/watch_videos?title=Oyunlar+ve+G%C3%B6rselle%C5%9Ftirmeler%0A&video_ids=9-54RpYOWmg) )
-    - [Sahne Yönetimi](https://tr.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-scenes) (5 Articles, 1 Challenge)
-    - [Butonlar](https://tr.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-buttons) (3 Articles, 1 Challenge)
-    - [Dönüşümler](https://tr.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-transformations) (4 Articles, 4 Challenges)
-    - [3 Boyutlu Şekiller](https://tr.khanacademy.org/computing/computer-programming/programming-games-visualizations/programming-3d-shapes) (5 Articles)
-    - [Side Scroller Oluşturma: Hoppy Beaver](https://tr.khanacademy.org/computing/computer-programming/programming-games-visualizations/side-scroller) (5 Articles, 1 Challenge, 1 Project)
-    - [Bir Hafıza Oyunu Yapma](https://tr.khanacademy.org/computing/computer-programming/programming-games-visualizations/memory-game) (3 Articles, 1 Challenge, 1 Project)
   - [Gelişmiş JS: Doğal Simülasyonlar](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations) (8 Topics)
     - [Doğal Simülasyonlara Giriş](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations/intro-natural-simulations) (1 Video | [2m 35s](https://www.youtube.com/watch_videos?title=Do%C4%9Fal+Sim%C3%BClasyonlara+Giri%C5%9F&video_ids=_XT8EZhGsyc) )
-    - [Rastgelelik](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-randomness) (4 Articles, 4 Challenges, 1 Project)
-    - [Ses](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-noise) (2 Articles, 2 Challenges, 1 Project)
-    - [Vektörler](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-vectors) (6 Articles, 6 Challenges, 1 Project)
-    - [Kuvvetler](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-forces) (6 Articles, 6 Challenges, 1 Project)
-    - [Açısal Hareket](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-angular-movement) (5 Articles, 4 Challenges, 1 Exercise, 1 Project)
-    - [Salınım](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-oscillations) (5 Articles, 4 Challenges, 1 Project)
-    - [Parçacık Sistemleri](https://tr.khanacademy.org/computing/computer-programming/programming-natural-simulations/programming-particle-systems) (6 Articles, 5 Challenges, 1 Project)
   - [HTML/JS: Web Sayfalarını İnteraktif Hale Getirme
 ](https://tr.khanacademy.org/computing/computer-programming/html-css-js) (9 Topics)
-    - [Kendinizi Sınayın: HTML/JS: İnteraktif Web Siteleri](https://tr.khanacademy.org/computing/computer-programming/html-css-js/topic-quiz-tutorial-html-css-js) (1 Exercise)
-    - [Web Sayfalarınızı İnteraktif Hale Getirmeye Hazır mısınız?
-](https://tr.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro) (2 Articles, 2 Exercises, 1 Video | [1m 51s](https://www.youtube.com/watch_videos?title=Web+Sayfalar%C4%B1n%C4%B1z%C4%B1+%C4%B0nteraktif+Hale+Getirmeye+Haz%C4%B1r+m%C4%B1s%C4%B1n%C4%B1z%3F%0A&video_ids=v_atUTEJ4jA) )
+    - [Web sayfalarını etkileşimli yapmaya giriş](https://tr.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-intro) (2 Articles, 2 Exercises, 1 Video | [1m 51s](https://www.youtube.com/watch_videos?title=Web+sayfalar%C4%B1n%C4%B1+etkile%C5%9Fimli+yapmaya+giri%C5%9F&video_ids=v_atUTEJ4jA) )
     - [JS ve DOM](https://tr.khanacademy.org/computing/computer-programming/html-css-js/js-and-the-dom) (1 Challenge, 1 Exercise, 3 Videos | [2m 55s](https://www.youtube.com/watch_videos?title=JS+ve+DOM&video_ids=WLUC_2u1VyE) )
-    - [DOM Erişim Yöntemleri](https://tr.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-access) (1 Article, 3 Challenges, 3 Videos)
-    - [DOM Değiştirme](https://tr.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-modification) (1 Article, 5 Challenges, 5 Videos)
-    - [DOM Olayları
-](https://tr.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events) (2 Articles, 3 Challenges, 5 Videos | [1m 26s](https://www.youtube.com/watch_videos?title=DOM+Olaylar%C4%B1%0A&video_ids=hp6N-QnhXfE) )
-    - [DOM Animasyon](https://tr.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-animation) (1 Article, 2 Challenges, 4 Videos)
-    - [Web Sayfanızda JS Kütüphanelerini Kullanma](https://tr.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage) (4 Articles, 1 Exercise, 1 Video)
-    - [Daha Fazla Öğrenelim!
-](https://tr.khanacademy.org/computing/computer-programming/html-css-js/html-css-js-further-learning) (1 Article)
+    - [HTML/JS: DOM olayları](https://tr.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events) (2 Articles, 3 Challenges, 5 Videos | [1m 26s](https://www.youtube.com/watch_videos?title=HTML%2FJS%3A+DOM+olaylar%C4%B1&video_ids=hp6N-QnhXfE) )
   - [HTML / JS: jQuery ile İnteraktif Web Sayfaları Yapma
 ](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery) (8 Topics)
     - [Jquery'e Hoşgeldiniz
 ](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-intro) (1 Article, 1 Challenge, 3 Videos | [1m 44s](https://www.youtube.com/watch_videos?title=Jquery%27e+Ho%C5%9Fgeldiniz%0A&video_ids=2_krAc-Pq0k%2Cqsy6j-7LUpU) )
     - [JQuery ile DOM Erişimi
 ](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access) (3 Articles, 2 Challenges, 3 Videos | [2m 55s](https://www.youtube.com/watch_videos?title=JQuery+ile+DOM+Eri%C5%9Fimi%0A&video_ids=WLUC_2u1VyE) )
-    - [jQuery ile DOM Modifikasyonu](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery/dom-modification-with-jquery) (2 Articles, 2 Challenges, 2 Videos)
-    - [jQuery Teknikleri](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-tools-techniques) (2 Articles, 2 Challenges, 1 Exercise, 3 Videos)
-    - [jQuery ile DOM Olayları](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery/dom-events-with-jquery) (2 Articles, 2 Challenges, 1 Project, 3 Videos)
-    - [jQuery ile Form İşleme](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery/form-processing-jquery) (2 Articles, 2 Challenges, 1 Project, 2 Videos)
-    - [jQuery ile DOM Animasyonu ve Efektler](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery/dom-animation-with-jquery) (1 Article, 2 Challenges, 1 Project, 2 Videos)
-    - [Daha Fazla Öğrenelim!
-](https://tr.khanacademy.org/computing/computer-programming/html-js-jquery/further-learning-jquery) (1 Article)
-  - [Profesyoneller ile Tanışın](https://tr.khanacademy.org/computing/computer-programming/meet-the-computing-professional) (11 Articles, 1 Video | [52s](https://www.youtube.com/watch_videos?title=Profesyoneller+ile+Tan%C4%B1%C5%9F%C4%B1n&video_ids=sF7VVp1aRgk) )
-  - [Projelere Göz Atın](https://tr.khanacademy.org/computing/computer-programming/browse) (1 Article)
-  - [Proje Geribildirimi](https://tr.khanacademy.org/computing/computer-programming/projectfeedback) (1 Article)
-  - [Processing.js Belgeleri](https://tr.khanacademy.org/computing/computer-programming/pjs-documentation) (1 Article)
-  - [Webpage Belgeleri](https://tr.khanacademy.org/computing/computer-programming/webpage-documentation) (1 Article)
-  - [SQLite Belgeleri](https://tr.khanacademy.org/computing/computer-programming/sql-documentation) (1 Article)
+  - [Profesyonellerle Tanışın](https://tr.khanacademy.org/computing/computer-programming/meet-the-computing-professional) (11 Articles, 1 Video | [52s](https://www.youtube.com/watch_videos?title=Profesyonellerle+Tan%C4%B1%C5%9F%C4%B1n&video_ids=sF7VVp1aRgk) )
 
 ## [Bilgisayar Bilimi](https://tr.khanacademy.org/computing/computer-science) (7 Topics)
   - [Algoritmalar](https://tr.khanacademy.org/computing/computer-science/algorithms) (12 Topics)
-    - [Algoritmalar](https://tr.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms) (3 Articles, 1 Video | [5m 28s](https://www.youtube.com/watch_videos?title=Algoritmalar&video_ids=1Pve-uH5FSM) )
-    - [İkili Arama](https://tr.khanacademy.org/computing/computer-science/algorithms/binary-search) (3 Articles, 1 Challenge, 1 Exercise)
-    - [Asimptotik Gösterim](https://tr.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation) (5 Articles, 2 Exercises)
-    - [Seçmeli Sıralama](https://tr.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms) (3 Articles, 3 Challenges, 1 Project)
-    - [Yerleştirmeli Sıralama](https://tr.khanacademy.org/computing/computer-science/algorithms/insertion-sort) (3 Articles, 2 Challenges)
-    - [Özyinelemeli Algoritmalar](https://tr.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms) (7 Articles, 4 Challenges, 1 Project)
-    - [Hanoi Kuleleri](https://tr.khanacademy.org/computing/computer-science/algorithms/towers-of-hanoi) (2 Articles, 1 Challenge, 1 Exercise)
-    - [Birleştirmeli Sıralama](https://tr.khanacademy.org/computing/computer-science/algorithms/merge-sort) (4 Articles, 2 Challenges)
-    - [Hızlı Sıralama](https://tr.khanacademy.org/computing/computer-science/algorithms/quick-sort) (3 Articles, 2 Challenges)
-    - [Grafik Gösterimi](https://tr.khanacademy.org/computing/computer-science/algorithms/graph-representation) (2 Articles, 1 Challenge, 2 Exercises)
-    - [Sığ Öncelikli Arama](https://tr.khanacademy.org/computing/computer-science/algorithms/breadth-first-search) (3 Articles, 1 Challenge)
-    - [Daha Fazla Öğrenelim!
-](https://tr.khanacademy.org/computing/computer-science/algorithms/algorithms-more-learning) (1 Article)
-  - [Kriptografiye Yolculuk
-](https://tr.khanacademy.org/computing/computer-science/cryptography) (8 Topics)
-    - [Eski Kriptografi
-](https://tr.khanacademy.org/computing/computer-science/cryptography/crypt) (6 Interactives, 8 Videos | [32m 35s](https://www.youtube.com/watch_videos?title=Eski+Kriptografi%0A&video_ids=aU8AJp1R0eI%2Ck_oyfNJNVHI%2COGhzGfcf_Y8%2CvBryhg2dJg4%2CdUwTsLHlfdA%2CEFDIdf9-754%2CvKRMWewGE9A%2CGtOt7EBNEwQ) )
-    - [Şifreleme](https://tr.khanacademy.org/computing/computer-science/cryptography/ciphers) (5 Articles, 1 Exercise)
-    - [Şifreleme Yarışması](https://tr.khanacademy.org/computing/computer-science/cryptography/cryptochallenge) (8 Articles, 3 Exercises)
-    - [Modern Şifreleme](https://tr.khanacademy.org/computing/computer-science/cryptography/modern-crypt) (2 Interactives, 10 Videos | [34m 32s](https://www.youtube.com/watch_videos?title=Modern+%C5%9Eifreleme&video_ids=78My9Z6Mu9Y%2CMsqqpO9R5Hc%2CSL7J8hPKEWY%2CM-0qt6tdHzk%2CEPXilYOa71c%2CIY8BXNFgnyI%2CcJvoi0LuutQ%2Cqa_hksAzpSg%2CUjIPMJd6Xks%2CDCMjzYZqUH4) )
-    - [Modüler Aritmetik](https://tr.khanacademy.org/computing/computer-science/cryptography/modarithmetic) (10 Articles, 4 Exercises, 3 Interactives)
-    - [Asallık Testi](https://tr.khanacademy.org/computing/computer-science/cryptography/comp-number-theory) (2 Articles, 5 Interactives, 8 Videos | [45m 28s](https://www.youtube.com/watch_videos?title=Asall%C4%B1k+Testi&video_ids=uCJ5qnVx3MA%2CKtC3Nfw1m4U%2CoYUzKAfrx0w%2CLTaBIRnTPkM%2CJK-6GW9pmck%2CAGpik3guZkA%2CAzfI9CbXc6M%2CkFkUSizmR3k) )
-    - [Rastgele Sayı Algoritması
-](https://tr.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability) (3 Interactives, 5 Videos | [32m 50s](https://www.youtube.com/watch_videos?title=Rastgele+Say%C4%B1+Algoritmas%C4%B1%0A&video_ids=mtgHI7_viQs%2CV59b2yG6YNA%2C1mjyq51ppT8%2CrpXr2EBjMFU%2CxMj3jzFDZ38) )
-  - [Bilgi Kuramına Yolculuk
-](https://tr.khanacademy.org/computing/computer-science/informationtheory) (3 Topics)
-    - [Antik Bilgi Teorisi
-](https://tr.khanacademy.org/computing/computer-science/informationtheory/info-theory) (2 Interactives, 9 Videos | [1h 4m 49s](https://www.youtube.com/watch_videos?title=Antik+Bilgi+Teorisi%0A&video_ids=yC4Wl-L8K0E%2CI06dZHQXT2o%2Ct6HN1DBD0VI%2CqWYjhL8srHA%2CgBKBKfikLbo%2C8v7Bp5Kdy1A%2CAurTtzpAr4c%2Coxpr5dhqqyw%2Cabq95BTwOGo) )
-    - [Modern Bilgi Teorisi
-](https://tr.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory) (3 Interactives, 9 Videos | [58m 51s](https://www.youtube.com/watch_videos?title=Modern+Bilgi+Teorisi%0A&video_ids=E8VO4tGjG0I%2CY3X2Li2Tvh0%2C69o1k5g3r4o%2CuP_N6w-eqlI%2CwuKWV-Wi3BQ%2CdSIRg8VWAAA%2CiamvYvlHJ2o%2C6jqs6SHohwk%2CUFNsjLUN1g8) )
+    - [Algoritmalara Giriş](https://tr.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms) (3 Articles, 1 Video | [5m 28s](https://www.youtube.com/watch_videos?title=Algoritmalara+Giri%C5%9F&video_ids=1Pve-uH5FSM) )
+  - [Şifreleme](https://tr.khanacademy.org/computing/computer-science/cryptography) (8 Topics)
+    - [Şifrelemeye Yolculuk](https://tr.khanacademy.org/computing/computer-science/cryptography/crypt) (6 Interactives, 8 Videos | [32m 35s](https://www.youtube.com/watch_videos?title=%C5%9Eifrelemeye+Yolculuk&video_ids=aU8AJp1R0eI%2Ck_oyfNJNVHI%2COGhzGfcf_Y8%2CvBryhg2dJg4%2CdUwTsLHlfdA%2CEFDIdf9-754%2CvKRMWewGE9A%2CGtOt7EBNEwQ) )
+    - [Modern Şifrelemeye Giriş](https://tr.khanacademy.org/computing/computer-science/cryptography/modern-crypt) (2 Interactives, 10 Videos | [34m 32s](https://www.youtube.com/watch_videos?title=Modern+%C5%9Eifrelemeye+Giri%C5%9F&video_ids=78My9Z6Mu9Y%2CMsqqpO9R5Hc%2CSL7J8hPKEWY%2CM-0qt6tdHzk%2CEPXilYOa71c%2CIY8BXNFgnyI%2CcJvoi0LuutQ%2Cqa_hksAzpSg%2CUjIPMJd6Xks%2CDCMjzYZqUH4) )
+    - [Asallı Testi](https://tr.khanacademy.org/computing/computer-science/cryptography/comp-number-theory) (2 Articles, 5 Interactives, 8 Videos | [45m 28s](https://www.youtube.com/watch_videos?title=Asall%C4%B1+Testi&video_ids=uCJ5qnVx3MA%2CKtC3Nfw1m4U%2CoYUzKAfrx0w%2CLTaBIRnTPkM%2CJK-6GW9pmck%2CAGpik3guZkA%2CAzfI9CbXc6M%2CkFkUSizmR3k) )
+    - [Random Algoritmaları](https://tr.khanacademy.org/computing/computer-science/cryptography/random-algorithms-probability) (3 Interactives, 5 Videos | [32m 50s](https://www.youtube.com/watch_videos?title=Random+Algoritmalar%C4%B1&video_ids=mtgHI7_viQs%2CV59b2yG6YNA%2C1mjyq51ppT8%2CrpXr2EBjMFU%2CxMj3jzFDZ38) )
+  - [information theory](https://tr.khanacademy.org/computing/computer-science/informationtheory) (3 Topics)
+    - [Bilişim Kuramına Yolculuk](https://tr.khanacademy.org/computing/computer-science/informationtheory/info-theory) (2 Interactives, 9 Videos | [1h 4m 49s](https://www.youtube.com/watch_videos?title=Bili%C5%9Fim+Kuram%C4%B1na+Yolculuk&video_ids=yC4Wl-L8K0E%2CI06dZHQXT2o%2Ct6HN1DBD0VI%2CqWYjhL8srHA%2CgBKBKfikLbo%2C8v7Bp5Kdy1A%2CAurTtzpAr4c%2Coxpr5dhqqyw%2Cabq95BTwOGo) )
+    - [Modern Bilişim Kuramı](https://tr.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory) (3 Interactives, 9 Videos | [58m 51s](https://www.youtube.com/watch_videos?title=Modern+Bili%C5%9Fim+Kuram%C4%B1&video_ids=E8VO4tGjG0I%2CY3X2Li2Tvh0%2C69o1k5g3r4o%2CuP_N6w-eqlI%2CwuKWV-Wi3BQ%2CdSIRg8VWAAA%2CiamvYvlHJ2o%2C6jqs6SHohwk%2CUFNsjLUN1g8) )
   - [Bilgisayarlar Nasıl Çalışır](https://tr.khanacademy.org/computing/computer-science/how-computers-work2) (6 Videos | [26m 55s](https://www.youtube.com/watch_videos?title=Bilgisayarlar+Nas%C4%B1l+%C3%87al%C4%B1%C5%9F%C4%B1r&video_ids=9SYkiZLBdLY%2CMQeuyTQuulI%2CewokFOSxabs%2CSc3lh3D4rCw%2CMMzdKTtUIFM%2CVzVSt6jxiqw) )
   - [İnternet 101](https://tr.khanacademy.org/computing/computer-science/internet-intro) (1 Topic)
     - [İnternet Nasıl Çalışır?
@@ -3090,7 +2824,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/cosmology-and-astronomy/universe-scale-topic/cosmos-time-scale-tutorial) (2 Videos | [13m 25s](https://www.youtube.com/watch_videos?title=T%C3%BCm+Kainat%C4%B1n+Zaman+%C3%96l%C3%A7e%C4%9Fi%0A&video_ids=DRtLXagrMHw%2CLO7-3MpWijU) )
     - [Işık ve Temel  Öğeler](https://tr.khanacademy.org/science/cosmology-and-astronomy/universe-scale-topic/light-fundamental-forces) (2 Videos | [20m 6s](https://www.youtube.com/watch_videos?title=I%C5%9F%C4%B1k+ve+Temel++%C3%96%C4%9Feler&video_ids=GaDxFvMdi0Q%2CDXlFJg0DCRk) )
     - [Büyük Patlama (Big Bang) ve Evrenin Genişlemesi](https://tr.khanacademy.org/science/cosmology-and-astronomy/universe-scale-topic/big-bang-expansion-topic) (1 Article, 8 Videos | [1h 22m 1s](https://www.youtube.com/watch_videos?title=B%C3%BCy%C3%BCk+Patlama+%28Big+Bang%29+ve+Evrenin+Geni%C5%9Flemesi&video_ids=FGkqmC_pXuQ%2CVmOkZQytVn4%2CMqtefVWtvm8%2Cync93F8g0AM%2CGRJzS1zjdjM%2CwGJWNEa4zYQ%2C1V9wVmO0Tfg%2CgnM6Tb8BwIg) )
-  - [Yıldızlar, Karadelikler ve Galaksiler](https://tr.khanacademy.org/science/cosmology-and-astronomy/stellar-life-topic) (4 Topics)
+  - [Yıldızların Yaşamı (ve Ölümü)](https://tr.khanacademy.org/science/cosmology-and-astronomy/stellar-life-topic) (4 Topics)
     - [Yıldızların Yaşamı ve Ölümü](https://tr.khanacademy.org/science/cosmology-and-astronomy/stellar-life-topic/stellar-life-death-tutorial) (1 Interactive, 10 Videos | [1h 22m 48s](https://www.youtube.com/watch_videos?title=Y%C4%B1ld%C4%B1zlar%C4%B1n+Ya%C5%9Fam%C4%B1+ve+%C3%96l%C3%BCm%C3%BC&video_ids=iaiLkBssjrY%2CX31y-4dbl1Y%2CJWWvuy-Y5KI%2Cb85-dSNyyRs%2CuUdq4D_yxv4%2CG5SXUJM3EyA%2Cox7A6sNDYHg%2C0HGx6VUUV-c%2CG9eVzO4Un4Y%2C7S6oQ5e-8ao) )
     - [Kuasarlar ve Galaksi Çarpışmaları](https://tr.khanacademy.org/science/cosmology-and-astronomy/stellar-life-topic/quasars) (3 Videos | [14m 35s](https://www.youtube.com/watch_videos?title=Kuasarlar+ve+Galaksi+%C3%87arp%C4%B1%C5%9Fmalar%C4%B1&video_ids=QQvQsqNcoIY%2CWys2vgRl2j4%2CIjB50SqQhRU) )
     - [Yıldız Paralaksı (Iraklık Açısı) 1
@@ -3102,17 +2836,16 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Dünya'nın Dönüşü ve Eksen Eğikliği
 ](https://tr.khanacademy.org/science/cosmology-and-astronomy/earth-history-topic/earth-title-topic) (1 Interactive, 7 Videos | [1h 6m 57s](https://www.youtube.com/watch_videos?title=D%C3%BCnya%27n%C4%B1n+D%C3%B6n%C3%BC%C5%9F%C3%BC+ve+Eksen+E%C4%9Fikli%C4%9Fi%0A&video_ids=1A2UW_Iqq1c%2CFQ5lQT_y9Wc%2CG-ihZKPtZUI%2CZD8THEz18gc%2C2o-Sef6wllg%2C76ZM9s9WyXc%2Cm6lMGoZTJnc) )
     - [Ay Evreleri ve Tutulmaları](https://tr.khanacademy.org/science/cosmology-and-astronomy/earth-history-topic/moon-phases-and-eclipses) (1 Article, 2 Videos | [11m 6s](https://www.youtube.com/watch_videos?title=Ay+Evreleri+ve+Tutulmalar%C4%B1&video_ids=no_kN-2-lRg%2Ccv_kR7BQwfU) )
-  - [Dünya ve Evrende Yaşam](https://tr.khanacademy.org/science/cosmology-and-astronomy/life-earth-universe) (4 Topics)
+  - [Dünya'da ve Evrende Yaşam](https://tr.khanacademy.org/science/cosmology-and-astronomy/life-earth-universe) (4 Topics)
     - [Dünya Üzerindeki Yaşamın Tarihi](https://tr.khanacademy.org/science/cosmology-and-astronomy/life-earth-universe/history-life-earth-tutorial) (5 Videos | [46m 33s](https://www.youtube.com/watch_videos?title=D%C3%BCnya+%C3%9Czerindeki+Ya%C5%9Fam%C4%B1n+Tarihi&video_ids=l58eQ_mgysA%2CR3UsHEbpHP8%2CE1P79uFLCMc%2CWI0aJ-rSe3o%2CHOpWXHPcPD0) )
-    - [İnsanlık Tarihi](https://tr.khanacademy.org/science/cosmology-and-astronomy/life-earth-universe/humanity-on-earth-tutorial) (10 Videos | [1h 45m 17s](https://www.youtube.com/watch_videos?title=%C4%B0nsanl%C4%B1k+Tarihi&video_ids=frE1rjhH77Y%2CNPPJczagtWg%2CG6JsLMQRfGo%2CUQSpEKvQxeA%2Chk5QiOaIJRs%2Ct1K8YdTDmqs%2C1KLkKHcyAfI%2ChGCLNHJ-aEg%2CvUE9w1sii0U%2CT0XWr5MLZ_Y) )
-    - [Dünya ve Yaş Ölçümü](https://tr.khanacademy.org/science/cosmology-and-astronomy/life-earth-universe/measuring-age-tutorial) (5 Videos | [45m 53s](https://www.youtube.com/watch_videos?title=D%C3%BCnya+ve+Ya%C5%9F+%C3%96l%C3%A7%C3%BCm%C3%BC&video_ids=Tu3TmdsdkqE%2C6iHKC1WOy9g%2CCqXPeIYVT2Q%2CUSp9FXS92Ow%2CiLFcSfzrlMk) )
+    - [Dünya'da İnsanlık](https://tr.khanacademy.org/science/cosmology-and-astronomy/life-earth-universe/humanity-on-earth-tutorial) (10 Videos | [1h 45m 17s](https://www.youtube.com/watch_videos?title=D%C3%BCnya%27da+%C4%B0nsanl%C4%B1k&video_ids=frE1rjhH77Y%2CNPPJczagtWg%2CG6JsLMQRfGo%2CUQSpEKvQxeA%2Chk5QiOaIJRs%2Ct1K8YdTDmqs%2C1KLkKHcyAfI%2ChGCLNHJ-aEg%2CvUE9w1sii0U%2CT0XWr5MLZ_Y) )
+    - [Dünya'da Yaş Ölçme](https://tr.khanacademy.org/science/cosmology-and-astronomy/life-earth-universe/measuring-age-tutorial) (5 Videos | [45m 53s](https://www.youtube.com/watch_videos?title=D%C3%BCnya%27da+Ya%C5%9F+%C3%96l%C3%A7me&video_ids=Tu3TmdsdkqE%2C6iHKC1WOy9g%2CCqXPeIYVT2Q%2CUSp9FXS92Ow%2CiLFcSfzrlMk) )
     - [Evrende Yaşam](https://tr.khanacademy.org/science/cosmology-and-astronomy/life-earth-universe/life-in-universe-topic) (5 Videos | [40m 38s](https://www.youtube.com/watch_videos?title=Evrende+Ya%C5%9Fam&video_ids=iSV5-Enl0w0%2Cj3hDTkTb26I%2C95rDyD8CjKM%2C9O20mexSwhc%2CZ9D98sqIB1Y) )
 
 ## [Fizik](https://tr.khanacademy.org/science/physics) (20 Topics)
   - [Bir Boyutlu Hareket ](https://tr.khanacademy.org/science/physics/one-dimensional-motion) (5 Topics)
     - [Fiziğe Giriş](https://tr.khanacademy.org/science/physics/one-dimensional-motion/introduction-to-physics-tutorial) (2 Articles, 1 Video | [9m 30s](https://www.youtube.com/watch_videos?title=Fizi%C4%9Fe+Giri%C5%9F&video_ids=w_E26L3yE-A) )
-    - [Yer Değiştirme, Hız ve Zaman
-](https://tr.khanacademy.org/science/physics/one-dimensional-motion/displacement-velocity-time) (3 Articles, 2 Exercises, 7 Videos | [1h 1m 52s](https://www.youtube.com/watch_videos?title=Yer+De%C4%9Fi%C5%9Ftirme%2C+H%C4%B1z+ve+Zaman%0A&video_ids=KQD5jI3R32g%2CfYEn_Fg03RQ%2CoRKxmXwLvUU%2CM8zYysqE8G0%2CcsCINTK6bIE%2CMdgwuAbb5-Q%2Cw_R38r-jOKg) )
+    - [Yer değişimi, hız ve zaman](https://tr.khanacademy.org/science/physics/one-dimensional-motion/displacement-velocity-time) (3 Articles, 2 Exercises, 7 Videos | [1h 1m 52s](https://www.youtube.com/watch_videos?title=Yer+de%C4%9Fi%C5%9Fimi%2C+h%C4%B1z+ve+zaman&video_ids=KQD5jI3R32g%2CfYEn_Fg03RQ%2CoRKxmXwLvUU%2CM8zYysqE8G0%2CcsCINTK6bIE%2CMdgwuAbb5-Q%2Cw_R38r-jOKg) )
     - [İvme](https://tr.khanacademy.org/science/physics/one-dimensional-motion/acceleration-tutorial) (3 Articles, 1 Exercise, 1 Quiz, 5 Videos | [46m 47s](https://www.youtube.com/watch_videos?title=%C4%B0vme&video_ids=GwCDkmfZbOI%2CVLXeEh4UR9I%2CqivevgF6UYM%2Cf0myJ5LDIZs%2CzPOWFRMBek4) )
     - [Kinematik Formüller ve Atış Hareketi
 ](https://tr.khanacademy.org/science/physics/one-dimensional-motion/kinematic-formulas) (1 Article, 2 Exercises, 1 Quiz, 10 Videos | [1h 46m 23s](https://www.youtube.com/watch_videos?title=Kinematik+Form%C3%BCller+ve+At%C4%B1%C5%9F+Hareketi%0A&video_ids=MAS6mBRZZXA%2ClfRtqgNzwEs%2CqivevgF6UYM%2C2G0WNOxK1ic%2CJSyfEf386YQ%2Cc3xhi4xzH0A%2C6UXvrTzT_OE%2C2y9V7ujq3A0%2CgfL2ZwAHGK4%2CBFqP3lC8w6c) )
@@ -3123,11 +2856,9 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/physics/two-dimensional-motion/two-dimensional-projectile-mot) (2 Articles, 2 Exercises, 1 Quiz, 12 Videos | [2h 13m 18s](https://www.youtube.com/watch_videos?title=%C4%B0ki+Boyutlu+At%C4%B1%C5%9F+Hareketi%0A&video_ids=MF6yomo-_Tc%2CbmlEVyHXtP8%2Ct0KxvUvFyX4%2CMf-pxqiMWYw%2CUXORCpvKYiI%2C6_RAhBeo_Yk%2CZJQhusort-g%2Cbskabq2r9Dg%2CkVpFM76sQnk%2CxAiiyPaKbdE%2C19XcnkgEsuo%2CFbI5gZU0ti8) )
     - [Atış İçin En Uygun Açı
 ](https://tr.khanacademy.org/science/physics/two-dimensional-motion/optimal-projectile-angle) (1 Test, 4 Videos | [23m 22s](https://www.youtube.com/watch_videos?title=At%C4%B1%C5%9F+%C4%B0%C3%A7in+En+Uygun+A%C3%A7%C4%B1%0A&video_ids=yh6K5ryXJYI%2CyeNg7Hghoas%2CqoFLgUCHVTw%2CJdzabwMXWmU) )
-  - [Kuvvetler ve Newton'un Hareket Yasaları
-](https://tr.khanacademy.org/science/physics/forces-newtons-laws) (7 Topics)
+  - [Kuvvet ve Newton'un Hareket Kanunları](https://tr.khanacademy.org/science/physics/forces-newtons-laws) (7 Topics)
     - [Newton'un Hareket Yasaları](https://tr.khanacademy.org/science/physics/forces-newtons-laws/newtons-laws-of-motion) (3 Articles, 3 Exercises, 1 Quiz, 7 Videos | [1h 6m 35s](https://www.youtube.com/watch_videos?title=Newton%27un+Hareket+Yasalar%C4%B1&video_ids=cw2NW9racOI%2CKIKSY6b2swc%2CWIsNEgMinaI%2C90F_jg9VXQg%2C24vtg9Ehr0Q%2C0ZLHBB8DnBs%2CXT4i_M0wxTs) )
-    - [Normal Kuvvet ve Temas Kuvveti
-](https://tr.khanacademy.org/science/physics/forces-newtons-laws/normal-contact-force) (2 Articles, 4 Videos | [36m 38s](https://www.youtube.com/watch_videos?title=Normal+Kuvvet+ve+Temas+Kuvveti%0A&video_ids=eROJ61bUVxI%2CIS1d-P5FyTI%2C1CTdrWFNkGo%2CPUBr1y5UVF8) )
+    - [Normal kuvvet](https://tr.khanacademy.org/science/physics/forces-newtons-laws/normal-contact-force) (2 Articles, 4 Videos | [36m 38s](https://www.youtube.com/watch_videos?title=Normal+kuvvet&video_ids=eROJ61bUVxI%2CIS1d-P5FyTI%2C1CTdrWFNkGo%2CPUBr1y5UVF8) )
     - [Dengelenmiş ve Dengelenmemiş Kuvvetler
 ](https://tr.khanacademy.org/science/physics/forces-newtons-laws/balanced-unbalanced-forces) (2 Videos | [14m 48s](https://www.youtube.com/watch_videos?title=Dengelenmi%C5%9F+ve+Dengelenmemi%C5%9F+Kuvvetler%0A&video_ids=DiSqG9ceDeM%2ChRVdnVd-7A4) )
     - [Lubricon VI'nın Yüzeyinde Yavaş Hareket Eden Çorap
@@ -3136,48 +2867,41 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/physics/forces-newtons-laws/inclined-planes-friction) (2 Articles, 7 Videos | [59m 11s](https://www.youtube.com/watch_videos?title=E%C4%9Fimli+D%C3%BCzlemler+ve+S%C3%BCrt%C3%BCnme%0A&video_ids=TC23wD34C7k%2CF7OLvVCSdZ0%2Cce4jxIycylA%2CcjD6DXLwlS0%2Ciu_qSM86Zuc%2CDuMi86-aNYA%2CZA_D4O6l1lo) )
     - [Gerilme Kuvveti
 ](https://tr.khanacademy.org/science/physics/forces-newtons-laws/tension-tutorial) (1 Article, 6 Videos | [1h 18m 41s](https://www.youtube.com/watch_videos?title=Gerilme+Kuvveti%0A&video_ids=GCMFo79V5t8%2C9tOf4GhfkZo%2CtokA-6kzKDk%2CPlDx_KSXfYg%2CaihIPiGb-8Y%2C52wxpYnS64U) )
-    - [Makaralı Sistemler
-](https://tr.khanacademy.org/science/physics/forces-newtons-laws/treating-systems) (1 Test, 5 Videos | [51m 10s](https://www.youtube.com/watch_videos?title=Makaral%C4%B1+Sistemler%0A&video_ids=3gPfTjU4V-4%2CBRRqzVIWls0%2CLCK8EatCDH4%2C4ij6mUIJfbw%2C_0nDUXO0k7o) )
+    - [Sistemler](https://tr.khanacademy.org/science/physics/forces-newtons-laws/treating-systems) (1 Test, 5 Videos | [51m 10s](https://www.youtube.com/watch_videos?title=Sistemler&video_ids=3gPfTjU4V-4%2CBRRqzVIWls0%2CLCK8EatCDH4%2C4ij6mUIJfbw%2C_0nDUXO0k7o) )
   - [Merkezcil Kuvvet ve Yerçekimi
 ](https://tr.khanacademy.org/science/physics/centripetal-force-and-gravitation) (3 Topics)
-    - [Dairesel Hareket ve Merkezcil İvme
-](https://tr.khanacademy.org/science/physics/centripetal-force-and-gravitation/centripetal-acceleration-tutoria) (1 Article, 8 Videos | [1h 5s](https://www.youtube.com/watch_videos?title=Dairesel+Hareket+ve+Merkezcil+%C4%B0vme%0A&video_ids=c7iojvKFQfA%2CKwyZz8MtFk4%2CimMUraqrhjA%2C2rdtiLgKxbo%2CeHRCVOYS6Ms%2CwjZb3zPuoeA%2CnrchGeHfDKY%2CzcnnZz2pCSg) )
+    - [Merkezcil ivme](https://tr.khanacademy.org/science/physics/centripetal-force-and-gravitation/centripetal-acceleration-tutoria) (1 Article, 8 Videos | [1h 5s](https://www.youtube.com/watch_videos?title=Merkezcil+ivme&video_ids=c7iojvKFQfA%2CKwyZz8MtFk4%2CimMUraqrhjA%2C2rdtiLgKxbo%2CeHRCVOYS6Ms%2CwjZb3zPuoeA%2CnrchGeHfDKY%2CzcnnZz2pCSg) )
     - [Merkezcil Kuvvetler
 ](https://tr.khanacademy.org/science/physics/centripetal-force-and-gravitation/centripetal-forces) (1 Article, 1 Quiz, 4 Videos | [46m 59s](https://www.youtube.com/watch_videos?title=Merkezcil+Kuvvetler%0A&video_ids=xYFgkUEhrnk%2ChtkqvysYu2Y%2CWjjgqFGPiIo%2CT_CtGGYXP6o) )
     - [Newton'un Evrensel Kütleçekim Yasası
 ](https://tr.khanacademy.org/science/physics/centripetal-force-and-gravitation/gravity-newtonian) (1 Test, 8 Videos | [1h 17m 53s](https://www.youtube.com/watch_videos?title=Newton%27un+Evrensel+K%C3%BCtle%C3%A7ekim+Yasas%C4%B1%0A&video_ids=Xcel427Ezl0%2C6a7ZrpGP9sQ%2CzSjmdo6EWPY%2CKNBOycNdHKU%2Cr4mkFsPzE1w%2CroSyk2aPnA8%2C391txUI76gM%2Ctumm_HPcIyY) )
   - [İş ve Enerji](https://tr.khanacademy.org/science/physics/work-and-energy) (3 Topics)
     - [İş ve Enerji](https://tr.khanacademy.org/science/physics/work-and-energy/work-and-energy-tutorial) (6 Articles, 1 Quiz, 11 Videos | [1h 30m 21s](https://www.youtube.com/watch_videos?title=%C4%B0%C5%9F+ve+Enerji&video_ids=BO_aBQB_fbo%2CEJ9B8IU2Bkk%2CGDBr5-0VldM%2CvNUV3SPLxEE%2Cq0uyPK-29M8%2CunynVcPCfZI%2CG6CHYl641gM%2CnKKXskioXWU%2C97xZAlcxYOY%2CKwEhVVuMm6Y%2CbiNS4WMtHGo) )
-    - [Yaylar ve Hooke Kanunu
-](https://tr.khanacademy.org/science/physics/work-and-energy/hookes-law) (2 Articles, 1 Quiz, 5 Videos | [59m 10s](https://www.youtube.com/watch_videos?title=Yaylar+ve+Hooke+Kanunu%0A&video_ids=QAm5IlgD1pU%2CeVl5zs6Lqy0%2CP3QV9ktuYlQ%2C_8RohfPMklM%2CBnqKCCFKG0M) )
+    - [Yaylar ve Hooke Yasası](https://tr.khanacademy.org/science/physics/work-and-energy/hookes-law) (2 Articles, 1 Quiz, 5 Videos | [59m 10s](https://www.youtube.com/watch_videos?title=Yaylar+ve+Hooke+Yasas%C4%B1&video_ids=QAm5IlgD1pU%2CeVl5zs6Lqy0%2CP3QV9ktuYlQ%2C_8RohfPMklM%2CBnqKCCFKG0M) )
     - [Mekanik Avantaj (Kuvvet Kazancı)
 ](https://tr.khanacademy.org/science/physics/work-and-energy/mechanical-advantage) (1 Test, 3 Videos | [27m 26s](https://www.youtube.com/watch_videos?title=Mekanik+Avantaj+%28Kuvvet+Kazanc%C4%B1%29%0A&video_ids=QFyc6QNQbqM%2CXFIXXbbPErA%2Ch_e9D94cj6E) )
   - [Etki ve Lineer Momentum
 ](https://tr.khanacademy.org/science/physics/linear-momentum) (3 Topics)
-    - [Momentum ve İtme
-](https://tr.khanacademy.org/science/physics/linear-momentum/momentum-tutorial) (3 Articles, 1 Quiz, 7 Videos | [1h 3m 25s](https://www.youtube.com/watch_videos?title=Momentum+ve+%C4%B0tme%0A&video_ids=WYS71N3okgw%2C4a8a4zhlVbk%2Cmc4u5W6bxlI%2CN4HZUlIsRWI%2Cmh5KqZk4Zzg%2CgYcRDhDyo4E%2C2IpJQZSCmFE) )
+    - [Momentum (Devinim Kuvveti)](https://tr.khanacademy.org/science/physics/linear-momentum/momentum-tutorial) (3 Articles, 1 Quiz, 7 Videos | [1h 3m 25s](https://www.youtube.com/watch_videos?title=Momentum+%28Devinim+Kuvveti%29&video_ids=WYS71N3okgw%2C4a8a4zhlVbk%2Cmc4u5W6bxlI%2CN4HZUlIsRWI%2Cmh5KqZk4Zzg%2CgYcRDhDyo4E%2C2IpJQZSCmFE) )
     - [Esnek ve Esnek Olmayan Çarpışmalar
 ](https://tr.khanacademy.org/science/physics/linear-momentum/elastic-and-inelastic-collisions) (1 Article, 1 Quiz, 4 Videos | [52m 53s](https://www.youtube.com/watch_videos?title=Esnek+ve+Esnek+Olmayan+%C3%87arp%C4%B1%C5%9Fmalar%0A&video_ids=8OB8eIPgEkQ%2C9yXrEZy5WME%2COTtI4urvgDg%2CokFcjFD5umU) )
     - [Kütle Merkezi
 ](https://tr.khanacademy.org/science/physics/linear-momentum/center-of-mass) (1 Article, 1 Test, 2 Videos | [15m 16s](https://www.youtube.com/watch_videos?title=K%C3%BCtle+Merkezi%0A&video_ids=plawGbY5wAM%2C8cVjK1VCRf8) )
-  - [Tork ve Açısal Momentum
-](https://tr.khanacademy.org/science/physics/torque-angular-momentum) (2 Topics)
+  - [Moment, tork ve açısal momentum](https://tr.khanacademy.org/science/physics/torque-angular-momentum) (2 Topics)
     - [Dönme Kinematiği
 ](https://tr.khanacademy.org/science/physics/torque-angular-momentum/rotational-kinematics) (4 Videos | [51m 42s](https://www.youtube.com/watch_videos?title=D%C3%B6nme+Kinemati%C4%9Fi%0A&video_ids=bIDB05w7K9M%2CSf7vr1xg8gs%2CtQs5vWIzx84%2CJeYYTmZH1yU) )
     - [Tork, Moment ve Açısal Momentum
 ](https://tr.khanacademy.org/science/physics/torque-angular-momentum/torque-tutorial) (2 Articles, 1 Test, 13 Videos | [2h 39m 9s](https://www.youtube.com/watch_videos?title=Tork%2C+Moment+ve+A%C3%A7%C4%B1sal+Momentum%0A&video_ids=_p6TR56ipDM%2ChVxkIiS3mg0%2CNEkxH6Gvkoc%2CBh-VmGIeLQ8%2CuJk8rIpe88U%2CjnfeNXTVl94%2CVh8gmjhasag%2CYYuthCXj_qM%2CMReNYnVgr5k%2C7Kkvv6KZaQE%2CcP2MeiD_Zxo%2Civx2BW4LwqA%2Cs38l6nmTrvM) )
-  - [Osilasyon, Mekanik Dalgalar ve Ses
+  - [Mekanik Dalgalar ve Ses
 ](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound) (6 Topics)
-    - [Basit Harmonik (Uyumlu) Hareket
-](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/harmonic-motion) (1 Quiz, 6 Videos | [1h 11m 12s](https://www.youtube.com/watch_videos?title=Basit+Harmonik+%28Uyumlu%29+Hareket%0A&video_ids=dUX_tOQrDMI%2CtLOWcfeJ-74%2CkLWXLbciobw%2C6M_bjRzyUn0%2CVPewCBcOV14%2CCDyCXhTSJk0) )
+    - [Harmonik hareket](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/harmonic-motion) (1 Quiz, 6 Videos | [1h 11m 12s](https://www.youtube.com/watch_videos?title=Harmonik+hareket&video_ids=dUX_tOQrDMI%2CtLOWcfeJ-74%2CkLWXLbciobw%2C6M_bjRzyUn0%2CVPewCBcOV14%2CCDyCXhTSJk0) )
     - [Kalkülüs Kullanarak Basit Harmonik Hareket Sorusu Çözme
 ](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/simple-harmonic-motion-with-calculus) (3 Videos | [29m 33s](https://www.youtube.com/watch_videos?title=Kalk%C3%BCl%C3%BCs+Kullanarak+Basit+Harmonik+Hareket+Sorusu+%C3%87%C3%B6zme%0A&video_ids=z0kcUkYWDmM%2CsAan-Pnk3s8%2CnTXFS8Bf4H8) )
-    - [Mekanik Dalgalar
-](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/mechanical-waves) (1 Quiz, 3 Videos | [42m 13s](https://www.youtube.com/watch_videos?title=Mekanik+Dalgalar%0A&video_ids=c38H6UKt3_I%2Ci77D2c9CHZo%2Ct4iC6zWTVkI) )
+    - [Mekanik dalgalar](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/mechanical-waves) (1 Quiz, 3 Videos | [42m 13s](https://www.youtube.com/watch_videos?title=Mekanik+dalgalar&video_ids=c38H6UKt3_I%2Ci77D2c9CHZo%2Ct4iC6zWTVkI) )
     - [Ses](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/sound-topic) (8 Videos | [45m 3s](https://www.youtube.com/watch_videos?title=Ses&video_ids=Xml2CFEvaVg%2CD9Cy3kw1LHw%2C51IBhHv3Hh4%2CxMEKCLDVRIg%2CdfYB5NRkTL4%2CvlS4CVojEe0%2C-AvhAZw9J0I%2CIl3RIyH_1kM) )
     - [Doppler Etkisi
 ](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/doppler-effect) (6 Videos | [50m 47s](https://www.youtube.com/watch_videos?title=Doppler+Etkisi%0A&video_ids=f08aszlc20o%2CDu0yr-R1TGQ%2C3G7-U8MsIVQ%2CPNI9TBt9OK8%2CmCc-ZbV390E%2CACpJwzoWhqM) )
-    - [Dalga Girişimi](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/standing-waves) (1 Quiz, 1 Test, 7 Videos | [1h 20m 32s](https://www.youtube.com/watch_videos?title=Dalga+Giri%C5%9Fimi&video_ids=iUUiMsL4yow%2CRed72gn-jb0%2Ch1aGsjQATfs%2C1vCH2BvDdds%2C-NrrEGLdkyU%2C1OzVve8-RF4%2CwXL0p0fhWak) )
+    - [Duran dalgalar](https://tr.khanacademy.org/science/physics/mechanical-waves-and-sound/standing-waves) (1 Quiz, 1 Test, 7 Videos | [1h 20m 32s](https://www.youtube.com/watch_videos?title=Duran+dalgalar&video_ids=iUUiMsL4yow%2CRed72gn-jb0%2Ch1aGsjQATfs%2C1vCH2BvDdds%2C-NrrEGLdkyU%2C1OzVve8-RF4%2CwXL0p0fhWak) )
   - [Akışkanlar](https://tr.khanacademy.org/science/physics/fluids) (3 Topics)
     - [Yoğunluk ve Basınç](https://tr.khanacademy.org/science/physics/fluids/density-and-pressure) (1 Article, 5 Videos | [43m 11s](https://www.youtube.com/watch_videos?title=Yo%C4%9Funluk+ve+Bas%C4%B1n%C3%A7&video_ids=e1x0CKV2tug%2CMF92GpVpl74%2C7ZsS_l5FH0U%2CP1W10eAa0ck%2CC0UVJ46AGEE) )
     - [Suyun Kaldırma Kuvveti  ve Arşimed Prensibi
@@ -3190,8 +2914,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/physics/thermodynamics/specific-heat-and-heat-transfer) (1 Article, 1 Quiz, 5 Videos | [45m 3s](https://www.youtube.com/watch_videos?title=%C3%96zg%C3%BCl+Is%C4%B1+ve+Is%C4%B1+Aktar%C4%B1m%C4%B1+%28Transferi%29%0A&video_ids=p3qy6nYcCp8%2CTg4Ft79Rk0g%2CuJ8obgw8t4o%2C0pj858mTrl0%2C11hnqGBQ_Dw) )
     - [Termodinamik Yasaları
 ](https://tr.khanacademy.org/science/physics/thermodynamics/laws-of-thermodynamics) (2 Articles, 1 Quiz, 1 Test, 19 Videos | [5h 8m 20s](https://www.youtube.com/watch_videos?title=Termodinamik+Yasalar%C4%B1%0A&video_ids=OYPNwQ18cdw%2CVNYHsysCFVI%2C_tbpUeGEngI%2Cz002I0yV2uU%2CK-XKhbOFTF4%2CgquYvsqAGhE%2CJJ9MCNiEy4E%2CiiFWoXQPOJc%2CaAfBSJObd6Y%2CixRtSV3CXPA%2CsPz5RrFus1Q%2CPFcGiMLwjeY%2CWLKEVfLFau4%2CxJf6pHqLzs0%2CaKRDvSZ-igA%2CmduOO_0445I%2CM_5KYncYNyc%2CpQWwP7YYH6o%2CLUoUb4hGMH8) )
-  - [Elektrik Yükü, Elektrik Kuvveti ve Voltaj
-](https://tr.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage) (3 Topics)
+  - [Elektrik yükü, elektrik kuvveti ve voltaj](https://tr.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage) (3 Topics)
     - [Yük ve Elektrik Kuvveti (Coulomb Yasası)
 ](https://tr.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage/charge-electric-force) (1 Quiz, 4 Videos | [45m 58s](https://www.youtube.com/watch_videos?title=Y%C3%BCk+ve+Elektrik+Kuvveti+%28Coulomb+Yasas%C4%B1%29%0A&video_ids=IDQYakHRAG8%2C2GQTfpDE9DQ%2CZgDIX2GOaxQ%2CSn5CwAODVdI) )
     - [Elektrik Alanı
@@ -3203,8 +2926,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/physics/circuits-topic/circuits-resistance) (2 Articles, 11 Videos | [1h 38m 1s](https://www.youtube.com/watch_videos?title=Ohm+Kanunu+ve+Diren%C3%A7li+Devreler%0A&video_ids=f0XBOmyY7a8%2C7vHh1sfZ5KE%2CZrMw7P6P2Gw%2C3NcIK0s3IwU%2CMLZPNeEqKFI%2ChpF_VLRGd0A%2Cvydtsm0nRQg%2CVkB6VPSDLmM%2Cg4QNuCK8jB0%2CGgwnnt0so4w%2Cvp2nb36m4wU) )
     - [Kondansatörlü Devreler
 ](https://tr.khanacademy.org/science/physics/circuits-topic/circuits-with-capacitors) (6 Videos | [51m 44s](https://www.youtube.com/watch_videos?title=Kondansat%C3%B6rl%C3%BC+Devreler%0A&video_ids=kvbQHTsrmqU%2CKro3oYeQnJk%2C634q1XhkO18%2CE8IQgyr_d5s%2CN2RUo51U-xk%2CCgRX2LNXDsk) )
-  - [Manyetik Kuvvetler ve Manyetik Alanlar ve Faraday Yasası
-](https://tr.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields) (4 Topics)
+  - [Manyetik kuvvetler, manyetik alanlar ve Faraday yasası](https://tr.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields) (4 Topics)
     - [Mıknatıslar ve Manyetik Kuvvet](https://tr.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnets-magnetic) (1 Article, 7 Videos | [1h 12m 58s](https://www.youtube.com/watch_videos?title=M%C4%B1knat%C4%B1slar+ve+Manyetik+Kuvvet&video_ids=SB19VxkIEVM%2C8J9wO0rdJkU%2C7oYrMMdb9lI%2Co_puKe_lTKk%2CLTuGQy4rmmo%2Cb1QFKLZC11U%2CjQ2nD8ZGeEw) )
     - [Bir Akım Tarafından Oluşturulan Manyetik Alan
 ](https://tr.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnetic-field-current-carrying-wire) (1 Article, 1 Quiz, 4 Videos | [43m 50s](https://www.youtube.com/watch_videos?title=Bir+Ak%C4%B1m+Taraf%C4%B1ndan+Olu%C5%9Fturulan+Manyetik+Alan%0A&video_ids=Ri557hvwhcM%2CqJjABoS9Gq0%2C354GTDb2uMA%2CKuUMUvwvML8) )
@@ -3212,29 +2934,25 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/electric-motors) (6 Videos | [58m 57s](https://www.youtube.com/watch_videos?title=Elektrik+Motorlar%C4%B1%0A&video_ids=7h-y3rSoH48%2CjZ1k9Dqr8XI%2CEkxbkVG_UCY%2CKDHuWxy53uM%2CE34CftP455k%2CKUPpTilMoZg) )
     - [Manyetik Akı ve Faraday Kanunu
 ](https://tr.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnetic-flux-faradays-law) (2 Articles, 1 Quiz, 1 Test, 6 Videos | [44m 36s](https://www.youtube.com/watch_videos?title=Manyetik+Ak%C4%B1+ve+Faraday+Kanunu%0A&video_ids=pHVInv0kDNU%2CoVV_xpbodRc%2CgmZv2ZpOvEI%2CQt8GTHoeDHA%2Cy3Ch2_6DhcA%2CFN6q0BTOMII) )
-  - [Elektromanyetik Dalgalar ve Girişim
+  - [Işık Dalgaları
 ](https://tr.khanacademy.org/science/physics/light-waves) (2 Topics)
-    - [Elektromanyetik Dalgalara Giriş
-](https://tr.khanacademy.org/science/physics/light-waves/introduction-to-light-waves) (1 Article, 2 Videos | [25m 32s](https://www.youtube.com/watch_videos?title=Elektromanyetik+Dalgalara+Giri%C5%9F%0A&video_ids=nGBBDAdVAT0%2CuLgyRTAzvy8) )
-    - [Elektromanyetik Dalgaların Parazitlenmesi
-](https://tr.khanacademy.org/science/physics/light-waves/interference-of-light-waves) (1 Test, 9 Videos | [1h 43m 40s](https://www.youtube.com/watch_videos?title=Elektromanyetik+Dalgalar%C4%B1n+Parazitlenmesi%0A&video_ids=Red72gn-jb0%2CcJQedpwbON0%2CcYeeg39wNg8%2CNnDebyIBljc%2CF6dZjuw1KUo%2CaOpk7_jxnng%2CHgTjlU-1UFw%2CoXowkdgJPO4%2CyWkga94iBzU) )
+    - [Işık dalgalarına giriş](https://tr.khanacademy.org/science/physics/light-waves/introduction-to-light-waves) (1 Article, 2 Videos | [25m 32s](https://www.youtube.com/watch_videos?title=I%C5%9F%C4%B1k+dalgalar%C4%B1na+giri%C5%9F&video_ids=nGBBDAdVAT0%2CuLgyRTAzvy8) )
+    - [Işık dalgalarının karışımı](https://tr.khanacademy.org/science/physics/light-waves/interference-of-light-waves) (1 Test, 9 Videos | [1h 43m 40s](https://www.youtube.com/watch_videos?title=I%C5%9F%C4%B1k+dalgalar%C4%B1n%C4%B1n+kar%C4%B1%C5%9F%C4%B1m%C4%B1&video_ids=Red72gn-jb0%2CcJQedpwbON0%2CcYeeg39wNg8%2CNnDebyIBljc%2CF6dZjuw1KUo%2CaOpk7_jxnng%2CHgTjlU-1UFw%2CoXowkdgJPO4%2CyWkga94iBzU) )
   - [Geometrik Optik](https://tr.khanacademy.org/science/physics/geometric-optics) (3 Topics)
     - [Yansıma ve Kırılma
 ](https://tr.khanacademy.org/science/physics/geometric-optics/reflection-refraction) (8 Videos | [1h 9m 48s](https://www.youtube.com/watch_videos?title=Yans%C4%B1ma+ve+K%C4%B1r%C4%B1lma%0A&video_ids=_yC6gn3wcl4%2CXCk1I5OqAto%2Cvt1nI1h2fVU%2C05YwohwKzxA%2CHahjsBApxLE%2C10LuSfZZa3E%2CWRuatAcd2WY%2CCH0ZZEJ5-wI) )
     - [Aynalar](https://tr.khanacademy.org/science/physics/geometric-optics/mirrors) (6 Videos | [1h 3m 51s](https://www.youtube.com/watch_videos?title=Aynalar&video_ids=QTmKw6qjZ_w%2CnADXXI8PzbQ%2CKtzWyH326Ik%2CE4Bdlz2TBMg%2CmnotEfC6Yoc%2C0L9EdjaNzfU) )
     - [Mercekler
 ](https://tr.khanacademy.org/science/physics/geometric-optics/lenses) (1 Test, 8 Videos | [1h 16m 57s](https://www.youtube.com/watch_videos?title=Mercekler%0A&video_ids=cyuGC5EQP28%2C6BLqCgEPXhg%2CB4lCZDzQ3A4%2Crse0I7rZ8jM%2CQU5qJWHJyl8%2Cbts_1G9N8qg%2CGPomGcZ3_kk%2Ceji8zKa7H7s) )
-  - [Özel Görelilik
-](https://tr.khanacademy.org/science/physics/special-relativity) (4 Topics)
-    - [Michelson ve Morley'in Işık Saçan Eter Deneyi
-](https://tr.khanacademy.org/science/physics/special-relativity/michelson-and-morleys-luminiferous-ether-experiment) (3 Videos | [23m 34s](https://www.youtube.com/watch_videos?title=Michelson+ve+Morley%27in+I%C5%9F%C4%B1k+Sa%C3%A7an+Eter+Deneyi%0A&video_ids=nSOX3DPMTM0%2CJvLbsLc-y9I%2CKZDEoQyC-lE) )
+  - [Özel görelilik](https://tr.khanacademy.org/science/physics/special-relativity) (4 Topics)
+    - [Tarihi arka plan](https://tr.khanacademy.org/science/physics/special-relativity/michelson-and-morleys-luminiferous-ether-experiment) (3 Videos | [23m 34s](https://www.youtube.com/watch_videos?title=Tarihi+arka+plan&video_ids=nSOX3DPMTM0%2CJvLbsLc-y9I%2CKZDEoQyC-lE) )
     - [Minkowski Uzay Zamanı
 ](https://tr.khanacademy.org/science/physics/special-relativity/minkowski-spacetime) (6 Videos | [51m 41s](https://www.youtube.com/watch_videos?title=Minkowski+Uzay+Zaman%C4%B1%0A&video_ids=PRx_R9iIWk4%2CF7BU1sXtul4%2Csn00dr9V7As%2Cii-KBKSODek%2C3w1JEtw-eJo%2CqzNokxFaAAg) )
     - [Lorentz Dönüşümü
 ](https://tr.khanacademy.org/science/physics/special-relativity/lorentz-transformation) (6 Videos | [53m 28s](https://www.youtube.com/watch_videos?title=Lorentz+D%C3%B6n%C3%BC%C5%9F%C3%BCm%C3%BC%0A&video_ids=HIQ5hnm61LQ%2CG-aTU0RXJww%2CZ9DuKef9jkw%2C_qiFIMviIeM%2CLm_Yn_MZU6k%2Cxb8nBY4MDC8) )
     - [Einstein Hız Ekleme
 ](https://tr.khanacademy.org/science/physics/special-relativity/einstein-velocity-addition) (1 Quiz, 1 Test, 6 Videos | [43m 15s](https://www.youtube.com/watch_videos?title=Einstein+H%C4%B1z+Ekleme%0A&video_ids=8UeRlShZov8%2CF9BW57exRn8%2C0XkyAPXq55k%2CBiua3BgRf54%2CiTyBlnTK2ac%2C2BVGig1LXLs) )
-  - [Kuantum Fiziği](https://tr.khanacademy.org/science/physics/quantum-physics) (4 Topics)
+  - [Kuantum fiziği](https://tr.khanacademy.org/science/physics/quantum-physics) (4 Topics)
     - [Fotonlar](https://tr.khanacademy.org/science/physics/quantum-physics/photons) (1 Article, 1 Quiz, 3 Videos | [22m 37s](https://www.youtube.com/watch_videos?title=Fotonlar&video_ids=FeuO-rXyOjM%2CTQxYL__V0Co%2CQYyxMyuxXH0) )
     - [Atomlar ve Elektronlar
 ](https://tr.khanacademy.org/science/physics/quantum-physics/atoms-and-electrons) (1 Article, 1 Quiz, 9 Videos | [1h 32m 34s](https://www.youtube.com/watch_videos?title=Atomlar+ve+Elektronlar%0A&video_ids=3dEtWJZbC9U%2CZEefRTQGWdM%2CtlAiM2QSIBg%2CtKUhOAfWAxA%2CRkG1mL1_xYQ%2CiK0I_EEZEnE%2CQg1AYY6CUvA%2CE6xdyVeTTFw%2C8QMpOSr4kzg) )
@@ -3247,22 +2965,13 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/physics/discoveries/magnetic-fields) (4 Interactives, 5 Videos | [5m 39s](https://www.youtube.com/watch_videos?title=Manyetik+Alanlar%C4%B1n+Ke%C5%9Ffi%0A&video_ids=Ey_ASatS-Ko%2CAcvRQ2YjexY%2Ctr5ejt03hRI%2CcJfxDkGBM1c%2COYE-7TVk5Uo) )
     - [Manyetik Alanların Ölçümü
 ](https://tr.khanacademy.org/science/physics/discoveries/measure-magnets) (2 Articles, 1 Interactive, 4 Videos | [5m 49s](https://www.youtube.com/watch_videos?title=Manyetik+Alanlar%C4%B1n+%C3%96l%C3%A7%C3%BCm%C3%BC%0A&video_ids=_h491E-eQ0I%2CpxwG8iCxVFU%2Cb7UiHyublwg%2CnQNxyMjIPgc) )
-    - [Pillerin Keşfi
-](https://tr.khanacademy.org/science/physics/discoveries/batteries) (1 Article, 1 Interactive, 12 Videos | [18m 34s](https://www.youtube.com/watch_videos?title=Pillerin+Ke%C5%9Ffi%0A&video_ids=CAfrb17w0rc%2C3dxfyxkx0xU%2C-SMPpcp5IsQ%2C3mB6Rykkl-M%2Ciq6yc25YDkY%2CAG_ngeVHxg4%2C6au_K_5CAac%2CaSWsG3h1MnQ%2CnNlAVZVP3tA%2C57DQWfN8Um4%2CA5soNbgdmZ0%2Coxpr5dhqqyw) )
-    - [Elektromanyetizmanın Keşfi
-](https://tr.khanacademy.org/science/physics/discoveries/electromagnet) (2 Articles, 5 Videos | [3m 45s](https://www.youtube.com/watch_videos?title=Elektromanyetizman%C4%B1n+Ke%C5%9Ffi%0A&video_ids=ft-OCfK8yq0%2C7iesHaccV9A%2CWXd4lsrQJ-w%2Cozt-tVl7G9U%2C3dxfyxkx0xU) )
-    - [Direncin Keşfi
-](https://tr.khanacademy.org/science/physics/discoveries/resistance) (4 Videos | [4m 55s](https://www.youtube.com/watch_videos?title=Direncin+Ke%C5%9Ffi%0A&video_ids=0V4tvgvGn0k%2Ci8i8MfYUHVI%2C_QKBCKK6QmE%2CIwhHJd9mlSg) )
-    - [Elektrik Motoru
-](https://tr.khanacademy.org/science/physics/discoveries/electric-motor) (1 Article, 2 Videos | [8m 7s](https://www.youtube.com/watch_videos?title=Elektrik+Motoru%0A&video_ids=jck0GIxuAlY%2Cjabo8iTesqQ) )
-    - [Elektrostatik
-](https://tr.khanacademy.org/science/physics/discoveries/electrostatics) (4 Videos | [11m 25s](https://www.youtube.com/watch_videos?title=Elektrostatik%0A&video_ids=j3F7CZlFMRc%2CU6WUVjg_c6A%2C9JzExXLRYJY%2CAurTtzpAr4c) )
-    - [Fırlatma Rampası
-](https://tr.khanacademy.org/science/physics/discoveries/projectile-launcher) (3 Videos | [23m 4s](https://www.youtube.com/watch_videos?title=F%C4%B1rlatma+Rampas%C4%B1%0A&video_ids=VyCuGu5G9UY%2CSlQDuTS6FR4%2CBdd1Lu5jN08) )
-    - [Termal Kutu
-](https://tr.khanacademy.org/science/physics/discoveries/thermo-can) (1 Video | [3m 54s](https://www.youtube.com/watch_videos?title=Termal+Kutu%0A&video_ids=137hxG6PHBA) )
-    - [Basit Makinelerle Keşifler
-](https://tr.khanacademy.org/science/physics/discoveries/simple-machines-explorations) (4 Articles)
+    - [Piller](https://tr.khanacademy.org/science/physics/discoveries/batteries) (1 Article, 1 Interactive, 12 Videos | [18m 34s](https://www.youtube.com/watch_videos?title=Piller&video_ids=CAfrb17w0rc%2C3dxfyxkx0xU%2C-SMPpcp5IsQ%2C3mB6Rykkl-M%2Ciq6yc25YDkY%2CAG_ngeVHxg4%2C6au_K_5CAac%2CaSWsG3h1MnQ%2CnNlAVZVP3tA%2C57DQWfN8Um4%2CA5soNbgdmZ0%2Coxpr5dhqqyw) )
+    - [Elektromıknatıs](https://tr.khanacademy.org/science/physics/discoveries/electromagnet) (2 Articles, 5 Videos | [3m 45s](https://www.youtube.com/watch_videos?title=Elektrom%C4%B1knat%C4%B1s&video_ids=ft-OCfK8yq0%2C7iesHaccV9A%2CWXd4lsrQJ-w%2Cozt-tVl7G9U%2C3dxfyxkx0xU) )
+    - [direnç](https://tr.khanacademy.org/science/physics/discoveries/resistance) (4 Videos | [4m 55s](https://www.youtube.com/watch_videos?title=diren%C3%A7&video_ids=0V4tvgvGn0k%2Ci8i8MfYUHVI%2C_QKBCKK6QmE%2CIwhHJd9mlSg) )
+    - [Elektrik Motoru](https://tr.khanacademy.org/science/physics/discoveries/electric-motor) (1 Article, 2 Videos | [8m 7s](https://www.youtube.com/watch_videos?title=Elektrik+Motoru&video_ids=jck0GIxuAlY%2Cjabo8iTesqQ) )
+    - [Elektrostatik](https://tr.khanacademy.org/science/physics/discoveries/electrostatics) (4 Videos | [11m 25s](https://www.youtube.com/watch_videos?title=Elektrostatik&video_ids=j3F7CZlFMRc%2CU6WUVjg_c6A%2C9JzExXLRYJY%2CAurTtzpAr4c) )
+    - [Fırlatıcı yapımı](https://tr.khanacademy.org/science/physics/discoveries/projectile-launcher) (3 Videos | [23m 4s](https://www.youtube.com/watch_videos?title=F%C4%B1rlat%C4%B1c%C4%B1+yap%C4%B1m%C4%B1&video_ids=VyCuGu5G9UY%2CSlQDuTS6FR4%2CBdd1Lu5jN08) )
+    - [Termodinamik](https://tr.khanacademy.org/science/physics/discoveries/thermo-can) (1 Video | [3m 54s](https://www.youtube.com/watch_videos?title=Termodinamik&video_ids=137hxG6PHBA) )
   - [İleri Seviye Fizik 1 Sınavı İçin Konu Tekrarı](https://tr.khanacademy.org/science/physics/review-for-ap-physics-1-exam) (3 Topics)
     - [AP Fizik 1 Kavram Tekrarı](https://tr.khanacademy.org/science/physics/review-for-ap-physics-1-exam/ap-physics-1-concept-review) (9 Videos | [2h 26m 36s](https://www.youtube.com/watch_videos?title=AP+Fizik+1+Kavram+Tekrar%C4%B1&video_ids=69bUZbxY1d4%2CYJEfSqlSxks%2CBkl6Mn1Y23Q%2C0r_JWUkXEkY%2C65uG6v7YY2Q%2CqMc6KOkmjTU%2CuRA8vI2Gzvk%2CRA7x81NI8C4%2CqdmYAXjhWiw) )
     - [İleri Fizik Sınavı Çözümleri
@@ -3270,7 +2979,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 
 ## [Biyoloji](https://tr.khanacademy.org/science/biology) (32 Topics)
   - [Biyoloji](https://tr.khanacademy.org/science/biology/intro-to-biology) (2 Topics)
-    - [Biyolojiye Hoş Geldiniz!](https://tr.khanacademy.org/science/biology/intro-to-biology/what-is-biology) (2 Articles, 1 Video | [4m 34s](https://www.youtube.com/watch_videos?title=Biyolojiye+Ho%C5%9F+Geldiniz%21&video_ids=tkMBTpFPJdA) )
+    - [Biyoloji nedir?](https://tr.khanacademy.org/science/biology/intro-to-biology/what-is-biology) (2 Articles, 1 Video | [4m 34s](https://www.youtube.com/watch_videos?title=Biyoloji+nedir%3F&video_ids=tkMBTpFPJdA) )
     - [Biyoloji Bilimi](https://tr.khanacademy.org/science/biology/intro-to-biology/science-of-biology) (2 Articles, 1 Exercise, 1 Video | [11m 49s](https://www.youtube.com/watch_videos?title=Biyoloji+Bilimi&video_ids=ygHfnrlP3wo) )
   - [Yaşamın Kimyası](https://tr.khanacademy.org/science/biology/chemistry--of-life) (3 Topics)
     - [Elementler ve Atomlar](https://tr.khanacademy.org/science/biology/chemistry--of-life/elements-and-atoms) (2 Articles, 1 Exercise, 2 Videos | [34m 14s](https://www.youtube.com/watch_videos?title=Elementler+ve+Atomlar&video_ids=B2WwR68ZWdc%2CmTSfufJDL1E) )
@@ -3283,16 +2992,14 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/biology/water-acids-and-bases/hydrogen-bonding-in-water) (2 Articles, 1 Exercise, 2 Videos | [15m 59s](https://www.youtube.com/watch_videos?title=Sudaki+Hidrojen+Ba%C4%9Flar%C4%B1%0A&video_ids=WMr298YPeGk%2CAicoMMe_5p0) )
     - [Kohezyon ve Adezyon
 ](https://tr.khanacademy.org/science/biology/water-acids-and-bases/cohesion-and-adhesion) (1 Article, 1 Exercise, 1 Quiz, 2 Videos | [12m 57s](https://www.youtube.com/watch_videos?title=Kohezyon+ve+Adezyon%0A&video_ids=7TWN0N4k2W0%2C5QO1iHrML74) )
-    - [Suyun Isı ve Hal Değişimleri
-](https://tr.khanacademy.org/science/biology/water-acids-and-bases/water-as-a-solid-liquid-and-gas) (1 Article, 1 Exercise, 5 Videos | [34m 44s](https://www.youtube.com/watch_videos?title=Suyun+Is%C4%B1+ve+Hal+De%C4%9Fi%C5%9Fimleri%0A&video_ids=fAVqFI0kz28%2C6ZVRMOs3ilc%2CVjZ7BK5Vc48%2CBj7tAEyxlmE%2CLOOplLkBr98) )
+    - [Katı, sıvı ve gaz olarak hava](https://tr.khanacademy.org/science/biology/water-acids-and-bases/water-as-a-solid-liquid-and-gas) (1 Article, 1 Exercise, 5 Videos | [34m 44s](https://www.youtube.com/watch_videos?title=Kat%C4%B1%2C+s%C4%B1v%C4%B1+ve+gaz+olarak+hava&video_ids=fAVqFI0kz28%2C6ZVRMOs3ilc%2CVjZ7BK5Vc48%2CBj7tAEyxlmE%2CLOOplLkBr98) )
     - [Asitler, Bazlar ve pH
 ](https://tr.khanacademy.org/science/biology/water-acids-and-bases/acids-bases-and-ph) (1 Article, 1 Exercise, 1 Quiz, 1 Test, 5 Videos | [45m 38s](https://www.youtube.com/watch_videos?title=Asitler%2C+Bazlar+ve+pH%0A&video_ids=NUyYlRxMtcs%2C_Xut4g-8fTw%2C17562akPWg8%2CJ7-GewgqWUQ%2CD3YnN1HWChg) )
   - [Karbonun Özellikleri](https://tr.khanacademy.org/science/biology/properties-of-carbon) (2 Topics)
-    - [Karbon](https://tr.khanacademy.org/science/biology/properties-of-carbon/carbon) (1 Article, 3 Videos | [23m 4s](https://www.youtube.com/watch_videos?title=Karbon&video_ids=zivB1eAFgbA%2C3KG1QSdnrGk%2CFFUziGlTedk) )
+    - [Karbonun Özellikleri](https://tr.khanacademy.org/science/biology/properties-of-carbon/carbon) (1 Article, 3 Videos | [23m 4s](https://www.youtube.com/watch_videos?title=Karbonun+%C3%96zellikleri&video_ids=zivB1eAFgbA%2C3KG1QSdnrGk%2CFFUziGlTedk) )
     - [Hidrokarbon Yapıları ve Fonksiyonel Grupları
 ](https://tr.khanacademy.org/science/biology/properties-of-carbon/hydrocarbon-structures-and-functional-groups) (2 Articles, 1 Exercise, 3 Videos | [24m 34s](https://www.youtube.com/watch_videos?title=Hidrokarbon+Yap%C4%B1lar%C4%B1+ve+Fonksiyonel+Gruplar%C4%B1%0A&video_ids=DwpnJ7u4uZ8%2C7yJEeJKZqPw%2CyeEyFLZO-l4) )
   - [Makromoleküller](https://tr.khanacademy.org/science/biology/macromolecules) (5 Topics)
-    - [Makromoleküller](https://tr.khanacademy.org/science/biology/macromolecules/introduction-to-macromolecues) (1 Article)
     - [Karbonhidratlar](https://tr.khanacademy.org/science/biology/macromolecules/carbohydrates-and-sugars) (1 Article, 1 Exercise, 4 Videos | [37m 30s](https://www.youtube.com/watch_videos?title=Karbonhidratlar&video_ids=9bxOocpkIeQ%2Cndy8XHFFdp0%2C-0cpOBf4S78%2CvGahEYznsns) )
     - [Lipitler](https://tr.khanacademy.org/science/biology/macromolecules/lipids) (1 Article, 1 Exercise, 1 Quiz, 3 Videos | [31m 32s](https://www.youtube.com/watch_videos?title=Lipitler&video_ids=KsZyy1hRH0I%2CBL_nCvRn6vw%2C_2pigkpV1nc) )
     - [Nükleik Asitler](https://tr.khanacademy.org/science/biology/macromolecules/nucleic-acids) (1 Article, 1 Exercise, 5 Videos | [1h 2m 54s](https://www.youtube.com/watch_videos?title=N%C3%BCkleik+Asitler&video_ids=C5M7EI-Iyns%2Cs5kHzvj4iek%2CWI42OdUx-sQ%2C_l-3wNrTxHU%2C7yWfckGNmkw) )
@@ -3314,18 +3021,16 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/biology/structure-of-a-cell/prokaryotic-and-eukaryotic-cells) (4 Articles, 2 Exercises, 1 Quiz, 2 Videos | [15m 46s](https://www.youtube.com/watch_videos?title=Prokaryot+ve+%C3%96karyot+H%C3%BCcreler%0A&video_ids=kbGGJSFqQKA%2C1wBdE6a1AFI) )
     - [Ökaryot Hücreye Yolculuk
 ](https://tr.khanacademy.org/science/biology/structure-of-a-cell/tour-of-organelles) (3 Articles, 1 Exercise, 4 Videos | [39m 14s](https://www.youtube.com/watch_videos?title=%C3%96karyot+H%C3%BCcreye+Yolculuk%0A&video_ids=YxPunOSJMHM%2C5axbW0St8OM%2C-2FUa0glc80%2CP_FFdtfht4Y) )
-    - [Hücre Dışı Yapılar ve Hücre Bağlantıları
-](https://tr.khanacademy.org/science/biology/structure-of-a-cell/cytoskeleton-junctions-and-extracellular-structures) (2 Articles, 1 Exercise, 1 Quiz, 1 Test, 3 Videos | [23m 19s](https://www.youtube.com/watch_videos?title=H%C3%BCcre+D%C4%B1%C5%9F%C4%B1+Yap%C4%B1lar+ve+H%C3%BCcre+Ba%C4%9Flant%C4%B1lar%C4%B1%0A&video_ids=TirxrpF71dE%2CyPK39ab1LJk%2C1s1pmDv3LpM) )
+    - [Sitoiskelet, bağlantılar ve hücre dışı yapılar](https://tr.khanacademy.org/science/biology/structure-of-a-cell/cytoskeleton-junctions-and-extracellular-structures) (2 Articles, 1 Exercise, 1 Quiz, 1 Test, 3 Videos | [23m 19s](https://www.youtube.com/watch_videos?title=Sitoiskelet%2C+ba%C4%9Flant%C4%B1lar+ve+h%C3%BCcre+d%C4%B1%C5%9F%C4%B1+yap%C4%B1lar&video_ids=TirxrpF71dE%2CyPK39ab1LJk%2C1s1pmDv3LpM) )
   - [Zarlar ve Taşıma](https://tr.khanacademy.org/science/biology/membranes-and-transport) (5 Topics)
     - [Hücre Zarı](https://tr.khanacademy.org/science/biology/membranes-and-transport/the-plasma-membrane) (1 Article, 1 Video | [8m 47s](https://www.youtube.com/watch_videos?title=H%C3%BCcre+Zar%C4%B1&video_ids=MnEtiAgh59k) )
     - [Difüzyon ve Ozmoz](https://tr.khanacademy.org/science/biology/membranes-and-transport/diffusion-and-osmosis) (1 Article, 1 Exercise, 5 Videos | [42m 44s](https://www.youtube.com/watch_videos?title=Dif%C3%BCzyon+ve+Ozmoz&video_ids=c2ssu1Oimrw%2C6gLtvS4UxAI%2Cd9JbFHptA3I%2Cuh3zueQt8Eo%2CLzmpXX-T03o) )
     - [Pasif Taşıma](https://tr.khanacademy.org/science/biology/membranes-and-transport/passive-transport) (1 Article, 1 Exercise, 1 Quiz, 2 Videos | [13m 35s](https://www.youtube.com/watch_videos?title=Pasif+Ta%C5%9F%C4%B1ma&video_ids=u53wW6X8y5o%2CxOg7pF8OWK8) )
     - [Aktif Taşıma](https://tr.khanacademy.org/science/biology/membranes-and-transport/active-transport) (1 Article, 1 Exercise, 3 Videos | [19m 48s](https://www.youtube.com/watch_videos?title=Aktif+Ta%C5%9F%C4%B1ma&video_ids=-S6NHS6i968%2CqrmpZf1lHLI%2CBRARH3wspRY) )
     - [Toplu Şekilde Taşıma](https://tr.khanacademy.org/science/biology/membranes-and-transport/bulk-transport) (1 Article, 1 Exercise, 1 Quiz, 1 Test, 2 Videos | [8m 55s](https://www.youtube.com/watch_videos?title=Toplu+%C5%9Eekilde+Ta%C5%9F%C4%B1ma&video_ids=fmPACUe4HPQ%2Cu2cQbPIqa3U) )
-  - [Hücresel Solunum ](https://tr.khanacademy.org/science/biology/cellular-respiration-and-fermentation) (6 Topics)
+  - [Hücresel solunum](https://tr.khanacademy.org/science/biology/cellular-respiration-and-fermentation) (6 Topics)
     - [Hücresel Solunum](https://tr.khanacademy.org/science/biology/cellular-respiration-and-fermentation/intro-to-cellular-respiration) (1 Article, 1 Exercise, 5 Videos | [55m 42s](https://www.youtube.com/watch_videos?title=H%C3%BCcresel+Solunum&video_ids=hkd7uh5DlnU%2CssITolEpPjg%2CYxyG_ENmyns%2C6ModH3wwsFY%2CBcKHyIupKp8) )
-    - [Hücresel Solunum Adımları
-](https://tr.khanacademy.org/science/biology/cellular-respiration-and-fermentation/overview-of-cellular-respiration-steps) (1 Article, 1 Video | [13m 11s](https://www.youtube.com/watch_videos?title=H%C3%BCcresel+Solunum+Ad%C4%B1mlar%C4%B1%0A&video_ids=dp3D8fLiS0E) )
+    - [Özet: Hücre Solunumunun Adımları](https://tr.khanacademy.org/science/biology/cellular-respiration-and-fermentation/overview-of-cellular-respiration-steps) (1 Article, 1 Video | [13m 11s](https://www.youtube.com/watch_videos?title=%C3%96zet%3A+H%C3%BCcre+Solunumunun+Ad%C4%B1mlar%C4%B1&video_ids=dp3D8fLiS0E) )
     - [Glikoliz](https://tr.khanacademy.org/science/biology/cellular-respiration-and-fermentation/glycolysis) (1 Article, 1 Exercise, 1 Quiz, 2 Videos | [25m 32s](https://www.youtube.com/watch_videos?title=Glikoliz&video_ids=WcTGbVd2STc%2CzbY7j6QRZl8) )
     - [Piruvat Oksidasyon ve Sitrik Asit Döngüsü
 ](https://tr.khanacademy.org/science/biology/cellular-respiration-and-fermentation/pyruvate-oxidation-and-the-citric-acid-cycle) (2 Articles, 1 Exercise, 1 Video | [17m 47s](https://www.youtube.com/watch_videos?title=Piruvat+Oksidasyon+ve+Sitrik+Asit+D%C3%B6ng%C3%BCs%C3%BC%0A&video_ids=cHb4vLxBD04) )
@@ -3341,17 +3046,14 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Fotosolunum :  C3, C4 ve CAM Bitkileri
 ](https://tr.khanacademy.org/science/biology/photosynthesis-in-plants/photorespiration--c3-c4-cam-plants) (2 Articles, 1 Exercise, 1 Test, 3 Videos | [36m 40s](https://www.youtube.com/watch_videos?title=Fotosolunum+%3A++C3%2C+C4+ve+CAM+Bitkileri%0A&video_ids=DnNqe8o0ehc%2C7ynX_F-SwNY%2Cxp6Zj24h8uA) )
   - [Hücreler Arası İletişim](https://tr.khanacademy.org/science/biology/cell-signaling) (2 Topics)
-    - [Hücreler Birbirleriyle Nasıl İletişim Kurar?](https://tr.khanacademy.org/science/biology/cell-signaling/mechanisms-of-cell-signaling) (4 Articles, 1 Exercise, 2 Videos | [15m 24s](https://www.youtube.com/watch_videos?title=H%C3%BCcreler+Birbirleriyle+Nas%C4%B1l+%C4%B0leti%C5%9Fim+Kurar%3F&video_ids=JJ8bd7qjK70%2CES2qX-VEZsg) )
-    - [Tek Hücreli Organizmalarda İletişim
-](https://tr.khanacademy.org/science/biology/cell-signaling/signaling-between-single-celled-organisms) (1 Article, 1 Test, 1 Video | [8m 2s](https://www.youtube.com/watch_videos?title=Tek+H%C3%BCcreli+Organizmalarda+%C4%B0leti%C5%9Fim%0A&video_ids=HGEFxTceyhU) )
-  - [Hücre Bölünmesi](https://tr.khanacademy.org/science/biology/cellular-molecular-biology) (4 Topics)
+    - [Hücreler Arası İletişim](https://tr.khanacademy.org/science/biology/cell-signaling/mechanisms-of-cell-signaling) (4 Articles, 1 Exercise, 2 Videos | [15m 24s](https://www.youtube.com/watch_videos?title=H%C3%BCcreler+Aras%C4%B1+%C4%B0leti%C5%9Fim&video_ids=JJ8bd7qjK70%2CES2qX-VEZsg) )
+    - [Tek hücreli organizmalar arasında sinyal gönderimi](https://tr.khanacademy.org/science/biology/cell-signaling/signaling-between-single-celled-organisms) (1 Article, 1 Test, 1 Video | [8m 2s](https://www.youtube.com/watch_videos?title=Tek+h%C3%BCcreli+organizmalar+aras%C4%B1nda+sinyal+g%C3%B6nderimi&video_ids=HGEFxTceyhU) )
+  - [Hücresel ve moleküler biyoloji](https://tr.khanacademy.org/science/biology/cellular-molecular-biology) (4 Topics)
     - [Hücre Bölünmesi
 ](https://tr.khanacademy.org/science/biology/cellular-molecular-biology/intro-to-cell-division) (1 Article, 1 Exercise, 3 Videos | [38m 25s](https://www.youtube.com/watch_videos?title=H%C3%BCcre+B%C3%B6l%C3%BCnmesi%0A&video_ids=N0L9tIgM62c%2Csq2GeORq26U%2CCootW-wBpRM) )
-    - [Hücre Döngüsü ve Mitoz
-](https://tr.khanacademy.org/science/biology/cellular-molecular-biology/mitosis) (3 Articles, 1 Exercise, 1 Quiz, 2 Videos | [20m 40s](https://www.youtube.com/watch_videos?title=H%C3%BCcre+D%C3%B6ng%C3%BCs%C3%BC+ve+Mitoz%0A&video_ids=9oZ6DVa35mg%2CpULvS7z-mDY) )
+    - [Mitoz](https://tr.khanacademy.org/science/biology/cellular-molecular-biology/mitosis) (3 Articles, 1 Exercise, 1 Quiz, 2 Videos | [20m 40s](https://www.youtube.com/watch_videos?title=Mitoz&video_ids=9oZ6DVa35mg%2CpULvS7z-mDY) )
     - [Mayoz](https://tr.khanacademy.org/science/biology/cellular-molecular-biology/meiosis) (2 Articles, 1 Exercise, 4 Videos | [38m 50s](https://www.youtube.com/watch_videos?title=Mayoz&video_ids=BT3JXgNfC-M%2CoeAF6kUmbaA%2CYQgQN4WXXoI%2Cay8591JpAlc) )
-    - [Hücre Döngü Düzenlemesi, Kanser ve Kök Hücreler
-](https://tr.khanacademy.org/science/biology/cellular-molecular-biology/stem-cells-and-cancer) (4 Articles, 2 Exercises, 1 Quiz, 1 Test, 3 Videos | [43m 18s](https://www.youtube.com/watch_videos?title=H%C3%BCcre+D%C3%B6ng%C3%BC+D%C3%BCzenlemesi%2C+Kanser+ve+K%C3%B6k+H%C3%BCcreler%0A&video_ids=MAZTQyTAIwg%2CXNjzMBljKxg%2CgNFDONSjB7Q) )
+    - [Kök hücreler ve kanser](https://tr.khanacademy.org/science/biology/cellular-molecular-biology/stem-cells-and-cancer) (4 Articles, 2 Exercises, 1 Quiz, 1 Test, 3 Videos | [43m 18s](https://www.youtube.com/watch_videos?title=K%C3%B6k+h%C3%BCcreler+ve+kanser&video_ids=MAZTQyTAIwg%2CXNjzMBljKxg%2CgNFDONSjB7Q) )
   - [Klasik ve Moleküler Genetik
 ](https://tr.khanacademy.org/science/biology/classical-genetics) (5 Topics)
     - [Mendel Genetiği](https://tr.khanacademy.org/science/biology/classical-genetics/mendelian--genetics) (4 Articles, 2 Exercises, 2 Videos | [42m 43s](https://www.youtube.com/watch_videos?title=Mendel+Geneti%C4%9Fi&video_ids=eEUvRrhmcxM%2CWCbwWuvGh9k) )
@@ -3359,29 +3061,23 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/biology/classical-genetics/variations-on-mendelian-genetics) (4 Articles, 1 Exercise, 1 Video | [25m 16s](https://www.youtube.com/watch_videos?title=Mendel+Geneti%C4%9Finde+Varyasyon%0A&video_ids=WCbwWuvGh9k) )
     - [Genetiğin Kromozom Temeli
 ](https://tr.khanacademy.org/science/biology/classical-genetics/chromosomal-basis-of-genetics) (2 Articles, 1 Exercise, 2 Videos | [21m 39s](https://www.youtube.com/watch_videos?title=Geneti%C4%9Fin+Kromozom+Temeli%0A&video_ids=LQXBF7q0Lpo%2CdyF3fYvMzSk) )
-    - [Kalıtsal Geçiş, Kromozoma Bağlı Mutasyonlar ve Hücre Dışı Gen Aktarımı
-](https://tr.khanacademy.org/science/biology/classical-genetics/sex-linkage-non-nuclear-chromosomal-mutations) (4 Articles, 2 Exercises, 1 Quiz, 1 Video | [14m 19s](https://www.youtube.com/watch_videos?title=Kal%C4%B1tsal+Ge%C3%A7i%C5%9F%2C+Kromozoma+Ba%C4%9Fl%C4%B1+Mutasyonlar+ve+H%C3%BCcre+D%C4%B1%C5%9F%C4%B1+Gen+Aktar%C4%B1m%C4%B1%0A&video_ids=cs8K6QSK-68) )
+    - [Cinsiyet bağı, kromozom mutasyonları ve çekirdeğe bağlı olmayan kalıtım](https://tr.khanacademy.org/science/biology/classical-genetics/sex-linkage-non-nuclear-chromosomal-mutations) (4 Articles, 2 Exercises, 1 Quiz, 1 Video | [14m 19s](https://www.youtube.com/watch_videos?title=Cinsiyet+ba%C4%9F%C4%B1%2C+kromozom+mutasyonlar%C4%B1+ve+%C3%A7ekirde%C4%9Fe+ba%C4%9Fl%C4%B1+olmayan+kal%C4%B1t%C4%B1m&video_ids=cs8K6QSK-68) )
     - [Genetiğin Moleküler Temeli
 ](https://tr.khanacademy.org/science/biology/classical-genetics/molecular-basis-of-genetics-tutorial) (1 Test, 3 Videos | [36m 44s](https://www.youtube.com/watch_videos?title=Geneti%C4%9Fin+Molek%C3%BCler+Temeli%0A&video_ids=C5M7EI-Iyns%2Cs5kHzvj4iek%2CNsYfBj2qxOo) )
   - [Genetik Materyal Olarak DNA
 ](https://tr.khanacademy.org/science/biology/dna-as-the-genetic-material) (3 Topics)
     - [DNA'nın Yapısı](https://tr.khanacademy.org/science/biology/dna-as-the-genetic-material/structure-of-dna) (1 Article, 1 Exercise, 3 Videos | [36m](https://www.youtube.com/watch_videos?title=DNA%27n%C4%B1n+Yap%C4%B1s%C4%B1&video_ids=C5M7EI-Iyns%2CWI42OdUx-sQ%2C_l-3wNrTxHU) )
-    - [DNA'nın Keşfi](https://tr.khanacademy.org/science/biology/dna-as-the-genetic-material/dna-discovery-and-structure) (2 Articles, 1 Exercise, 3 Videos | [28m 5s](https://www.youtube.com/watch_videos?title=DNA%27n%C4%B1n+Ke%C5%9Ffi&video_ids=0SC9aU3KH6Y%2CPFLNufHvSHs%2CAQ2tMhsNb_s) )
+    - [DNA'nın keşfi ve yapısı](https://tr.khanacademy.org/science/biology/dna-as-the-genetic-material/dna-discovery-and-structure) (2 Articles, 1 Exercise, 3 Videos | [28m 5s](https://www.youtube.com/watch_videos?title=DNA%27n%C4%B1n+ke%C5%9Ffi+ve+yap%C4%B1s%C4%B1&video_ids=0SC9aU3KH6Y%2CPFLNufHvSHs%2CAQ2tMhsNb_s) )
     - [DNA Replikasyonu](https://tr.khanacademy.org/science/biology/dna-as-the-genetic-material/dna-replication) (4 Articles, 1 Exercise, 1 Test, 4 Videos | [42m 39s](https://www.youtube.com/watch_videos?title=DNA+Replikasyonu&video_ids=s5kHzvj4iek%2CgnChjqYvIfs%2Cfa_Jh_H5_BU%2CWI42OdUx-sQ) )
-  - [Merkezi Dogma (DNA'dan RNA'ya, RNA'dan Proteine)
-](https://tr.khanacademy.org/science/biology/gene-expression-central-dogma) (3 Topics)
-    - [Merkezi Dogma ve Genetik Kod
-](https://tr.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription) (4 Articles, 1 Exercise, 2 Videos | [23m 42s](https://www.youtube.com/watch_videos?title=Merkezi+Dogma+ve+Genetik+Kod%0A&video_ids=s5kHzvj4iek%2CNsYfBj2qxOo) )
-    - [Transkripsiyon
-](https://tr.khanacademy.org/science/biology/gene-expression-central-dogma/transcription-of-dna-into-rna) (3 Articles, 1 Exercise, 3 Videos | [37m 19s](https://www.youtube.com/watch_videos?title=Transkripsiyon%0A&video_ids=s5kHzvj4iek%2Cu6HoUlQMcTk%2C7yWfckGNmkw) )
+  - [Gen ifadesi](https://tr.khanacademy.org/science/biology/gene-expression-central-dogma) (3 Topics)
+    - [Merkezi Dogma ve Transkripsiyon](https://tr.khanacademy.org/science/biology/gene-expression-central-dogma/central-dogma-transcription) (4 Articles, 1 Exercise, 2 Videos | [23m 42s](https://www.youtube.com/watch_videos?title=Merkezi+Dogma+ve+Transkripsiyon&video_ids=s5kHzvj4iek%2CNsYfBj2qxOo) )
+    - [Transkripsiyon (Moleküler Biyoloji)](https://tr.khanacademy.org/science/biology/gene-expression-central-dogma/transcription-of-dna-into-rna) (3 Articles, 1 Exercise, 3 Videos | [37m 19s](https://www.youtube.com/watch_videos?title=Transkripsiyon+%28Molek%C3%BCler+Biyoloji%29&video_ids=s5kHzvj4iek%2Cu6HoUlQMcTk%2C7yWfckGNmkw) )
     - [Translasyon](https://tr.khanacademy.org/science/biology/gene-expression-central-dogma/translation-polypeptides) (4 Articles, 1 Exercise, 1 Test, 2 Videos | [29m 34s](https://www.youtube.com/watch_videos?title=Translasyon&video_ids=s5kHzvj4iek%2CocAAkB32Hqs) )
   - [Gen Düzenlemesi
 ](https://tr.khanacademy.org/science/biology/gene-regulation) (2 Topics)
     - [Bakterilerde Gen Düzenlenmesi
 ](https://tr.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-bacteria) (3 Articles, 1 Exercise, 3 Videos | [27m 51s](https://www.youtube.com/watch_videos?title=Bakterilerde+Gen+D%C3%BCzenlenmesi%0A&video_ids=dS8jWBvvnnw%2CEvLy_1_Y3tk%2CH5Uz212lenE) )
-    - [Ökaryotlarda Gen Düzenlemesi](https://tr.khanacademy.org/science/biology/gene-regulation/gene-regulation-in-eukaryotes) (3 Articles, 1 Exercise, 1 Test)
   - [Biyoteknoloji](https://tr.khanacademy.org/science/biology/biotech-dna-technology) (4 Topics)
-    - [Biyoteknoloji](https://tr.khanacademy.org/science/biology/biotech-dna-technology/intro-to-biotech-tutorial) (1 Article)
     - [DNA Klonlama](https://tr.khanacademy.org/science/biology/biotech-dna-technology/dna-cloning-tutorial) (3 Articles, 1 Exercise, 1 Video | [11m 8s](https://www.youtube.com/watch_videos?title=DNA+Klonlama&video_ids=5ffl-0OYVQU) )
     - [DNA Analizi Yöntemleri
 ](https://tr.khanacademy.org/science/biology/biotech-dna-technology/dna-sequencing-pcr-electrophoresis) (3 Articles, 1 Exercise, 2 Videos | [20m 54s](https://www.youtube.com/watch_videos?title=DNA+Analizi+Y%C3%B6ntemleri%0A&video_ids=xS6u4UrWO1Q%2CGIMRud-JLBI) )
@@ -3389,20 +3085,16 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
   - [Gelişim Biyolojisi](https://tr.khanacademy.org/science/biology/developmental-biology) (3 Topics)
     - [Gelişim ve Ayrışma
 ](https://tr.khanacademy.org/science/biology/developmental-biology/development-and-differentiation) (1 Article, 3 Videos | [38m](https://www.youtube.com/watch_videos?title=Geli%C5%9Fim+ve+Ayr%C4%B1%C5%9Fma%0A&video_ids=tVEhOoN2CvY%2Csq2GeORq26U%2CMAZTQyTAIwg) )
-    - [Gelişimdeki Sinyal ve Transkripsiyon Faktörleri](https://tr.khanacademy.org/science/biology/developmental-biology/signaling-and-transcription-factors-in-development) (2 Articles)
     - [Apoptoz](https://tr.khanacademy.org/science/biology/developmental-biology/apoptosis-in-development) (1 Article, 1 Test, 1 Video | [10m 48s](https://www.youtube.com/watch_videos?title=Apoptoz&video_ids=gNFDONSjB7Q) )
   - [Bakteriler ve Arkeler](https://tr.khanacademy.org/science/biology/bacteria-archaea) (2 Topics)
     - [Prokaryot Yapı](https://tr.khanacademy.org/science/biology/bacteria-archaea/prokaryote-structure) (3 Articles, 1 Exercise, 2 Videos | [25m 16s](https://www.youtube.com/watch_videos?title=Prokaryot+Yap%C4%B1&video_ids=N0OqtQAOuD0%2C1wBdE6a1AFI) )
-    - [Prokaryotların Metabolizmaları ve Ekoloji](https://tr.khanacademy.org/science/biology/bacteria-archaea/prokaryote-metabolism-ecology) (3 Articles, 1 Test)
   - [Virüsler](https://tr.khanacademy.org/science/biology/biology-of-viruses) (1 Topic)
     - [Virüsler](https://tr.khanacademy.org/science/biology/biology-of-viruses/virus-biology) (5 Articles, 1 Video | [23m 17s](https://www.youtube.com/watch_videos?title=Vir%C3%BCsler&video_ids=buDLYwmqIDs) )
-  - [Türlerin Gelişimi ve Hayat Ağacı
-](https://tr.khanacademy.org/science/biology/her) (3 Topics)
+  - [Kalıtım ve türlerin gelişimi](https://tr.khanacademy.org/science/biology/her) (3 Topics)
     - [Türlerin Gelişimi ve Doğal Seleksiyon
 ](https://tr.khanacademy.org/science/biology/her/evolution-and-natural-selection) (2 Articles, 2 Exercises, 7 Videos | [1h 25m 38s](https://www.youtube.com/watch_videos?title=T%C3%BCrlerin+Geli%C5%9Fimi+ve+Do%C4%9Fal+Seleksiyon%0A&video_ids=YCWoQJw8G7g%2C5fzXW5se690%2CCQMgrIjad2w%2Cnh1R-gyY7es%2C-74J7-Bp9ak%2CDuArVnT1i-E%2CQ-aGAX27SIo) )
-    - [Popülasyon Genetiği](https://tr.khanacademy.org/science/biology/her/heredity-and-genetics) (4 Articles, 2 Exercises, 5 Videos | [38m 52s](https://www.youtube.com/watch_videos?title=Pop%C3%BClasyon+Geneti%C4%9Fi&video_ids=HozoYaN9Ntw%2CU9XTVnMia78%2CYDV9yvQX16k%2CRkbfgcgGb_I%2Cj02BW7wlJuQ) )
-    - [Türleşme ve Evrimsel Ağaçlar
-](https://tr.khanacademy.org/science/biology/her/tree-of-life) (3 Articles, 1 Test, 7 Videos | [1h 11m 59s](https://www.youtube.com/watch_videos?title=T%C3%BCrle%C5%9Fme+ve+Evrimsel+A%C4%9Fa%C3%A7lar%0A&video_ids=Xnas1hxESdc%2CEtgkwp8Fb6U%2Cgnku5AksWvU%2CsNgsCT0E7Es%2C11iYk0Yrx3g%2CAjvLQJ6PIiU%2C6_XMKmFQ_w8) )
+    - [Kalıtım ve genetik](https://tr.khanacademy.org/science/biology/her/heredity-and-genetics) (4 Articles, 2 Exercises, 5 Videos | [38m 52s](https://www.youtube.com/watch_videos?title=Kal%C4%B1t%C4%B1m+ve+genetik&video_ids=HozoYaN9Ntw%2CU9XTVnMia78%2CYDV9yvQX16k%2CRkbfgcgGb_I%2Cj02BW7wlJuQ) )
+    - [Hayat ağacı](https://tr.khanacademy.org/science/biology/her/tree-of-life) (3 Articles, 1 Test, 7 Videos | [1h 11m 59s](https://www.youtube.com/watch_videos?title=Hayat+a%C4%9Fac%C4%B1&video_ids=Xnas1hxESdc%2CEtgkwp8Fb6U%2Cgnku5AksWvU%2CsNgsCT0E7Es%2C11iYk0Yrx3g%2CAjvLQJ6PIiU%2C6_XMKmFQ_w8) )
   - [Dünya Üzerindeki Yaşamın Tarihi](https://tr.khanacademy.org/science/biology/history-of-life-on-earth) (3 Topics)
     - [Dünya'nın Oluşumu ve İlk Canlılar
 ](https://tr.khanacademy.org/science/biology/history-of-life-on-earth/history-life-on-earth) (1 Article, 3 Videos | [31m 6s](https://www.youtube.com/watch_videos?title=D%C3%BCnya%27n%C4%B1n+Olu%C5%9Fumu+ve+%C4%B0lk+Canl%C4%B1lar%0A&video_ids=l58eQ_mgysA%2CR3UsHEbpHP8%2CPj9EKXSXSIQ) )
@@ -3411,11 +3103,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/biology/history-of-life-on-earth/radiometric-dating) (1 Article, 1 Test, 5 Videos | [45m 53s](https://www.youtube.com/watch_videos?title=Radyometrik+Tarihleme%0A&video_ids=Tu3TmdsdkqE%2C6iHKC1WOy9g%2CCqXPeIYVT2Q%2CUSp9FXS92Ow%2CiLFcSfzrlMk) )
   - [Ekoloji](https://tr.khanacademy.org/science/biology/ecology) (8 Topics)
     - [Ekoloji](https://tr.khanacademy.org/science/biology/ecology/intro-to-ecology) (2 Articles, 1 Exercise, 1 Video | [9m 49s](https://www.youtube.com/watch_videos?title=Ekoloji&video_ids=C3gjmXSimRg) )
-    - [Topluluk Ekolojisi
-](https://tr.khanacademy.org/science/biology/ecology/population-ecology) (3 Articles, 1 Exercise, 1 Video | [11m 47s](https://www.youtube.com/watch_videos?title=Topluluk+Ekolojisi%0A&video_ids=00j4e0r3q-c) )
+    - [Popülasyon Ekolojisi](https://tr.khanacademy.org/science/biology/ecology/population-ecology) (3 Articles, 1 Exercise, 1 Video | [11m 47s](https://www.youtube.com/watch_videos?title=Pop%C3%BClasyon+Ekolojisi&video_ids=00j4e0r3q-c) )
     - [Popülasyon Artışı ve Düzenlenmesi
 ](https://tr.khanacademy.org/science/biology/ecology/population-growth-and-regulation) (2 Articles, 1 Exercise, 1 Quiz, 4 Videos | [31m 27s](https://www.youtube.com/watch_videos?title=Pop%C3%BClasyon+Art%C4%B1%C5%9F%C4%B1+ve+D%C3%BCzenlenmesi%0A&video_ids=u9NTkh1VgzQ%2CWs_E4iKbmzE%2C7RZGxpWkPts%2C1KLkKHcyAfI) )
-    - [Topluluk Ekolojisi](https://tr.khanacademy.org/science/biology/ecology/community-ecosystem-ecology) (4 Articles, 1 Exercise, 2 Videos | [13m 21s](https://www.youtube.com/watch_videos?title=Topluluk+Ekolojisi&video_ids=wdyMxGvp7l4%2C7RZGxpWkPts) )
+    - [Topluluk ve ekosistem ekolojisi](https://tr.khanacademy.org/science/biology/ecology/community-ecosystem-ecology) (4 Articles, 1 Exercise, 2 Videos | [13m 21s](https://www.youtube.com/watch_videos?title=Topluluk+ve+ekosistem+ekolojisi&video_ids=wdyMxGvp7l4%2C7RZGxpWkPts) )
     - [Komünite Yapısı ve Çeşitliliği
 ](https://tr.khanacademy.org/science/biology/ecology/community-structure-and-diversity) (3 Articles, 1 Exercise, 1 Quiz, 3 Videos | [23m 32s](https://www.youtube.com/watch_videos?title=Kom%C3%BCnite+Yap%C4%B1s%C4%B1+ve+%C3%87e%C5%9Fitlili%C4%9Fi%0A&video_ids=CUZWBs3Pd3g%2Ct_p8ncGeepc%2CXrFvQT0YDKo) )
     - [Ekosistemler](https://tr.khanacademy.org/science/biology/ecology/intro-to-ecosystems) (3 Articles, 1 Exercise, 2 Videos | [17m 59s](https://www.youtube.com/watch_videos?title=Ekosistemler&video_ids=CEtANsnXjQk%2CE2P0rJCxED4) )
@@ -3437,10 +3128,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Hayvan Davranışları](https://tr.khanacademy.org/science/biology/behavioral-biology/animal-behavior) (4 Articles, 2 Videos | [6m 36s](https://www.youtube.com/watch_videos?title=Hayvan+Davran%C4%B1%C5%9Flar%C4%B1&video_ids=v1WBw-1BOuY%2CjTbwPULhOq0) )
   - [Fizyolojinin Prensipleri
 ](https://tr.khanacademy.org/science/biology/principles-of-physiology) (2 Topics)
-    - [Vücut Yapısı ve Homeostaz
-](https://tr.khanacademy.org/science/biology/principles-of-physiology/body-structure-and-homeostasis) (2 Articles, 1 Exercise)
-    - [Metabolizma ve Sıcaklık Düzenlenmesi
-](https://tr.khanacademy.org/science/biology/principles-of-physiology/metabolism-and-thermoregulation) (3 Articles, 1 Exercise, 1 Test)
   - [İnsan Biyolojisi](https://tr.khanacademy.org/science/biology/human-biology) (5 Topics)
     - [Dolaşım ve Solunum Sistemleri
 ](https://tr.khanacademy.org/science/biology/human-biology/circulatory-pulmonary) (1 Article, 4 Videos | [1h 6m 34s](https://www.youtube.com/watch_videos?title=Dola%C5%9F%C4%B1m+ve+Solunum+Sistemleri%0A&video_ids=fjXqE9DxKW0%2CGBnPJYWKzcI%2CtTRkpY3kORg%2CGwtddAC5zCo) )
@@ -3454,17 +3141,15 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Bitkilerin Işığa Tepkisi
 ](https://tr.khanacademy.org/science/biology/plant-biology/plant-responses-to-light-cues) (1 Article, 2 Videos | [14m 51s](https://www.youtube.com/watch_videos?title=Bitkilerin+I%C5%9F%C4%B1%C4%9Fa+Tepkisi%0A&video_ids=KKkiAmPE8jQ%2C9rIcrKrBMME) )
   - [Hızlandırılmış Kurs: Biyoloji ve Ekoloji](https://tr.khanacademy.org/science/biology/crash-course-bio-ecology) (2 Topics)
-    - [Hızlandırılmış Kurs: Biyoloji](https://tr.khanacademy.org/science/biology/crash-course-bio-ecology/crash-course-biology-science) (39 Videos | [7h 20m 29s](https://www.youtube.com/watch_videos?title=H%C4%B1zland%C4%B1r%C4%B1lm%C4%B1%C5%9F+Kurs%3A+Biyoloji&video_ids=E95A_Jh9D7Y%2CBOrzC55gXjg%2Clkx0jMYL_2c%2CNUsfZtYrTnQ%2CR-uXBzeAw3Q%2CwE6PiO5I4tw%2C82jmbGl2uUA%2C2CJA6lTsyp0%2CZPKPzzmtYlM%2CI-y5d4Jjzfk%2Cwda5mj6GFeo%2CXJB1TY9rjiw%2CbQfZXeksysw%2Cst_gQzP4QxY%2Ccstic6WHr2E%2COqhe31kjlQM%2CtzqZsPjHFVQ%2C_2OIPwDEWFQ%2CWThFuJ6wFcM%2CByM443jBf18%2CQudBQQDnelA%2CDtsaOD5Y3mc%2CuaBr7TH_u7A%2CWHV-DwFgNYo%2CDRaMhodG9ps%2CKInE5oLwE5w%2CTNoVngio88w%2CkH5IgDX_Hfk%2CGn7tIStw7YY%2CrTrNAjyzV0Y%2CxrRYmt2Ew6s%2CmaugiGLiZwU%2CtwsJFZnqX-E%2Crf7XsnqQuM0%2CMPf24sOttrI%2Cow2qN1rTOU8%2CEUiPynTOU1Q%2Cl5j-gvw2aEA%2C6lp0miYlcqc) )
-    - [Hızlandırılmış Kurs: Ekoloji](https://tr.khanacademy.org/science/biology/crash-course-bio-ecology/crash-course-ecology-2) (12 Videos | [2h 1m 35s](https://www.youtube.com/watch_videos?title=H%C4%B1zland%C4%B1r%C4%B1lm%C4%B1%C5%9F+Kurs%3A+Ekoloji&video_ids=1CyxxoSW5Yc%2CmeSd1eaOxkY%2C3CMrNBCEDJc%2ChptaFt9-6fI%2C5Xxu0NmJuAY%2CUTQVVPOoT2c%2CUxSBnL9qWSA%2Cd5uJ7RGKBOk%2CTPrHGwN6VRw%2C_bDcijolpkA%2Cl12Q9E1HfX8%2C0NVmm-Rze2M) )
+    - [Biyoloji- Yoğun ve Hızlandırılmış Program](https://tr.khanacademy.org/science/biology/crash-course-bio-ecology/crash-course-biology-science) (39 Videos | [7h 20m 29s](https://www.youtube.com/watch_videos?title=Biyoloji-+Yo%C4%9Fun+ve+H%C4%B1zland%C4%B1r%C4%B1lm%C4%B1%C5%9F+Program&video_ids=E95A_Jh9D7Y%2CBOrzC55gXjg%2Clkx0jMYL_2c%2CNUsfZtYrTnQ%2CR-uXBzeAw3Q%2CwE6PiO5I4tw%2C82jmbGl2uUA%2C2CJA6lTsyp0%2CZPKPzzmtYlM%2CI-y5d4Jjzfk%2Cwda5mj6GFeo%2CXJB1TY9rjiw%2CbQfZXeksysw%2Cst_gQzP4QxY%2Ccstic6WHr2E%2COqhe31kjlQM%2CtzqZsPjHFVQ%2C_2OIPwDEWFQ%2CWThFuJ6wFcM%2CByM443jBf18%2CQudBQQDnelA%2CDtsaOD5Y3mc%2CuaBr7TH_u7A%2CWHV-DwFgNYo%2CDRaMhodG9ps%2CKInE5oLwE5w%2CTNoVngio88w%2CkH5IgDX_Hfk%2CGn7tIStw7YY%2CrTrNAjyzV0Y%2CxrRYmt2Ew6s%2CmaugiGLiZwU%2CtwsJFZnqX-E%2Crf7XsnqQuM0%2CMPf24sOttrI%2Cow2qN1rTOU8%2CEUiPynTOU1Q%2Cl5j-gvw2aEA%2C6lp0miYlcqc) )
+    - [Ekoloji- Yoğun ve Hızlandırılmış Program](https://tr.khanacademy.org/science/biology/crash-course-bio-ecology/crash-course-ecology-2) (12 Videos | [2h 1m 35s](https://www.youtube.com/watch_videos?title=Ekoloji-+Yo%C4%9Fun+ve+H%C4%B1zland%C4%B1r%C4%B1lm%C4%B1%C5%9F+Program&video_ids=1CyxxoSW5Yc%2CmeSd1eaOxkY%2C3CMrNBCEDJc%2ChptaFt9-6fI%2C5Xxu0NmJuAY%2CUTQVVPOoT2c%2CUxSBnL9qWSA%2Cd5uJ7RGKBOk%2CTPrHGwN6VRw%2C_bDcijolpkA%2Cl12Q9E1HfX8%2C0NVmm-Rze2M) )
   - [Biyoloji Alanında Çalışan Profesyoneller ile Tanışın](https://tr.khanacademy.org/science/biology/meet-the-biology-professional) (1 Topic)
-    - [Biyoloji Alanında Çalışan Profesyoneller ile Tanışın](https://tr.khanacademy.org/science/biology/meet-the-biology-professional/meet-the-bio-professional) (8 Articles)
 
 ## [Kimya](https://tr.khanacademy.org/science/chemistry) (17 Topics)
-  - [Atomlar, Bileşikler ve İyonlar](https://tr.khanacademy.org/science/chemistry/atomic-structure-and-properties) (4 Topics)
+  - [Atomlar, moleküller ve iyonlar](https://tr.khanacademy.org/science/chemistry/atomic-structure-and-properties) (4 Topics)
     - [Atomun Yapısı](https://tr.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-the-atom) (1 Article, 1 Exercise, 7 Videos | [57m 29s](https://www.youtube.com/watch_videos?title=Atomun+Yap%C4%B1s%C4%B1&video_ids=Jeph4y6si6o%2CB2WwR68ZWdc%2CTiN24W5vmjU%2CjSfyPRrgUcY%2C5j8yanfgUR4%2CaAyPaUoY0oA%2C5Djjd48tmOc) )
     - [İyonlar ve Bileşikler](https://tr.khanacademy.org/science/chemistry/atomic-structure-and-properties/introduction-to-compounds) (1 Article, 4 Videos | [24m 46s](https://www.youtube.com/watch_videos?title=%C4%B0yonlar+ve+Bile%C5%9Fikler&video_ids=uSCy5HsYl50%2CvlSAPjOiht0%2COmK8VzwHcBc%2CsiSUWf_SqB0) )
     - [İyonik Bileşiklerin İsimleri ve Formülleri](https://tr.khanacademy.org/science/chemistry/atomic-structure-and-properties/names-and-formulas-of-ionic-compounds) (2 Articles, 3 Exercises, 1 Quiz, 4 Videos | [16m 46s](https://www.youtube.com/watch_videos?title=%C4%B0yonik+Bile%C5%9Fiklerin+%C4%B0simleri+ve+Form%C3%BClleri&video_ids=vlSAPjOiht0%2Ce9H94GkWbnU%2CIIJ5yU0AzWA%2CXaXwSBSO6Q0) )
-    - [Kütle Spektrometrisi](https://tr.khanacademy.org/science/chemistry/atomic-structure-and-properties/mass-spectrometry) (1 Article, 1 Test)
   - [Kimyasal Tepkimeler ve Stokiyometri](https://tr.khanacademy.org/science/chemistry/chemical-reactions-stoichiome) (5 Topics)
     - [Kimyasal Tepkime Denklemlerinin Eşitlenmesi
 ](https://tr.khanacademy.org/science/chemistry/chemical-reactions-stoichiome/balancing-chemical-equations) (1 Exercise, 6 Videos | [32m 41s](https://www.youtube.com/watch_videos?title=Kimyasal+Tepkime+Denklemlerinin+E%C5%9Fitlenmesi%0A&video_ids=goKYRrJtkTg%2CyJW9KhspLc0%2C1mNr8SrNyTc%2CB7gNzyGQ8ps%2CeImbeqcL4LI%2CPNqcVrsCxVg) )
@@ -3486,13 +3171,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
   - [Periyodik Tablo](https://tr.khanacademy.org/science/chemistry/periodic-table) (2 Topics)
     - [Periyodik Tablo Özellikleri
 ](https://tr.khanacademy.org/science/chemistry/periodic-table/copy-of-periodic-table-of-elements) (1 Exercise, 5 Videos | [42m 6s](https://www.youtube.com/watch_videos?title=Periyodik+Tablo+%C3%96zellikleri%0A&video_ids=t4GI-DyNXbU%2CZzo_ME_XN9s%2CeawyWGwOPkI%2C_kpb4pT87YY%2C6Kq5aG3gu8A) )
-    - [Periyodik Özellikler ve Periyodik Sistemdeki Değişimleri
-](https://tr.khanacademy.org/science/chemistry/periodic-table/periodic-table-trends-bonding) (1 Test, 10 Videos | [1h 35m 57s](https://www.youtube.com/watch_videos?title=Periyodik+%C3%96zellikler+ve+Periyodik+Sistemdeki+De%C4%9Fi%C5%9Fimleri%0A&video_ids=XLXcwtjNnSE%2CuSoVj0hEkrs%2Cc_mDuOXSULk%2Clbpxnykihl4%2Czd3-RVi1eQM%2CHO6GpXnhb4A%2C9R_RAZT0XO4%2Cfdg3dbGiFYM%2CF2rYbwvD1KE%2Cn-5Xnzrkwmw) )
+    - [Periyodik tablodaki eğilimler](https://tr.khanacademy.org/science/chemistry/periodic-table/periodic-table-trends-bonding) (1 Test, 10 Videos | [1h 35m 57s](https://www.youtube.com/watch_videos?title=Periyodik+tablodaki+e%C4%9Filimler&video_ids=XLXcwtjNnSE%2CuSoVj0hEkrs%2Cc_mDuOXSULk%2Clbpxnykihl4%2Czd3-RVi1eQM%2CHO6GpXnhb4A%2C9R_RAZT0XO4%2Cfdg3dbGiFYM%2CF2rYbwvD1KE%2Cn-5Xnzrkwmw) )
   - [Kimyasal Bağlar](https://tr.khanacademy.org/science/chemistry/chemical-bonds) (3 Topics)
     - [Kimyasal Bağ Çeşitleri
 ](https://tr.khanacademy.org/science/chemistry/chemical-bonds/types-chemical-bonds) (6 Videos | [1h 1m 9s](https://www.youtube.com/watch_videos?title=Kimyasal+Ba%C4%9F+%C3%87e%C5%9Fitleri%0A&video_ids=nOVQjiciOoQ%2Chxfddd_jOT4%2Cfdg3dbGiFYM%2CF2rYbwvD1KE%2Cn-5Xnzrkwmw%2Cej7qZ2wYu6E) )
-    - [Lewis Nokta Yapısı ve Molekül Geometrisi
-](https://tr.khanacademy.org/science/chemistry/chemical-bonds/copy-of-dot-structures) (1 Exercise, 1 Quiz, 12 Videos | [2h 1m 34s](https://www.youtube.com/watch_videos?title=Lewis+Nokta+Yap%C4%B1s%C4%B1+ve+Molek%C3%BCl+Geometrisi%0A&video_ids=bLFoVv-JN4k%2CwpMQZ8o_6_g%2CprLL1l3sUnI%2Cg_yeyuXmwGs%2CBzXQIzlUQ7g%2CJI7XU5hP3s0%2C4RNWY6JXTQs%2CEUsKERWOKEo%2C0TkAjbkDNYs%2CzaRmID8iibA%2CQiCkmYw5rzk%2CH-5L36NiaZY) )
+    - [Bağlarda Nokta Gösterimi](https://tr.khanacademy.org/science/chemistry/chemical-bonds/copy-of-dot-structures) (1 Exercise, 1 Quiz, 12 Videos | [2h 1m 34s](https://www.youtube.com/watch_videos?title=Ba%C4%9Flarda+Nokta+G%C3%B6sterimi&video_ids=bLFoVv-JN4k%2CwpMQZ8o_6_g%2CprLL1l3sUnI%2Cg_yeyuXmwGs%2CBzXQIzlUQ7g%2CJI7XU5hP3s0%2C4RNWY6JXTQs%2CEUsKERWOKEo%2C0TkAjbkDNYs%2CzaRmID8iibA%2CQiCkmYw5rzk%2CH-5L36NiaZY) )
     - [Hibritleşme ve  Hibrit Orbitaller
 ](https://tr.khanacademy.org/science/chemistry/chemical-bonds/hybridization-and-hybrid-orbitals-chemistry) (1 Exercise, 1 Quiz, 1 Test, 5 Videos | [54m 33s](https://www.youtube.com/watch_videos?title=Hibritle%C5%9Fme+ve++Hibrit+Orbitaller%0A&video_ids=DIm0kvxd8IE%2CBM-My1AheLw%2C_-828yqK6do%2CBRHfy7envyQ%2CGuaozMpFS3w) )
   - [Gazlar ve Kinetik Moleküler Teori
@@ -3512,12 +3195,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Kimyasal Dengeyi Etkileyen Faktörler
 ](https://tr.khanacademy.org/science/chemistry/chemical-equilibrium/factors-that-affect-chemical-equilibrium) (1 Article, 1 Exercise, 1 Test, 4 Videos | [36m 9s](https://www.youtube.com/watch_videos?title=Kimyasal+Dengeyi+Etkileyen+Fakt%C3%B6rler%0A&video_ids=g-vSV70dnY4%2COpN3tNbYgcU%2C5bI_xK2Inso%2CcNGO9b1nzwU) )
   - [Asitler ve Bazlar](https://tr.khanacademy.org/science/chemistry/acids-and-bases-topic) (2 Topics)
-    - [Asitler, Bazlar ve pH
-](https://tr.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases) (4 Articles, 2 Exercises, 1 Quiz, 7 Videos | [1h 12m 26s](https://www.youtube.com/watch_videos?title=Asitler%2C+Bazlar+ve+pH%0A&video_ids=_Xut4g-8fTw%2C17562akPWg8%2CNUyYlRxMtcs%2CJ7-GewgqWUQ%2C2kvhNawOvT8%2ChMEnezWdDM4%2CC4A7Y2UvYoM) )
+    - [Asitler ve Bazlar](https://tr.khanacademy.org/science/chemistry/acids-and-bases-topic/acids-and-bases) (4 Articles, 2 Exercises, 1 Quiz, 7 Videos | [1h 12m 26s](https://www.youtube.com/watch_videos?title=Asitler+ve+Bazlar&video_ids=_Xut4g-8fTw%2C17562akPWg8%2CNUyYlRxMtcs%2CJ7-GewgqWUQ%2C2kvhNawOvT8%2ChMEnezWdDM4%2CC4A7Y2UvYoM) )
     - [Asit-Baz Dengesi
 ](https://tr.khanacademy.org/science/chemistry/acids-and-bases-topic/copy-of-acid-base-equilibria) (2 Articles, 1 Quiz, 1 Test, 8 Videos | [1h 26m 18s](https://www.youtube.com/watch_videos?title=Asit-Baz+Dengesi%0A&video_ids=4441EyWBPt8%2C9PsZC46qlLY%2CdOCFTqWBl-c%2CRdiZyHAaBDw%2CQIEilVeGFhA%2CaGLnWsmkHes%2CYLYo0GQ45ME%2CNlTtz1Ti7XE) )
-  - [Tampon Çözeltiler, Titrasyon ve Çözünürlük Dengesi
-](https://tr.khanacademy.org/science/chemistry/acid-base-equilibrium) (3 Topics)
+  - [Asit-baz dengeleri ve çözünürlük dengeleri](https://tr.khanacademy.org/science/chemistry/acid-base-equilibrium) (3 Topics)
     - [Tampon Çözeltiler
 ](https://tr.khanacademy.org/science/chemistry/acid-base-equilibrium/buffer-solutions) (1 Quiz, 8 Videos | [1h 23m 10s](https://www.youtube.com/watch_videos?title=Tampon+%C3%87%C3%B6zeltiler%0A&video_ids=D3YnN1HWChg%2CvcE3Rl0sQ94%2CojWSZbvep1E%2CShsm3D0QRgY%2C-ZorpIBNKbM%2CpnhseWdTDRA%2C1KitjlnsjyA%2CVmjYoFl9xQ4) )
     - [Titrasyon (Eşdeğerleme)
@@ -3534,12 +3215,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/chemistry/thermodynamics-chemistry/gibbs-free-energy) (1 Article, 1 Quiz, 1 Test, 7 Videos | [1h 27m 10s](https://www.youtube.com/watch_videos?title=Gibbs+Serbest+Enerjisi%0A&video_ids=ViAmQivKif0%2CsG1ZAdYi13A%2C7aur5h44pV4%2CyYbzJs6vgv8%2CxgpM0pcFWbY%2CjX0oIonU-C8%2C6uojNiKFymc) )
   - [Redoks Tepkimeleri ve Elektrokimya
 ](https://tr.khanacademy.org/science/chemistry/oxidation-reduction) (6 Topics)
-    - [Yükseltgenme- İndirgenme Tepkimeleri
-](https://tr.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction) (1 Article, 11 Videos | [1h 33m 2s](https://www.youtube.com/watch_videos?title=Y%C3%BCkseltgenme-+%C4%B0ndirgenme+Tepkimeleri%0A&video_ids=XabWgppP8Pw%2CyAut6iqyE3Y%2CEhlY0JFStbs%2CEQA_ZvTJMKM%2CT5F1gi7Xloo%2ClYMtFMMDf4A%2C_MemezYVNaQ%2CxUWkay6Xt9s%2ChzAUmYz3an8%2CZG5d9uM9UVo%2CziN1Qc0zecY) )
+    - [Redoks Tepkimeleri
+](https://tr.khanacademy.org/science/chemistry/oxidation-reduction/redox-oxidation-reduction) (1 Article, 11 Videos | [1h 33m 2s](https://www.youtube.com/watch_videos?title=Redoks+Tepkimeleri%0A&video_ids=XabWgppP8Pw%2CyAut6iqyE3Y%2CEhlY0JFStbs%2CEQA_ZvTJMKM%2CT5F1gi7Xloo%2ClYMtFMMDf4A%2C_MemezYVNaQ%2CxUWkay6Xt9s%2ChzAUmYz3an8%2CZG5d9uM9UVo%2CziN1Qc0zecY) )
     - [Galvanik Hücreler (Elektrokimyasal Piller)
 ](https://tr.khanacademy.org/science/chemistry/oxidation-reduction/batter-galvanic-voltaic-cell) (7 Videos | [53m 44s](https://www.youtube.com/watch_videos?title=Galvanik+H%C3%BCcreler+%28Elektrokimyasal+Piller%29%0A&video_ids=a21cFsPhAlo%2CL5ax_yBqpAc%2CrOzvs0Z1Xsk%2CmrSz_0qDauA%2Ctm24dwSk5Ps%2CJRi79lPkaUM%2CgD2mjdGVIus) )
-    - [Standart Hücre (Pil) Potansiyelleri
-](https://tr.khanacademy.org/science/chemistry/oxidation-reduction/cell-potential) (1 Quiz, 5 Videos | [44m 53s](https://www.youtube.com/watch_videos?title=Standart+H%C3%BCcre+%28Pil%29+Potansiyelleri%0A&video_ids=pMtpYXgs6aM%2CniiOmuUPFiU%2CfsSOU0RrM3U%2COEowLkA4v38%2CfYUwEAPejbY) )
+    - [Hücre potansiyelleri](https://tr.khanacademy.org/science/chemistry/oxidation-reduction/cell-potential) (1 Quiz, 5 Videos | [44m 53s](https://www.youtube.com/watch_videos?title=H%C3%BCcre+potansiyelleri&video_ids=pMtpYXgs6aM%2CniiOmuUPFiU%2CfsSOU0RrM3U%2COEowLkA4v38%2CfYUwEAPejbY) )
     - [Elektrokimya, Termodinamik ve Denge
 ](https://tr.khanacademy.org/science/chemistry/oxidation-reduction/electrochemistry-thermodynamics-and-equilibrium) (3 Videos | [23m 19s](https://www.youtube.com/watch_videos?title=Elektrokimya%2C+Termodinamik+ve+Denge%0A&video_ids=CIZ6dicDI2w%2CtSr4JluId2k%2CP5zBQIkKcks) )
     - [Standart Olmayan Koşullarda Hücre Potansiyelleri
@@ -3559,15 +3239,14 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/chemistry/nuclear-chemistry/radioactive-decay) (10 Videos | [1h 43m 40s](https://www.youtube.com/watch_videos?title=Radyoaktif+Bozunma%0A&video_ids=vTCdorfJVgc%2Cgqrh8wbPXVE%2C3koOwozY4oc%2CmzLOT6uOfO4%2CM3UqgPY_9yU%2CrrsWfHJ5WNE%2CqYYtFvnpb4Y%2CydZFaF9-Sf4%2C7FBup_jDSfQ%2CvnNlvnnBX0I) )
   - [İleri Seviye Kimya Sınavına mı Çalışıyorsunuz ?](https://tr.khanacademy.org/science/chemistry/studying-for-ap-chemistry-exam) (8 Topics)
     - [2015 İleri Seviye Kimya Açıkuçlu Sorular ](https://tr.khanacademy.org/science/chemistry/studying-for-ap-chemistry-exam/2015-ap-chemistry-free-response-questions) (20 Videos | [2h 24m 8s](https://www.youtube.com/watch_videos?title=2015+%C4%B0leri+Seviye+Kimya+A%C3%A7%C4%B1ku%C3%A7lu+Sorular+&video_ids=fYUwEAPejbY%2CrPim-9WSg6g%2CgD2mjdGVIus%2CzZv70LK8TIw%2C12lYK1U4dyY%2C5dvIBOsITTA%2C6uojNiKFymc%2CH-5L36NiaZY%2CxDWRqPkCqdg%2CjcjQWgk37y8%2CmGmRTbY0ccY%2CQoxeinqBizM%2CFbsCRB252X8%2CzqTCXxWjM_A%2CqcwAebTsiPQ%2CJbLRFt_Z8nI%2C5Qr-0-Vgxyk%2CRoEZkrDWqmc%2CYakL8PYQw58%2ChAeC68RvwT4) )
-  - [Kimya Alanında Çalışan Uzmanlarla Tanışın](https://tr.khanacademy.org/science/chemistry/meet-a-chemistry-professional) (1 Topic)
+  - [Kimya alanında çalışan profesyonellerle tanışın](https://tr.khanacademy.org/science/chemistry/meet-a-chemistry-professional) (1 Topic)
     - [Kimya Alanında Çalışan Uzmanlarla Tanışın](https://tr.khanacademy.org/science/chemistry/meet-a-chemistry-professional/meet-the-chemistry-professional) (9 Articles, 1 Video | [2m 26s](https://www.youtube.com/watch_videos?title=Kimya+Alan%C4%B1nda+%C3%87al%C4%B1%C5%9Fan+Uzmanlarla+Tan%C4%B1%C5%9F%C4%B1n&video_ids=cfOaUvSGsug) )
 
 ## [Organic chemistry](https://tr.khanacademy.org/science/organic-chemistry) (14 Topics)
   - [Kimyasal Yapı ve Bağlar
 ](https://tr.khanacademy.org/science/organic-chemistry/gen-chem-review) (4 Topics)
     - [Bağlarda Nokta Gösterimi](https://tr.khanacademy.org/science/organic-chemistry/gen-chem-review/dot-strcutures-jay) (2 Videos | [12m 56s](https://www.youtube.com/watch_videos?title=Ba%C4%9Flarda+Nokta+G%C3%B6sterimi&video_ids=u938GbRom1I%2Co4G2vtRIHkg) )
-    - [Melezleştirme
-](https://tr.khanacademy.org/science/organic-chemistry/gen-chem-review/hybrid-orbitals-jay) (8 Videos | [1h 30m 15s](https://www.youtube.com/watch_videos?title=Melezle%C5%9Ftirme%0A&video_ids=iM80nJS7t88%2ClYhm2upNGZw%2CDIm0kvxd8IE%2CBM-My1AheLw%2C_-828yqK6do%2CBRHfy7envyQ%2CGuaozMpFS3w%2C2UTr46btzaY) )
+    - [Hybridization](https://tr.khanacademy.org/science/organic-chemistry/gen-chem-review/hybrid-orbitals-jay) (8 Videos | [1h 30m 15s](https://www.youtube.com/watch_videos?title=Hybridization&video_ids=iM80nJS7t88%2ClYhm2upNGZw%2CDIm0kvxd8IE%2CBM-My1AheLw%2C_-828yqK6do%2CBRHfy7envyQ%2CGuaozMpFS3w%2C2UTr46btzaY) )
     - [Bağ Çizgi Yapıları
 ](https://tr.khanacademy.org/science/organic-chemistry/gen-chem-review/bond-line-structures) (4 Videos | [40m 36s](https://www.youtube.com/watch_videos?title=Ba%C4%9F+%C3%87izgi+Yap%C4%B1lar%C4%B1%0A&video_ids=XEPdMvZqCHQ%2C8AwKNC1texM%2CZAgQH2azx3w%2CRBbJKOOZ6FY) )
     - [Elektronegatiflik](https://tr.khanacademy.org/science/organic-chemistry/gen-chem-review/electronegativity-polarity) (5 Videos | [53m 5s](https://www.youtube.com/watch_videos?title=Elektronegatiflik&video_ids=F2rYbwvD1KE%2CQiCkmYw5rzk%2CJmVAM1xRNtc%2CTZaMGxcKcqM%2C_mWHWJiMKXU) )
@@ -3577,14 +3256,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Rezonans Yapıları
 ](https://tr.khanacademy.org/science/organic-chemistry/organic-structures/formal-charge-resonance) (5 Videos | [45m 49s](https://www.youtube.com/watch_videos?title=Rezonans+Yap%C4%B1lar%C4%B1%0A&video_ids=7BgiKyvviyU%2CUHZHkZ6_H5o%2Coxf0LMJTklg%2CqpP8D7yQV50%2CkQCS1AhAnMI) )
     - [Organik Asit-Baz kimyası](https://tr.khanacademy.org/science/organic-chemistry/organic-structures/acid-base-review) (12 Videos | [1h 15m 43s](https://www.youtube.com/watch_videos?title=Organik+Asit-Baz+kimyas%C4%B1&video_ids=4dAA5kqGrKU%2Chutp5NNKTqE%2CRdiZyHAaBDw%2CV4SfcxmE2kY%2CIyR2oyPzqyU%2CMmjgZ1S0TCE%2CGJzDnJjgIdY%2CC4A7Y2UvYoM%2CwWfYMDDleWI%2CCh8hGMz-G88%2Cod8gM2RuzZU%2CtqIsXRsctMM) )
-  - [Alkanlar, Sikloalkanlar ve Fonksiyonel Gruplar](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes) (5 Topics)
+  - [Alkenler ve sikloalkenler](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes) (5 Topics)
     - [Alkanların Adlandırılması](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes/naming-alkanes) (12 Videos | [1h 35m 2s](https://www.youtube.com/watch_videos?title=Alkanlar%C4%B1n+Adland%C4%B1r%C4%B1lmas%C4%B1&video_ids=FFUziGlTedk%2CNRFPvLp3r3g%2CKKAD-OOOHxg%2CCFBKfgGTP98%2CTJUm860AjNw%2Cq_Q9C1Ooofc%2CO9RPGJcAfJk%2CCJRQ8gOjq4E%2CSe-ekDNhCDk%2CygXkdSKXQoA%2CXw1CMTXQGPY%2C6BR0Q5e74bs) )
     - [Alkanların Adlandırılması, Sikloalkanlar ve Çift Halkalı Bileşikler](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes/naming-alkanes-cycloalkanes-bicyclic) (6 Videos | [1h 3m 36s](https://www.youtube.com/watch_videos?title=Alkanlar%C4%B1n+Adland%C4%B1r%C4%B1lmas%C4%B1%2C+Sikloalkanlar+ve+%C3%87ift+Halkal%C4%B1+Bile%C5%9Fikler&video_ids=F8RCR_1jIAk%2C9tEnXUuHkp4%2CjoQd0qVnX4M%2CcM-SFbffb7k%2CayKHmN90ncc%2CH6Efx9qS4BE) )
-    - [Alkanların Konformasyonu
-](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes/conformations-alkanes-cycloalkanes) (8 Videos | [1h 23m 55s](https://www.youtube.com/watch_videos?title=Alkanlar%C4%B1n+Konformasyonu%0A&video_ids=IkmM4CPnqF0%2CryJvNEHcuDg%2CE52oU-pwDxY%2CvOq6cwT-l2U%2ClIJ45KYQOLM%2CdTst62XXJ8g%2CMOHzzgQLkk8%2CiUrleWSqok4) )
-    - [Siloalkanların Konformasyonu
-
-](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes/conformations) (8 Videos | [1h 24m 38s](https://www.youtube.com/watch_videos?title=Siloalkanlar%C4%B1n+Konformasyonu%0A%0A&video_ids=YUEkOBvJSNg%2CI6LsWSXx8fg%2CDXc4pa9lIaA%2Cp9NzhA3E-70%2CAtK0QQYHKCk%2CkNQnnshdNuo%2CTI27-ZN2Glg%2CBwPjtAe1gvE) )
+    - [Alkan ve sikloalkanların yapıları](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes/conformations-alkanes-cycloalkanes) (8 Videos | [1h 23m 55s](https://www.youtube.com/watch_videos?title=Alkan+ve+sikloalkanlar%C4%B1n+yap%C4%B1lar%C4%B1&video_ids=IkmM4CPnqF0%2CryJvNEHcuDg%2CE52oU-pwDxY%2CvOq6cwT-l2U%2ClIJ45KYQOLM%2CdTst62XXJ8g%2CMOHzzgQLkk8%2CiUrleWSqok4) )
+    - [Yapılar/Şekiller](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes/conformations) (8 Videos | [1h 24m 38s](https://www.youtube.com/watch_videos?title=Yap%C4%B1lar%2F%C5%9Eekiller&video_ids=YUEkOBvJSNg%2CI6LsWSXx8fg%2CDXc4pa9lIaA%2Cp9NzhA3E-70%2CAtK0QQYHKCk%2CkNQnnshdNuo%2CTI27-ZN2Glg%2CBwPjtAe1gvE) )
     - [Fonksiyonel Gruplar](https://tr.khanacademy.org/science/organic-chemistry/bond-line-structures-alkanes-cycloalkanes/functional-groups) (3 Videos | [25m 33s](https://www.youtube.com/watch_videos?title=Fonksiyonel+Gruplar&video_ids=LPKaQh2FTGY%2CK9uMb2HKC0w%2Ci46m1qFaNu4) )
   - [Stereokimya](https://tr.khanacademy.org/science/organic-chemistry/stereochemistry-topic) (3 Topics)
     - [Kiralite ](https://tr.khanacademy.org/science/organic-chemistry/stereochemistry-topic/chirality-r-s-system) (6 Videos | [46m](https://www.youtube.com/watch_videos?title=Kiralite+&video_ids=tk-SNvCPLCE%2CGDBVo-_wxwU%2CRlxhxCV9RC4%2CyChPRfm4yvg%2C3Ya7I-oDGU0%2Cij1TfRMODhA) )
@@ -3595,10 +3271,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Nükleofilite ve Bazlılık
 ](https://tr.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/nucleophilicity-basicity-sal) (2 Videos | [26m 42s](https://www.youtube.com/watch_videos?title=N%C3%BCkleofilite+ve+Bazl%C4%B1l%C4%B1k%0A&video_ids=Z9Jh-Q59xso%2CMx7KM-k2MMo) )
     - [Ayrılma Tepkimeleri](https://tr.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/elimination-reactions-tutorial) (3 Videos | [31m 44s](https://www.youtube.com/watch_videos?title=Ayr%C4%B1lma+Tepkimeleri&video_ids=J0gXdEAaSiA%2CU9dGHwsewNk%2C2jO--kC3aqk) )
-    - [Sn1/Sn2/E1/E2](https://tr.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/sn1-sn2-e1-e2-sal) (3 Videos | [28m 50s](https://www.youtube.com/watch_videos?title=Sn1%2FSn2%2FE1%2FE2&video_ids=tvzPaLu6olI%2CvinEPfrqfiU%2CMtwvLru62Qw) )
+    - [SN1/SN2/E1/E2](https://tr.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/sn1-sn2-e1-e2-sal) (3 Videos | [28m 50s](https://www.youtube.com/watch_videos?title=SN1%2FSN2%2FE1%2FE2&video_ids=tvzPaLu6olI%2CvinEPfrqfiU%2CMtwvLru62Qw) )
     - [SN1 ve SN2](https://tr.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/sn1-sn2-tutorial) (15 Videos | [2h 12m 58s](https://www.youtube.com/watch_videos?title=SN1+ve+SN2&video_ids=Z4F88tTx9-8%2C-z2yk8yxv08%2CV9JixmPdeuk%2CaaZ-isZs4ko%2CwnjxQsAvkJ8%2CsDZDgctzbkI%2CVH0ciDED3wM%2CDv5GU9m71YY%2CYddDLLDhPvM%2C0geM5he7Oic%2C3LiyCxCTrqo%2CeaQyzkAZGjM%2ClxnAwd8OXaA%2CMy5SpT9E37c%2CwCspf85eQQo) )
     - [E1 ve E2 Tepkimeleri](https://tr.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/e1-e2-tutorial) (10 Videos | [1h 36m 13s](https://www.youtube.com/watch_videos?title=E1+ve+E2+Tepkimeleri&video_ids=l-g2xEV-z7o%2CMDh_5n0OO2M%2C4fdEhh6YNE4%2CAiGGaJfoQ1Y%2CAJGrSWxPrd8%2CgPr0Zn67Rf0%2CyQfLOhgIY_U%2CVdpIq3FZCn8%2CuCW6154hPkc%2CB23i9_jC5T8) )
-    - [Sn1/Sn2/E1/E2](https://tr.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/sn1-sn2-e1-e2-jay) (4 Videos | [41m 4s](https://www.youtube.com/watch_videos?title=Sn1%2FSn2%2FE1%2FE2&video_ids=fG9aJLffPeE%2CHcpPPEG2wFg%2CvFSZ5PU0dIY%2CHfA0rO1-vpE) )
+    - [SN1/SN2/E1/E2](https://tr.khanacademy.org/science/organic-chemistry/substitution-elimination-reactions/sn1-sn2-e1-e2-jay) (4 Videos | [41m 4s](https://www.youtube.com/watch_videos?title=SN1%2FSN2%2FE1%2FE2&video_ids=fG9aJLffPeE%2CHcpPPEG2wFg%2CvFSZ5PU0dIY%2CHfA0rO1-vpE) )
   - [Alken ve alkinler](https://tr.khanacademy.org/science/organic-chemistry/alkenes-alkynes) (7 Topics)
     - [Alkenlerin Adlandırılması](https://tr.khanacademy.org/science/organic-chemistry/alkenes-alkynes/naming-alkenes) (3 Videos | [19m 27s](https://www.youtube.com/watch_videos?title=Alkenlerin+Adland%C4%B1r%C4%B1lmas%C4%B1&video_ids=h0upw74sceE%2ClWeaoNuXR3Y%2CSKeujuIQTh4) )
     - [Alken Reaksiyonları](https://tr.khanacademy.org/science/organic-chemistry/alkenes-alkynes/alkene-reactions) (4 Videos | [44m 52s](https://www.youtube.com/watch_videos?title=Alken+Reaksiyonlar%C4%B1&video_ids=Z_GWBW_GVGA%2CX-VCk3WrGlM%2CO_yeKo6-qIg%2CtR-hzV5Tkxo) )
@@ -3626,54 +3302,49 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/naming-aromatic) (2 Videos | [20m 9s](https://www.youtube.com/watch_videos?title=Benzen+T%C3%BCrevlerinin+Adland%C4%B1r%C4%B1lmas%C4%B1+%0A&video_ids=A5r7wkwDID4%2C8iwauKeqm2w) )
     - [Benzen Tepkimeleri](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/reactions-benzene) (4 Videos | [36m 21s](https://www.youtube.com/watch_videos?title=Benzen+Tepkimeleri&video_ids=fpq0eICjuSI%2CK2tIixiXGOM%2CvFfriC55fFw%2C0YD5xSvseIw) )
     - [Aromatik Kararlılık](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/aromatic-stability) (7 Videos | [1h 9m 31s](https://www.youtube.com/watch_videos?title=Aromatik+Kararl%C4%B1l%C4%B1k&video_ids=oDigu9YxXUg%2CI6wzan4hNc4%2Cyg0XJWHPqOA%2CBNmOZO9hbb0%2CsMrm4g6Aj4Y%2CvAW9t5uBr08%2CwvVdgGTrh-o) )
-    - [Elektrofilik Aromatik Yer Değiştirme
-](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/electrophilic-aromatic-substitution) (6 Videos | [57m 17s](https://www.youtube.com/watch_videos?title=Elektrofilik+Aromatik+Yer+De%C4%9Fi%C5%9Ftirme%0A&video_ids=eQzbpL0uWVA%2C3cVSSiuiwsQ%2CrC165FcI4Yg%2CaKeDUvpfOfI%2CFHptu3tcJnM%2CxUFwzPmqt0Y) )
-    - [Yöneltme Etkileri
-](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/deffect-2013-07-03T14:44:54.851Z) (6 Videos | [56m 15s](https://www.youtube.com/watch_videos?title=Y%C3%B6neltme+Etkileri%0A&video_ids=i9rfWOAEplk%2CKM_maukQebY%2CSFd8mcpP3TU%2Cc547u94QRFU%2CXUT7zEffaTY%2CiF-f2-KSw6E) )
-    - [Diğer Tepkimeler ve Sentez](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/other-reactions-and-synthesis) (5 Videos | [45m 46s](https://www.youtube.com/watch_videos?title=Di%C4%9Fer+Tepkimeler+ve+Sentez&video_ids=p4M2q1t_Up8%2Cdzjkh9K5Y8o%2CGonTjrX5PjA%2CK4RE-6AolEw%2Cb9NZvAhvIwQ) )
-    - [Nükleofilik Aromatik Substitüsyon](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/nucleophilic-aromatic-substitution) (2 Videos | [21m 32s](https://www.youtube.com/watch_videos?title=N%C3%BCkleofilik+Aromatik+Substit%C3%BCsyon&video_ids=6xy02bQS2Zg%2CmMHOM2qaRaE) )
+    - [Eletrofilik aromatik yerdeğiştirme](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/electrophilic-aromatic-substitution) (6 Videos | [57m 17s](https://www.youtube.com/watch_videos?title=Eletrofilik+aromatik+yerde%C4%9Fi%C5%9Ftirme&video_ids=eQzbpL0uWVA%2C3cVSSiuiwsQ%2CrC165FcI4Yg%2CaKeDUvpfOfI%2CFHptu3tcJnM%2CxUFwzPmqt0Y) )
+    - [Directing Effects](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/deffect-2013-07-03T14:44:54.851Z) (6 Videos | [56m 15s](https://www.youtube.com/watch_videos?title=Directing+Effects&video_ids=i9rfWOAEplk%2CKM_maukQebY%2CSFd8mcpP3TU%2Cc547u94QRFU%2CXUT7zEffaTY%2CiF-f2-KSw6E) )
+    - [Diğer Reaksiyonlar ve Sentezler](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/other-reactions-and-synthesis) (5 Videos | [45m 46s](https://www.youtube.com/watch_videos?title=Di%C4%9Fer+Reaksiyonlar+ve+Sentezler&video_ids=p4M2q1t_Up8%2Cdzjkh9K5Y8o%2CGonTjrX5PjA%2CK4RE-6AolEw%2Cb9NZvAhvIwQ) )
+    - [Nükleofilik aromatik ikame](https://tr.khanacademy.org/science/organic-chemistry/aromatic-compounds/nucleophilic-aromatic-substitution) (2 Videos | [21m 32s](https://www.youtube.com/watch_videos?title=N%C3%BCkleofilik+aromatik+ikame&video_ids=6xy02bQS2Zg%2CmMHOM2qaRaE) )
   - [Aldehitler ve ketonlar](https://tr.khanacademy.org/science/organic-chemistry/aldehydes-ketones) (2 Topics)
-    - [Aldehitler ve Ketonlar
-](https://tr.khanacademy.org/science/organic-chemistry/aldehydes-ketones/nomenclature-aldehyde-ketone) (5 Videos | [49m 28s](https://www.youtube.com/watch_videos?title=Aldehitler+ve+Ketonlar%0A&video_ids=oeyBfrx5RJY%2CwD15pD5pCt4%2CJMsqu236bZo%2C4lbVBMLZ1jQ%2CBlBQBOb0OQ4) )
+    - [Aldehitlerin ve Ketonların Adlandırılması
+](https://tr.khanacademy.org/science/organic-chemistry/aldehydes-ketones/nomenclature-aldehyde-ketone) (5 Videos | [49m 28s](https://www.youtube.com/watch_videos?title=Aldehitlerin+ve+Ketonlar%C4%B1n+Adland%C4%B1r%C4%B1lmas%C4%B1%0A&video_ids=oeyBfrx5RJY%2CwD15pD5pCt4%2CJMsqu236bZo%2C4lbVBMLZ1jQ%2CBlBQBOb0OQ4) )
     - [Aldehitlerin ve Ketonların Tepkimeleri
 ](https://tr.khanacademy.org/science/organic-chemistry/aldehydes-ketones/reactions-aldehydes-ketones-jay) (10 Videos | [1h 44m 59s](https://www.youtube.com/watch_videos?title=Aldehitlerin+ve+Ketonlar%C4%B1n+Tepkimeleri%0A&video_ids=632MAqIB14E%2CFGq9-R6Yw18%2CrL0lDESwwv8%2C8-ccnvn9DxI%2CfY_ejjMRYg0%2CGl7bQNm92fE%2CgSzxeL64Cn0%2CD5-1qEKtfQ4%2CuWJRx-5n1yw%2C_0TqG8-N8DI) )
   - [Karboksilik asit ve türevleri](https://tr.khanacademy.org/science/organic-chemistry/carboxylic-acids-derivatives) (4 Topics)
     - [Karboksilik Asitlerin Adlandırılması](https://tr.khanacademy.org/science/organic-chemistry/carboxylic-acids-derivatives/naming-carboxylic-acids-sal) (2 Videos | [14m 17s](https://www.youtube.com/watch_videos?title=Karboksilik+Asitlerin+Adland%C4%B1r%C4%B1lmas%C4%B1&video_ids=lsvmhMEusjE%2C4UDBR1MoalU) )
     - [Karboksilik Asit Türevlerinin Oluşumu](https://tr.khanacademy.org/science/organic-chemistry/carboxylic-acids-derivatives/formation-carboxylic-acid-derivatives-sal) (5 Videos | [57m 59s](https://www.youtube.com/watch_videos?title=Karboksilik+Asit+T%C3%BCrevlerinin+Olu%C5%9Fumu&video_ids=dbdVMThH1n8%2CXKk9K5xTgDA%2CSRPQ62dR6b4%2CNYI0bJK64MY%2CgMKtGulgGH8) )
-    - [Karboksilik Asitlerde Adlandırılması ve Reaksiyonlar](https://tr.khanacademy.org/science/organic-chemistry/carboxylic-acids-derivatives/reactions-carboxylic-jay) (7 Videos | [1h 3m 36s](https://www.youtube.com/watch_videos?title=Karboksilik+Asitlerde+Adland%C4%B1r%C4%B1lmas%C4%B1+ve+Reaksiyonlar&video_ids=xgDuzj51tAc%2CzR4OaoiNkA0%2C5_4xmCLmtb8%2C9K3R6xtO6SU%2CynBuPEmcjp4%2CCafRuKs7EfE%2C8G0RkfeKfBg) )
+    - [karboksilik asitlerde isimlendirme ve reaksiyonlar](https://tr.khanacademy.org/science/organic-chemistry/carboxylic-acids-derivatives/reactions-carboxylic-jay) (7 Videos | [1h 3m 36s](https://www.youtube.com/watch_videos?title=karboksilik+asitlerde+isimlendirme+ve+reaksiyonlar&video_ids=xgDuzj51tAc%2CzR4OaoiNkA0%2C5_4xmCLmtb8%2C9K3R6xtO6SU%2CynBuPEmcjp4%2CCafRuKs7EfE%2C8G0RkfeKfBg) )
     - [Karboksilik Asit Türevlerinin Adlandırılması ve Tepkimeler](https://tr.khanacademy.org/science/organic-chemistry/carboxylic-acids-derivatives/acid-derivatives-jay) (8 Videos | [1h 20m 40s](https://www.youtube.com/watch_videos?title=Karboksilik+Asit+T%C3%BCrevlerinin+Adland%C4%B1r%C4%B1lmas%C4%B1+ve+Tepkimeler&video_ids=uaXgGL1dGfU%2CR9PjfG1e7-w%2CEgTd7OSTO1I%2CMWii7tL0T84%2C3QWJrPq_HB0%2CK7XAk7EvLSc%2CMGF0jSP3Txo%2CI-uzVCJCRpE) )
-  - [Alfa Karbon Kimyası](https://tr.khanacademy.org/science/organic-chemistry/ochem-alpha-carbon-chemistry) (2 Topics)
+  - [alfa-karbon kimyası](https://tr.khanacademy.org/science/organic-chemistry/ochem-alpha-carbon-chemistry) (2 Topics)
     - [Enolat Anyonların Oluşumu](https://tr.khanacademy.org/science/organic-chemistry/ochem-alpha-carbon-chemistry/formation-of-enolate-anions) (5 Videos | [44m 21s](https://www.youtube.com/watch_videos?title=Enolat+Anyonlar%C4%B1n+Olu%C5%9Fumu&video_ids=SXbc4J1qWjE%2CNdRl1C6Jr5o%2Cbhxo9Wwr4mA%2ClhRfE13mM70%2CsBuM8hTGlag) )
     - [Aldol Yoğunlaşması](https://tr.khanacademy.org/science/organic-chemistry/ochem-alpha-carbon-chemistry/aldol-condensation-jay) (6 Videos | [1h 4m 45s](https://www.youtube.com/watch_videos?title=Aldol+Yo%C4%9Funla%C5%9Fmas%C4%B1&video_ids=3XiHrsZNZko%2CsjMsyk-rP8I%2CNAW1pqHs2_c%2Cg0_bWq24Np0%2CdKFE0uJayM8%2CNSPrIjA6T-c) )
   - [Aminler](https://tr.khanacademy.org/science/organic-chemistry/amines-topic) (2 Topics)
     - [Aminlerin Adlandırılması](https://tr.khanacademy.org/science/organic-chemistry/amines-topic/naming-amines) (2 Videos | [12m 34s](https://www.youtube.com/watch_videos?title=Aminlerin+Adland%C4%B1r%C4%B1lmas%C4%B1&video_ids=Kpov3GS6tjM%2CCJzuu_k9Nv0) )
   - [Spektroskopi
 ](https://tr.khanacademy.org/science/organic-chemistry/spectroscopy-jay) (3 Topics)
-    - [Kızılötesi Spektroskopi](https://tr.khanacademy.org/science/organic-chemistry/spectroscopy-jay/infrared-spectroscopy-theory) (9 Videos | [1h 34m 52s](https://www.youtube.com/watch_videos?title=K%C4%B1z%C4%B1l%C3%B6tesi+Spektroskopi&video_ids=rK8yfCpXIB0%2CS4suipb1Lek%2CMlMwMqM_Wsg%2C_nzaMQKpPLM%2C6eXq5dGJK0c%2CfS_6Cs6FBkQ%2C9GPuoukU8fM%2CVymVIXcyErI%2CREUMJIREoEM) )
+    - [Kızılötesi spektroskopi](https://tr.khanacademy.org/science/organic-chemistry/spectroscopy-jay/infrared-spectroscopy-theory) (9 Videos | [1h 34m 52s](https://www.youtube.com/watch_videos?title=K%C4%B1z%C4%B1l%C3%B6tesi+spektroskopi&video_ids=rK8yfCpXIB0%2CS4suipb1Lek%2CMlMwMqM_Wsg%2C_nzaMQKpPLM%2C6eXq5dGJK0c%2CfS_6Cs6FBkQ%2C9GPuoukU8fM%2CVymVIXcyErI%2CREUMJIREoEM) )
     - [Kızıl Ötesi ve Mor Ötesi/ Görülebilir Spektroskopi
 ](https://tr.khanacademy.org/science/organic-chemistry/spectroscopy-jay/uv-vis-spectroscopy) (3 Videos | [25m 57s](https://www.youtube.com/watch_videos?title=K%C4%B1z%C4%B1l+%C3%96tesi+ve+Mor+%C3%96tesi%2F+G%C3%B6r%C3%BClebilir+Spektroskopi%0A&video_ids=1FQPXtN7MeI%2C7xw2YYx0f9U%2C4UKXCWKiXks) )
-    - [Proton Nükleer Manyetik Rezonans (Proton NMR)
-](https://tr.khanacademy.org/science/organic-chemistry/spectroscopy-jay/proton-nmr) (15 Videos | [2h 19m 47s](https://www.youtube.com/watch_videos?title=Proton+N%C3%BCkleer+Manyetik+Rezonans+%28Proton+NMR%29%0A&video_ids=jjcHZuTGWXk%2CvmAGGV4WT5Q%2CashXPKu0f4w%2C4W0hhDDBuvo%2CuKkJg10LNX8%2CtzHldTP4XQQ%2C6dP-mNDnU-A%2C18MFBcLhX4s%2C5o6-hv3bHSU%2CwZJ_iAxvHGU%2CintPEdg4Yyc%2C5bWxTfRZx70%2CYrHx2R72hFk%2CgZu9Hhz23EY%2C15fz6Wo84IA) )
+    - [proton NMR](https://tr.khanacademy.org/science/organic-chemistry/spectroscopy-jay/proton-nmr) (15 Videos | [2h 19m 47s](https://www.youtube.com/watch_videos?title=proton+NMR&video_ids=jjcHZuTGWXk%2CvmAGGV4WT5Q%2CashXPKu0f4w%2C4W0hhDDBuvo%2CuKkJg10LNX8%2CtzHldTP4XQQ%2C6dP-mNDnU-A%2C18MFBcLhX4s%2C5o6-hv3bHSU%2CwZJ_iAxvHGU%2CintPEdg4Yyc%2C5bWxTfRZx70%2CYrHx2R72hFk%2CgZu9Hhz23EY%2C15fz6Wo84IA) )
 
 ## [Electrical engineering](https://tr.khanacademy.org/science/electrical-engineering) (9 Topics)
   - [Elektrik Mühendisliği](https://tr.khanacademy.org/science/electrical-engineering/introduction-to-ee) (1 Topic)
-    - [Başlarken](https://tr.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee) (4 Articles, 4 Videos | [21m 42s](https://www.youtube.com/watch_videos?title=Ba%C5%9Flarken&video_ids=qV9whQUt93Q%2CHqaL2Yi9gz8%2CJczwCifYZaQ%2CDUp7NrSRfZ4) )
+    - [Devrelere giriş](https://tr.khanacademy.org/science/electrical-engineering/introduction-to-ee/intro-to-ee) (4 Articles, 4 Videos | [21m 42s](https://www.youtube.com/watch_videos?title=Devrelere+giri%C5%9F&video_ids=qV9whQUt93Q%2CHqaL2Yi9gz8%2CJczwCifYZaQ%2CDUp7NrSRfZ4) )
   - [Devre Analizi](https://tr.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic) (5 Topics)
     - [Devre Elemanları](https://tr.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/circuit-elements) (4 Articles, 4 Videos | [21m 58s](https://www.youtube.com/watch_videos?title=Devre+Elemanlar%C4%B1&video_ids=x4CW3eezu0c%2CjvrSV-XVroM%2CEog6R7DQ7es%2CiUUHbdWZ16Y) )
     - [Direnç Devreleri ](https://tr.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits) (6 Articles, 1 Exercise, 7 Videos | [1h 1m 10s](https://www.youtube.com/watch_videos?title=Diren%C3%A7+Devreleri+&video_ids=THqJ7rW97FQ%2CzL-ePAqY4SE%2CRDpyiEmZ71w%2CX4cqnEf60Ng%2CxDiVGUOPL1o%2C1YztIP4m5xU%2CMLZPNeEqKFI) )
     - [Doğru Akım Devre Analizi
 ](https://tr.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis) (9 Articles, 9 Videos | [1h 18m 32s](https://www.youtube.com/watch_videos?title=Do%C4%9Fru+Ak%C4%B1m+Devre+Analizi%0A&video_ids=VkB6VPSDLmM%2Cg4QNuCK8jB0%2CIhClW5FMsbk%2Csxjym2mnaoY%2CuKBWlrDIJHw%2Cy08jywdsoyM%2CHqjD8ACT1Z8%2CCG0ywdfSZjM%2Cs2_grdC9fdc) )
-    - [Devrenin Tepkisi
-](https://tr.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response) (10 Articles, 21 Videos | [2h 52m 59s](https://www.youtube.com/watch_videos?title=Devrenin+Tepkisi%0A&video_ids=kq4qgpOPpm4%2C3920rX6ipm0%2Cw1NR5sjsChI%2CYKKd5p4a5Lo%2CxOoMotHFOKk%2CPZM6acXvsoQ%2C4qgLz0TF8-M%2C2NRBn6ZLmDc%2CzfqJRZyeGRE%2Ck6KH4WmcgaU%2CA_1N561qdSw%2CA4aoLMC1-5Y%2C4XHMqvVByFQ%2CkxE7wipiMps%2CFuuR_SqwXm4%2CDIxU2l204HU%2Cvvf-qiN9SWA%2CaSTvToHuG3I%2Cp-b6k9jyIkE%2C51UHJnjUOSs%2CvkIBypq8MTE) )
-    - [Alternatif Akım Devre Analizi
-](https://tr.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis) (22 Videos | [2h 48m 40s](https://www.youtube.com/watch_videos?title=Alternatif+Ak%C4%B1m+Devre+Analizi%0A&video_ids=7UJi2GQCi00%2CNuAgmNaX58M%2C6hjr4n4MCPA%2CLmxGmUOiP2A%2CR3en76G8_W0%2Ca_zReGTxdlQ%2CG0h9Sa_s18A%2CwbEEWmJFDVg%2CgiO5ACdU2LA%2CCIQmq1wOjnc%2CLE2uwd9V5vw%2CXxP6auFa44M%2C4-gVIRgZi2U%2C1tSrRYU6LKM%2CzGTzWgSDFR0%2CSvFfVtRT1UI%2CUjiLH7RE8_Y%2CWmTlioVfS78%2CI21hginkKk0%2C2yqjMiFUMlA%2CsmLN8WKJjas%2C779k4-oFjuc) )
+    - [Network response](https://tr.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-natural-and-forced-response) (10 Articles, 21 Videos | [2h 52m 59s](https://www.youtube.com/watch_videos?title=Network+response&video_ids=kq4qgpOPpm4%2C3920rX6ipm0%2Cw1NR5sjsChI%2CYKKd5p4a5Lo%2CxOoMotHFOKk%2CPZM6acXvsoQ%2C4qgLz0TF8-M%2C2NRBn6ZLmDc%2CzfqJRZyeGRE%2Ck6KH4WmcgaU%2CA_1N561qdSw%2CA4aoLMC1-5Y%2C4XHMqvVByFQ%2CkxE7wipiMps%2CFuuR_SqwXm4%2CDIxU2l204HU%2Cvvf-qiN9SWA%2CaSTvToHuG3I%2Cp-b6k9jyIkE%2C51UHJnjUOSs%2CvkIBypq8MTE) )
+    - [AC circuit analyisis](https://tr.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-ac-analysis) (22 Videos | [2h 48m 40s](https://www.youtube.com/watch_videos?title=AC+circuit+analyisis&video_ids=7UJi2GQCi00%2CNuAgmNaX58M%2C6hjr4n4MCPA%2CLmxGmUOiP2A%2CR3en76G8_W0%2Ca_zReGTxdlQ%2CG0h9Sa_s18A%2CwbEEWmJFDVg%2CgiO5ACdU2LA%2CCIQmq1wOjnc%2CLE2uwd9V5vw%2CXxP6auFa44M%2C4-gVIRgZi2U%2C1tSrRYU6LKM%2CzGTzWgSDFR0%2CSvFfVtRT1UI%2CUjiLH7RE8_Y%2CWmTlioVfS78%2CI21hginkKk0%2C2yqjMiFUMlA%2CsmLN8WKJjas%2C779k4-oFjuc) )
   - [Amplifikatörler (Yükselteçler)
 ](https://tr.khanacademy.org/science/electrical-engineering/ee-amplifiers) (1 Topic)
     - [İşlem (Operasyon) Amplifikatörü
 ](https://tr.khanacademy.org/science/electrical-engineering/ee-amplifiers/ee-opamp) (7 Videos | [1h 4m 25s](https://www.youtube.com/watch_videos?title=%C4%B0%C5%9Flem+%28Operasyon%29+Amplifikat%C3%B6r%C3%BC%0A&video_ids=lJDjWZqhpVc%2C_Ut-nQ535iE%2Cua4eMZTxpQ0%2CU1KbM4ffiLg%2CpxKLeIjzxAk%2CaD6l5bNnJgE%2CjlwcIRKCqek) )
   - [Yarı İletken Cihazlar
 ](https://tr.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices) (1 Topic)
-    - [Diyot](https://tr.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode) (1 Article, 2 Videos | [19m 7s](https://www.youtube.com/watch_videos?title=Diyot&video_ids=0FbeUMPZFjU%2CIMZ2D8Nz6sA) )
+    - [Diodes](https://tr.khanacademy.org/science/electrical-engineering/ee-semiconductor-devices/ee-diode) (1 Article, 2 Videos | [19m 7s](https://www.youtube.com/watch_videos?title=Diodes&video_ids=0FbeUMPZFjU%2CIMZ2D8Nz6sA) )
   - [Elektrostatik
 ](https://tr.khanacademy.org/science/electrical-engineering/ee-electrostatics) (2 Topics)
     - [Elektriksel Kuvvet ve Elektriksel Alan
@@ -3684,12 +3355,13 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/electrical-engineering/ee-signals) (1 Topic)
     - [Fourier Serileri
 ](https://tr.khanacademy.org/science/electrical-engineering/ee-signals/ee-fourier-series) (10 Videos | [1h 5m 15s](https://www.youtube.com/watch_videos?title=Fourier+Serileri%0A&video_ids=UKHBWzoOKsY%2C6AWZT8owvO8%2CEDhYig0bEpA%2CPLxHkjrVBgE%2Cki4VK_dQlPs%2C59RIABaGTcs%2CkwqNDIacqt0%2CkhDD_9g5YTM%2CWTD8jg8fXoE%2CaalANrz7bi8) )
-  - [Ev Yapımı Robotlar](https://tr.khanacademy.org/science/electrical-engineering/robots) (5 Topics)
-    - [Spout Hakkında Her Şey
-](https://tr.khanacademy.org/science/electrical-engineering/robots/all-about-spout) (2 Interactives, 7 Videos | [20m 16s](https://www.youtube.com/watch_videos?title=Spout+Hakk%C4%B1nda+Her+%C5%9Eey%0A&video_ids=UcvQ5Pq0YZU%2CzV7nkgilrdE%2CxZkCl2qkQS8%2CK-IQzyZaHWg%2CTbmIMmw5jPY%2Cln620h-ZBWM%2C4k4jR6w4mJY) )
+  - [Robotlar](https://tr.khanacademy.org/science/electrical-engineering/robots) (5 Topics)
+    - [Tamer'in dikdörtgenler prizması şeklinde bir akvaryumu var, eni $50 \,\text{cm}$ ve boyu $25\, \text{cm}$. Akvaryumun içinde bir kale var ve akvaryum  $57,5 \text{ cm}$ yükseklikte su ile doludur.  Tamer kaleyi çıkarırsa, su seviyesi $48 \text{ cm}$'ye iniyor. 
+
+**Kalenin hacmi nedir?**](https://tr.khanacademy.org/science/electrical-engineering/robots/all-about-spout) (2 Interactives, 7 Videos | [20m 16s](https://www.youtube.com/watch_videos?title=Tamer%27in+dikd%C3%B6rtgenler+prizmas%C4%B1+%C5%9Feklinde+bir+akvaryumu+var%2C+eni+%2450+%5C%2C%5Ctext%7Bcm%7D%24+ve+boyu+%2425%5C%2C+%5Ctext%7Bcm%7D%24.+Akvaryumun+i%C3%A7inde+bir+kale+var+ve+akvaryum++%2457%2C5+%5Ctext%7B+cm%7D%24+y%C3%BCkseklikte+su+ile+doludur.++Tamer+kaleyi+%C3%A7%C4%B1kar%C4%B1rsa%2C+su+seviyesi+%2448+%5Ctext%7B+cm%7D%24%27ye+iniyor.+%0A%0A%2A%2AKalenin+hacmi+nedir%3F%2A%2A&video_ids=UcvQ5Pq0YZU%2CzV7nkgilrdE%2CxZkCl2qkQS8%2CK-IQzyZaHWg%2CTbmIMmw5jPY%2Cln620h-ZBWM%2C4k4jR6w4mJY) )
     - [Lehimli Spout Robotu](https://tr.khanacademy.org/science/electrical-engineering/robots/spout-bot-with-solder) (1 Article, 8 Videos | [51m 35s](https://www.youtube.com/watch_videos?title=Lehimli+Spout+Robotu&video_ids=5PHcYEoRTxY%2CjpLWgZltX3c%2CaH6tD9ye2fA%2CqdrOmyKns_w%2CQrXDymBrbyA%2CVE6m-T1-m3Y%2C9bhF07AFoUc%2COPw2jSeDWBI) )
     - [Lehimsiz Spout Robot](https://tr.khanacademy.org/science/electrical-engineering/robots/solderless-spout-bot-ddp) (3 Articles, 1 Interactive, 11 Videos | [46m 15s](https://www.youtube.com/watch_videos?title=Lehimsiz+Spout+Robot&video_ids=ZoB0SOKl7Fw%2CX-vRDsq3Zrs%2Cj-MuX7U0c-w%2CoN98vauYn6A%2CSHEOL4cNRkc%2C-EjW-_Zqj7c%2CqaOWDG1C3aA%2C0sb2XgKkccE%2CorILKkuABXA%2CUjwTuMeFa84%2C-S00HQjCksw) )
-    - [Örümcek Robot](https://tr.khanacademy.org/science/electrical-engineering/robots/spider-bot) (3 Articles, 16 Videos | [59m 49s](https://www.youtube.com/watch_videos?title=%C3%96r%C3%BCmcek+Robot&video_ids=hH1e8KzR_PQ%2CgWRsrIH_SIs%2ClHgk1Mycak0%2CMc9t05ELEV4%2Ccir6PkUwUPU%2Cdf6R1lXfTH8%2CDfXrf9PHOVs%2CuaV8hL_rXks%2Cp5fwl4ytVUg%2ClxUlu_8WFfc%2CFfyNtrmmGEI%2CZmxZ0ul-T78%2CnW0CVmMHovM%2ClVb7KmnKm2I%2C706HN629l48%2CkNCvUuKciTU) )
+    - [Örümcek Robot, Karl R. C. Wendt](https://tr.khanacademy.org/science/electrical-engineering/robots/spider-bot) (3 Articles, 16 Videos | [59m 49s](https://www.youtube.com/watch_videos?title=%C3%96r%C3%BCmcek+Robot%2C+Karl+R.+C.+Wendt&video_ids=hH1e8KzR_PQ%2CgWRsrIH_SIs%2ClHgk1Mycak0%2CMc9t05ELEV4%2Ccir6PkUwUPU%2Cdf6R1lXfTH8%2CDfXrf9PHOVs%2CuaV8hL_rXks%2Cp5fwl4ytVUg%2ClxUlu_8WFfc%2CFfyNtrmmGEI%2CZmxZ0ul-T78%2CnW0CVmMHovM%2ClVb7KmnKm2I%2C706HN629l48%2CkNCvUuKciTU) )
     - [Robot Bit-zee ](https://tr.khanacademy.org/science/electrical-engineering/robots/bit-zee) (3 Articles, 29 Videos | [2h 24m 49s](https://www.youtube.com/watch_videos?title=Robot+Bit-zee+&video_ids=OzSIDgLrMPI%2C25Vz3OG4nlU%2CF3mjihGIdvQ%2CKq0Er6JBMmc%2CncgAqZ_Umww%2Cjo1bjsBbcc8%2CbP__iEY9yTs%2CYvUWkJcfp1w%2CA5bdQkCd87Q%2Ch2Jwdb_T_mo%2CebGzJabI3mw%2CiU1oIFPM1-I%2C7CqigPmXyv8%2CT4iRq8_ZmAA%2CCSXP02Cl3zM%2Co0XKRK3a3cs%2CbhMQYdoh8EQ%2C8GhjZn2W8ns%2CiqHZp79FhO8%2CefQjBTPhS_0%2C4HkbFUoX0iI%2CDRz9B6SHWQ4%2CC9ITaG1_XoA%2CT2ZnxsBWU3E%2CJEXhbd0JOWk%2ClrIUaN_UKYs%2CKNtVlP9Htnk%2C87-DnbQatO8%2CKhyDlw99aSY) )
   - [Lego Robot](https://tr.khanacademy.org/science/electrical-engineering/lego-robotics) (5 Topics)
     - [Lego Robotları](https://tr.khanacademy.org/science/electrical-engineering/lego-robotics/lego-intro) (3 Articles, 3 Videos | [6m 37s](https://www.youtube.com/watch_videos?title=Lego+Robotlar%C4%B1&video_ids=Ka1MN38gNxY%2Cyct0we-BREQ%2C-IbZdtGQMcA) )
@@ -3699,23 +3371,23 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Karınca Robotu
 ](https://tr.khanacademy.org/science/electrical-engineering/lego-robotics/lego-antbot) (2 Articles, 4 Videos | [6m 41s](https://www.youtube.com/watch_videos?title=Kar%C4%B1nca+Robotu%0A&video_ids=zC9BvpuJErY%2C_c5m8DC77xs%2CKsV83hL1638%2CzpiQVORL-zo) )
     - [Programlama Temelleri](https://tr.khanacademy.org/science/electrical-engineering/lego-robotics/lego-programming-basics) (9 Videos | [35m 30s](https://www.youtube.com/watch_videos?title=Programlama+Temelleri&video_ids=KsV83hL1638%2CkF8nXTqTjBY%2C0GC_lDekUfA%2CzpiQVORL-zo%2CFZWbbZKi6zY%2CRBkLQ__aCtw%2CYUQXdnZPdxE%2CfDm4HkVrKDQ%2CQI80_Pj95es) )
-  - [Tersine Mühendislik](https://tr.khanacademy.org/science/electrical-engineering/reverse-engin) (4 Topics)
+  - [Tersine mühendislik](https://tr.khanacademy.org/science/electrical-engineering/reverse-engin) (4 Topics)
     - [Ev Eşyaları](https://tr.khanacademy.org/science/electrical-engineering/reverse-engin/reverse-engineering) (3 Videos | [33m 49s](https://www.youtube.com/watch_videos?title=Ev+E%C5%9Fyalar%C4%B1&video_ids=83ycIFhvzFY%2CosHQavG5C-U%2C8sbWmLzo6b0) )
     - [Saç Kurutma Makinesi](https://tr.khanacademy.org/science/electrical-engineering/reverse-engin/hair-dryer) (3 Videos | [20m 10s](https://www.youtube.com/watch_videos?title=Sa%C3%A7+Kurutma+Makinesi&video_ids=r_iz2VbYCiY%2CHSD3kZWKd4w%2C-ci6qBQUJcQ) )
     - [DVD Oynatıcı](https://tr.khanacademy.org/science/electrical-engineering/reverse-engin/dvd-player) (6 Videos | [30m 55s](https://www.youtube.com/watch_videos?title=DVD+Oynat%C4%B1c%C4%B1&video_ids=zVF9KQ4F5DU%2Cl5-AOLOwASo%2CvGytWxiAsd8%2CSXn5h3t8xE8%2CDYzVKqvv1pI%2Cx0-NlM_LB-A) )
     - [Dijital Kamera](https://tr.khanacademy.org/science/electrical-engineering/reverse-engin/digital-camera) (2 Videos | [12m 58s](https://www.youtube.com/watch_videos?title=Dijital+Kamera&video_ids=UdRp9CXiV90%2Cn5RR9uO_FKg) )
 
 ## [Health and medicine](https://tr.khanacademy.org/science/health-and-medicine) (25 Topics)
-  - [İnsan Anatomisi ve Fizyolojisi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology) (14 Topics)
+  - [insan anatomisi ve fizyolojisi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology) (14 Topics)
     - [Dolaşım Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/heart-introduction) (1 Article, 3 Exercises, 1 Quiz, 9 Videos | [1h 33m 19s](https://www.youtube.com/watch_videos?title=Dola%C5%9F%C4%B1m+Sistemi&video_ids=vPGEPzqeRME%2CMOi1i_NDTIA%2CVHCU5ZFQmpQ%2CffmYwb4TTqM%2CvPX6kPoVd2A%2CC_LiAEjuIIc%2CUbFU0rqLsK4%2CiqRTd1NY-pU%2CtTRkpY3kORg) )
     - [Solunum Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/lung-introduction) (3 Exercises, 1 Quiz, 7 Videos | [1h 18m 28s](https://www.youtube.com/watch_videos?title=Solunum+Sistemi&video_ids=-t3Loc4FuQE%2CMjLgFUXIP9g%2CZXAIWJTEP3E%2CCzsb7UTJajU%2C5BavIiFjSbk%2CMQX7Wje6z-w%2CfjXqE9DxKW0) )
     - [Boşaltım Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/introduction-to-the-kidneys) (3 Exercises, 8 Videos | [1h 19m 22s](https://www.youtube.com/watch_videos?title=Bo%C5%9Falt%C4%B1m+Sistemi&video_ids=JR_1G-TGBVo%2C7JKG4KHoXYM%2CwWsdcfGta4k%2Cx0pFo1RxTzM%2CVqce2dtg45U%2CCOx2YZHBbNk%2Ccc8sUv2SuaY%2CczY5nyvZ7cU) )
-    - [Hematolojik Sistem](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/introduction-to-hematologic) (12 Videos | [2h 30m 45s](https://www.youtube.com/watch_videos?title=Hematolojik+Sistem&video_ids=Im3jUYlSdJk%2CGBnPJYWKzcI%2Cvcv02bUbBNs%2CddifthdMNVc%2CUBlem4dGLGU%2CGwtddAC5zCo%2CQP8ImP6NCk8%2CGZS2a3FUyXE%2Ca19T5CX2b-g%2CRQpBj8ebbNY%2CFNVvQ788wzk%2CdHi9ctwDUnc) )
+    - [Hematolojik sisteme giriş](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/introduction-to-hematologic) (12 Videos | [2h 30m 45s](https://www.youtube.com/watch_videos?title=Hematolojik+sisteme+giri%C5%9F&video_ids=Im3jUYlSdJk%2CGBnPJYWKzcI%2Cvcv02bUbBNs%2CddifthdMNVc%2CUBlem4dGLGU%2CGwtddAC5zCo%2CQP8ImP6NCk8%2CGZS2a3FUyXE%2Ca19T5CX2b-g%2CRQpBj8ebbNY%2CFNVvQ788wzk%2CdHi9ctwDUnc) )
     - [Bağışıklık Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/introduction-to-immunology) (2 Exercises, 12 Videos | [2h 28m](https://www.youtube.com/watch_videos?title=Ba%C4%9F%C4%B1%C5%9F%C4%B1kl%C4%B1k+Sistemi&video_ids=O1N2rENXq_Y%2CiotwRgTPnBA%2CZ36dUduOk1Y%2Cj_kSmmEpvQk%2CuwMYpTYsNZM%2Cji2DrvUWgGo%2Cxaz5ftvZCyI%2CEsQyCHs4IBY%2CafM6_VFaIss%2C7x6vyjgAeIE%2CFXSuEIMrPQk%2C97nFwkRiNCc) )
     - [Sindirim Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/gastrointestinal-system-introduction) (15 Videos | [1h 42m 22s](https://www.youtube.com/watch_videos?title=Sindirim+Sistemi&video_ids=IkvSeurdeRc%2C3V5rg2O_Dgw%2CW0t7GUO216A%2Cbu8zjfApXHo%2CPwhvkdk2M7g%2CX1UGfrkU_4o%2CIyhIlvFVon4%2Cyd2GHF4BAzk%2CePLMHTlSbFI%2Cri7NBsqfLdc%2CtqCuikPVKEc%2Cp5U9kblx3hc%2Cn_D-6E4cHNA%2CrCfkxXDhlTA%2C_kfB2qKjdgM) )
     - [Sinir Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/nervous-system-introduction) (1 Exercise, 21 Videos | [3h 10m 18s](https://www.youtube.com/watch_videos?title=Sinir+Sistemi&video_ids=U8-zmzF-Ppw%2C6Ct6NDRlDuw%2CKJWTYg70H8c%2CYeYADlgO-W0%2CC_H-ONQFjpQ%2Cye3rTjLCvAU%2CkY8FEq0teOs%2CTENIUrowI-k%2CMyfhAFyt6RE%2CTbq-KZaXiL4%2CJ29W4ylp-QY%2ClrAM8IZmQtU%2CzyHq2LC25Bw%2CQ8Bjve1ZSuY%2C4Kt5RPFDPtg%2CpVnbavEGtcI%2C_4LNzxUnn4s%2CMyUrjN_CWD8%2Cwxk7u1j1Xo8%2Csj226pYpSwQ%2CoXOlB6XhbSI) )
     - [Kas Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/introduction-to-muscles) (2 Exercises, 1 Quiz, 12 Videos | [1h 50m 49s](https://www.youtube.com/watch_videos?title=Kas+Sistemi&video_ids=fwZSn9rHniQ%2C0ONriom9Nbw%2CvyuNt4nrbRg%2CUeuI8FKG-5g%2C8o3UzdFRJdE%2CZ3jo-Y8dHF0%2C1klBKq65VBw%2COYz2BOSQXcw%2C_fJhwTJfd5k%2CpJ-GXYmyqAA%2CDpO10my12JU%2CfbZkjJ1YVHc) )
-    - [İskelet Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/skeletal-system) (6 Videos | [32m 57s](https://www.youtube.com/watch_videos?title=%C4%B0skelet+Sistemi&video_ids=-lrKDRAbP38%2CIKHVpABUSDs%2Cq1LlWexoKks%2Ccsp08ICfOC4%2CN3g3poXeqaY%2Cfrvv37WJjm4) )
+    - [iskelet sistemine giriş](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/skeletal-system) (6 Videos | [32m 57s](https://www.youtube.com/watch_videos?title=iskelet+sistemine+giri%C5%9F&video_ids=-lrKDRAbP38%2CIKHVpABUSDs%2Cq1LlWexoKks%2Ccsp08ICfOC4%2CN3g3poXeqaY%2Cfrvv37WJjm4) )
     - [Endokrin Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/introduction-to-hormones) (2 Exercises, 5 Videos | [41m 26s](https://www.youtube.com/watch_videos?title=Endokrin+Sistemi&video_ids=2no1adulqBc%2CsNnTdTRBUHU%2CdGzRWBfcSZg%2CTB1AHoXclXY%2CGyDD0kMnbuM) )
     - [Örtü Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/integumentary-system-introduction) (11 Videos | [1h 27m 54s](https://www.youtube.com/watch_videos?title=%C3%96rt%C3%BC+Sistemi&video_ids=mgVj8VhHsGE%2Ctb5b3vdeMJM%2CbuqvZn_46h8%2C8A4UkFl1gjk%2CZppdQZN_I1Q%2CfAVqFI0kz28%2Cf4F5U-4RsDc%2Ckn04XsZ3dIc%2Ck9cj_rZO448%2CvOteXlsi2oc%2CfbZkjJ1YVHc) )
     - [Lenf Sistemi](https://tr.khanacademy.org/science/health-and-medicine/human-anatomy-and-physiology/lymphatics) (5 Videos | [42m 31s](https://www.youtube.com/watch_videos?title=Lenf+Sistemi&video_ids=g5czLoVIPWY%2CCLneY6SoPi0%2CkjLwVqxwaIM%2CXq8HUQIDW0o%2C5Po7S37Mq8M) )
@@ -3725,25 +3397,21 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
   - [Dolaşım Sistemi Fizyolojisi
 ](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system) (13 Topics)
     - [Dolaşım Sistemi](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/circulatory-system-introduction) (1 Article, 3 Exercises, 1 Quiz, 9 Videos | [1h 33m 19s](https://www.youtube.com/watch_videos?title=Dola%C5%9F%C4%B1m+Sistemi&video_ids=vPGEPzqeRME%2CMOi1i_NDTIA%2CVHCU5ZFQmpQ%2CffmYwb4TTqM%2CvPX6kPoVd2A%2CC_LiAEjuIIc%2CUbFU0rqLsK4%2CiqRTd1NY-pU%2CtTRkpY3kORg) )
-    - [Tansiyon (Kan Basıncı)](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-ddp) (8 Videos | [1h 8m 24s](https://www.youtube.com/watch_videos?title=Tansiyon+%28Kan+Bas%C4%B1nc%C4%B1%29&video_ids=f_H2Ul3_26A%2CSkDC9G8CUy0%2CZZpctJeJe6A%2CAwEiLb_JbOA%2CGa0dndxwrzw%2CONvetslVxJs%2CF2uzWHppVrk%2Ctcnj61Z1pqg) )
-    - [Tansiyon Kontrolü](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-control) (11 Videos | [2h 9m 39s](https://www.youtube.com/watch_videos?title=Tansiyon+Kontrol%C3%BC&video_ids=ajLgwCygHsc%2C_vBJkK4eocA%2CBVUeCLt68Ik%2CAtlhAhONHyM%2CcUVS0AlRyw8%2COges5YqDLHY%2C64_ZfIemRGM%2C7HTy-6NLWGM%2C8dQdfbE8kFU%2COt1We4_EfRE%2CZ0XPMFL45oo) )
+    - [Tansiyon (Kan basıncı)](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-ddp) (8 Videos | [1h 8m 24s](https://www.youtube.com/watch_videos?title=Tansiyon+%28Kan+bas%C4%B1nc%C4%B1%29&video_ids=f_H2Ul3_26A%2CSkDC9G8CUy0%2CZZpctJeJe6A%2CAwEiLb_JbOA%2CGa0dndxwrzw%2CONvetslVxJs%2CF2uzWHppVrk%2Ctcnj61Z1pqg) )
+    - [Tansiyon kontrolü](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/blood-pressure-control) (11 Videos | [2h 9m 39s](https://www.youtube.com/watch_videos?title=Tansiyon+kontrol%C3%BC&video_ids=ajLgwCygHsc%2C_vBJkK4eocA%2CBVUeCLt68Ik%2CAtlhAhONHyM%2CcUVS0AlRyw8%2COges5YqDLHY%2C64_ZfIemRGM%2C7HTy-6NLWGM%2C8dQdfbE8kFU%2COt1We4_EfRE%2CZ0XPMFL45oo) )
     - [Fetal Dolaşım](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/fetal-circulation) (10 Videos | [1h 55m 5s](https://www.youtube.com/watch_videos?title=Fetal+Dola%C5%9F%C4%B1m&video_ids=ctmObGA8JrU%2Coc0AcTDsK7Q%2CMOi1i_NDTIA%2CK9UMRY0W1Eo%2Cr7DATW7gpmw%2CGZS2a3FUyXE%2CdWWFv1x_b0o%2CQ44KrjWnf7Y%2CDFSOUdDljpU%2CUVF8tJ-FqyI) )
-    - [Damarlar](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/blood-vessels) (3 Videos | [23m 48s](https://www.youtube.com/watch_videos?title=Damarlar&video_ids=YJd9n-EflIQ%2ChSkIG4MdKqU%2CyeX0uDpPBj4) )
-    - [Damar Sertliği](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/arterial-stiffness) (5 Videos | [40m 5s](https://www.youtube.com/watch_videos?title=Damar+Sertli%C4%9Fi&video_ids=zHA_4YasWm0%2CrLeVErapoRM%2CnmJj-F4aKDI%2CitCOEeilI1c%2CI5vamlnEQz0) )
-    - [Kalp Kası Kasılması](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/heart-muscle-contraction) (7 Videos | [1h 17m](https://www.youtube.com/watch_videos?title=Kalp+Kas%C4%B1+Kas%C4%B1lmas%C4%B1&video_ids=8o3UzdFRJdE%2COzXsWA7ZmiE%2CfwZSn9rHniQ%2C0ONriom9Nbw%2C_fJhwTJfd5k%2Ctdz8jDfGRj8%2CzI-P7Ej9xp0) )
+    - [Kan damarları](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/blood-vessels) (3 Videos | [23m 48s](https://www.youtube.com/watch_videos?title=Kan+damarlar%C4%B1&video_ids=YJd9n-EflIQ%2ChSkIG4MdKqU%2CyeX0uDpPBj4) )
+    - [Arteryel Sertlik](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/arterial-stiffness) (5 Videos | [40m 5s](https://www.youtube.com/watch_videos?title=Arteryel+Sertlik&video_ids=zHA_4YasWm0%2CrLeVErapoRM%2CnmJj-F4aKDI%2CitCOEeilI1c%2CI5vamlnEQz0) )
+    - [Kalp Kaslarının Kasılması](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/heart-muscle-contraction) (7 Videos | [1h 17m](https://www.youtube.com/watch_videos?title=Kalp+Kaslar%C4%B1n%C4%B1n+Kas%C4%B1lmas%C4%B1&video_ids=8o3UzdFRJdE%2COzXsWA7ZmiE%2CfwZSn9rHniQ%2C0ONriom9Nbw%2C_fJhwTJfd5k%2Ctdz8jDfGRj8%2CzI-P7Ej9xp0) )
     - [Kalp Depolarizasyonu](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/heart-depolarization) (11 Videos | [2h 5m 52s](https://www.youtube.com/watch_videos?title=Kalp+Depolarizasyonu&video_ids=PtKAeihnbv0%2CeROhIFBGKuU%2C920PtNX-WCE%2COQpFFiLdE0E%2CrIVCuC-Etc0%2Cj2iY1cT2gEE%2C1FFs0JvL2GY%2Cs5smas8uum4%2C_yR9DBHMFXE%2C7TafYJLjhY4%2C8zrJxuVW3u4) )
-    - [Kalp Sinir Regülasyonu
-](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/nerve-regulation-of-the-heart) (5 Videos | [48m 23s](https://www.youtube.com/watch_videos?title=Kalp+Sinir+Reg%C3%BClasyonu%0A&video_ids=cmQtbpYihAI%2C3HvIKsQb6es%2C0eu-3FIRRz8%2CKiouveG278Y%2CdqmaxkxInZ4) )
-    - [Ön Yükleme ve Son Yükleme
-](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/preload-and-afterload) (9 Videos | [1h 44m 40s](https://www.youtube.com/watch_videos?title=%C3%96n+Y%C3%BCkleme+ve+Son+Y%C3%BCkleme%0A&video_ids=zI-P7Ej9xp0%2CDLD23lPv8eo%2CS-4pFl3mjr8%2CSCo1m7OEqac%2C5SO58NndlPI%2CuVFqEi5j1v0%2CIjret8P3kWM%2CyOf3kDD3WIA%2CFttqXKdw_Xk) )
+    - [Kalpteki Sinirler](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/nerve-regulation-of-the-heart) (5 Videos | [48m 23s](https://www.youtube.com/watch_videos?title=Kalpteki+Sinirler&video_ids=cmQtbpYihAI%2C3HvIKsQb6es%2C0eu-3FIRRz8%2CKiouveG278Y%2CdqmaxkxInZ4) )
+    - [Preload(Önyük) ve Afterload(Artyük)](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/preload-and-afterload) (9 Videos | [1h 44m 40s](https://www.youtube.com/watch_videos?title=Preload%28%C3%96ny%C3%BCk%29+ve+Afterload%28Arty%C3%BCk%29&video_ids=zI-P7Ej9xp0%2CDLD23lPv8eo%2CS-4pFl3mjr8%2CSCo1m7OEqac%2C5SO58NndlPI%2CuVFqEi5j1v0%2CIjret8P3kWM%2CyOf3kDD3WIA%2CFttqXKdw_Xk) )
     - [Basınç Hacim Döngüleri](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/pressure-volume-loops) (12 Videos | [2h 16m 57s](https://www.youtube.com/watch_videos?title=Bas%C4%B1n%C3%A7+Hacim+D%C3%B6ng%C3%BCleri&video_ids=XTF0-54yJMk%2CQM4f1vos6Vk%2CE5PndKebh70%2CSrL6TQbWKJE%2CcJLbnWBU09E%2CR7_irilQ_-A%2CAnwPH5yU8rY%2Ch72iwhmB6zc%2Cbyj5VLuLS6c%2CBdlkhDHbN98%2CDLD23lPv8eo%2CzI-P7Ej9xp0) )
-    - [Kalp Döngüsünde Basınç-Hacim Değişiklikleri
-](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/changing-the-pv-loop-nm) (1 Interactive, 10 Videos | [1h 54m 35s](https://www.youtube.com/watch_videos?title=Kalp+D%C3%B6ng%C3%BCs%C3%BCnde+Bas%C4%B1n%C3%A7-Hacim+De%C4%9Fi%C5%9Fiklikleri%0A&video_ids=DLD23lPv8eo%2CyOf3kDD3WIA%2CFttqXKdw_Xk%2CBdlkhDHbN98%2CgmHH0wIXsog%2CNG7nbAcAFNc%2CBGIkU1yzBNM%2CAt8jOJ_rpzA%2CaFV9dk5PsPA%2CJRrm8TfBj1c) )
+    - [Basınç Hacim döngüsünü değiştirmek](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system/changing-the-pv-loop-nm) (1 Interactive, 10 Videos | [1h 54m 35s](https://www.youtube.com/watch_videos?title=Bas%C4%B1n%C3%A7+Hacim+d%C3%B6ng%C3%BCs%C3%BCn%C3%BC+de%C4%9Fi%C5%9Ftirmek&video_ids=DLD23lPv8eo%2CyOf3kDD3WIA%2CFttqXKdw_Xk%2CBdlkhDHbN98%2CgmHH0wIXsog%2CNG7nbAcAFNc%2CBGIkU1yzBNM%2CAt8jOJ_rpzA%2CaFV9dk5PsPA%2CJRrm8TfBj1c) )
   - [Dolaşım Sistemi Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases) (16 Topics)
     - [Koroner Arter Hastalığı
 ](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/coronary-artery-disease) (1 Exercise, 9 Videos | [1h 32m 21s](https://www.youtube.com/watch_videos?title=Koroner+Arter+Hastal%C4%B1%C4%9F%C4%B1%0A&video_ids=EATkbpqlxvc%2CRrXJsf9x_sY%2Cg3kDdg8r6NY%2CT_b9U5gn_Zk%2CkO8-RPIkuLE%2CPfg9FY1Fguc%2CdLtFP6t99yo%2C9lIxelNVmNU%2Cm1DOnLhVuX4) )
-    - [Ateroskleroz, Arteriyoskleroz ve Arteriyoloskleroz
-](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/blood-vessel-diseases) (6 Videos | [58m 45s](https://www.youtube.com/watch_videos?title=Ateroskleroz%2C+Arteriyoskleroz+ve+Arteriyoloskleroz%0A&video_ids=UbFU0rqLsK4%2C_T60pBGcoQU%2C1qifvZnpKjU%2CN-mAEwzCwMM%2C1JudNLK1-Ck%2CEOnlvbWjFOE) )
+    - [Damar Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/blood-vessel-diseases) (6 Videos | [58m 45s](https://www.youtube.com/watch_videos?title=Damar+Hastal%C4%B1klar%C4%B1&video_ids=UbFU0rqLsK4%2C_T60pBGcoQU%2C1qifvZnpKjU%2CN-mAEwzCwMM%2C1JudNLK1-Ck%2CEOnlvbWjFOE) )
     - [İnme (Felç)
 ](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/stroke) (1 Article, 18 Videos | [2h 16m 35s](https://www.youtube.com/watch_videos?title=%C4%B0nme+%28Fel%C3%A7%29%0A&video_ids=_YZjmvOOUtk%2CXOelY3ST0gI%2ClMIEtrbeQYI%2CQskZ-o0egF8%2CqCvV11R2lgg%2CTJeUOPc9pgs%2ClmiXf-jilGE%2C57pvSMQ0E5M%2CQjJT87nY1WI%2CGdfP-loRfm0%2CbL7yQRbYJCo%2CkVGb778WcMU%2CyTMZsxSBv_0%2CxC55TgPmfZ0%2CAgPpM4jqkxU%2CLvoONWiXJ5I%2CBYE5lxTzNVM%2CFVedgkn0o70) )
     - [Hipertansiyon (Yüksek Tansiyon)
@@ -3751,8 +3419,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Kalp Yetmezliği](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/heart-failure) (1 Article, 10 Videos | [1h 1m 57s](https://www.youtube.com/watch_videos?title=Kalp+Yetmezli%C4%9Fi&video_ids=2aiRpr5UCZs%2CFL3Q5Q6IdAY%2CrGAIHFB9FL0%2C4YDUJbeRCKA%2CCYr4n5KJ-yw%2CpLba3OzsfDU%2CCs6ILUkZimM%2CBhoOxQ_vNX4%2CEoS-0F5mXNc%2CeYrm7Nij5vw) )
     - [Aort  Anevrizması ve Diseksiyonu
 ](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/aortic-dissection-and-aneurysm) (5 Videos | [1h 2m 15s](https://www.youtube.com/watch_videos?title=Aort++Anevrizmas%C4%B1+ve+Diseksiyonu%0A&video_ids=PRl8TLUleZg%2CxHUsdE880so%2CP1paaFPcdak%2CJfZ38uHaTEk%2CVdQ6lAhKGTc) )
-    - [Miyokardit ve Perikardit
-](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/myocarditis-and-pericarditis) (6 Videos | [1h 2m 57s](https://www.youtube.com/watch_videos?title=Miyokardit+ve+Perikardit%0A&video_ids=xL98lBuAn1A%2CEwif2XGL2a8%2CIj_ERo1Ashc%2COwDXViQn6tw%2CR1y2m2OB1x0%2CNpuvcuzXn9w) )
+    - [Miyokardit ve perikardit](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/myocarditis-and-pericarditis) (6 Videos | [1h 2m 57s](https://www.youtube.com/watch_videos?title=Miyokardit+ve+perikardit&video_ids=xL98lBuAn1A%2CEwif2XGL2a8%2CIj_ERo1Ashc%2COwDXViQn6tw%2CR1y2m2OB1x0%2CNpuvcuzXn9w) )
     - [Kardiyomiyopati](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/cardiomyopathy) (6 Videos | [1h 4m 34s](https://www.youtube.com/watch_videos?title=Kardiyomiyopati&video_ids=SXYeQDrH36Y%2CiL6aM2xFixU%2Cou3a7Htbrvw%2CVtqrKxJmBn4%2CCRfgLoV25tA%2CithdrJuSj3A) )
     - [Kardiyak Ritim Bozukluğu ve Taşikardi
 ](https://tr.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/dysrhythmias-and-tachycardias) (15 Videos | [1h 59m 25s](https://www.youtube.com/watch_videos?title=Kardiyak+Ritim+Bozuklu%C4%9Fu+ve+Ta%C5%9Fikardi%0A&video_ids=TQwe0Y4Ynjs%2CJ30Ww6yuXGI%2CeCrQDI1OAeU%2C0FufW_MZMa4%2C0URl8p39wQo%2C5brsc8IbWSk%2CtRuvXP-H164%2CC1smdOKd4Ds%2CniTxSf60wDs%2CBSf_YIyZzi8%2C_HXl3mu1IoM%2Cel6nuUsff84%2C2c9-pa6vKDY%2C5xSEZszGDtI%2CvbslqfcBpnU) )
@@ -3774,9 +3441,9 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Gaz Değişimi](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system/gas-exchange-jv) (7 Videos | [1h 4m 34s](https://www.youtube.com/watch_videos?title=Gaz+De%C4%9Fi%C5%9Fimi&video_ids=shkAsXjB65c%2CGWTmrN3XlxM%2C8PTYingg0L8%2CG9AAmzdjz1o%2CH5xFzaL6wbA%2Ciy-Wqa4q0x4%2CO1ImzW_vxLY) )
     - [Nefes Kontrolü](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system/breathing-control-ir) (4 Videos | [36m 53s](https://www.youtube.com/watch_videos?title=Nefes+Kontrol%C3%BC&video_ids=cJXY3Cywrnc%2ClVacrVMmJX8%2C_BFDgTci0ck%2CdaJDwDBjk7M) )
   - [Solunum Sistemi Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases) (14 Topics)
-    - [Akciğer Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/intro-to-pulmonary-diseases) (1 Article, 3 Videos | [25m 57s](https://www.youtube.com/watch_videos?title=Akci%C4%9Fer+Hastal%C4%B1klar%C4%B1&video_ids=ukIYeuL54so%2CJ2jU-gaSerY%2CM3dRyJsyE0E) )
+    - [Göğüs Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/intro-to-pulmonary-diseases) (1 Article, 3 Videos | [25m 57s](https://www.youtube.com/watch_videos?title=G%C3%B6%C4%9F%C3%BCs+Hastal%C4%B1klar%C4%B1&video_ids=ukIYeuL54so%2CJ2jU-gaSerY%2CM3dRyJsyE0E) )
     - [Astım](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/asthma2) (6 Videos | [42m 23s](https://www.youtube.com/watch_videos?title=Ast%C4%B1m&video_ids=oxmkTnuHoeg%2CBWMnERPz2qQ%2CJex9diuiGz4%2ComVdsBXnIKM%2Cem3Pu5WMQyo%2CjIYjjdRwOL4) )
-    - [Amfizem ](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/emphysema) (6 Videos | [49m 9s](https://www.youtube.com/watch_videos?title=Amfizem+&video_ids=laBUtu_QEEE%2COiSTT4z4zJI%2CprL5WuhGPLI%2CZZlIue1DCJ4%2C36dg_h4gwNk%2CEIm1BSVCpno) )
+    - [Amfizem](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/emphysema) (6 Videos | [49m 9s](https://www.youtube.com/watch_videos?title=Amfizem&video_ids=laBUtu_QEEE%2COiSTT4z4zJI%2CprL5WuhGPLI%2CZZlIue1DCJ4%2C36dg_h4gwNk%2CEIm1BSVCpno) )
     - [Kronik Bronşit](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/chronic-bronchitis) (3 Videos | [26m 54s](https://www.youtube.com/watch_videos?title=Kronik+Bron%C5%9Fit&video_ids=1F9GIwhSlWY%2CV0rStf-gCA8%2C1s7fS6-G3eg) )
     - [Kistik Fibroz](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/cystic-fibrosis) (5 Videos | [33m 20s](https://www.youtube.com/watch_videos?title=Kistik+Fibroz&video_ids=ucbxYIVztz8%2Ccu6rfyEMFiQ%2CJ0tYHmuig-U%2CIcakt3gQDtE%2C0mdS4GH7Lkw) )
     - [Mesleki Akciğer Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/occupational-lung-diseases) (2 Videos | [13m 23s](https://www.youtube.com/watch_videos?title=Mesleki+Akci%C4%9Fer+Hastal%C4%B1klar%C4%B1&video_ids=Fg2UVVBPbqc%2C1mVc8usafhs) )
@@ -3792,7 +3459,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Boğaz Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/throat-conditions) (4 Videos | [34m 18s](https://www.youtube.com/watch_videos?title=Bo%C4%9Faz+Hastal%C4%B1klar%C4%B1&video_ids=QpC4Z3VlN-Y%2CVg-2wusly3k%2CEHEecXYsJ9w%2CfzF2AgL35qE) )
     - [Gırtlak Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/laryngeal-conditions) (7 Videos | [49m 36s](https://www.youtube.com/watch_videos?title=G%C4%B1rtlak+Hastal%C4%B1klar%C4%B1&video_ids=4HDYvSTzcmY%2C_Md5nli5OII%2CTDQAd2N2Cls%2CPirpJlhmx4o%2Co0XjxqOwKz0%2CI_8qfTB2ZYA%2Ck85Astu_pp0) )
     - [Bronşiyolit](https://tr.khanacademy.org/science/health-and-medicine/respiratory-system-diseases/bronchiolitis) (4 Videos | [39m 33s](https://www.youtube.com/watch_videos?title=Bron%C5%9Fiyolit&video_ids=xHeUVUEI6SU%2Cc5Dirb7gHnA%2Cnf_v23AOvdk%2CZrOqNsxGiwI) )
-  - [Hematolojik Sistem Fizyolojisi](https://tr.khanacademy.org/science/health-and-medicine/advanced-hematologic-system) (2 Topics)
+  - [Hematolojik sistem](https://tr.khanacademy.org/science/health-and-medicine/advanced-hematologic-system) (2 Topics)
     - [Hematolojik Sistem](https://tr.khanacademy.org/science/health-and-medicine/advanced-hematologic-system/hematologic-system-introduction) (12 Videos | [2h 31m 1s](https://www.youtube.com/watch_videos?title=Hematolojik+Sistem&video_ids=Im3jUYlSdJk%2CGBnPJYWKzcI%2Cvcv02bUbBNs%2C97nFwkRiNCc%2CUBlem4dGLGU%2CGwtddAC5zCo%2CQP8ImP6NCk8%2CGZS2a3FUyXE%2Ca19T5CX2b-g%2CRQpBj8ebbNY%2CFNVvQ788wzk%2CdHi9ctwDUnc) )
     - [Kanama ve Bozulmuş Hemostaz
 ](https://tr.khanacademy.org/science/health-and-medicine/advanced-hematologic-system/bleeding-and-impaired-hemostasis) (4 Videos | [31m 38s](https://www.youtube.com/watch_videos?title=Kanama+ve+Bozulmu%C5%9F+Hemostaz%0A&video_ids=rLIEeUP_e-Y%2CSffnpNxGWb8%2Cy0sk8LG4mWQ%2CVxEIsPOdOLw) )
@@ -3805,19 +3472,17 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/health-and-medicine/hematologic-system-diseases-2/plasma-cell-dyscrasias) (4 Videos | [35m 52s](https://www.youtube.com/watch_videos?title=Plazma+H%C3%BCcre+Diskrazileri%0A&video_ids=t3MxJEbJN3k%2CK25N7ZfSaO0%2CjdytgW5wKa4%2CHod_JfGJPj4) )
     - [Miyeloproliferatif Bozukluklar
 ](https://tr.khanacademy.org/science/health-and-medicine/hematologic-system-diseases-2/myeloproliferative-disorders) (5 Videos | [48m 1s](https://www.youtube.com/watch_videos?title=Miyeloproliferatif+Bozukluklar%0A&video_ids=eLsegxXzaiE%2CvOPuAPCioE4%2C1POB_czE16k%2CST6mSB-RvE0%2C-YEtWOxweRg) )
-  - [Endokrin Sistemi Fizyolojisi](https://tr.khanacademy.org/science/health-and-medicine/advanced-endocrine-system) (2 Topics)
+  - [Endokrin sistemi](https://tr.khanacademy.org/science/health-and-medicine/advanced-endocrine-system) (2 Topics)
     - [Endokrin Sistemi](https://tr.khanacademy.org/science/health-and-medicine/advanced-endocrine-system/endocrine-system-introduction) (6 Videos | [51m 3s](https://www.youtube.com/watch_videos?title=Endokrin+Sistemi&video_ids=dQv3pt_KKrM%2C2no1adulqBc%2CsNnTdTRBUHU%2CdGzRWBfcSZg%2CTB1AHoXclXY%2CGyDD0kMnbuM) )
     - [Davranışın Biyolojik Temeli: Endokrin Sistemi
 ](https://tr.khanacademy.org/science/health-and-medicine/advanced-endocrine-system/biological-basis-of-behavior-endocrine-system) (4 Videos | [29m 50s](https://www.youtube.com/watch_videos?title=Davran%C4%B1%C5%9F%C4%B1n+Biyolojik+Temeli%3A+Endokrin+Sistemi%0A&video_ids=9Yu6RYGXLr0%2C0_Gl3a5qluU%2CvOr14bjogCE%2CDSItU6UtWMw) )
   - [Endokrin Sistemi Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/endocrine-system-diseases) (1 Topic)
     - [Diyabet (Şeker Hastalığı)
 ](https://tr.khanacademy.org/science/health-and-medicine/endocrine-system-diseases/diabetes) (1 Article, 14 Videos | [2h 4m 5s](https://www.youtube.com/watch_videos?title=Diyabet+%28%C5%9Eeker+Hastal%C4%B1%C4%9F%C4%B1%29%0A&video_ids=ulxyWZf7BWc%2CeFRRA4QCoww%2CRS3RARRS-vg%2C3B73j1tKkpI%2CRlLrvnnTDDU%2CiUlYRyvQAIE%2CImZO2ytl9P4%2CIMLVbEzM0DI%2ChFZPl_t2GLU%2CtpjVmLIUWCo%2CiKKF5yuxvg8%2CF4Lt0AjMxEY%2CPr_-cUA_PY8%2CVIrkurR446s) )
-  - [Sinir Sistemi Fizyolojisi](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor) (8 Topics)
+  - [Sinir sistemi ve duyusal bilgi](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor) (8 Topics)
     - [Sinir Sistemi](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/nervous-system-introduction-ddp) (21 Videos | [3h 10m 18s](https://www.youtube.com/watch_videos?title=Sinir+Sistemi&video_ids=U8-zmzF-Ppw%2C6Ct6NDRlDuw%2CKJWTYg70H8c%2CYeYADlgO-W0%2CC_H-ONQFjpQ%2Cye3rTjLCvAU%2CkY8FEq0teOs%2CTENIUrowI-k%2CMyfhAFyt6RE%2CTbq-KZaXiL4%2CJ29W4ylp-QY%2ClrAM8IZmQtU%2CzyHq2LC25Bw%2CQ8Bjve1ZSuY%2C4Kt5RPFDPtg%2CpVnbavEGtcI%2C_4LNzxUnn4s%2CMyUrjN_CWD8%2Cwxk7u1j1Xo8%2Csj226pYpSwQ%2CoXOlB6XhbSI) )
-    - [Sinir Hücreleri ve Nörotransmitterler
-](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neural-cells-and-neurotransmitters) (8 Videos | [40m 11s](https://www.youtube.com/watch_videos?title=Sinir+H%C3%BCcreleri+ve+N%C3%B6rotransmitterler%0A&video_ids=JBVDyPDfyaQ%2CQzRDcIMNnmg%2ClqQwcDPBsGs%2C5OhGW8SJwb0%2CqZIGuiMIpZs%2CKI7wE5Rla4c%2CInOVEz7tDeU%2C3vsNSqPzsFw) )
-    - [Nöron Hücre Duvarı Potansiyeli
-](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic) (8 Videos | [1h 12m 38s](https://www.youtube.com/watch_videos?title=N%C3%B6ron+H%C3%BCcre+Duvar%C4%B1+Potansiyeli%0A&video_ids=m0ZffV8xWlw%2C7RcOI2qZ3I0%2CfyxUNd9ZGLI%2C64gEp6cWcwg%2C1_flTIo2CO8%2CUyOW2hPwVNU%2CRJzAlvpBi7Q%2CKLnfO7424V8) )
+    - [Sinir Hücreleri ve Nörotransmitterler](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neural-cells-and-neurotransmitters) (8 Videos | [40m 11s](https://www.youtube.com/watch_videos?title=Sinir+H%C3%BCcreleri+ve+N%C3%B6rotransmitterler&video_ids=JBVDyPDfyaQ%2CQzRDcIMNnmg%2ClqQwcDPBsGs%2C5OhGW8SJwb0%2CqZIGuiMIpZs%2CKI7wE5Rla4c%2CInOVEz7tDeU%2C3vsNSqPzsFw) )
+    - [Nöron zarının potansiyeli](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/neuron-membrane-potentials-topic) (8 Videos | [1h 12m 38s](https://www.youtube.com/watch_videos?title=N%C3%B6ron+zar%C4%B1n%C4%B1n+potansiyeli&video_ids=m0ZffV8xWlw%2C7RcOI2qZ3I0%2CfyxUNd9ZGLI%2C64gEp6cWcwg%2C1_flTIo2CO8%2CUyOW2hPwVNU%2CRJzAlvpBi7Q%2CKLnfO7424V8) )
     - [Duyusal Algı](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/sensory-perception-topic) (8 Videos | [55m 38s](https://www.youtube.com/watch_videos?title=Duyusal+Alg%C4%B1&video_ids=L9BLeR5eKiM%2CmnYYGTndJ4o%2CedbQB6pXZtU%2CXCfjZHNTX5c%2CTWxIuNDrkdU%2CvRhZ5PFM__k%2CoQF8ge0YQ0E%2CY9vNm4YTI3M) )
     - [Görme](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/sight-vision) (7 Videos | [50m 34s](https://www.youtube.com/watch_videos?title=G%C3%B6rme&video_ids=cTZl2qnzifc%2CiKEtjRoZ6fY%2Ck2rrM5oPNFk%2CUWWJv57SqFE%2CU4XhJdk5JRM%2CxuVBSD8fonU%2Co-4DylQB4KM) )
     - [Ses ](https://tr.khanacademy.org/science/health-and-medicine/nervous-system-and-sensory-infor/sound-audition-topic) (4 Videos | [27m 4s](https://www.youtube.com/watch_videos?title=Ses+&video_ids=EPn66zNTn70%2C_WBiva7j5EI%2C6GEdFxdgaVA%2CSMwblBnuSZE) )
@@ -3838,7 +3503,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/health-and-medicine/gastrointestinal-system-diseases/inflammatory-bowel-disease) (4 Videos | [49m 55s](https://www.youtube.com/watch_videos?title=%C4%B0ltihapl%C4%B1+Ba%C4%9F%C4%B1rsak+Hastal%C4%B1%C4%9F%C4%B1%0A&video_ids=183WR8dF1qw%2CUeqs7pl5OAY%2CQH1g-pVS0ZY%2Ca67MCzUjUXA) )
     - [Çölyak Hastalığı](https://tr.khanacademy.org/science/health-and-medicine/gastrointestinal-system-diseases/celiac-disease) (2 Videos | [11m 28s](https://www.youtube.com/watch_videos?title=%C3%87%C3%B6lyak+Hastal%C4%B1%C4%9F%C4%B1&video_ids=Q35tyvDlFO4%2CP8bI4HdsXAU) )
     - [Kolon Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/gastrointestinal-system-diseases/colon-diseases) (4 Videos | [40m 16s](https://www.youtube.com/watch_videos?title=Kolon+Hastal%C4%B1klar%C4%B1&video_ids=SH8Sa0jk26c%2C60tNsLLguSY%2CCGrbnripinU%2CKyJs9H0vzTM) )
-  - [Kas-İskelet Sistemi Fizyolojisi](https://tr.khanacademy.org/science/health-and-medicine/advanced-muscular-system) (2 Topics)
+  - [İleri düzey adale sistemi fizyolojisi](https://tr.khanacademy.org/science/health-and-medicine/advanced-muscular-system) (2 Topics)
     - [Kas Sistemi](https://tr.khanacademy.org/science/health-and-medicine/advanced-muscular-system/muscular-system-introduction) (1 Video | [9m 38s](https://www.youtube.com/watch_videos?title=Kas+Sistemi&video_ids=fwZSn9rHniQ) )
     - [İskelet Sistemi](https://tr.khanacademy.org/science/health-and-medicine/advanced-muscular-system/skeletal-system-introduction) (2 Videos | [11m 1s](https://www.youtube.com/watch_videos?title=%C4%B0skelet+Sistemi&video_ids=-lrKDRAbP38%2CIKHVpABUSDs) )
   - [Kas-İskelet Sistemi Hastalıkları](https://tr.khanacademy.org/science/health-and-medicine/muscular-skeletal-diseases) (1 Topic)
@@ -3859,8 +3524,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Psikotik Bozukluklar](https://tr.khanacademy.org/science/health-and-medicine/mental-health/psychotic-disorders) (1 Article, 7 Videos | [41m 13s](https://www.youtube.com/watch_videos?title=Psikotik+Bozukluklar&video_ids=trI2ohSsx4U%2CVSBHnVc3mbk%2C0mg_ZCmima0%2C2XtPYpx8b34%2CH-fCHkZwHSY%2Cr5p_rjiDtlE%2CBsvJvzTsrW8) )
     - [Bunama (Demans), Deliryum ve Alzheimer 
 ](https://tr.khanacademy.org/science/health-and-medicine/mental-health/dementia-delirium-alzheimers) (1 Article, 8 Videos | [44m 3s](https://www.youtube.com/watch_videos?title=Bunama+%28Demans%29%2C+Deliryum+ve+Alzheimer+%0A&video_ids=1fFvTsfhi9o%2C0AmFb9qfMtk%2Coi9ohfWTrYk%2Ce5iktCP0ZOQ%2CBX5Crfeba4g%2C-5ptYyi9Jqo%2Cr36KUAqQk1Y%2CreRDyx7Ggck) )
-    - [Nörogelişimsel Bozukluklar 
-](https://tr.khanacademy.org/science/health-and-medicine/mental-health/neurodevelopmental-disorders) (3 Articles, 12 Videos | [1h 51m 44s](https://www.youtube.com/watch_videos?title=N%C3%B6rogeli%C5%9Fimsel+Bozukluklar%C2%A0%0A&video_ids=4qbb4f1I67k%2Clc5XDJIgz1s%2Cii1MBfj7-Sk%2CT-lDs-d6K5w%2Cqhfdoqv2H-w%2CMfJ8JzQF9Sg%2C0qaxox_Wr68%2CWuSuIgiOPqM%2CcNaonU-UFcY%2CjoIUPqoicBs%2CRoUIjNMG3UQ%2CCNSd1HufEcM) )
+    - [Nörogelişimsel bozuklukların kopyası](https://tr.khanacademy.org/science/health-and-medicine/mental-health/neurodevelopmental-disorders) (3 Articles, 12 Videos | [1h 51m 44s](https://www.youtube.com/watch_videos?title=N%C3%B6rogeli%C5%9Fimsel+bozukluklar%C4%B1n+kopyas%C4%B1&video_ids=4qbb4f1I67k%2Clc5XDJIgz1s%2Cii1MBfj7-Sk%2CT-lDs-d6K5w%2Cqhfdoqv2H-w%2CMfJ8JzQF9Sg%2C0qaxox_Wr68%2CWuSuIgiOPqM%2CcNaonU-UFcY%2CjoIUPqoicBs%2CRoUIjNMG3UQ%2CCNSd1HufEcM) )
   - [Bulaşıcı Hastalıklar](https://tr.khanacademy.org/science/health-and-medicine/infectious-diseases) (7 Topics)
     - [Tüberküloz (Verem)](https://tr.khanacademy.org/science/health-and-medicine/infectious-diseases/tuberculosis) (1 Article, 15 Videos | [2h 38m 59s](https://www.youtube.com/watch_videos?title=T%C3%BCberk%C3%BCloz+%28Verem%29&video_ids=eGXasjUBMVk%2CzjXkj45qyE0%2C6_fkXSsKHgU%2C8nh-lC0iT70%2C0DREdSN-54c%2CT5qKn1o1ujA%2C7nCOJrpWFew%2CqbXKrR9BQmg%2CTGJTKdPxRX8%2CfaqhDcrWfHQ%2ChAXnQgU4bsg%2C_20mkyAB7tY%2C2K1ekrZ6ej4%2Cvce3BZFo27Y%2CS8s-g7KZR50) )
     - [Boğmaca](https://tr.khanacademy.org/science/health-and-medicine/infectious-diseases/pertussis) (5 Videos | [31m 2s](https://www.youtube.com/watch_videos?title=Bo%C4%9Fmaca&video_ids=quGLb5jV388%2Cd0vvaUsW-B4%2CCRV8dbicSuQ%2C-fnPikmG5mc%2C_uKx6Eu-Hu0) )
@@ -3871,14 +3535,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/science/health-and-medicine/infectious-diseases/sexually-transmitted-diseases) (1 Article, 16 Videos | [2h 7m 15s](https://www.youtube.com/watch_videos?title=Cinsel+Yolla+Bula%C5%9Fan+Hastal%C4%B1klar%0A&video_ids=AYeVIV-TxRk%2C6gV_k7ACbY8%2CNDXHVKOg8BQ%2CqKe9sZQPV-Y%2Cdfd0l10gPPY%2CIE9hAzVAGeY%2CCvO0a7suxmY%2Ch7-OynSK2x0%2CT_c343e0msA%2CI1rULaaHZ6M%2Cyk0P7IpSiIg%2CRGMEhaeXlUw%2C-8cCBEFlOyw%2CMFMutlhgfzI%2CQN231qRvkr0%2CRGLGy6r423s) )
     - [HIV ve AIDS](https://tr.khanacademy.org/science/health-and-medicine/infectious-diseases/hiv-and-aids) (1 Article, 11 Videos | [1h 42m 27s](https://www.youtube.com/watch_videos?title=HIV+ve+AIDS&video_ids=17pfZUlAqow%2CWJUcZPqgEXU%2CZroXIBg8keA%2CZi4Fqc8Fkws%2C8gnpnUFNloo%2C3CjCAeGhtHA%2CGR9d9wrOl5E%2Ce85nerRGfWw%2COZ9IP0xeQho%2Cp5RIcbLBTQQ%2CWDdF9ArqklA) )
     - [Sıtma](https://tr.khanacademy.org/science/health-and-medicine/infectious-diseases/malaria) (1 Article, 4 Videos | [33m 28s](https://www.youtube.com/watch_videos?title=S%C4%B1tma&video_ids=LTzU6ljYXKY%2CStKEo4j3pHI%2CKnyFgxZ_ZfM%2CmBdndrhYBiY) )
-  - [Laboratuvar Değerleri ve Yoğunlukları
-](https://tr.khanacademy.org/science/health-and-medicine/lab-values) (10 Videos | [1h 40m 59s](https://www.youtube.com/watch_videos?title=Laboratuvar+De%C4%9Ferleri+ve+Yo%C4%9Funluklar%C4%B1%0A&video_ids=_mGszRbve9s%2CIm3jUYlSdJk%2COLWvKdV4PHg%2CIf4Ar9lnB_4%2C5j8yanfgUR4%2C4VltXjR64SU%2C_saunfB-wCQ%2CH-qREcJqUhY%2Co_Bb43LApog%2CVsW6NXZIUCQ) )
-  - [Sağlık ve Tıp Alanındaki Güncel Olaylar
-](https://tr.khanacademy.org/science/health-and-medicine/current-issues-in-health-and-medicine) (2 Topics)
-    - [Antibiyotikler ve Antibiyotik Direnci](https://tr.khanacademy.org/science/health-and-medicine/current-issues-in-health-and-medicine/antibiotics-and-antibiotic-resistance) (2 Articles)
-    - [Ebola Salgını](https://tr.khanacademy.org/science/health-and-medicine/current-issues-in-health-and-medicine/ebola-outbreak) (1 Article, 1 Exercise, 1 Interactive, 3 Videos | [28m 52s](https://www.youtube.com/watch_videos?title=Ebola+Salg%C4%B1n%C4%B1&video_ids=Pn8NqT32FCg%2CjKUGZvW99os%2CsMA116kzyK4) )
-  - [Sağlık Hizmetleri Sistemi
-](https://tr.khanacademy.org/science/health-and-medicine/health-care-system) (6 Videos | [1h 14m 22s](https://www.youtube.com/watch_videos?title=Sa%C4%9Fl%C4%B1k+Hizmetleri+Sistemi%0A&video_ids=S9xdJgPWO-w%2C8t-Un7yH99g%2C6YU9HVS2GT0%2CLMHxxvbzFqc%2C4J-dRA3MGc8%2CVpLKdKkpg68) )
+  - [Laboratuar değerleri ve konsantrasyonları](https://tr.khanacademy.org/science/health-and-medicine/lab-values) (10 Videos | [1h 40m 59s](https://www.youtube.com/watch_videos?title=Laboratuar+de%C4%9Ferleri+ve+konsantrasyonlar%C4%B1&video_ids=_mGszRbve9s%2CIm3jUYlSdJk%2COLWvKdV4PHg%2CIf4Ar9lnB_4%2C5j8yanfgUR4%2C4VltXjR64SU%2C_saunfB-wCQ%2CH-qREcJqUhY%2Co_Bb43LApog%2CVsW6NXZIUCQ) )
+  - [sağlık ve tıpta güncel konular](https://tr.khanacademy.org/science/health-and-medicine/current-issues-in-health-and-medicine) (2 Topics)
+    - [Ebola-salgını](https://tr.khanacademy.org/science/health-and-medicine/current-issues-in-health-and-medicine/ebola-outbreak) (1 Article, 1 Exercise, 1 Interactive, 3 Videos | [28m 52s](https://www.youtube.com/watch_videos?title=Ebola-salg%C4%B1n%C4%B1&video_ids=Pn8NqT32FCg%2CjKUGZvW99os%2CsMA116kzyK4) )
+  - [Sağlık Sistemi](https://tr.khanacademy.org/science/health-and-medicine/health-care-system) (6 Videos | [1h 14m 22s](https://www.youtube.com/watch_videos?title=Sa%C4%9Fl%C4%B1k+Sistemi&video_ids=S9xdJgPWO-w%2C8t-Un7yH99g%2C6YU9HVS2GT0%2CLMHxxvbzFqc%2C4J-dRA3MGc8%2CVpLKdKkpg68) )
   - [Çeşitli Konular](https://tr.khanacademy.org/science/health-and-medicine/healthcare-misc) (17 Videos | [2h 25m 45s](https://www.youtube.com/watch_videos?title=%C3%87e%C5%9Fitli+Konular&video_ids=hDHCaLNNi8c%2C3858MaULDdI%2Coa-C02dZYkY%2CU3a7jo6Aq9s%2ClI9_8yXCowE%2C1gKPTvkJZBE%2C5RXRr8PKunk%2COtIlzSa452w%2CcbkTTluHaTw%2CPV5u5xskBKM%2CDJY89_jC_ZY%2ClCE7OFgxeGM%2CtOzTDIreB7s%2CCnXuSCaCNBo%2Cw2QVg9mezcY%2CXKW4jElxDr8%2C10v-QCvIsgw) )
 
 ## [Class 10 Physics (India)](https://tr.khanacademy.org/science/in-in-class10th-physics) (4 Topics)
@@ -3891,10 +3551,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Mirror formula derivation (Bonus)](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-mirror-formula-derivation-bonus) (1 Video | [9m 37s](https://www.youtube.com/watch_videos?title=Mirror+formula+derivation+%28Bonus%29&video_ids=PgQJCm_sXVY) )
     - [Mirror formula & magnification](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-mirror-formula-magnification) (4 Exercises, 3 Videos | [27m 25s](https://www.youtube.com/watch_videos?title=Mirror+formula+%26+magnification&video_ids=EPlr16b4XnQ%2CFfvuY8xsO1Y%2CmodYmQyA9zo) )
     - [Refraction of light](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-refraction-of-light) (2 Videos | [18m 48s](https://www.youtube.com/watch_videos?title=Refraction+of+light&video_ids=vt1nI1h2fVU%2C05YwohwKzxA) )
-    - [Mutlak ve Bağıl Kırılma İndisi](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-absolute-relative-refractive-index) (1 Exercise, 2 Videos | [17m 39s](https://www.youtube.com/watch_videos?title=Mutlak+ve+Ba%C4%9F%C4%B1l+K%C4%B1r%C4%B1lma+%C4%B0ndisi&video_ids=jOchjc4MF3g%2CXIKK9AbJ1GA) )
+    - [Absolute & relative refractive index](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-absolute-relative-refractive-index) (1 Exercise, 2 Videos | [17m 39s](https://www.youtube.com/watch_videos?title=Absolute+%26+relative+refractive+index&video_ids=jOchjc4MF3g%2CXIKK9AbJ1GA) )
     - [Refraction of light through glass slab ](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-refraction-of-light-through-glass-slab) (1 Video | [11m 6s](https://www.youtube.com/watch_videos?title=Refraction+of+light+through+glass+slab+&video_ids=YIYnSAb9Q9Y) )
     - [Image formation by spherical lenses ](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-image-formation-by-spherical-lenses) (1 Exercise, 3 Videos | [22m 5s](https://www.youtube.com/watch_videos?title=Image+formation+by+spherical+lenses+&video_ids=cyuGC5EQP28%2C6BLqCgEPXhg%2CB4lCZDzQ3A4) )
-    - [Lens formula derivation (Bonus) ](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/lens-formula-derivation-bonus) (1 Video | [10m 4s](https://www.youtube.com/watch_videos?title=Lens+formula+derivation+%28Bonus%29+&video_ids=x9F0AQCGkbc) )
+    - [Lens formula derivation (Bonus)](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/lens-formula-derivation-bonus) (1 Video | [10m 4s](https://www.youtube.com/watch_videos?title=Lens+formula+derivation+%28Bonus%29&video_ids=x9F0AQCGkbc) )
     - [Lens formula & magnification](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-lens-formula-magnification) (2 Exercises, 3 Videos | [31m 33s](https://www.youtube.com/watch_videos?title=Lens+formula+%26+magnification&video_ids=NQ8OLvIcffg%2Cif-X8MCltso%2CHOaI6_F4ht8) )
     - [Dioptres & power of a lens](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-10th-physics-light-reflection-refraction/in-in-dioptres-power-of-a-lens) (1 Exercise, 1 Video | [11m 48s](https://www.youtube.com/watch_videos?title=Dioptres+%26+power+of+a+lens&video_ids=rogb1mLl7EU) )
   - [İnsan Gözü ve Renkli Dünya](https://tr.khanacademy.org/science/in-in-class10th-physics/in-in-the-human-eye-and-the-colourful-world) (8 Topics)
@@ -3930,7 +3590,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 # [Ekonomi ve Finans](https://tr.khanacademy.org/economics-finance-domain) (4 Topics)
 
 ## [Mikroekonomi](https://tr.khanacademy.org/economics-finance-domain/microeconomics) (7 Topics)
-  - [Arz, Talep ve Piyasa Dengesi](https://tr.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium) (5 Topics)
+  - [Arz, talep ve piyasa dengesi](https://tr.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium) (5 Topics)
     - [Ekonomi
 ](https://tr.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/economics-introduction) (1 Video | [9m 59s](https://www.youtube.com/watch_videos?title=Ekonomi%0A&video_ids=AJjI5VHT4YA) )
     - [Talep Eğrisi](https://tr.khanacademy.org/economics-finance-domain/microeconomics/supply-demand-equilibrium/demand-curve-tutorial) (2 Articles, 6 Videos | [33m 26s](https://www.youtube.com/watch_videos?title=Talep+E%C4%9Frisi&video_ids=HO0pjsYWLrM%2C4zRe-rApijU%2Ce_k_75Jb7qs%2CensgneZER60%2CG-c4ymiuQBA%2CXXjWnbuZbUg) )
@@ -3946,16 +3606,12 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/economics-finance-domain/microeconomics/consumer-producer-surplus/deadweight-loss-tutorial) (2 Articles, 6 Videos | [49m 47s](https://www.youtube.com/watch_videos?title=Toplumsal+Maliyet+-+T%C3%BCketici+Fazlas%C4%B1+Kayb%C4%B1%0A&video_ids=8U8egQjcPaI%2CKhNpdRiIN7U%2CX6bWWSpjDfM%2C8TY08cpE4Mw%2CGN9CKCjda3s%2CxgrJpAqYZKM) )
     - [Kamusal Mallar ve Dışsallıklar
 ](https://tr.khanacademy.org/economics-finance-domain/microeconomics/consumer-producer-surplus/externalities-topic) (3 Articles, 4 Videos | [25m 48s](https://www.youtube.com/watch_videos?title=Kamusal+Mallar+ve+D%C4%B1%C5%9Fsall%C4%B1klar%0A&video_ids=qbWx4-x_BiY%2Cetrss0FV1zc%2CxjNpjc4St98%2C3-M7usANB3k) )
-    - [Bonus: Olumsuz Dışsallık Olarak Çevre Kirliliği](https://tr.khanacademy.org/economics-finance-domain/microeconomics/consumer-producer-surplus/environmental-regulation) (7 Articles)
-    - [Bonus: Olumlu Dışsallık Olarak İnovasyon](https://tr.khanacademy.org/economics-finance-domain/microeconomics/consumer-producer-surplus/innovation) (3 Articles)
-  - [Ekonomik Kıtlık, Olanaklar, Tercihler ve Fırsat Maliyeti
-](https://tr.khanacademy.org/economics-finance-domain/microeconomics/choices-opp-cost-tutorial) (3 Topics)
+  - [Seçenekler, fırsat maliyeti ve mutluluk](https://tr.khanacademy.org/economics-finance-domain/microeconomics/choices-opp-cost-tutorial) (3 Topics)
     - [Üretim Olanakları Eğrisi](https://tr.khanacademy.org/economics-finance-domain/microeconomics/choices-opp-cost-tutorial/production-possibilities) (1 Article, 5 Videos | [45m 18s](https://www.youtube.com/watch_videos?title=%C3%9Cretim+Olanaklar%C4%B1+E%C4%9Frisi&video_ids=taHohOSlqpI%2Cvvaf2vsi8DU%2CVpIIyMecVr8%2CPLT66e1uSrA%2Co4J2j2m7nVM) )
     - [Göreceli Üstünlük](https://tr.khanacademy.org/economics-finance-domain/microeconomics/choices-opp-cost-tutorial/gains-from-trade-tutorial) (2 Videos | [19m 12s](https://www.youtube.com/watch_videos?title=G%C3%B6receli+%C3%9Cst%C3%BCnl%C3%BCk&video_ids=vODL7wHOiGk%2CAdiCe_Q_YGY) )
     - [Marjinal Fayda ve Bütçe Doğrusu
 ](https://tr.khanacademy.org/economics-finance-domain/microeconomics/choices-opp-cost-tutorial/marginal-utility-tutorial) (1 Article, 7 Videos | [1h 6m 55s](https://www.youtube.com/watch_videos?title=Marjinal+Fayda+ve+B%C3%BCt%C3%A7e+Do%C4%9Frusu%0A&video_ids=e1b9oaw3yfc%2CLkSv-V6iOA0%2CV_o1CrEIkDk%2CGy08WInQD1I%2C6YqfUuWDEpg%2CtQYnopeUCFA%2CiKUJ0y0WfZs) )
-  - [Üretim Kararları ve Ekonomik Kâr
-](https://tr.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit) (5 Topics)
+  - [Firma ve İktisadi(Ekonomik) Kar](https://tr.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit) (5 Topics)
     - [Ekonomik Kâr ve Fırsat Maliyeti](https://tr.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit/economic-profit-tutorial) (1 Article, 2 Videos | [16m 16s](https://www.youtube.com/watch_videos?title=Ekonomik+K%C3%A2r+ve+F%C4%B1rsat+Maliyeti&video_ids=m0vuhQtjtoo%2CxNE68_Jl8VU) )
     - [Ortalama Maliyetler  ve Marjinal Gelir
 ](https://tr.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit/average-costs-margin-rev) (2 Articles, 4 Videos | [28m 11s](https://www.youtube.com/watch_videos?title=Ortalama+Maliyetler++ve+Marjinal+Gelir%0A&video_ids=Sc2kQfKfIHI%2C9Ef2WsEhUFY%2CB-e9wvUhaic%2CafAvsdt8YVc) )
@@ -3964,12 +3620,10 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Emek ve Marjinal Ürün Geliri
 ](https://tr.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit/labor-marginal-product-rev) (3 Videos | [28m 23s](https://www.youtube.com/watch_videos?title=Emek+ve+Marjinal+%C3%9Cr%C3%BCn+Geliri%0A&video_ids=HTcCT2zhUfg%2Ca8aWksBRUZs%2CnFwdclGAyPc) )
     - [Fiyat Farklılaştırması](https://tr.khanacademy.org/economics-finance-domain/microeconomics/firm-economic-profit/price-discrimination-tutorial) (1 Video | [6m 1s](https://www.youtube.com/watch_videos?title=Fiyat+Farkl%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1&video_ids=rQJA3X4KcQ4) )
-  - [Rekabetin Çeşitleri
-](https://tr.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic) (3 Topics)
+  - [Tam Rekabet ve Eksik Rekabet](https://tr.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic) (3 Topics)
     - [Tam Rekabet Piyasası
 ](https://tr.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic/perfect-competition) (4 Articles, 1 Video | [10m 17s](https://www.youtube.com/watch_videos?title=Tam+Rekabet+Piyasas%C4%B1%0A&video_ids=yneDfzgtVUE) )
-    - [Tekel Piyasa (Monopol)
-](https://tr.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic/monopolies-tutorial) (6 Videos | [42m 41s](https://www.youtube.com/watch_videos?title=Tekel+Piyasa+%28Monopol%29%0A&video_ids=N6qNi_jLp1U%2C_JBb0XNxnBM%2CmZRAj-RdABU%2CDPwMkhRE884%2CnGZL-KXl0As%2ComFUwBCd-0A) )
+    - [Monopol](https://tr.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic/monopolies-tutorial) (6 Videos | [42m 41s](https://www.youtube.com/watch_videos?title=Monopol&video_ids=N6qNi_jLp1U%2C_JBb0XNxnBM%2CmZRAj-RdABU%2CDPwMkhRE884%2CnGZL-KXl0As%2ComFUwBCd-0A) )
     - [Tam Rekabet ile Tekel Piyasa Arasında
 ](https://tr.khanacademy.org/economics-finance-domain/microeconomics/perfect-competition-topic/monopolistic-competition-oligop) (3 Videos | [26m 38s](https://www.youtube.com/watch_videos?title=Tam+Rekabet+ile+Tekel+Piyasa+Aras%C4%B1nda%0A&video_ids=Un9iNuGq9xY%2Cy-cJmfhijno%2CeTQlSuqM6Fs) )
   - [Oyun Teorisi ve Nash Dengesi](https://tr.khanacademy.org/economics-finance-domain/microeconomics/nash-equilibrium-tutorial) (2 Topics)
@@ -3977,8 +3631,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Kartel Hilesi](https://tr.khanacademy.org/economics-finance-domain/microeconomics/nash-equilibrium-tutorial/cartels-cheat-tutorial) (2 Videos | [20m 39s](https://www.youtube.com/watch_videos?title=Kartel+Hilesi&video_ids=t3ZExVQyPv8%2ClGZPgngQ_xc) )
 
 ## [Makroekonomi](https://tr.khanacademy.org/economics-finance-domain/macroeconomics) (6 Topics)
-  - [Gayri Safi Yurt İçi Hasıla (GSYİH) ile Milli Gelirin Ölçülmesi
-](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic) (5 Topics)
+  - [GSYİH - Milli Gelirin Ölçülmesi](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic) (5 Topics)
     - [Ekonomi
 ](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/econ-intro-in-macro-tutorial) (1 Video | [9m 59s](https://www.youtube.com/watch_videos?title=Ekonomi%0A&video_ids=AJjI5VHT4YA) )
     - [Gayri Safi Yurt İçi Hasıla (GSYİH) ve Gelir-Gider Döngüsü
@@ -3987,17 +3640,14 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/gdp-components-tutorial) (2 Articles, 4 Videos | [23m 16s](https://www.youtube.com/watch_videos?title=GSY%C4%B0H%27nin+Bile%C5%9Fenleri%0A&video_ids=N9VIsauE0RA%2Cmnx1Al8l6o4%2CyMBobJI67w8%2CLjpx3Qn8J6A) )
     - [Reel ve Nominal GSYİH
 ](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/real-nominal-gdp-tutorial) (2 Articles, 3 Videos | [20m 11s](https://www.youtube.com/watch_videos?title=Reel+ve+Nominal+GSY%C4%B0H%0A&video_ids=I_Xdb6iAigo%2CFnEFmYm40g0%2CMYZWLUtrDxI) )
-    - [Milli Gelir ve Eşitsizlik
-](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/piketty-capital) (14 Videos | [1h 44m 54s](https://www.youtube.com/watch_videos?title=Milli+Gelir+ve+E%C5%9Fitsizlik%0A&video_ids=hvvLTvs-MjI%2CVX5szLuSoT4%2CvuNTOmpV1nM%2CxOKtOceRTW4%2C7iuPbzJiJEQ%2CAeoxyhUndng%2CgQjULAtdPZ8%2CroyysSAtckM%2Cyd9zosYEJCE%2CuHtjsnKqSRo%2Cu9tItx7Ftl4%2CGT6nEnyIK-o%2C35chsoxwDPA%2CpFm1dZNRkG8) )
+    - [21. Yüzyılda Piketty'nin Capital'i](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/piketty-capital) (14 Videos | [1h 44m 54s](https://www.youtube.com/watch_videos?title=21.+Y%C3%BCzy%C4%B1lda+Piketty%27nin+Capital%27i&video_ids=hvvLTvs-MjI%2CVX5szLuSoT4%2CvuNTOmpV1nM%2CxOKtOceRTW4%2C7iuPbzJiJEQ%2CAeoxyhUndng%2CgQjULAtdPZ8%2CroyysSAtckM%2Cyd9zosYEJCE%2CuHtjsnKqSRo%2Cu9tItx7Ftl4%2CGT6nEnyIK-o%2C35chsoxwDPA%2CpFm1dZNRkG8) )
   - [Enflasyon - Yaşam Masrafı Hesabı](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic) (5 Topics)
-    - [Geçim Hesabı - Enflasyon ve Tüketici Fiyat Endeksi (TÜFE)
-](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic/cost-of-living-tutorial) (4 Articles, 3 Videos | [18m 30s](https://www.youtube.com/watch_videos?title=Ge%C3%A7im+Hesab%C4%B1+-+Enflasyon+ve+T%C3%BCketici+Fiyat+Endeksi+%28T%C3%9CFE%29%0A&video_ids=sKvuVtlatQo%2C8RrNR9yNz0E%2CQlN5w4eGHlA) )
+    - [Yaşama maliyetlerini ölçümleme- Enflasyon ve Tüketici Fiyat Endeksi](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic/cost-of-living-tutorial) (4 Articles, 3 Videos | [18m 30s](https://www.youtube.com/watch_videos?title=Ya%C5%9Fama+maliyetlerini+%C3%B6l%C3%A7%C3%BCmleme-+Enflasyon+ve+T%C3%BCketici+Fiyat+Endeksi&video_ids=sKvuVtlatQo%2C8RrNR9yNz0E%2CQlN5w4eGHlA) )
     - [Reel ve Nominal Getiri](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic/real-nominal-return-tutorial) (1 Article, 3 Videos | [9m 45s](https://www.youtube.com/watch_videos?title=Reel+ve+Nominal+Getiri&video_ids=e9WxvtGRPRk%2Cat56CUip-Fg%2Chu8FVRjAeRw) )
     - [Deflasyon](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic/macroecon-deflation-tutorial) (3 Videos | [10m 45s](https://www.youtube.com/watch_videos?title=Deflasyon&video_ids=RSBESgVvawk%2CW2BArXzoN4I%2CWOfGQTbmh3M) )
     - [Enflasyon ve Deflasyon Senaryoları
 ](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic/deflation-inflation-scenarios-tutorial) (4 Videos | [13m 44s](https://www.youtube.com/watch_videos?title=Enflasyon+ve+Deflasyon+Senaryolar%C4%B1%0A&video_ids=mW_kWcChS1I%2CiJvH_LrKS4c%2CQPVRkqa5dNU%2C7_cp-uybNuY) )
-    - [Philips Eğrisi - Enflasyon ve İşsizlik
-](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic/phillips-curve-tutorial) (2 Videos | [18m 25s](https://www.youtube.com/watch_videos?title=Philips+E%C4%9Frisi+-+Enflasyon+ve+%C4%B0%C5%9Fsizlik%0A&video_ids=9DGbDx5xQNo%2CgqjitzMCJHM) )
+    - [Enflasyon ve işsizlik](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/inflation-topic/phillips-curve-tutorial) (2 Videos | [18m 25s](https://www.youtube.com/watch_videos?title=Enflasyon+ve+i%C5%9Fsizlik&video_ids=9DGbDx5xQNo%2CgqjitzMCJHM) )
   - [Toplam Talep ve Toplam Arz](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/aggregate-supply-demand-topic) (6 Topics)
     - [Toplam Talep ve Toplam Arz](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/aggregate-supply-demand-topic/aggregate-supply-demand-tut) (5 Articles, 4 Videos | [36m 1s](https://www.youtube.com/watch_videos?title=Toplam+Talep+ve+Toplam+Arz&video_ids=njb4BKNX9L8%2CaVxJFGqvX_E%2COHk2EPM0D_E%2CJnw8T2kVppU) )
     - [Tarihi Örneklerin Toplam Talep ve Arz ile Anlatımı
@@ -4018,24 +3668,21 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/interest-price-of-money-tutorial) (2 Videos | [17m 28s](https://www.youtube.com/watch_videos?title=Faiz%3A+Para+i%C3%A7in+Kira%0A&video_ids=5AP17fvXzw8%2Ct-9XMnNWwR4) )
     - [Paranın İşlevleri
 ](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/monetary-system-topic/functions-of-money-2) (4 Videos | [31m 45s](https://www.youtube.com/watch_videos?title=Paran%C4%B1n+%C4%B0%C5%9Flevleri%0A&video_ids=mrFgeViLkdA%2CLrA0TN801cU%2CCbd-pv9fK24%2C3GvldDern88) )
-  - [Gelirler ve Giderler -  IS-LM Modeli](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic) (5 Topics)
+  - [Gelir ve gider - Keynezyen Cross ve IS-LM modeli](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic) (5 Topics)
     - [Marjinal Tüketim Eğilimi (MPC)](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic/mpc-tutorial) (2 Videos | [18m 55s](https://www.youtube.com/watch_videos?title=Marjinal+T%C3%BCketim+E%C4%9Filimi+%28MPC%29&video_ids=EO8jwO2nxgM%2CSuRXtAOR_PE) )
     - [Tüketim Fonksiyonu](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic/consumption-function) (3 Videos | [26m 3s](https://www.youtube.com/watch_videos?title=T%C3%BCketim+Fonksiyonu&video_ids=2kmv_Btjk7Y%2CGcIyYkqwCDg%2CSxGBkMRKrd8) )
-    - [Keynesyen Çapraz Diyagramı
-](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic/keynesian-cross-tutorial) (3 Videos | [31m 32s](https://www.youtube.com/watch_videos?title=Keynesyen+%C3%87apraz+Diyagram%C4%B1%0A&video_ids=0FtQJFs8a38%2CHChy6-dr_AM%2Cg7rryYqU8bY) )
+    - [Keynezyen Cross](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic/keynesian-cross-tutorial) (3 Videos | [31m 32s](https://www.youtube.com/watch_videos?title=Keynezyen+Cross&video_ids=0FtQJFs8a38%2CHChy6-dr_AM%2Cg7rryYqU8bY) )
     - [IS-LM Modeli](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic/is-lm-model-tutorial) (5 Videos | [37m 1s](https://www.youtube.com/watch_videos?title=IS-LM+Modeli&video_ids=72p6uw5y-Rw%2C-Q2sYVG1QEI%2CxdV2J1ieyr4%2CVx5G6m-q1Cc%2CQrKSd5OhoBo) )
-    - [Keynesyen Düşünce ile İlgili Makaleler](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/income-and-expenditure-topic/keynesian-articles) (4 Articles)
   - [Döviz Piyasaları ve Ticaret](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic) (2 Topics)
-    - [Ödemeler Dengesi, Cari Hesap ve Sermaye Hesabı
-](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic/current-capital-account) (3 Videos | [21m 10s](https://www.youtube.com/watch_videos?title=%C3%96demeler+Dengesi%2C+Cari+Hesap+ve+Sermaye+Hesab%C4%B1%0A&video_ids=oeOip25rNvg%2CAimYG1jYD0A%2C_PymVRgnuXo) )
+    - [Cari işlemler dengesi ve sermaye hareketleri](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic/current-capital-account) (3 Videos | [21m 10s](https://www.youtube.com/watch_videos?title=Cari+i%C5%9Flemler+dengesi+ve+sermaye+hareketleri&video_ids=oeOip25rNvg%2CAimYG1jYD0A%2C_PymVRgnuXo) )
     - [Nakit Rezervi
 ](https://tr.khanacademy.org/economics-finance-domain/macroeconomics/forex-trade-topic/currency-reserves) (5 Videos | [30m 47s](https://www.youtube.com/watch_videos?title=Nakit+Rezervi%0A&video_ids=9TzDobEdjAc%2CQOfBn4m8EZ8%2CjlxEOm8fcXI%2CbQexSjzpOQk%2CM5ul420Nh_w) )
 
 ## [Finans ve Sermaye Piyasaları](https://tr.khanacademy.org/economics-finance-domain/core-finance) (10 Topics)
-  - [Faiz ve Borç](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial) (6 Topics)
+  - [Faiz](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial) (6 Topics)
     - [Bileşik Faiz ile ilgili temel bilgiler](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/compound-interest-tutorial) (2 Videos | [15m 49s](https://www.youtube.com/watch_videos?title=Bile%C5%9Fik+Faiz+ile+ilgili+temel+bilgiler&video_ids=o1NQrEW_x9Q%2C2_Vp--FmLKA) )
     - [Faiz- Temel Bilgiler](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/interest-basics-tutorial) (2 Videos | [17m 57s](https://www.youtube.com/watch_videos?title=Faiz-+Temel+Bilgiler&video_ids=s91jby6KIhM%2CbVgEbT3zPOk) )
-    - [Kredi Kartları ve Krediler](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/credit-card-interest) (3 Videos | [29m 19s](https://www.youtube.com/watch_videos?title=Kredi+Kartlar%C4%B1+ve+Krediler&video_ids=HwDCG1r6y3g%2C6BNEVaHm1qg%2CVZ6qPOPRZ3w) )
+    - [Faiz- Kredi Kartları ve Krediler](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/credit-card-interest) (3 Videos | [29m 19s](https://www.youtube.com/watch_videos?title=Faiz-+Kredi+Kartlar%C4%B1+ve+Krediler&video_ids=HwDCG1r6y3g%2C6BNEVaHm1qg%2CVZ6qPOPRZ3w) )
     - [Sürekli Bileşik Faiz ve e Sayısı](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/cont-comp-int-and-e) (3 Videos | [26m 16s](https://www.youtube.com/watch_videos?title=S%C3%BCrekli+Bile%C5%9Fik+Faiz+ve+e+Say%C4%B1s%C4%B1&video_ids=7_1Z6tnLTgo%2C9hP7lYOcUQs%2C7ZtK5ZloJ5g) )
     - [Bugünkü Değer](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/present-value) (5 Videos | [46m 31s](https://www.youtube.com/watch_videos?title=Bug%C3%BCnk%C3%BC+De%C4%9Fer&video_ids=xco9gbVIEqc%2CVUl-_J9_6M8%2C4LSktB7Pk_c%2CjZ-4FsqDuVI%2CgCyxS4Jd2lA) )
     - [Kişisel İflas Uygulamaları (ABD)](https://tr.khanacademy.org/economics-finance-domain/core-finance/interest-tutorial/personal-bankruptcy-tut) (1 Video | [13m 4s](https://www.youtube.com/watch_videos?title=Ki%C5%9Fisel+%C4%B0flas+Uygulamalar%C4%B1+%28ABD%29&video_ids=fJypLBSJUXg) )
@@ -4045,25 +3692,24 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Konut Kredileri (Mortgage)](https://tr.khanacademy.org/economics-finance-domain/core-finance/housing/mortgages-tutorial) (7 Videos | [1h 19m 36s](https://www.youtube.com/watch_videos?title=Konut+Kredileri+%28Mortgage%29&video_ids=eLyCor4mhYM%2Cu1DX9yqPkwA%2C5YfO4CshL7Y%2CS-mTwg73jCY%2CwluZFFkJ2io%2CQt-CWv6HEII%2C9u1JH1W5ank) )
     - [Ev Satın Alma Süreci](https://tr.khanacademy.org/economics-finance-domain/core-finance/housing/home-buying-process) (5 Videos | [41m 12s](https://www.youtube.com/watch_videos?title=Ev+Sat%C4%B1n+Alma+S%C3%BCreci&video_ids=ZGIPntpFCOc%2Cji4ilvfmTEw%2CJVcbDb3e-6w%2CFDJ4D78pcbg%2ChaS083Zbib4) )
   - [Enflasyon](https://tr.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial) (5 Topics)
-    - [Enflasyon- Temel Bilgiler](https://tr.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/inflation-basics-tutorial) (4 Videos | [31m 30s](https://www.youtube.com/watch_videos?title=Enflasyon-+Temel+Bilgiler&video_ids=nSFUEEYtWHU%2CygZ2viH9asw%2CQlN5w4eGHlA%2CpRIELoITIHI) )
+    - [Tüketici Fiyat Enflasyonu](https://tr.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/inflation-basics-tutorial) (4 Videos | [31m 30s](https://www.youtube.com/watch_videos?title=T%C3%BCketici+Fiyat+Enflasyonu&video_ids=nSFUEEYtWHU%2CygZ2viH9asw%2CQlN5w4eGHlA%2CpRIELoITIHI) )
     - [Enflasyon Senaryoları](https://tr.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/inflation-scenarios-tutorial) (3 Videos | [9m 53s](https://www.youtube.com/watch_videos?title=Enflasyon+Senaryolar%C4%B1&video_ids=mW_kWcChS1I%2CiJvH_LrKS4c%2C7_cp-uybNuY) )
     - [Reel ve Nominal Getiri](https://tr.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/real-nominal-return-tut) (3 Videos | [9m 45s](https://www.youtube.com/watch_videos?title=Reel+ve+Nominal+Getiri&video_ids=e9WxvtGRPRk%2Cat56CUip-Fg%2Chu8FVRjAeRw) )
     - [Kapasite Kullanım ve Enflasyon](https://tr.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/cap-util-inflation) (6 Videos | [1h 13m 29s](https://www.youtube.com/watch_videos?title=Kapasite+Kullan%C4%B1m+ve+Enflasyon&video_ids=3FgH9Sie2jo%2CjkaPeZ40Lgg%2C5S9Qd_Fgv8k%2CLXrPdFn7Gn4%2CcugQ4z4cJF8%2CsZRkERfzzn4) )
     - [Deflasyon](https://tr.khanacademy.org/economics-finance-domain/core-finance/inflation-tutorial/deflation-tutorial) (4 Videos | [14m 36s](https://www.youtube.com/watch_videos?title=Deflasyon&video_ids=RSBESgVvawk%2CW2BArXzoN4I%2CWOfGQTbmh3M%2CQPVRkqa5dNU) )
   - [Vergiler](https://tr.khanacademy.org/economics-finance-domain/core-finance/taxes-topic) (2 Topics)
-    - [Kişisel Vergiler (ABD)](https://tr.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/taxes) (10 Videos | [57m 10s](https://www.youtube.com/watch_videos?title=Ki%C5%9Fisel+Vergiler+%28ABD%29&video_ids=L_zVHhP-GPE%2CGypHy3gnG5E%2CT0CwhLHrE2k%2CyrlLKwmb5dY%2CeElHlE4j-vw%2CwG81wP53m24%2CDtCfOMl3qo0%2CiIBQm3me8cs%2CSX_DzTb95mM%2CMR9CrsF3D00) )
-    - [Kurumlar Vergisi (ABD)](https://tr.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/corporate-taxation) (3 Videos | [27m 3s](https://www.youtube.com/watch_videos?title=Kurumlar+Vergisi+%28ABD%29&video_ids=VnTlKcIigyY%2CIiKKAw38ss0%2CTLSYwkWCIzA) )
+    - [Vergiler](https://tr.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/taxes) (10 Videos | [57m 10s](https://www.youtube.com/watch_videos?title=Vergiler&video_ids=L_zVHhP-GPE%2CGypHy3gnG5E%2CT0CwhLHrE2k%2CyrlLKwmb5dY%2CeElHlE4j-vw%2CwG81wP53m24%2CDtCfOMl3qo0%2CiIBQm3me8cs%2CSX_DzTb95mM%2CMR9CrsF3D00) )
+    - [Kurumsal Yapı ve Vergilendirme](https://tr.khanacademy.org/economics-finance-domain/core-finance/taxes-topic/corporate-taxation) (3 Videos | [27m 3s](https://www.youtube.com/watch_videos?title=Kurumsal+Yap%C4%B1+ve+Vergilendirme&video_ids=VnTlKcIigyY%2CIiKKAw38ss0%2CTLSYwkWCIzA) )
   - [Muhasebe ve Mali (Finansal) Tablolar
 ](https://tr.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme) (3 Topics)
     - [Nakit veya Tahakkuk Esaslı Muhasebe](https://tr.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme/cash-accrual-accounting) (3 Videos | [12m 51s](https://www.youtube.com/watch_videos?title=Nakit+veya+Tahakkuk+Esasl%C4%B1+Muhasebe&video_ids=DdO2hSCFcuk%2CYqLJc-Ju9mI%2CYQOwLgmnhak) )
     - [3 Temel Finansal Tablo](https://tr.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme/financial-statements-tutorial) (2 Exercises, 4 Videos | [14m 26s](https://www.youtube.com/watch_videos?title=3+Temel+Finansal+Tablo&video_ids=AFw1KKM_1O8%2CQz7c-w5L8Yc%2C3luhFXFx4Ng%2CisDOPCgTTIE) )
     - [Amortisman ](https://tr.khanacademy.org/economics-finance-domain/core-finance/accounting-and-financial-stateme/depreciation-amortization-tut) (4 Videos | [15m 10s](https://www.youtube.com/watch_videos?title=Amortisman+&video_ids=ALuBNQsJMMo%2CNZZ3-vPzboA%2CD_S4E9lGqvw%2CNW9c1Vz_2Uk) )
-  - [Halka Arz, Hisse Senedi ve Tahviller
-](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds) (10 Topics)
+  - [Hisse Senetleri Temel Bilgiler](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds) (10 Topics)
     - [Hisse Senetlerine Giriş](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/stocks-intro-tutorial) (2 Videos | [23m 8s](https://www.youtube.com/watch_videos?title=Hisse+Senetlerine+Giri%C5%9F&video_ids=yNMUqFzlSTg%2Ckji1w02EvYs) )
     - [Açığa Satış - Hisse Senedi](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/shorting-stock) (4 Videos | [35m 39s](https://www.youtube.com/watch_videos?title=A%C3%A7%C4%B1%C4%9Fa+Sat%C4%B1%C5%9F+-+Hisse+Senedi&video_ids=UzOhK5zf1mg%2C34OM2PqzBXY%2CucAUriWEFo8%2C7HdVl0nkmqs) )
     - [Şirket Bilançoları ve Sermaye Yapısı](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/company-statements-capital-struc) (4 Videos | [15m 18s](https://www.youtube.com/watch_videos?title=%C5%9Eirket+Bilan%C3%A7olar%C4%B1+ve+Sermaye+Yap%C4%B1s%C4%B1&video_ids=-tpvdFFkddA%2Cb6G59YYb-BM%2Cs2fZWEQV45M%2ClsSMSfEAutI) )
-    - [Şirket Değerini Belirleme](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/valuation-and-investing) (12 Videos | [2h 34m 20s](https://www.youtube.com/watch_videos?title=%C5%9Eirket+De%C4%9Ferini+Belirleme&video_ids=fa-VZ-SDxgY%2CZ7C4cz2HkeY%2CRouNXdkC0do%2CcppxO67e6eo%2CV-rko8jgJ9o%2C2aPujusoRM0%2Cyn4r-F-TC5E%2C_DP-1NPoufo%2CRbshxcsGsf8%2CVrFbXxkl9JU%2Cpa92UdJCaos%2Cv4Fq9LEspzw) )
+    - [Değerleme ve Yatırım](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/valuation-and-investing) (12 Videos | [2h 34m 20s](https://www.youtube.com/watch_videos?title=De%C4%9Ferleme+ve+Yat%C4%B1r%C4%B1m&video_ids=fa-VZ-SDxgY%2CZ7C4cz2HkeY%2CRouNXdkC0do%2CcppxO67e6eo%2CV-rko8jgJ9o%2C2aPujusoRM0%2Cyn4r-F-TC5E%2C_DP-1NPoufo%2CRbshxcsGsf8%2CVrFbXxkl9JU%2Cpa92UdJCaos%2Cv4Fq9LEspzw) )
     - [Bir Şirketin Yaşam Döngüsü: Kuruluşundan Kapanmasına](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/venture-capital-and-capital-markets) (9 Videos | [1h 49m 56s](https://www.youtube.com/watch_videos?title=Bir+%C5%9Eirketin+Ya%C5%9Fam+D%C3%B6ng%C3%BCs%C3%BC%3A+Kurulu%C5%9Fundan+Kapanmas%C4%B1na&video_ids=lcLTNjHI-J4%2C-hJj5NpWUXQ%2Cm28RAgUySGQ%2CbjrHAaywsIw%2CV2LOcJdhb4I%2C8Vfk1zH1jac%2Ckji1w02EvYs%2C-oW4M3vpuRM%2CmxVWyzzMOXM) )
     - [Sulandırma](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/dilution-tutorial) (1 Video | [3m 51s](https://www.youtube.com/watch_videos?title=Suland%C4%B1rma&video_ids=cAlw3XeIPVs) )
     - [Birleşme ve Satın Alma (M&A)
@@ -4071,8 +3717,8 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Kredili Satın Alımlar (LBO)](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/leveraged-buy-outs) (1 Video | [5m 35s](https://www.youtube.com/watch_videos?title=Kredili+Sat%C4%B1n+Al%C4%B1mlar+%28LBO%29&video_ids=LVMLs2z1JYg) )
     - [Tahviller](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/bonds-tutorial) (7 Videos | [48m 3s](https://www.youtube.com/watch_videos?title=Tahviller&video_ids=7grW9TeB3Hs%2ChYfCQbQvEDg%2CrUzYSnOdJVI%2CzzqklFvMz_E%2CkuhhFfKGqSY%2CU_oNWREFyys%2CsIWXGds81Yk) )
     - [Şirketlerde İflas Uygulamaları (ABD)](https://tr.khanacademy.org/economics-finance-domain/core-finance/stock-and-bonds/corp-bankruptcy-tutorial) (2 Videos | [25m 25s](https://www.youtube.com/watch_videos?title=%C5%9Eirketlerde+%C4%B0flas+Uygulamalar%C4%B1+%28ABD%29&video_ids=-oW4M3vpuRM%2CmxVWyzzMOXM) )
-  - [Yatırım Araçları, Sigorta ve Emeklilik](https://tr.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial) (5 Topics)
-    - [Yatırım Fonları ve Borsa Yatırım Fonları](https://tr.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial/mutual-funds) (5 Videos | [31m 27s](https://www.youtube.com/watch_videos?title=Yat%C4%B1r%C4%B1m+Fonlar%C4%B1+ve+Borsa+Yat%C4%B1r%C4%B1m+Fonlar%C4%B1&video_ids=VXtl6UxprFY%2CNUeSdYwdnvU%2C54blbDQoNYE%2CGlmXbEqvx08%2C97P8xyZj2io) )
+  - [Yatırım Ürünleri](https://tr.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial) (5 Topics)
+    - [Yatırım Fonları](https://tr.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial/mutual-funds) (5 Videos | [31m 27s](https://www.youtube.com/watch_videos?title=Yat%C4%B1r%C4%B1m+Fonlar%C4%B1&video_ids=VXtl6UxprFY%2CNUeSdYwdnvU%2C54blbDQoNYE%2CGlmXbEqvx08%2C97P8xyZj2io) )
     - [Emeklilik Hesapları: ABD Sisteminden Örnekler](https://tr.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial/ira-401ks) (3 Videos | [38m 54s](https://www.youtube.com/watch_videos?title=Emeklilik+Hesaplar%C4%B1%3A+ABD+Sisteminden+%C3%96rnekler&video_ids=UV8kgqk_DAY%2Cth06SCNNZ60%2C2zfdtmlMNDs) )
     - [Hayat Sigortası](https://tr.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial/life-insurance) (1 Video | [4m 22s](https://www.youtube.com/watch_videos?title=Hayat+Sigortas%C4%B1&video_ids=KdzxxRg0Jio) )
     - [Serbest Yatırım Fonları](https://tr.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial/hedge-funds) (7 Videos | [34m 14s](https://www.youtube.com/watch_videos?title=Serbest+Yat%C4%B1r%C4%B1m+Fonlar%C4%B1&video_ids=e_e2URWxkzI%2CQJCCfwaUbPE%2CwWgVKvfnm4Q%2C3gdvtB-6wqw%2C_hSzciL1QkU%2CoaMvCt_yzQY%2CKlNfMHxmh3Q) )
@@ -4080,16 +3726,14 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/economics-finance-domain/core-finance/investment-vehicles-tutorial/investment-consumption) (8 Videos | [1h 12m 28s](https://www.youtube.com/watch_videos?title=Yat%C4%B1r%C4%B1m+ve+T%C3%BCketim%0A&video_ids=py13kw4B4gY%2CjFVMVfWXqmE%2Cgs1nH7BeWvw%2CQccmq0bIr9o%2Cw1zB8UDm4_8%2CL2QMZ7uu0s8%2CPo9kB18iYkU%2CJZX_H-zxSYM) )
   - [Para, Bankacılık ve Merkez Bankaları](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking) (8 Topics)
     - [Bankacılık ve Para](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/banking-and-money) (25 Videos | [4h 55m 36s](https://www.youtube.com/watch_videos?title=Bankac%C4%B1l%C4%B1k+ve+Para&video_ids=RK9fv2R5jJ8%2CJsPTjqCfDRo%2CN5kSSWg8ty4%2Cf-2P72Ec8yU%2CD5QhsKcNdGo%2Cf7_a3aLUAKQ%2CMDyH-MaJREQ%2CX5B8B-Uolrk%2CDFPBdbx0vFc%2C8fxilNdEQTo%2CpiSajJQiKWM%2CJBWdbzzYbtU%2CBTNarhvGX88%2CIniG1KkPS2c%2CrgqFXkLAc-4%2CzvuQRjApZBo%2CNFDMXwwzyIM%2CT9byZBGtGuw%2CJGKrr6KXgnA%2CxuX4phNlYxc%2CMILF-9GeMDQ%2CZyyaE3DIxhc%2CotstXFxMkl4%2C8SAMey9Gl5I%2C8pMORe0ZX3E) )
-    - [Parasal Genişleme Politikaları
-](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/federal-reserve) (6 Videos | [27m 20s](https://www.youtube.com/watch_videos?title=Parasal+Geni%C5%9Fleme+Politikalar%C4%B1%0A&video_ids=uvtoDy-6S9Q%2Csq8OFMtRBDk%2CZrKw-SLzNrw%2CIS59KtY00sY%2CgW_l_c-drrU%2CFJTASvikqG4) )
+    - [Merkez Bankaları (FED)](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/federal-reserve) (6 Videos | [27m 20s](https://www.youtube.com/watch_videos?title=Merkez+Bankalar%C4%B1+%28FED%29&video_ids=uvtoDy-6S9Q%2Csq8OFMtRBDk%2CZrKw-SLzNrw%2CIS59KtY00sY%2CgW_l_c-drrU%2CFJTASvikqG4) )
     - [2008 Banka Kurtarma (ABD)](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bank-bailout) (16 Videos | [3h 1m 54s](https://www.youtube.com/watch_videos?title=2008+Banka+Kurtarma+%28ABD%29&video_ids=85TK6yvz_G8%2CYJBqGM29_64%2CTUOQZjotyAQ%2CidNV3zVFhY0%2CI8BLj7cRM7c%2C83Bc8gh4NaE%2CMdIfefLcdoU%2CL37yAzSEgL4%2CRnUzdXrSPQI%2CM1sJbrzQVz8%2CAuOX6l9apDU%2CZu3MDtaMfm0%2CR528WbVdC0I%2CBdmI14oSe4g%2C-KrSxA9NCf0%2C_ZAlj2gu0eM) )
     - [Geithner Planı (ABD)](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/geithner-plan) (6 Videos | [1h 16m 36s](https://www.youtube.com/watch_videos?title=Geithner+Plan%C4%B1+%28ABD%29&video_ids=ervHbKa7R5g%2Cn-arbfLTCtI%2C0FxRYePmogU%2C_ka1HZS-Egc%2Cajl1UdtYUCA%2COEl4FPsLjNg) )
-    - [Döviz Piyasaları ve Ticaret](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/currency-tutorial) (1 Article, 9 Videos | [1h 31m 42s](https://www.youtube.com/watch_videos?title=D%C3%B6viz+Piyasalar%C4%B1+ve+Ticaret&video_ids=Jj2JXI3leZU%2CYqmNb69kFFs%2ChogKIDkC_Ek%2CrJY4ko1CDOI%2CJEPL3-JbULg%2CDQxbLJvld1A%2CuCblgFbm43s%2CMANKQ_Q6jfE%2C_wi0p7LZ2ZY) )
+    - [Döviz işlemleri](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/currency-tutorial) (1 Article, 9 Videos | [1h 31m 42s](https://www.youtube.com/watch_videos?title=D%C3%B6viz+i%C5%9Flemleri&video_ids=Jj2JXI3leZU%2CYqmNb69kFFs%2ChogKIDkC_Ek%2CrJY4ko1CDOI%2CJEPL3-JbULg%2CDQxbLJvld1A%2CuCblgFbm43s%2CMANKQ_Q6jfE%2C_wi0p7LZ2ZY) )
     - [Çin Para birimi ve ABD Borcu](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/china-us-debt-situation) (10 Videos | [34m 48s](https://www.youtube.com/watch_videos?title=%C3%87in+Para+birimi+ve+ABD+Borcu&video_ids=diB_hsrxuTI%2CcIW9SJso0v0%2C_zZTo7WUN44%2C11t7pDAsKiw%2CdtBsNwHGsXs%2C9r8atDURtw4%2CYgHcmivI8W4%2CclMqWQrS7QM%2C1SJBMWuXF6I%2CRLgaRPm9Qpw) )
-    - [2011-2012 Yunanistan Borç Krizi](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/greek-debt-crisis) (4 Videos | [34m 6s](https://www.youtube.com/watch_videos?title=2011-2012+Yunanistan+Bor%C3%A7+Krizi&video_ids=kPmPwR3EJV4%2C8fqZ0iAE8vg%2C8FLNVFzxTtk%2Cm-jHnS9ZcoE) )
+    - [Yunanistan Borç Krizi](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/greek-debt-crisis) (4 Videos | [34m 6s](https://www.youtube.com/watch_videos?title=Yunanistan+Bor%C3%A7+Krizi&video_ids=kPmPwR3EJV4%2C8fqZ0iAE8vg%2C8FLNVFzxTtk%2Cm-jHnS9ZcoE) )
     - [Bitcoin](https://tr.khanacademy.org/economics-finance-domain/core-finance/money-and-banking/bitcoin) (9 Videos | [1h 41m 11s](https://www.youtube.com/watch_videos?title=Bitcoin&video_ids=oLQYeuELt9M%2C1iW941pQ3OU%2COdNDKQ8H6kY%2CITcLpdUVEQM%2C9-9_v1wSPBQ%2CPtWI1rv73t0%2CQzDO44oZWtE%2CJuWYLAtz3Y4%2C8zgvzmKZ5vo) )
-  - [İleri Seviye Finansal İşlemler ve Kavramlar
-](https://tr.khanacademy.org/economics-finance-domain/core-finance/derivative-securities) (7 Topics)
+  - [Opsiyonlar, swap işlemleri, futures, ipoteğe dayalı menkul kıymetler, teminatlandırılmış borç yükümlülükleri ve diğer türevler](https://tr.khanacademy.org/economics-finance-domain/core-finance/derivative-securities) (7 Topics)
     - [Alım ve Satım Opsiyonları](https://tr.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/put-call-options) (18 Videos | [1h 1m 5s](https://www.youtube.com/watch_videos?title=Al%C4%B1m+ve+Sat%C4%B1m+Opsiyonlar%C4%B1&video_ids=kEaX5UndNcs%2CUzOhK5zf1mg%2C_ib2koMA__A%2CPokAyjzAKjc%2CJjguoRshHrU%2CwqgxVr65gvU%2CUOd_jt0aMVc%2C51LjRrjyMfM%2CTtBTdrQcw_o%2CZh-S0Nq7omA%2ClynpTRvQfVQ%2C1UhqsP5EwD4%2CqVtbjv7VjEc%2C_WIz-oBAhT8%2CSFXObNBV5iA%2CWceONYgTTX8%2CU_Gs93VcuNI%2C_nASF0CxenM) )
     - [Forward ve Future Sözleşmeleri
 ](https://tr.khanacademy.org/economics-finance-domain/core-finance/derivative-securities/forward-futures-contracts) (19 Videos | [1h 9m 18s](https://www.youtube.com/watch_videos?title=Forward+ve+Future+S%C3%B6zle%C5%9Fmeleri%0A&video_ids=vYwyKhbEXxY%2CLDQ85AK4PCE%2C9T0i-bZ889A%2C_XtHc50UzVE%2C1mnKCkmeaYs%2CGsQQWDaPIvM%2CI-yjseMTdME%2CO91_hdq-edw%2Ct5hp-Q8hR6s%2C0wXZ4aVMx9k%2Ctzp5boJXfhM%2ClSKG_aOd0lw%2CXW7NagGJ5B4%2CiakRr7XJv9o%2CUvFsuJT_JYc%2CwStKmO_UDSU%2CWW1_WcL3YSQ%2CZBuWCFp2yZA%2CARwrTsj2TUE) )
@@ -4101,43 +3745,41 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
   - [Günümüzde Ekonomi](https://tr.khanacademy.org/economics-finance-domain/core-finance/current-economics) (5 Topics)
     - [İşsizlik](https://tr.khanacademy.org/economics-finance-domain/core-finance/current-economics/unemployment-tutorial) (4 Videos | [35m 28s](https://www.youtube.com/watch_videos?title=%C4%B0%C5%9Fsizlik&video_ids=TkEJodVYdz0%2CC9onjpQGpSg%2C9DGbDx5xQNo%2CNIq_QWMNOj8) )
     - [Ev Fiyatlarındaki Yükseliş](https://tr.khanacademy.org/economics-finance-domain/core-finance/current-economics/housing-price-conundrum) (4 Videos | [34m 56s](https://www.youtube.com/watch_videos?title=Ev+Fiyatlar%C4%B1ndaki+Y%C3%BCkseli%C5%9F&video_ids=b9ePttuE4Vs%2COIgGGgqrt8c%2CaAfMps_VyOY%2CTEd2mR38Wyk) )
-    - [Kredi Krizi](https://tr.khanacademy.org/economics-finance-domain/core-finance/current-economics/credit-crisis) (12 Videos | [1h 55m 42s](https://www.youtube.com/watch_videos?title=Kredi+Krizi&video_ids=b9ePttuE4Vs%2COIgGGgqrt8c%2CaAfMps_VyOY%2CTEd2mR38Wyk%2CFFgLWo7Gi10%2CGmhs1xVC4nI%2Cq0oSKmC3Mfc%2CBEgO2e2Hk4M%2Ca1lVOO9Y080%2CneAFEvNsiqw%2CL2QMZ7uu0s8%2CPo9kB18iYkU) )
+    - [Kredi krizi](https://tr.khanacademy.org/economics-finance-domain/core-finance/current-economics/credit-crisis) (12 Videos | [1h 55m 42s](https://www.youtube.com/watch_videos?title=Kredi+krizi&video_ids=b9ePttuE4Vs%2COIgGGgqrt8c%2CaAfMps_VyOY%2CTEd2mR38Wyk%2CFFgLWo7Gi10%2CGmhs1xVC4nI%2Cq0oSKmC3Mfc%2CBEgO2e2Hk4M%2Ca1lVOO9Y080%2CneAFEvNsiqw%2CL2QMZ7uu0s8%2CPo9kB18iYkU) )
     - [Paulson Kurtarma Planı (ABD)](https://tr.khanacademy.org/economics-finance-domain/core-finance/current-economics/paulson-bailout) (16 Videos | [3h 1m 54s](https://www.youtube.com/watch_videos?title=Paulson+Kurtarma+Plan%C4%B1+%28ABD%29&video_ids=_ZAlj2gu0eM%2C85TK6yvz_G8%2CYJBqGM29_64%2CTUOQZjotyAQ%2CidNV3zVFhY0%2CI8BLj7cRM7c%2C83Bc8gh4NaE%2CMdIfefLcdoU%2CL37yAzSEgL4%2CRnUzdXrSPQI%2CM1sJbrzQVz8%2CAuOX6l9apDU%2CZu3MDtaMfm0%2CR528WbVdC0I%2CBdmI14oSe4g%2C-KrSxA9NCf0) )
     - [Avrupa Birliği](https://tr.khanacademy.org/economics-finance-domain/core-finance/current-economics/european-union) (6 Videos | [46m 28s](https://www.youtube.com/watch_videos?title=Avrupa+Birli%C4%9Fi&video_ids=gbIgkcIfg0E%2CiKc9yYEb-uU%2CkPmPwR3EJV4%2C8fqZ0iAE8vg%2C8FLNVFzxTtk%2Cm-jHnS9ZcoE) )
 
 ## [AP®︎ Makroekonomi](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics) (9 Topics)
   - [Temel Ekonomik Kavramlar](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro) (6 Topics)
-    - [Kıtlık](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro) (1 Article, 1 Exercise, 5 Videos | [37m 18s](https://www.youtube.com/watch_videos?title=K%C4%B1tl%C4%B1k&video_ids=AJjI5VHT4YA%2Cs8UW7bQ6gNQ%2CZ3iCYximJZM%2Cnjx6nQ0N7_U%2CpoadoSKl59w) )
-    - [Fırsat Maliyeti ve Üretim Olanakları Eğrisi](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro) (1 Article, 1 Exercise, 5 Videos | [35m 28s](https://www.youtube.com/watch_videos?title=F%C4%B1rsat+Maliyeti+ve+%C3%9Cretim+Olanaklar%C4%B1+E%C4%9Frisi&video_ids=taHohOSlqpI%2Cvvaf2vsi8DU%2CVpIIyMecVr8%2CIvytSJ5LhJg%2CAgkdeU2_1pE) )
-    - [Göreceli Üstünlük ve Ticaretten Elde Edilen Kazanç](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth) (1 Article, 1 Exercise, 1 Quiz, 7 Videos | [1h 4m 33s](https://www.youtube.com/watch_videos?title=G%C3%B6receli+%C3%9Cst%C3%BCnl%C3%BCk+ve+Ticaretten+Elde+Edilen+Kazan%C3%A7&video_ids=vODL7wHOiGk%2CAdiCe_Q_YGY%2CK8p0F92gVUM%2CC-xLUS5JGIM%2CUqf5c6Xcjr4%2CTeAzW_tY6m4%2CjHp4fnrEA6w) )
+    - [Ekonomik düşünce biçimlerine giriş](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/introduction-to-the-economic-way-of-thinking-macro) (1 Article, 1 Exercise, 5 Videos | [37m 18s](https://www.youtube.com/watch_videos?title=Ekonomik+d%C3%BC%C5%9F%C3%BCnce+bi%C3%A7imlerine+giri%C5%9F&video_ids=AJjI5VHT4YA%2Cs8UW7bQ6gNQ%2CZ3iCYximJZM%2Cnjx6nQ0N7_U%2CpoadoSKl59w) )
+    - [Üretim Olanakları Eğrisi](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/production-possibilities-curve-scarcity-choice-and-opportunity-cost-macro) (1 Article, 1 Exercise, 5 Videos | [35m 28s](https://www.youtube.com/watch_videos?title=%C3%9Cretim+Olanaklar%C4%B1+E%C4%9Frisi&video_ids=taHohOSlqpI%2Cvvaf2vsi8DU%2CVpIIyMecVr8%2CIvytSJ5LhJg%2CAgkdeU2_1pE) )
+    - [Göreceli Üstünlük](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/scarcity-and-growth) (1 Article, 1 Exercise, 1 Quiz, 7 Videos | [1h 4m 33s](https://www.youtube.com/watch_videos?title=G%C3%B6receli+%C3%9Cst%C3%BCnl%C3%BCk&video_ids=vODL7wHOiGk%2CAdiCe_Q_YGY%2CK8p0F92gVUM%2CC-xLUS5JGIM%2CUqf5c6Xcjr4%2CTeAzW_tY6m4%2CjHp4fnrEA6w) )
     - [Talep](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/demand) (1 Article, 1 Exercise, 6 Videos | [36m 34s](https://www.youtube.com/watch_videos?title=Talep&video_ids=HO0pjsYWLrM%2C4zRe-rApijU%2Ce_k_75Jb7qs%2CensgneZER60%2CG-c4ymiuQBA%2CiC9hkhbIimA) )
     - [Arz](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/supply) (1 Article, 1 Exercise, 3 Videos | [21m 37s](https://www.youtube.com/watch_videos?title=Arz&video_ids=zrzWsbmgmsU%2C_zZCRCKrWpk%2CNrlF8mMHfLE) )
     - [Piyasa Dengesi, Dengesizlik ve Dengedeki Değişimler](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/basic-economics-concepts-macro/market-equilibrium-disequilibrium-and-changes-in-equilibrium) (1 Article, 2 Exercises, 1 Quiz, 1 Test, 3 Videos | [25m 38s](https://www.youtube.com/watch_videos?title=Piyasa+Dengesi%2C+Dengesizlik+ve+Dengedeki+De%C4%9Fi%C5%9Fimler&video_ids=PEMkfgrifDw%2CViQ49osckZ8%2Ckl4n-EWwPyA) )
-  - [Ekonomik Göstergeler ve İş Döngüsü](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle) (7 Topics)
-    - [Dairesel Akış ve GSYİH](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21) (1 Article, 1 Exercise, 8 Videos | [54m 28s](https://www.youtube.com/watch_videos?title=Dairesel+Ak%C4%B1%C5%9F+ve+GSY%C4%B0H&video_ids=Hfz1bwK5C4o%2CBPSCBLJaDys%2CIZ8WLwrpRLk%2CN9VIsauE0RA%2Cmnx1Al8l6o4%2C9G7ZWwlR_tQ%2CyMBobJI67w8%2Cs4W7LKK22_Q) )
+  - [Economic indicators](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle) (7 Topics)
+    - [Circular flow model and GDP](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/21) (1 Article, 1 Exercise, 8 Videos | [54m 28s](https://www.youtube.com/watch_videos?title=Circular+flow+model+and+GDP&video_ids=Hfz1bwK5C4o%2CBPSCBLJaDys%2CIZ8WLwrpRLk%2CN9VIsauE0RA%2Cmnx1Al8l6o4%2C9G7ZWwlR_tQ%2CyMBobJI67w8%2Cs4W7LKK22_Q) )
     - [GSYİH'nin Sınırları](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/limitations-of-gdp) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [7m 54s](https://www.youtube.com/watch_videos?title=GSY%C4%B0H%27nin+S%C4%B1n%C4%B1rlar%C4%B1&video_ids=SXMhCO2vYcE) )
     - [İşsizlik](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/unemployment) (1 Article, 2 Exercises, 3 Videos | [21m 17s](https://www.youtube.com/watch_videos?title=%C4%B0%C5%9Fsizlik&video_ids=C9onjpQGpSg%2CW9MuBVpEc78%2CncW-JilPxjA) )
-    - [Fiyat Endeksleri ve Enflasyon](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/price-indices-and-inflation) (1 Article, 1 Exercise, 3 Videos | [18m 27s](https://www.youtube.com/watch_videos?title=Fiyat+Endeksleri+ve+Enflasyon&video_ids=sKvuVtlatQo%2CRSBESgVvawk%2C_qpgzgkrB6A) )
+    - [Price Indices and Inflation](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/price-indices-and-inflation) (1 Article, 1 Exercise, 3 Videos | [18m 27s](https://www.youtube.com/watch_videos?title=Price+Indices+and+Inflation&video_ids=sKvuVtlatQo%2CRSBESgVvawk%2C_qpgzgkrB6A) )
     - [Enflasyonun Maliyeti](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/costs-of-inflation) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [6m 14s](https://www.youtube.com/watch_videos?title=Enflasyonun+Maliyeti&video_ids=V41_kZuOE0w) )
     - [Reel ve Nominal GSYİH](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/real-vs-nominal-gdp) (1 Article, 1 Exercise, 3 Videos | [20m 11s](https://www.youtube.com/watch_videos?title=Reel+ve+Nominal+GSY%C4%B0H&video_ids=I_Xdb6iAigo%2CFnEFmYm40g0%2CMYZWLUtrDxI) )
     - [İş Döngüleri](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/economic-iondicators-and-the-business-cycle/business-cycles) (1 Article, 1 Exercise, 1 Test, 2 Videos | [17m 24s](https://www.youtube.com/watch_videos?title=%C4%B0%C5%9F+D%C3%B6ng%C3%BCleri&video_ids=L8S8nbSENVU%2C0F6lRMI_rHQ) )
   - [Milli Gelir ve Fiyat Belirleme](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations) (9 Topics)
-    - [Toplam Talep
-](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/aggregate-demand-ap) (1 Article, 1 Exercise, 2 Videos | [19m 11s](https://www.youtube.com/watch_videos?title=Toplam+Talep%0A&video_ids=njb4BKNX9L8%2CaVxJFGqvX_E) )
-    - [Çarpanlar](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/multipliers-ap) (1 Article, 1 Exercise, 1 Quiz, 2 Videos | [17m 51s](https://www.youtube.com/watch_videos?title=%C3%87arpanlar&video_ids=EO8jwO2nxgM%2CUsJmBBtwzYY) )
-    - [Kısa Dönem Toplam Arz](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/short-run-aggregate-supply-ap) (1 Article, 1 Exercise, 1 Video | [12m 15s](https://www.youtube.com/watch_videos?title=K%C4%B1sa+D%C3%B6nem+Toplam+Arz&video_ids=Jnw8T2kVppU) )
-    - [Uzun Vadede Toplam Arz
-](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/long-run-aggregate-supply-ap) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [4m 35s](https://www.youtube.com/watch_videos?title=Uzun+Vadede+Toplam+Arz%0A&video_ids=OHk2EPM0D_E) )
-    - [Toplam Talep- Toplam Arz Modelinde Denge](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/equilibrium-in-the-ad-as-model-ap) (1 Article, 1 Exercise, 1 Video | [10m 11s](https://www.youtube.com/watch_videos?title=Toplam+Talep-+Toplam+Arz+Modelinde+Denge&video_ids=dD_9KBz3pN0) )
-    - [Toplam Talep- Toplam Arz Modelinde Kısa Vadede Değişimler](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/changes-in-the-ad-as-model-in-the-short-run-ap) (1 Article, 1 Exercise, 3 Videos | [20m 21s](https://www.youtube.com/watch_videos?title=Toplam+Talep-+Toplam+Arz+Modelinde+K%C4%B1sa+Vadede+De%C4%9Fi%C5%9Fimler&video_ids=aVxJFGqvX_E%2CHdqbCvqTb20%2ClEhIKIDKzlM) )
-    - [Uzun Dönemde Kendini Ayarlama](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/long-run-self-adjustment-ap) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [4m 44s](https://www.youtube.com/watch_videos?title=Uzun+D%C3%B6nemde+Kendini+Ayarlama&video_ids=eic0CC-1d9E) )
-    - [Mali Politika](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/fiscal-policy-ap) (1 Article, 1 Exercise, 2 Videos | [13m 50s](https://www.youtube.com/watch_videos?title=Mali+Politika&video_ids=qgxapLrA_NM%2Cf5o5LpUcxVk) )
-    - [Otomatik Dengeleyiciler](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/automatic-stabilizers-ap) (1 Article, 1 Exercise, 1 Test, 1 Video | [5m 16s](https://www.youtube.com/watch_videos?title=Otomatik+Dengeleyiciler&video_ids=jAjU3cR99p0) )
+    - [Toplam Talep](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/aggregate-demand-ap) (1 Article, 1 Exercise, 2 Videos | [19m 11s](https://www.youtube.com/watch_videos?title=Toplam+Talep&video_ids=njb4BKNX9L8%2CaVxJFGqvX_E) )
+    - [Copy of Multipliers](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/multipliers-ap) (1 Article, 1 Exercise, 1 Quiz, 2 Videos | [17m 51s](https://www.youtube.com/watch_videos?title=Copy+of+Multipliers&video_ids=EO8jwO2nxgM%2CUsJmBBtwzYY) )
+    - [Copy of Short-run aggregate supply](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/short-run-aggregate-supply-ap) (1 Article, 1 Exercise, 1 Video | [12m 15s](https://www.youtube.com/watch_videos?title=Copy+of+Short-run+aggregate+supply&video_ids=Jnw8T2kVppU) )
+    - [Copy of Long-run aggregate supply](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/long-run-aggregate-supply-ap) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [4m 35s](https://www.youtube.com/watch_videos?title=Copy+of+Long-run+aggregate+supply&video_ids=OHk2EPM0D_E) )
+    - [Copy of Equilibrium in the AD-AS Model](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/equilibrium-in-the-ad-as-model-ap) (1 Article, 1 Exercise, 1 Video | [10m 11s](https://www.youtube.com/watch_videos?title=Copy+of+Equilibrium+in+the+AD-AS+Model&video_ids=dD_9KBz3pN0) )
+    - [Copy of Changes in the AD-AS model in the short run](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/changes-in-the-ad-as-model-in-the-short-run-ap) (1 Article, 1 Exercise, 3 Videos | [20m 21s](https://www.youtube.com/watch_videos?title=Copy+of+Changes+in+the+AD-AS+model+in+the+short+run&video_ids=aVxJFGqvX_E%2CHdqbCvqTb20%2ClEhIKIDKzlM) )
+    - [Copy of Long run self-adjustment](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/long-run-self-adjustment-ap) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [4m 44s](https://www.youtube.com/watch_videos?title=Copy+of+Long+run+self-adjustment&video_ids=eic0CC-1d9E) )
+    - [Copy of Fiscal policy](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/fiscal-policy-ap) (1 Article, 1 Exercise, 2 Videos | [13m 50s](https://www.youtube.com/watch_videos?title=Copy+of+Fiscal+policy&video_ids=qgxapLrA_NM%2Cf5o5LpUcxVk) )
+    - [Copy of Automatic stabilizers](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/national-income-and-price-determinations/automatic-stabilizers-ap) (1 Article, 1 Exercise, 1 Test, 1 Video | [5m 16s](https://www.youtube.com/watch_videos?title=Copy+of+Automatic+stabilizers&video_ids=jAjU3cR99p0) )
   - [Finans Sektörü](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector) (7 Topics)
-    - [Mali Varlıklar](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/financial-assets-ap) (1 Article, 1 Exercise, 5 Videos | [55m 2s](https://www.youtube.com/watch_videos?title=Mali+Varl%C4%B1klar&video_ids=s91jby6KIhM%2ChYfCQbQvEDg%2CzzqklFvMz_E%2CyNMUqFzlSTg%2Ckji1w02EvYs) )
-    - [Nominal ve Reel Faiz Oranları](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/nominal-v-real-interest-rates-ap) (1 Article, 1 Exercise, 3 Videos | [9m 34s](https://www.youtube.com/watch_videos?title=Nominal+ve+Reel+Faiz+Oranlar%C4%B1&video_ids=e9WxvtGRPRk%2Cat56CUip-Fg%2CmFI58RRCDbs) )
-    - [Paranın Tanımı, Ölçülmesi ve İşlevleri](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/definition-measurement-and-functions-of-money-ap) (1 Article, 1 Exercise, 1 Quiz, 4 Videos | [36m 15s](https://www.youtube.com/watch_videos?title=Paran%C4%B1n+Tan%C4%B1m%C4%B1%2C+%C3%96l%C3%A7%C3%BClmesi+ve+%C4%B0%C5%9Flevleri&video_ids=v5u4hRKXhj0%2CmrFgeViLkdA%2CLrA0TN801cU%2C3GvldDern88) )
-    - [Bankacılık ve Para Arzının Genişlemesi](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/banking-and-the-expansion-of-the-money-supply-ap) (1 Article, 2 Exercises, 3 Videos | [25m 26s](https://www.youtube.com/watch_videos?title=Bankac%C4%B1l%C4%B1k+ve+Para+Arz%C4%B1n%C4%B1n+Geni%C5%9Flemesi&video_ids=bZEAkO9OSco%2Cgd8B-zrMSYk%2CvqYlKvQhoWw) )
+    - [Copy of Financial assets](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/financial-assets-ap) (1 Article, 1 Exercise, 5 Videos | [55m 2s](https://www.youtube.com/watch_videos?title=Copy+of+Financial+assets&video_ids=s91jby6KIhM%2ChYfCQbQvEDg%2CzzqklFvMz_E%2CyNMUqFzlSTg%2Ckji1w02EvYs) )
+    - [Copy of Nominal vs. real interest rates](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/nominal-v-real-interest-rates-ap) (1 Article, 1 Exercise, 3 Videos | [9m 34s](https://www.youtube.com/watch_videos?title=Copy+of+Nominal+vs.+real+interest+rates&video_ids=e9WxvtGRPRk%2Cat56CUip-Fg%2CmFI58RRCDbs) )
+    - [Copy of Definition, measurement, and functions of money](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/definition-measurement-and-functions-of-money-ap) (1 Article, 1 Exercise, 1 Quiz, 4 Videos | [36m 15s](https://www.youtube.com/watch_videos?title=Copy+of+Definition%2C+measurement%2C+and+functions+of+money&video_ids=v5u4hRKXhj0%2CmrFgeViLkdA%2CLrA0TN801cU%2C3GvldDern88) )
+    - [Copy of Banking and the expansion of the money supply](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/banking-and-the-expansion-of-the-money-supply-ap) (1 Article, 2 Exercises, 3 Videos | [25m 26s](https://www.youtube.com/watch_videos?title=Copy+of+Banking+and+the+expansion+of+the+money+supply&video_ids=bZEAkO9OSco%2Cgd8B-zrMSYk%2CvqYlKvQhoWw) )
     - [Para Piyasası](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/the-money-market-apmacro) (1 Article, 1 Exercise, 2 Videos | [12m 14s](https://www.youtube.com/watch_videos?title=Para+Piyasas%C4%B1&video_ids=Zt1Esq-qOZM%2CNMb3bguJ7wY) )
     - [Para Politikası
 ](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-financial-sector/monetary-policy-apmacro) (1 Article, 1 Exercise, 1 Quiz, 1 Video | [9m 28s](https://www.youtube.com/watch_videos?title=Para+Politikas%C4%B1%0A&video_ids=C8Eb4-Wz27A) )
@@ -4150,36 +3792,35 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Dışlama Etkisi](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/crowding-out) (1 Article, 1 Exercise, 1 Video | [3m 55s](https://www.youtube.com/watch_videos?title=D%C4%B1%C5%9Flama+Etkisi&video_ids=5O-p1LcGUcc) )
     - [Hesap Açığı ve Borç](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/deficits-and-debts) (1 Article, 1 Exercise, 1 Video | [7m 41s](https://www.youtube.com/watch_videos?title=Hesap+A%C3%A7%C4%B1%C4%9F%C4%B1+ve+Bor%C3%A7&video_ids=tpMsBi47k8Q) )
     - [Ekonomik Büyüme](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-long-run-consequences-of-stabilization-policies/economic-growth) (1 Article, 1 Exercise, 1 Test, 3 Videos | [19m 3s](https://www.youtube.com/watch_videos?title=Ekonomik+B%C3%BCy%C3%BCme&video_ids=khDAji7dXw0%2CyrPrzY3rmQM%2C8FzOm1-xcJA) )
-  - [Açık Ekonomi: Uluslararası Ticaret ve Finans](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance) (5 Topics)
+  - [Open economy: International trade and finance](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance) (5 Topics)
     - [Ödemeler Dengesi](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/the-balance-of-payments) (2 Articles, 1 Exercise, 3 Videos | [18m 13s](https://www.youtube.com/watch_videos?title=%C3%96demeler+Dengesi&video_ids=oeOip25rNvg%2CYgHcmivI8W4%2CAimYG1jYD0A) )
     - [Döviz Kurları](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/exchange-rates) (1 Article, 1 Exercise, 1 Video | [7m 26s](https://www.youtube.com/watch_videos?title=D%C3%B6viz+Kurlar%C4%B1&video_ids=-5x6j_P1OSI) )
     - [Döviz Piyasası](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/the-foreign-exchange-market) (1 Article, 1 Exercise, 1 Quiz, 2 Videos | [18m 53s](https://www.youtube.com/watch_videos?title=D%C3%B6viz+Piyasas%C4%B1&video_ids=Jj2JXI3leZU%2CEH4g3qbc_vo) )
-    - [Politikalardaki Değişikliklerin ve Ekonomik Koşulların Döviz Piyasasına Etkisi](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/effect-of-changes-in-policies-and-economic-conditions-on-the-foreign-exchange-market) (1 Article, 1 Exercise, 1 Video | [5m 17s](https://www.youtube.com/watch_videos?title=Politikalardaki+De%C4%9Fi%C5%9Fikliklerin+ve+Ekonomik+Ko%C5%9Fullar%C4%B1n+D%C3%B6viz+Piyasas%C4%B1na+Etkisi&video_ids=uETL47DhlUo) )
-    - [Reel Faiz Oranı ve Uluslararası Sermaye Akışı](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/real-interest-rates-and-international-capital-flows) (1 Article, 1 Exercise, 1 Test, 1 Video | [8m 20s](https://www.youtube.com/watch_videos?title=Reel+Faiz+Oran%C4%B1+ve+Uluslararas%C4%B1+Sermaye+Ak%C4%B1%C5%9F%C4%B1&video_ids=fxvsb373URw) )
-  - [Prepare for the 2019 AP Macro Exam](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/prepare-for-the-2018-ap-macro-exam) (4 Articles, 1 Video | [10m 58s](https://www.youtube.com/watch_videos?title=Prepare+for+the+2019+AP+Macro+Exam&video_ids=Qh8hO9j76R4) )
-  - [İleri Düzey Makroekonomide kullanılan tüm grafikler](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/every-graph-used-in-ap-macroeconomics) (7 Articles)
+    - [Effect of Changes in Policies and Economic Conditions on the Foreign Exchange Market](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/effect-of-changes-in-policies-and-economic-conditions-on-the-foreign-exchange-market) (1 Article, 1 Exercise, 1 Video | [5m 17s](https://www.youtube.com/watch_videos?title=Effect+of+Changes+in+Policies+and+Economic+Conditions+on+the+Foreign+Exchange+Market&video_ids=uETL47DhlUo) )
+    - [Real Interest Rates and International Capital Flows](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/ap-open-economy-international-trade-and-finance/real-interest-rates-and-international-capital-flows) (1 Article, 1 Exercise, 1 Test, 1 Video | [8m 20s](https://www.youtube.com/watch_videos?title=Real+Interest+Rates+and+International+Capital+Flows&video_ids=fxvsb373URw) )
+  - [Prepare for your 2019 AP Macroeconomics](https://tr.khanacademy.org/economics-finance-domain/ap-macroeconomics/prepare-for-the-2018-ap-macro-exam) (4 Articles, 1 Video | [10m 58s](https://www.youtube.com/watch_videos?title=Prepare+for+your+2019+AP+Macroeconomics&video_ids=Qh8hO9j76R4) )
 
 
 # [Sanat ve Sosyal Bilimler](https://tr.khanacademy.org/humanities) (21 Topics)
 
-## [Dünya Tarihi](https://tr.khanacademy.org/humanities/world-history) (6 Topics)
+## [Tarih](https://tr.khanacademy.org/humanities/world-history) (6 Topics)
   - [Başlangıçlar  MÖ 600](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings) (9 Topics)
     - [İnsanlığın Kökeni ve İlk İnsan Toplulukları](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/origin-humans-early-societies) (4 Articles, 4 Exercises, 3 Videos | [38m 44s](https://www.youtube.com/watch_videos?title=%C4%B0nsanl%C4%B1%C4%9F%C4%B1n+K%C3%B6keni+ve+%C4%B0lk+%C4%B0nsan+Topluluklar%C4%B1&video_ids=LbKbBzs1ti4%2CDs9SAmOtAWk%2ClXR3HKFLSrc) )
-    - [Neolitik Devrim ve Tarımın Doğuşu](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/birth-agriculture-neolithic-revolution) (3 Articles, 3 Exercises, 1 Quiz, 2 Videos | [20m 9s](https://www.youtube.com/watch_videos?title=Neolitik+Devrim+ve+Tar%C4%B1m%C4%B1n+Do%C4%9Fu%C5%9Fu&video_ids=JvBHwVpBCwM%2CRkC25y288ck) )
-    - [Antik Mezopotamya](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/ancient-mesopotamia) (1 Article, 2 Exercises, 2 Videos | [17m 21s](https://www.youtube.com/watch_videos?title=Antik+Mezopotamya&video_ids=9GQdh2eGP-Y%2CIh26fli0vAU) )
+    - [Tarımın Doğuşu ve Neolitik Devrim](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/birth-agriculture-neolithic-revolution) (3 Articles, 3 Exercises, 1 Quiz, 2 Videos | [20m 9s](https://www.youtube.com/watch_videos?title=Tar%C4%B1m%C4%B1n+Do%C4%9Fu%C5%9Fu+ve+Neolitik+Devrim&video_ids=JvBHwVpBCwM%2CRkC25y288ck) )
+    - [İlk Uygarlıklar (Medeniyetler)](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/ancient-mesopotamia) (1 Article, 2 Exercises, 2 Videos | [17m 21s](https://www.youtube.com/watch_videos?title=%C4%B0lk+Uygarl%C4%B1klar+%28Medeniyetler%29&video_ids=9GQdh2eGP-Y%2CIh26fli0vAU) )
     - [Antik Mısır
 ](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/ancient-egypt-hittites) (2 Articles, 3 Exercises, 1 Quiz, 2 Videos | [27m 32s](https://www.youtube.com/watch_videos?title=Antik+M%C4%B1s%C4%B1r%0A&video_ids=SGSLyp8mmMc%2C-j7N-XPi5Z0) )
-    - [Antik Sanat ve Eserler ](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/ancient) (2 Videos | [12m 45s](https://www.youtube.com/watch_videos?title=Antik+Sanat+ve+Eserler+&video_ids=Vj9ZAsKgO0c%2CqWYjhL8srHA) )
+    - [Antik ve Orta Çağ](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/ancient) (2 Videos | [12m 45s](https://www.youtube.com/watch_videos?title=Antik+ve+Orta+%C3%87a%C4%9F&video_ids=Vj9ZAsKgO0c%2CqWYjhL8srHA) )
     - [Antik Hindistan 
 ](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/ancient-india) (1 Article, 2 Exercises, 4 Videos | [38m 36s](https://www.youtube.com/watch_videos?title=Antik+Hindistan+%0A&video_ids=mi9sMazNPxM%2CxBIbflTfxm8%2CkemwplAKWsY%2CWhTpJxlJi2I) )
     - [Çin'de Shang Hanedanlığı](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/shang-dynasty-china) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [7m 28s](https://www.youtube.com/watch_videos?title=%C3%87in%27de+Shang+Hanedanl%C4%B1%C4%9F%C4%B1&video_ids=80CB7yoOxmA) )
     - [Antik Amerika](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/ancient-americas) (2 Articles, 2 Exercises, 1 Video | [7m 42s](https://www.youtube.com/watch_videos?title=Antik+Amerika&video_ids=o2XjXFvruIM) )
     - [İnsanların Gerçekleştirdiği Yenilikler ve Çevre](https://tr.khanacademy.org/humanities/world-history/world-history-beginnings/pre-history-humanity-on-earth-tutorial) (1 Test, 4 Videos | [45m 57s](https://www.youtube.com/watch_videos?title=%C4%B0nsanlar%C4%B1n+Ger%C3%A7ekle%C5%9Ftirdi%C4%9Fi+Yenilikler+ve+%C3%87evre&video_ids=UQSpEKvQxeA%2Ct1K8YdTDmqs%2ChGCLNHJ-aEg%2Chk5QiOaIJRs) )
-  - [MÖ 600 - MS 600 İkinci Dalga Medeniyetleri](https://tr.khanacademy.org/humanities/world-history/ancient-medieval) (18 Topics)
+  - [Antik Çağ ve Ortaçağ Tarihi](https://tr.khanacademy.org/humanities/world-history/ancient-medieval) (18 Topics)
     - [Pers İmparatorluğu](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/ancient-persia) (1 Article, 3 Exercises, 3 Videos | [32m 12s](https://www.youtube.com/watch_videos?title=Pers+%C4%B0mparatorlu%C4%9Fu&video_ids=uLN8VIcvClo%2CEqEEndY0sT8%2CF2tqV9u9vzY) )
     - [Yunan Uygarlığı
 ](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/classical-greece) (3 Articles, 5 Exercises, 7 Videos | [1h 9m 27s](https://www.youtube.com/watch_videos?title=Yunan+Uygarl%C4%B1%C4%9F%C4%B1%0A&video_ids=--zuoW_Z_oQ%2CpwwNxWXf1eU%2Cybcmd6yLH3c%2C9AHqFKc3mKY%2CpJQr77Vzwyk%2CNOMhCVeXW0w%2Cy5jWJA2f2rc) )
-    - [İmparatorlukların Yükselişi ve Çöküşü](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/classical-states-and-empires) (1 Article, 2 Exercises, 2 Videos | [12m 25s](https://www.youtube.com/watch_videos?title=%C4%B0mparatorluklar%C4%B1n+Y%C3%BCkseli%C5%9Fi+ve+%C3%87%C3%B6k%C3%BC%C5%9F%C3%BC&video_ids=g39owvSlC-g%2CWGxQq2jH7vc) )
+    - [Klasik Devletler ve İmparatorluklar](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/classical-states-and-empires) (1 Article, 2 Exercises, 2 Videos | [12m 25s](https://www.youtube.com/watch_videos?title=Klasik+Devletler+ve+%C4%B0mparatorluklar&video_ids=g39owvSlC-g%2CWGxQq2jH7vc) )
     - [Büyük İskender İmparatorluğu
 ](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/alexander-the-great) (1 Article, 4 Videos | [36m 49s](https://www.youtube.com/watch_videos?title=B%C3%BCy%C3%BCk+%C4%B0skender+%C4%B0mparatorlu%C4%9Fu%0A&video_ids=yCUs43CYMoI%2CcNjNtnpw0Nc%2CFyBIHMDLx9E%2CAgYVtucDPt8) )
     - [Roma İmparatorluğu
@@ -4187,59 +3828,54 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Roma Cumhuriyet'inden Roma İmparatorluğu'na](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/roman-a) (1 Article, 3 Exercises, 4 Videos | [41m 5s](https://www.youtube.com/watch_videos?title=Roma+Cumhuriyet%27inden+Roma+%C4%B0mparatorlu%C4%9Fu%27na&video_ids=PG3vxLHo1Ws%2C7DUY9OxFc0E%2Czc_p7Mw1A7U%2CY33LnxG2L80) )
     - [Roma İmparatorluğu](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/roman-empire-survey) (1 Quiz, 4 Videos | [44m 6s](https://www.youtube.com/watch_videos?title=Roma+%C4%B0mparatorlu%C4%9Fu&video_ids=sF3Lh4XT4hg%2CUZ3oEn5Q7U4%2CAZ2nzFtjw3k%2CwDxt-nL95Y4) )
     - [Antik ve Emperyal Çin](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/zhou-qin-han-china) (2 Articles, 5 Exercises, 2 Videos | [17m 47s](https://www.youtube.com/watch_videos?title=Antik+ve+Emperyal+%C3%87in&video_ids=6L9jWmLkaS0%2CiPQ6GB822x4) )
-    - [Erken Dönem Yahudilik](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/judaism) (1 Article, 2 Videos | [16m 11s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Yahudilik&video_ids=cP-fdixB1Zc%2CiBWCZxyElIM) )
-    - [Erken Hristiyanlık Dönemi](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/christianity) (1 Article, 3 Exercises, 1 Quiz, 4 Videos | [47m 13s](https://www.youtube.com/watch_videos?title=Erken+Hristiyanl%C4%B1k+D%C3%B6nemi&video_ids=gUbsSL2OiBg%2CQSC86jWqGKc%2CZ-Xzp-WMv4E%2CT8O4AcTyjHc) )
-    - [Erken Dönem Amerika Kıtaları](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/civilizations-in-the-americas) (1 Article, 1 Exercise, 2 Videos | [15m 53s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Amerika+K%C4%B1talar%C4%B1&video_ids=HPRPaTqNnZk%2C3yb1jBTwMeI) )
-    - [Hindistan İmparatorlukları](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/early-indian-empires) (3 Articles, 3 Exercises, 2 Videos | [17m 45s](https://www.youtube.com/watch_videos?title=Hindistan+%C4%B0mparatorluklar%C4%B1&video_ids=P0zrLZrlyko%2CEZWy7IFBCEQ) )
-    - [Erken Dönem Hinduizm](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/hinduism) (7 Videos | [59m 37s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Hinduizm&video_ids=xBIbflTfxm8%2CkemwplAKWsY%2CWhTpJxlJi2I%2CINv2gdpfXPQ%2CUWTdCorvOWU%2CwE89PE7NS4s%2CSZUipvwNx3w) )
-    - [Erken Dönem Budizmi](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/buddhism-intro) (1 Exercise, 1 Quiz, 5 Videos | [40m 4s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Budizmi&video_ids=WhTpJxlJi2I%2CX-_cJU-pFwQ%2C7OusxN80ZpI%2COmFgyJRj66I%2CaCA6ioTLw-Q) )
+    - [Musevilik](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/judaism) (1 Article, 2 Videos | [16m 11s](https://www.youtube.com/watch_videos?title=Musevilik&video_ids=cP-fdixB1Zc%2CiBWCZxyElIM) )
+    - [Hristiyanlık](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/christianity) (1 Article, 3 Exercises, 1 Quiz, 4 Videos | [47m 13s](https://www.youtube.com/watch_videos?title=Hristiyanl%C4%B1k&video_ids=gUbsSL2OiBg%2CQSC86jWqGKc%2CZ-Xzp-WMv4E%2CT8O4AcTyjHc) )
+    - [Amerika Kıtası](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/civilizations-in-the-americas) (1 Article, 1 Exercise, 2 Videos | [15m 53s](https://www.youtube.com/watch_videos?title=Amerika+K%C4%B1tas%C4%B1&video_ids=HPRPaTqNnZk%2C3yb1jBTwMeI) )
+    - [Hindistan'da Kurulan İmparatorluklar](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/early-indian-empires) (3 Articles, 3 Exercises, 2 Videos | [17m 45s](https://www.youtube.com/watch_videos?title=Hindistan%27da+Kurulan+%C4%B0mparatorluklar&video_ids=P0zrLZrlyko%2CEZWy7IFBCEQ) )
+    - [Hinduizm](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/hinduism) (7 Videos | [59m 37s](https://www.youtube.com/watch_videos?title=Hinduizm&video_ids=xBIbflTfxm8%2CkemwplAKWsY%2CWhTpJxlJi2I%2CINv2gdpfXPQ%2CUWTdCorvOWU%2CwE89PE7NS4s%2CSZUipvwNx3w) )
+    - [Budizm](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/buddhism-intro) (1 Exercise, 1 Quiz, 5 Videos | [40m 4s](https://www.youtube.com/watch_videos?title=Budizm&video_ids=WhTpJxlJi2I%2CX-_cJU-pFwQ%2C7OusxN80ZpI%2COmFgyJRj66I%2CaCA6ioTLw-Q) )
     - [Bağdaştırma](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/syncretism) (1 Article, 1 Exercise, 1 Video | [9m 8s](https://www.youtube.com/watch_videos?title=Ba%C4%9Fda%C5%9Ft%C4%B1rma&video_ids=YwLKEgBnMvc) )
     - [Kadınlar ve Aileler](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/women-and-families) (1 Article, 1 Exercise, 1 Video | [10m 38s](https://www.youtube.com/watch_videos?title=Kad%C4%B1nlar+ve+Aileler&video_ids=rmPqoWYlH-Q) )
-    - [Bölgeler Arası Ticaret: İpek Yolu](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/silk-road) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [6m 54s](https://www.youtube.com/watch_videos?title=B%C3%B6lgeler+Aras%C4%B1+Ticaret%3A+%C4%B0pek+Yolu&video_ids=muLh-dOaw94) )
+    - [İpek Yolu](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/silk-road) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [6m 54s](https://www.youtube.com/watch_videos?title=%C4%B0pek+Yolu&video_ids=muLh-dOaw94) )
     - [İkinci Dalga Uygarlıklar
 ](https://tr.khanacademy.org/humanities/world-history/ancient-medieval/survey-of-second-wave-civilizations) (1 Test, 3 Videos | [21m 16s](https://www.youtube.com/watch_videos?title=%C4%B0kinci+Dalga+Uygarl%C4%B1klar%0A&video_ids=GdlYMKScDj4%2C5-nyXzTfI6s%2C8098y-ZLIHs) )
-  - [600 - 1450 Bölgesel ve Bölgelerarası Etkileşimler](https://tr.khanacademy.org/humanities/world-history/medieval-times) (19 Topics)
+  - [600 - 1450](https://tr.khanacademy.org/humanities/world-history/medieval-times) (19 Topics)
     - [Bizans İmparatorluğu](https://tr.khanacademy.org/humanities/world-history/medieval-times/byzantine-empire) (2 Articles, 2 Exercises, 2 Videos | [17m 11s](https://www.youtube.com/watch_videos?title=Bizans+%C4%B0mparatorlu%C4%9Fu&video_ids=Y4-F3zk7pFc%2CFx4l41R5nxY) )
-    - [Avrupa'da Orta Çağ: Feodalizm ve Serflik](https://tr.khanacademy.org/humanities/world-history/medieval-times/european-middle-ages-and-serfdom) (1 Article, 4 Exercises, 1 Quiz, 5 Videos | [45m 28s](https://www.youtube.com/watch_videos?title=Avrupa%27da+Orta+%C3%87a%C4%9F%3A+Feodalizm+ve+Serflik&video_ids=H5ZJujqa0YQ%2Cp3pYuY4buIk%2C4o6wnbgi6bg%2CZhgUG3JTmoA%2CNRPVX6I6C-A) )
+    - [Avrupa Orta Çağ ve Serflik ](https://tr.khanacademy.org/humanities/world-history/medieval-times/european-middle-ages-and-serfdom) (1 Article, 4 Exercises, 1 Quiz, 5 Videos | [45m 28s](https://www.youtube.com/watch_videos?title=Avrupa+Orta+%C3%87a%C4%9F+ve+Serflik+&video_ids=H5ZJujqa0YQ%2Cp3pYuY4buIk%2C4o6wnbgi6bg%2CZhgUG3JTmoA%2CNRPVX6I6C-A) )
     - [İslamiyet'in Kökenleri](https://tr.khanacademy.org/humanities/world-history/medieval-times/origins-of-islam) (1 Article, 2 Exercises, 4 Videos | [36m 22s](https://www.youtube.com/watch_videos?title=%C4%B0slamiyet%27in+K%C3%B6kenleri&video_ids=NOljVW4a90c%2Crjgp_gPuM4I%2CNfIPhMMqzBA%2CgB7ya6386iA) )
     - [İslamiyet'in Yayılması](https://tr.khanacademy.org/humanities/world-history/medieval-times/spread-of-islam) (2 Articles, 2 Exercises, 2 Videos | [20m 22s](https://www.youtube.com/watch_videos?title=%C4%B0slamiyet%27in+Yay%C4%B1lmas%C4%B1&video_ids=pzOeBI42Yow%2CsDSTgKIQAzE) )
-    - [Sünni ve Şii İslam](https://tr.khanacademy.org/humanities/world-history/medieval-times/islam-intro) (2 Videos | [17m 27s](https://www.youtube.com/watch_videos?title=S%C3%BCnni+ve+%C5%9Eii+%C4%B0slam&video_ids=iMbAu2Oh7PA%2CFygpbbwsSGg) )
-    - [İslam'ın Altın Çağı](https://tr.khanacademy.org/humanities/world-history/medieval-times/cross-cultural-diffusion-of-knowledge) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [10m 44s](https://www.youtube.com/watch_videos?title=%C4%B0slam%27%C4%B1n+Alt%C4%B1n+%C3%87a%C4%9F%C4%B1&video_ids=ojRNx0Jcn14) )
-    - [Büyük Ayrılma](https://tr.khanacademy.org/humanities/world-history/medieval-times/medieval) (4 Videos | [32m 12s](https://www.youtube.com/watch_videos?title=B%C3%BCy%C3%BCk+Ayr%C4%B1lma&video_ids=Z-Xzp-WMv4E%2CT8O4AcTyjHc%2CjqMC4RBE4A0%2Ciql2eFZsV5Y) )
+    - [İslam](https://tr.khanacademy.org/humanities/world-history/medieval-times/islam-intro) (2 Videos | [17m 27s](https://www.youtube.com/watch_videos?title=%C4%B0slam&video_ids=iMbAu2Oh7PA%2CFygpbbwsSGg) )
+    - [Kültürler arası bilgi yayılması](https://tr.khanacademy.org/humanities/world-history/medieval-times/cross-cultural-diffusion-of-knowledge) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [10m 44s](https://www.youtube.com/watch_videos?title=K%C3%BClt%C3%BCrler+aras%C4%B1+bilgi+yay%C4%B1lmas%C4%B1&video_ids=ojRNx0Jcn14) )
+    - [Ortaçağ Avrupası](https://tr.khanacademy.org/humanities/world-history/medieval-times/medieval) (4 Videos | [32m 12s](https://www.youtube.com/watch_videos?title=Orta%C3%A7a%C4%9F+Avrupas%C4%B1&video_ids=Z-Xzp-WMv4E%2CT8O4AcTyjHc%2CjqMC4RBE4A0%2Ciql2eFZsV5Y) )
     - [Haçlı Seferleri](https://tr.khanacademy.org/humanities/world-history/medieval-times/the-crusades-technology-and-culture) (2 Exercises, 1 Quiz, 4 Videos | [32m 21s](https://www.youtube.com/watch_videos?title=Ha%C3%A7l%C4%B1+Seferleri&video_ids=NGyCpI1zE6k%2CNRPVX6I6C-A%2C7LY2CMteGw8%2CT9ACF4I4q0k) )
     - [Moğollar](https://tr.khanacademy.org/humanities/world-history/medieval-times/the-mongols) (4 Videos | [27m 7s](https://www.youtube.com/watch_videos?title=Mo%C4%9Follar&video_ids=e6-aeGnimb8%2CRoefNVxrB-k%2CRnANh25uiBw%2CIx57FZqqPAo) )
     - [Çin'de Song Hanedanlığı](https://tr.khanacademy.org/humanities/world-history/medieval-times/song-china) (2 Exercises, 3 Videos | [22m 9s](https://www.youtube.com/watch_videos?title=%C3%87in%27de+Song+Hanedanl%C4%B1%C4%9F%C4%B1&video_ids=K5UbnilpzXA%2CPn9n-k1JIUo%2CUC6FzTX1htA) )
     - [Orta Çağ'da Japonya](https://tr.khanacademy.org/humanities/world-history/medieval-times/medieval-japan) (1 Quiz, 2 Videos | [10m 10s](https://www.youtube.com/watch_videos?title=Orta+%C3%87a%C4%9F%27da+Japonya&video_ids=-5rBQO0VpWo%2CzLHwRTNbcjI) )
     - [Mayalar, Aztekler ve İnkalar](https://tr.khanacademy.org/humanities/world-history/medieval-times/maya-aztec-and-inca) (2 Exercises, 2 Videos | [9m 50s](https://www.youtube.com/watch_videos?title=Mayalar%2C+Aztekler+ve+%C4%B0nkalar&video_ids=JJyFqosRmLg%2CY4sJkufRxY8) )
     - [Çevre ve Ticaret](https://tr.khanacademy.org/humanities/world-history/medieval-times/environment-and-trade) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [9m 36s](https://www.youtube.com/watch_videos?title=%C3%87evre+ve+Ticaret&video_ids=iMMZ_cHaPMY) )
-    - [İnsan Göçü](https://tr.khanacademy.org/humanities/world-history/medieval-times/migration) (1 Article, 2 Exercises, 1 Video | [8m 15s](https://www.youtube.com/watch_videos?title=%C4%B0nsan+G%C3%B6%C3%A7%C3%BC&video_ids=MYL6OsPv7fE) )
-    - [Yeni Ticaret Şehirlerinin Ortaya Çıkması ](https://tr.khanacademy.org/humanities/world-history/medieval-times/development-of-new-trading-cities) (1 Article, 2 Exercises, 1 Quiz)
-    - [Ticaret Yollarında Kültürel Etkileşimler ](https://tr.khanacademy.org/humanities/world-history/medieval-times/cultural-interactions-along-trade-routes) (1 Article, 2 Exercises)
+    - [Göç](https://tr.khanacademy.org/humanities/world-history/medieval-times/migration) (1 Article, 2 Exercises, 1 Video | [8m 15s](https://www.youtube.com/watch_videos?title=G%C3%B6%C3%A7&video_ids=MYL6OsPv7fE) )
     - [Mali Kurumların Geliştirilmesi](https://tr.khanacademy.org/humanities/world-history/medieval-times/development-of-financial-institutions) (1 Article, 2 Exercises, 1 Quiz, 1 Video | [9m 24s](https://www.youtube.com/watch_videos?title=Mali+Kurumlar%C4%B1n+Geli%C5%9Ftirilmesi&video_ids=T9ACF4I4q0k) )
-    - [Hastalıklar ve Nüfusbilim](https://tr.khanacademy.org/humanities/world-history/medieval-times/disease-and-demography) (1 Article, 2 Exercises)
-    - [İslam Dünyasında Sosyal Kurumlar](https://tr.khanacademy.org/humanities/world-history/medieval-times/social-institutions-in-the-islamic-world) (1 Article, 2 Exercises, 1 Test)
-  - [1450 - 1750 Rönesans ve Reform](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation) (6 Topics)
+  - [1500-1600: Rönesans ve Reform](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation) (6 Topics)
     - [İspanya ve Portekiz İmparatorlukları](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation/spanish-and-portuguese-empires) (1 Video | [9m 48s](https://www.youtube.com/watch_videos?title=%C4%B0spanya+ve+Portekiz+%C4%B0mparatorluklar%C4%B1&video_ids=vYV43Ti1iYw) )
-    - [Bilimsel Devrim ve Aydınlanma](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation/scientific-revolution-enlightenment) (1 Video | [8m 31s](https://www.youtube.com/watch_videos?title=Bilimsel+Devrim+ve+Ayd%C4%B1nlanma&video_ids=Y2s_ryE6QC0) )
+    - [ Bilimsel Devrim ve Aydınlanma](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation/scientific-revolution-enlightenment) (1 Video | [8m 31s](https://www.youtube.com/watch_videos?title=+Bilimsel+Devrim+ve+Ayd%C4%B1nlanma&video_ids=Y2s_ryE6QC0) )
     - [Hindistan'da Babür Hakimiyeti](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation/mughal-dynasty) (2 Videos | [16m 33s](https://www.youtube.com/watch_videos?title=Hindistan%27da+Bab%C3%BCr+Hakimiyeti&video_ids=mGnm89Rfi98%2CIx57FZqqPAo) )
     - [Sihizm](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation/sikhism) (2 Videos | [21m 59s](https://www.youtube.com/watch_videos?title=Sihizm&video_ids=925fZ4WKISo%2ClIHJcTf31NM) )
     - [Protestan Reformu](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation/protestant-reformation) (3 Articles, 2 Exercises, 4 Videos | [37m 30s](https://www.youtube.com/watch_videos?title=Protestan+Reformu&video_ids=NHsxQiWgyaY%2CaKefXapoZUs%2Cb4tcJRC0ouk%2CwX796f4u9Ws) )
     - [Rus İmparatorluğu](https://tr.khanacademy.org/humanities/world-history/renaissance-and-reformation/russian-empire) (1 Video | [9m 53s](https://www.youtube.com/watch_videos?title=Rus+%C4%B0mparatorlu%C4%9Fu&video_ids=iqG7RDCpZGg) )
-  - [1750 - 1900 Aydınlanma ve Devrim ](https://tr.khanacademy.org/humanities/world-history/1600s-1800s) (7 Topics)
+  - [1600'lü-1800'lü yıllarda: Aydınlanma ve devrim](https://tr.khanacademy.org/humanities/world-history/1600s-1800s) (7 Topics)
     - [Amerikan Devrimi](https://tr.khanacademy.org/humanities/world-history/1600s-1800s/seven-years-war) (4 Videos | [45m 19s](https://www.youtube.com/watch_videos?title=Amerikan+Devrimi&video_ids=UAhbwYBAoe0%2CegCzfiaUYPA%2Cer1L9BB6UoE%2CRk8dCnKIfP4) )
     - [Fransız İhtilali](https://tr.khanacademy.org/humanities/world-history/1600s-1800s/french-revolution-tutorial) (4 Videos | [1h 12m 13s](https://www.youtube.com/watch_videos?title=Frans%C4%B1z+%C4%B0htilali&video_ids=Bi_VpgYBkaA%2Cd76V81uVhBM%2CQG8Trsik7wA%2CYe9F2Zd-_Ao) )
     - [Napolyon Bonapart](https://tr.khanacademy.org/humanities/world-history/1600s-1800s/napoleon-bonaparte) (7 Videos | [1h 52m 24s](https://www.youtube.com/watch_videos?title=Napolyon+Bonapart&video_ids=WIqeDmtFatI%2CHydyYbX4t08%2C3AIE9u0AQbk%2C7BNkLIWQYhM%2CA8BRFtnvJp4%2CCexRXjlaO_M%2CHegrtJ4SxSg) )
     - [Fransa'da Olan Birçok Devrim ve Cumhuriyetler](https://tr.khanacademy.org/humanities/world-history/1600s-1800s/many-french-revolutions) (1 Video | [11m 3s](https://www.youtube.com/watch_videos?title=Fransa%27da+Olan+Bir%C3%A7ok+Devrim+ve+Cumhuriyetler&video_ids=ShkFloKdiWM) )
     - [Haiti Devrimi](https://tr.khanacademy.org/humanities/world-history/1600s-1800s/haitian-revolution) (2 Videos | [44m 9s](https://www.youtube.com/watch_videos?title=Haiti+Devrimi&video_ids=Qz5zFzvbib4%2CgU-5bjpAPmA) )
-    - [Latin Amerika'nın Bağımsızlığı](https://tr.khanacademy.org/humanities/world-history/1600s-1800s/latin-american-independence) (1 Video | [5m 49s](https://www.youtube.com/watch_videos?title=Latin+Amerika%27n%C4%B1n+Ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1%C4%9F%C4%B1&video_ids=y6lIgVSvizk) )
+    - [Amerika Kıtalarında Bağımsızlık](https://tr.khanacademy.org/humanities/world-history/1600s-1800s/latin-american-independence) (1 Video | [5m 49s](https://www.youtube.com/watch_videos?title=Amerika+K%C4%B1talar%C4%B1nda+Ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1k&video_ids=y6lIgVSvizk) )
     - [Emperyalizm](https://tr.khanacademy.org/humanities/world-history/1600s-1800s/imperialism) (3 Videos | [25m 29s](https://www.youtube.com/watch_videos?title=Emperyalizm&video_ids=gtXg_rebBQc%2CVlZpo580bA8%2CQhgUkvdqtmk) )
-  - [20. Yüzyıl ](https://tr.khanacademy.org/humanities/world-history/euro-hist) (13 Topics)
+  - [Dünya Tarihi](https://tr.khanacademy.org/humanities/world-history/euro-hist) (13 Topics)
     - [I. Dünya Savaşı'nın Başlangıcı](https://tr.khanacademy.org/humanities/world-history/euro-hist/world-war-i-tutorial) (1 Exercise, 6 Videos | [33m 9s](https://www.youtube.com/watch_videos?title=I.+D%C3%BCnya+Sava%C5%9F%C4%B1%27n%C4%B1n+Ba%C5%9Flang%C4%B1c%C4%B1&video_ids=zFe5aAq1SN4%2C4HmMelnCcME%2C9aOLJaUqBtU%2CK28dCxxL2JM%2CfT5UdYUzI4k%2Cc3NCLvTQpBc) )
-    - [I. Dünya Savaşı'nın Diğer Cepheleri](https://tr.khanacademy.org/humanities/world-history/euro-hist/other-fronts-ww1) (1 Exercise, 5 Videos | [28m 2s](https://www.youtube.com/watch_videos?title=I.+D%C3%BCnya+Sava%C5%9F%C4%B1%27n%C4%B1n+Di%C4%9Fer+Cepheleri&video_ids=qCd1XYHbFVk%2Cq_yKNL46wxs%2C9JRtGd2fWaM%2Cf-TdRy1lOXo%2CBcd-TNbclWc) )
+    - [1. Dünya Savaşı'nda Sırp ve İtalyan cepheleri](https://tr.khanacademy.org/humanities/world-history/euro-hist/other-fronts-ww1) (1 Exercise, 5 Videos | [28m 2s](https://www.youtube.com/watch_videos?title=1.+D%C3%BCnya+Sava%C5%9F%C4%B1%27nda+S%C4%B1rp+ve+%C4%B0talyan+cepheleri&video_ids=qCd1XYHbFVk%2Cq_yKNL46wxs%2C9JRtGd2fWaM%2Cf-TdRy1lOXo%2CBcd-TNbclWc) )
     - [I. Dünya Savaşı'nda Batı ve Doğu Cepheleri](https://tr.khanacademy.org/humanities/world-history/euro-hist/world-war-i-fighting) (1 Exercise, 6 Videos | [48m 30s](https://www.youtube.com/watch_videos?title=I.+D%C3%BCnya+Sava%C5%9F%C4%B1%27nda+Bat%C4%B1+ve+Do%C4%9Fu+Cepheleri&video_ids=YHcDIiH65Pg%2CD7BHCF3xENA%2CFeF_ZZiS0sg%2CJsG8LS26yi4%2CalrgfyzKYDM%2CLhnuR3ow9Ro) )
-    - [Kuşatmalar ve ABD'nin I. Dünya Savaşı'na Girişi](https://tr.khanacademy.org/humanities/world-history/euro-hist/american-entry-world-war-i) (2 Articles, 1 Exercise, 1 Quiz, 3 Videos | [23m 19s](https://www.youtube.com/watch_videos?title=Ku%C5%9Fatmalar+ve+ABD%27nin+I.+D%C3%BCnya+Sava%C5%9F%C4%B1%27na+Giri%C5%9Fi&video_ids=NPT2X-USHl8%2Cu7FuuY_t-8k%2C8QOppaMB-S0) )
-    - [Birinci Dünya Savaşı'nın Orta Doğu Üzerindeki Etkileri
-](https://tr.khanacademy.org/humanities/world-history/euro-hist/middle-east-20th-century) (1 Exercise, 4 Videos | [43m 33s](https://www.youtube.com/watch_videos?title=Birinci+D%C3%BCnya+Sava%C5%9F%C4%B1%27n%C4%B1n+Orta+Do%C4%9Fu+%C3%9Czerindeki+Etkileri%0A&video_ids=HQIUgFiYaZo%2CcrUsTXP4isM%2CuPFPlVfdf0k%2C8LVsVKzIUVY) )
+    - [Amerika'nın Büyük Savaş'a Girişi (1. Dünya Savaşı)](https://tr.khanacademy.org/humanities/world-history/euro-hist/american-entry-world-war-i) (2 Articles, 1 Exercise, 1 Quiz, 3 Videos | [23m 19s](https://www.youtube.com/watch_videos?title=Amerika%27n%C4%B1n+B%C3%BCy%C3%BCk+Sava%C5%9F%27a+Giri%C5%9Fi+%281.+D%C3%BCnya+Sava%C5%9F%C4%B1%29&video_ids=NPT2X-USHl8%2Cu7FuuY_t-8k%2C8QOppaMB-S0) )
+    - [20. Yüzyıl'da Arabistan ve İsrail](https://tr.khanacademy.org/humanities/world-history/euro-hist/middle-east-20th-century) (1 Exercise, 4 Videos | [43m 33s](https://www.youtube.com/watch_videos?title=20.+Y%C3%BCzy%C4%B1l%27da+Arabistan+ve+%C4%B0srail&video_ids=HQIUgFiYaZo%2CcrUsTXP4isM%2CuPFPlVfdf0k%2C8LVsVKzIUVY) )
     - [I. Dünya Savaşı'nın Sonuçları](https://tr.khanacademy.org/humanities/world-history/euro-hist/ww1-aftermath) (2 Exercises, 1 Quiz, 5 Videos | [48m 31s](https://www.youtube.com/watch_videos?title=I.+D%C3%BCnya+Sava%C5%9F%C4%B1%27n%C4%B1n+Sonu%C3%A7lar%C4%B1&video_ids=Amejqs9AB9U%2C_b9Nv-a8eZ4%2C-dndE9kKWOs%2CRN8Js2ERcpo%2C8LVsVKzIUVY) )
     - [Hitler'in Yükselişi ve Naziler
 ](https://tr.khanacademy.org/humanities/world-history/euro-hist/hitler-nazis) (1 Exercise, 5 Videos | [40m 13s](https://www.youtube.com/watch_videos?title=Hitler%27in+Y%C3%BCkseli%C5%9Fi+ve+Naziler%0A&video_ids=SC2CITgTeSY%2CfJ58B9RFebY%2CNZKmIKppbmI%2Cvy86FBxNBDs%2CzuDD4BfA4Hg) )
@@ -4250,12 +3886,11 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [İkinci Dünya Savaşı'na Genel Bakış
 ](https://tr.khanacademy.org/humanities/world-history/euro-hist/wo) (9 Videos | [1h 4m 24s](https://www.youtube.com/watch_videos?title=%C4%B0kinci+D%C3%BCnya+Sava%C5%9F%C4%B1%27na+Genel+Bak%C4%B1%C5%9F%0A&video_ids=YXOUm6F3LFU%2Cqo5h7LGF5Pc%2CtV2n8nsUECs%2CGszfBxyzQBI%2CcTnnl-sxUtk%2C8eLXvpVpD9U%2CoPNGKCNDxCE%2ClJ5QvJeLL50%2C9z_YTypZ1u8) )
     - [Soğuk Savaş](https://tr.khanacademy.org/humanities/world-history/euro-hist/cold-war) (7 Videos | [1h 45m 56s](https://www.youtube.com/watch_videos?title=So%C4%9Fuk+Sava%C5%9F&video_ids=Cb1yy5CgKJI%2C7mYyKVVzugk%2CZYFQgcOECic%2CceFZeMzV4zc%2C_m7C-76_5CU%2C5SyF6RA2oyc%2CTh6u1e8SQgU) )
-    - [İnsan Hakları](https://tr.khanacademy.org/humanities/world-history/euro-hist/human-rights) (1 Test, 3 Videos | [28m 37s](https://www.youtube.com/watch_videos?title=%C4%B0nsan+Haklar%C4%B1&video_ids=xjh0L2Km_cs%2C5CZ0oZ_lXSY%2C8xIA10NQakI) )
+    - [ İnsan Hakları](https://tr.khanacademy.org/humanities/world-history/euro-hist/human-rights) (1 Test, 3 Videos | [28m 37s](https://www.youtube.com/watch_videos?title=+%C4%B0nsan+Haklar%C4%B1&video_ids=xjh0L2Km_cs%2C5CZ0oZ_lXSY%2C8xIA10NQakI) )
 
 ## [Müzik](https://tr.khanacademy.org/humanities/music) (3 Topics)
-  - [Müzikte Temel Bilgiler
-](https://tr.khanacademy.org/humanities/music/music-basics2) (2 Topics)
-    - [Notalar ve Ritim](https://tr.khanacademy.org/humanities/music/music-basics2/notes-rhythm) (1 Article, 6 Videos | [25m 18s](https://www.youtube.com/watch_videos?title=Notalar+ve+Ritim&video_ids=9ZtDqDjxxSc%2C59XgDmUZ75A%2Cmn6CDWk4Cak%2C2Cje9bBESI0%2Cw89mmoD0O4c%2CesbqpgAD-EM) )
+  - [Müzikte Temel Bilgiler](https://tr.khanacademy.org/humanities/music/music-basics2) (2 Topics)
+    - [Müziğin temelleri: notalar ve ritim](https://tr.khanacademy.org/humanities/music/music-basics2/notes-rhythm) (1 Article, 6 Videos | [25m 18s](https://www.youtube.com/watch_videos?title=M%C3%BCzi%C4%9Fin+temelleri%3A+notalar+ve+ritim&video_ids=9ZtDqDjxxSc%2C59XgDmUZ75A%2Cmn6CDWk4Cak%2C2Cje9bBESI0%2Cw89mmoD0O4c%2CesbqpgAD-EM) )
     - [Müziği Okumak
 ](https://tr.khanacademy.org/humanities/music/music-basics2/reading-music2) (1 Article, 10 Videos | [28m 44s](https://www.youtube.com/watch_videos?title=M%C3%BCzi%C4%9Fi+Okumak%0A&video_ids=rpYRUQvArEY%2COPEfSEyFET4%2C3SQOfqHJ1QM%2CpC1qyX4w96E%2C90S0Ru8qww8%2CPuD_ppGtv3I%2Cr9JS_vZOGVg%2C7rwd7i6Ls9M%2CN1lLDGCeh3k%2CMzHqA8pCWKk) )
   - [Eski ve Yeni Başyapıtlar
@@ -4265,8 +3900,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/tchaikovsky-4th) (4 Videos | [32m 13s](https://www.youtube.com/watch_videos?title=Pyotr+%C4%B0lyi%C3%A7+%C3%87aykovski%3A+Senfoni+No.4%0A&video_ids=9_-YqgZs6vI%2CknQtiFUyCi8%2CBsLnura5zwE%2C7X1_3i9DimY) )
     - [Robert Schumann: 3. Senfoni "Rhenish"](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/schumann-thirdsymph-analysis) (5 Videos | [27m 28s](https://www.youtube.com/watch_videos?title=Robert+Schumann%3A+3.+Senfoni+%22Rhenish%22&video_ids=yI7kDoB6YsI%2C4xCD0k7rUbo%2CPFX9BFI3--g%2ChiWFB_iS0OE%2CH7dVIruG-oU) )
     - [Johannes Brahms: Akademik Festival Uvertürü](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/brahms-overture) (1 Video | [12m 12s](https://www.youtube.com/watch_videos?title=Johannes+Brahms%3A+Akademik+Festival+Uvert%C3%BCr%C3%BC&video_ids=VIV-yJfIrlI) )
-    - [Antonín Dvořák: 9. Senfoni  "From the New World" (Yeni Dünyadan)
-](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/antonin-dvorak-music) (5 Videos | [38m 57s](https://www.youtube.com/watch_videos?title=Anton%C3%ADn+Dvo%C5%99%C3%A1k%3A+9.+Senfoni+%C2%A0%22From+the+New+World%22+%28Yeni+D%C3%BCnyadan%29%0A&video_ids=4vuybxJvRuA%2CEgzqu5DWwbA%2CumoSO56Nwa8%2C9x1vnGfIE8k%2CAqvaQfbAC64) )
+    - [Antonín Dvořák. "Yeni Dünya"dan 9. Senfoni](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/antonin-dvorak-music) (5 Videos | [38m 57s](https://www.youtube.com/watch_videos?title=Anton%C3%ADn+Dvo%C5%99%C3%A1k.+%22Yeni+D%C3%BCnya%22dan+9.+Senfoni&video_ids=4vuybxJvRuA%2CEgzqu5DWwbA%2CumoSO56Nwa8%2C9x1vnGfIE8k%2CAqvaQfbAC64) )
     - [Gustav Mahler: Senfoni No: 2 - 1. Hareket
 ](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/mahler-sym-2) (2 Videos | [26m 42s](https://www.youtube.com/watch_videos?title=Gustav+Mahler%3A+Senfoni+No%3A+2+-+1.+Hareket%0A&video_ids=VZVN-MKI5MM%2CciSWiGwESOY) )
     - [Igor Stravinsky: Suite from The Firebird (Ateş Kuşundan Bir Süit)
@@ -4280,8 +3914,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/bernard-rands-music) (1 Video | [10m 6s](https://www.youtube.com/watch_videos?title=Bernard+Rands%3A+Adieu+%28Elveda%29%0A&video_ids=WYI4u3beRdM) )
     - [Augusta Read Thomas: Of Paradise and Light (Cennet ve Işık Hakkında)
 ](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/augusta-read-thomas-music) (1 Video | [7m 35s](https://www.youtube.com/watch_videos?title=Augusta+Read+Thomas%3A+Of+Paradise+and+Light+%28Cennet+ve+I%C5%9F%C4%B1k+Hakk%C4%B1nda%29%0A&video_ids=7BEbEZstN_k) )
-    - [Bright Sheng: "Siyah Kuğu". Besteci ve Eseri
-](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/sheng) (1 Video | [10m 10s](https://www.youtube.com/watch_videos?title=Bright+Sheng%3A+%22Siyah+Ku%C4%9Fu%22.+Besteci+ve+Eseri%0A&video_ids=Lbm4ouevlVo) )
+    - [Bright Sheng: Black Swan](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/sheng) (1 Video | [10m 10s](https://www.youtube.com/watch_videos?title=Bright+Sheng%3A+Black+Swan&video_ids=Lbm4ouevlVo) )
     - [Richard Danielpour: 4. Piyano Konçertosu, Üçüncü Bölüm
 ](https://tr.khanacademy.org/humanities/music/music-masterpieces-old-new/danielpour-concerto-analysis-music) (1 Video | [7m 1s](https://www.youtube.com/watch_videos?title=Richard+Danielpour%3A+4.+Piyano+Kon%C3%A7ertosu%2C+%C3%9C%C3%A7%C3%BCnc%C3%BC+B%C3%B6l%C3%BCm%0A&video_ids=t-0Sv1lbFTA) )
     - [David Stock: Blast! (Büyük Patlama)
@@ -4301,8 +3934,7 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
 ](https://tr.khanacademy.org/humanities/music/music-instruments-orchestra/percussion-music) (3 Videos | [26m 49s](https://www.youtube.com/watch_videos?title=Vurmal%C4%B1+%C3%87alg%C4%B1lar%0A&video_ids=-kn_8vUT0eI%2Cr2syXj4Eb6w%2CH235paj_4PE) )
 
 ## [Sanat Tarihinde Özel Konular](https://tr.khanacademy.org/humanities/special-topics-art-history) (3 Topics)
-  - [Seeing America (Amerikan tarihini hayata geçiren sanat: Amerika'yı Görmek) ](https://tr.khanacademy.org/humanities/special-topics-art-history/seeing-america) (7 Topics)
-    - ["Seeing America" (Amerika'yı Görmek videoları) Hakkında](https://tr.khanacademy.org/humanities/special-topics-art-history/seeing-america/about-seeing-america) (2 Articles)
+  - [Amerika'yı Görmek](https://tr.khanacademy.org/humanities/special-topics-art-history/seeing-america) (7 Topics)
     - [Ulusal Kimlik](https://tr.khanacademy.org/humanities/special-topics-art-history/seeing-america/national-identity) (20 Articles, 20 Videos | [2h 1m 42s](https://www.youtube.com/watch_videos?title=Ulusal+Kimlik&video_ids=Auczc5MpYtc%2COpdr_qnGPcw%2Ciy3do7JTTKo%2CmZn-QTqExd8%2CkRSalPQepTo%2CD7o-kAP8PqA%2C3PAKSd5bLck%2Cv9le45EsCVA%2CxcF7H2hyD6A%2CXlhMVLFjkyE%2C1zuV_VH1Ep8%2ChEzxajyvFEc%2C8kfrFEiGGzg%2CwEJdcLxDGxg%2CReJT-a4EtQQ%2Cpv4WGBgVZ-c%2C2O0KBHom5bg%2CBa8Jsja1dEM%2CskHR8wrO490%2C_GfSvZDHxgU) )
     - [Siyaset ve İktidar](https://tr.khanacademy.org/humanities/special-topics-art-history/seeing-america/politics-and-power) (11 Articles, 11 Videos | [1h 5m 36s](https://www.youtube.com/watch_videos?title=Siyaset+ve+%C4%B0ktidar&video_ids=ZLautKzkMc0%2C5oUfPT8LJxI%2CgDNvhbCtNU0%2COtDT_WcIEgo%2CARSO10l_NFo%2Ct2JQQcD59xs%2CKa9tX3wdyb4%2CSiehSRzNyQ8%2C-r4KQZ5TZ54%2CAc9Qi6sVyyU%2ChXm8NZWlGRg) )
     - [İş, Karşılıklı Alıp Verme ve Teknoloji](https://tr.khanacademy.org/humanities/special-topics-art-history/seeing-america/work-exchange-and-technology) (9 Articles, 9 Videos | [54m 22s](https://www.youtube.com/watch_videos?title=%C4%B0%C5%9F%2C+Kar%C5%9F%C4%B1l%C4%B1kl%C4%B1+Al%C4%B1p+Verme+ve+Teknoloji&video_ids=osAtCi-W1bk%2CPfHBVVPhVvM%2CpF3Cjcnnx5k%2CxerjJiBUKxw%2Cn-UwgEq2RKQ%2CtyOQTuvDOVQ%2CPEmpUQzkvMc%2C8mjUuMkGy6s%2CWIhf3UBNTlA) )
@@ -4310,7 +3942,6 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Coğrafya ve Çevre](https://tr.khanacademy.org/humanities/special-topics-art-history/seeing-america/geography-and-environment) (2 Articles, 4 Videos | [22m 16s](https://www.youtube.com/watch_videos?title=Co%C4%9Frafya+ve+%C3%87evre&video_ids=-hxHPhEXFr8%2CBjlOZ2a8RGM%2CyehqkifeEFU%2CB7MzNE66TlI) )
     - [Göç ve Yerleşim](https://tr.khanacademy.org/humanities/special-topics-art-history/seeing-america/migration-and-settlement) (1 Video | [4m 16s](https://www.youtube.com/watch_videos?title=G%C3%B6%C3%A7+ve+Yerle%C5%9Fim&video_ids=1LrHCPUeACE) )
   - [Risk Altındaki Kültürel Miras Eğitim Serisi](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series) (11 Topics)
-    - [Yeni Başlayanlar için Rehber](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/arches-beginners-guide) (4 Articles)
     - [Kimin sanatı?](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/whose-art) (4 Videos | [35m](https://www.youtube.com/watch_videos?title=Kimin+sanat%C4%B1%3F&video_ids=dOfFdl6uitI%2CTJ1l9Sp_A68%2C8SQoJDlNth0%2C6iZCvBu6pbM) )
     - [Arkeolojinin Rolü](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/the-role-of-archaeology) (2 Articles, 2 Videos | [13m 31s](https://www.youtube.com/watch_videos?title=Arkeolojinin+Rol%C3%BC&video_ids=7R0i_T6O9nA%2CdY_BVSOF4Fk) )
     - [Yıkım, Kaçakçılık ve Koruma](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/trafficking-protection) (4 Articles, 1 Video | [2m 47s](https://www.youtube.com/watch_videos?title=Y%C4%B1k%C4%B1m%2C+Ka%C3%A7ak%C3%A7%C4%B1l%C4%B1k+ve+Koruma&video_ids=J1t1UlkVGR8) )
@@ -4319,27 +3950,23 @@ Trigonometrik Özdeşlikleri Kullanarak Problem Çözme
     - [Risk Altındaki Kültürel Miras: Avrupa ve Batı Asya](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/endangered-heritage-europe-west-asia) (2 Articles, 6 Videos | [36m 33s](https://www.youtube.com/watch_videos?title=Risk+Alt%C4%B1ndaki+K%C3%BClt%C3%BCrel+Miras%3A+Avrupa+ve+Bat%C4%B1+Asya&video_ids=IEmAVoFRD0k%2CovcWVu3XfAQ%2CvgV1yzP0ZTI%2CYG6b2jADjtc%2CFiBAXuiQPxc%2Cm-Ox1qaPXew) )
     - [Risk Altındaki Kültürel Miras: Pasifik Adaları](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/endangered-heritage-pacific-islands) (1 Article, 1 Video | [7m 57s](https://www.youtube.com/watch_videos?title=Risk+Alt%C4%B1ndaki+K%C3%BClt%C3%BCrel+Miras%3A+Pasifik+Adalar%C4%B1&video_ids=b06FwTP9TOU) )
     - [Risk Altındaki Kültürel Miras: Güneydoğu Asya](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/endangered-heritage-southeast-asia) (1 Article, 3 Videos | [11m 41s](https://www.youtube.com/watch_videos?title=Risk+Alt%C4%B1ndaki+K%C3%BClt%C3%BCrel+Miras%3A+G%C3%BCneydo%C4%9Fu+Asya&video_ids=ncLt9beOGas%2C0MlIdJ9NUUI%2CvVLvByoJxBo) )
-    - [Şimdi Ne Yapabilirsiniz](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/what-you-can-do-now) (3 Articles)
-    - [Arkaplandaki Hikayeler: Diğer Tehlike Altındaki Nesneler ve Alanlar](https://tr.khanacademy.org/humanities/special-topics-art-history/arches-at-risk-cultural-heritage-education-series/backstories-additional-endangered-objects-and-sites) (20 Articles)
-  - [Oluşturma & Koruma (Konservasyon)](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving) (17 Topics)
+  - [Sanatçıların kullandığı malzemeler ve teknikler](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving) (17 Topics)
     - [Konservatörün Gözünden](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/conservators-eye) (6 Videos | [35m 33s](https://www.youtube.com/watch_videos?title=Konservat%C3%B6r%C3%BCn+G%C3%B6z%C3%BCnden&video_ids=jVeLFTHWBYA%2CxPXt8a5tpSE%2CtlComrRc19Y%2Cc3OzIzNhgu8%2C5khYppm7m-k%2CNJ-zBvrs8CQ) )
     - [Konservasyon Nedir?](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/what-is-conservation) (4 Videos | [11m 25s](https://www.youtube.com/watch_videos?title=Konservasyon+Nedir%3F&video_ids=15fho2dH5KA%2C_zEpOT0k_x4%2Csj_JOO2L42s%2CmU2pcyDTwOk) )
     - [Renkler Hakkında](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/about-color) (3 Videos | [8m 59s](https://www.youtube.com/watch_videos?title=Renkler+Hakk%C4%B1nda&video_ids=wMAqn2jwBfg%2CIyYYs9Q_3kY%2CaM8YesqAKoc) )
-    - [Resim Yapma Malzemeleri](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/painting-materials-techniques) (6 Videos | [43m 46s](https://www.youtube.com/watch_videos?title=Resim+Yapma+Malzemeleri&video_ids=x9Ox8GE0yok%2CWVyusmjiTXI%2Cw5cIG0Q2zLQ%2CHI4Pre5WzQQ%2CEfybpyrn5eQ%2C2KfU9SMWpMI) )
+    - [Resim](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/painting-materials-techniques) (6 Videos | [43m 46s](https://www.youtube.com/watch_videos?title=Resim&video_ids=x9Ox8GE0yok%2CWVyusmjiTXI%2Cw5cIG0Q2zLQ%2CHI4Pre5WzQQ%2CEfybpyrn5eQ%2C2KfU9SMWpMI) )
     - [Tablo Konservasyonu](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/painting-conservation) (12 Videos | [1h 23m 41s](https://www.youtube.com/watch_videos?title=Tablo+Konservasyonu&video_ids=b30EHnkXb7s%2CcC9mFALBdZQ%2CbNpDtkP6jqw%2Chrd3hdosby8%2Cp5wLoirY5ow%2C26piCpAOjzQ%2CmaUcULquTXc%2C4Rc3TAoXocg%2COao7yn2Do7s%2Cg1gv5Zpe2mk%2COlnMNKBuadA%2CAGqAggmwyMU) )
-    - [
-Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/how-to-paint) (7 Videos | [58m 6s](https://www.youtube.com/watch_videos?title=%0AA%C5%9Fa%C4%9F%C4%B1daki+ressamlar+gibi+tablo+yap%C4%B1n...&video_ids=MQmjzi9D8TQ%2CuQTGfb81i3w%2CGAsBWbXG9sk%2Cvg-vCsD6ZFU%2CfZBC3nmvJb8%2Cr7sJ_WNiSrs%2C5VSAiypBrUw) )
-    - [Resim Yapmaya Dair Terimler](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/painting-terms-in-action) (8 Videos | [6m 47s](https://www.youtube.com/watch_videos?title=Resim+Yapmaya+Dair+Terimler&video_ids=Xs1OcRLCcgY%2CHZfSGjBCo0A%2CMFXXAZbGIsc%2C4GOTjOQxdwQ%2CxURB4BzXN-4%2CMwr2aoDEXqI%2Ck1GBEhMGy_w%2CLLfRBigRvkM) )
+    - [Resim](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/how-to-paint) (7 Videos | [58m 6s](https://www.youtube.com/watch_videos?title=Resim&video_ids=MQmjzi9D8TQ%2CuQTGfb81i3w%2CGAsBWbXG9sk%2Cvg-vCsD6ZFU%2CfZBC3nmvJb8%2Cr7sJ_WNiSrs%2C5VSAiypBrUw) )
+    - [Yeni Konu](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/painting-terms-in-action) (8 Videos | [6m 47s](https://www.youtube.com/watch_videos?title=Yeni+Konu&video_ids=Xs1OcRLCcgY%2CHZfSGjBCo0A%2CMFXXAZbGIsc%2C4GOTjOQxdwQ%2CxURB4BzXN-4%2CMwr2aoDEXqI%2Ck1GBEhMGy_w%2CLLfRBigRvkM) )
     - [Heykel](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/sculpture) (1 Article, 9 Videos | [59m 42s](https://www.youtube.com/watch_videos?title=Heykel&video_ids=5IIqTbhQjbg%2CZL2vVQ-6zEs%2CGUy9y-l0Srg%2CKedSxpyRswE%2CcMEX4gAkoJQ%2C9Wb-T1F033Q%2C3oznnP6SkSc%2C5SOsco_DA4g%2CALxLQqPhTq4) )
     - [Baskı Resim](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/printmaking) (7 Videos | [26m 27s](https://www.youtube.com/watch_videos?title=Bask%C4%B1+Resim&video_ids=3JndWmTT8Z8%2CLM9VrriljZg%2CGiDLF9hDlrE%2CLZHEEF-YoJU%2CH4KPEB-h8gw%2CWwwi09-lgEA%2C1-RC4dROiNY) )
-    - [Çizim ve El Yazmaları](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/manuscripts-works-on-paper) (4 Videos | [22m 27s](https://www.youtube.com/watch_videos?title=%C3%87izim+ve+El+Yazmalar%C4%B1&video_ids=Lm5Si7Uwu2g%2CVIg16kBp6fk%2CmqZo9K-oI48%2CV5znnlPkwQg) )
-    - [Fotoğraflar](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/photographs) (1 Article, 12 Videos | [1h 2m 44s](https://www.youtube.com/watch_videos?title=Foto%C4%9Fraflar&video_ids=wtsla7HYj1M%2CfKT0l1ewhQI%2C7-dlYNxcpVs%2C2h36_hga_kQ%2CML_78fQwsRs%2CCXI1o14BULE%2CP5iF97w2CoI%2Cjzzsw1hR9G8%2CcOqsaCu-_yw%2CVqWyJstBSoo%2C8tr27mhztCM%2CbFDHH5sko08) )
-    - [Seramikler ve Vernik](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/ceramics-glass) (1 Article, 2 Videos | [8m 36s](https://www.youtube.com/watch_videos?title=Seramikler+ve+Vernik&video_ids=HKHFg2n6Eus%2C8IIyRlCZAVc) )
+    - [El Yazmaları ve Kağıt Üzerindeki İşler](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/manuscripts-works-on-paper) (4 Videos | [22m 27s](https://www.youtube.com/watch_videos?title=El+Yazmalar%C4%B1+ve+Ka%C4%9F%C4%B1t+%C3%9Czerindeki+%C4%B0%C5%9Fler&video_ids=Lm5Si7Uwu2g%2CVIg16kBp6fk%2CmqZo9K-oI48%2CV5znnlPkwQg) )
+    - [fotoğraf oluşturma](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/photographs) (1 Article, 12 Videos | [1h 2m 44s](https://www.youtube.com/watch_videos?title=foto%C4%9Fraf+olu%C5%9Fturma&video_ids=wtsla7HYj1M%2CfKT0l1ewhQI%2C7-dlYNxcpVs%2C2h36_hga_kQ%2CML_78fQwsRs%2CCXI1o14BULE%2CP5iF97w2CoI%2Cjzzsw1hR9G8%2CcOqsaCu-_yw%2CVqWyJstBSoo%2C8tr27mhztCM%2CbFDHH5sko08) )
+    - [Seramik ve cam](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/ceramics-glass) (1 Article, 2 Videos | [8m 36s](https://www.youtube.com/watch_videos?title=Seramik+ve+cam&video_ids=HKHFg2n6Eus%2C8IIyRlCZAVc) )
     - [Mozaik, Metal İşleri ve Cam](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/mosaic-metalwork-and-glass) (2 Articles, 7 Videos | [24m 51s](https://www.youtube.com/watch_videos?title=Mozaik%2C+Metal+%C4%B0%C5%9Fleri+ve+Cam&video_ids=XRbroLft_hA%2CWAdz928YzVs%2CYYRrwSi4cH0%2CA25l7STTy0c%2CtlComrRc19Y%2ClJELr9Xutk4%2CtjCWOISzMzg) )
     - [Kumaşlar](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/textiles) (3 Videos | [21m 37s](https://www.youtube.com/watch_videos?title=Kuma%C5%9Flar&video_ids=jIbu-dJuEh0%2CxkKwV_W4XPU%2CVWrjvjzOoDI) )
     - [Çerçeveler](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/frames) (3 Videos | [12m 32s](https://www.youtube.com/watch_videos?title=%C3%87er%C3%A7eveler&video_ids=BLkQwn0Z7uc%2CGRiKDtGiyFE%2CnRGNZarDTR8) )
     - [Mimari](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/conserving-architecture) (1 Video | [6m 50s](https://www.youtube.com/watch_videos?title=Mimari&video_ids=3scNNCQKpos) )
-    - [Test: Malzemeler ve Teknikler](https://tr.khanacademy.org/humanities/special-topics-art-history/creating-conserving/materials-techniques-quiz) (1 Exercise)
 
 ## [Sanat Tarihi Temel Bilgiler](https://tr.khanacademy.org/humanities/art-history-basics) (3 Topics)
   - [Hepsinden Önce](https://tr.khanacademy.org/humanities/art-history-basics/beginners-art-history) (13 Articles, 5 Videos | [31m 59s](https://www.youtube.com/watch_videos?title=Hepsinden+%C3%96nce&video_ids=V6OYCrqLiKE%2Cm6dCxo7t_aE%2CqfITRYcnP84%2CBvB4oKKB8jA%2CfJOJFynHR7E) )
@@ -4347,32 +3974,33 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 ](https://tr.khanacademy.org/humanities/art-history-basics/tools-understanding-art) (4 Articles, 17 Videos | [2h 1m 18s](https://www.youtube.com/watch_videos?title=Sanat%C4%B1+Anlamak+%C4%B0%C3%A7in%E2%80%A6%0A&video_ids=sM2MOyonDsY%2C_QM-DfhrNv8%2CMbvaz0EPK_g%2C0WxPx3_ZSBI%2C4eNX_xFt-sU%2C1iTC9cBk6Ac%2CBfqJ1KPvjSE%2CwlUlw0w_xUQ%2CACh2ZBZsDiA%2C4IUSoWFPcD8%2C-jqrILNgleM%2Cb5uV-tGHl4k%2CSqeY2ZYh3t0%2CglWwND5yWQY%2C1pUFUQ-o-XE%2CzF7ewDU4eWU%2CDHNCwE_4iik) )
   - [Sanat 1010](https://tr.khanacademy.org/humanities/art-history-basics/art-1010-ddp) (8 Videos | [1h 1m 54s](https://www.youtube.com/watch_videos?title=Sanat+1010&video_ids=Vij0iWKq9Fs%2CU2o3kQFs2Y0%2CS4teCd9Zypk%2CaAVv4SIPBpk%2CwhBZ93pYHMA%2CmrgEvUt_Fjg%2CnbIXSmCOLZE%2CPPop3RB8WXA) )
 
-## [Küresel Çağdaş Sanat](https://tr.khanacademy.org/humanities/global-culture) (4 Topics)
+## [Global Kültüre Doğru](https://tr.khanacademy.org/humanities/global-culture) (4 Topics)
   - [Çağdaş Sanata Yeni Başlayanlar için Kılavuz](https://tr.khanacademy.org/humanities/global-culture/beginners-guide-contemporary-art1) (6 Articles, 1 Video | [7m 49s](https://www.youtube.com/watch_videos?title=%C3%87a%C4%9Fda%C5%9F+Sanata+Yeni+Ba%C5%9Flayanlar+i%C3%A7in+K%C4%B1lavuz&video_ids=t5bhqxdimwE) )
-  - [Kimlik, Vücut ve Modernizm Kavramları](https://tr.khanacademy.org/humanities/global-culture/identity-body) (2 Topics)
-    - [Amerika Birleşik Devletleri ](https://tr.khanacademy.org/humanities/global-culture/identity-body/identity-body-united-states) (19 Articles, 2 Exercises, 11 Videos | [46m 40s](https://www.youtube.com/watch_videos?title=Amerika+Birle%C5%9Fik+Devletleri+&video_ids=o9mx7_O-1xE%2CxqXIumCYdTw%2CE0sJebO9G1M%2CC25XBj2hoR4%2C0s0-ZqVegWs%2C2CV0dN6Pgd8%2Cr_rVyt-ojpY%2C9IZhzUDSBTY%2Cl2VrAsu0KeE%2CGPkyckCN60I%2CAc9Qi6sVyyU) )
+  - [Kimlik, Vücut ve Modernizm'in Yıkılışı](https://tr.khanacademy.org/humanities/global-culture/identity-body) (2 Topics)
+    - [Kimlik, vücut ve Modernizm'in kavramları alt üst etmesi: Amerika Birleşik Devletleri](https://tr.khanacademy.org/humanities/global-culture/identity-body/identity-body-united-states) (19 Articles, 2 Exercises, 11 Videos | [46m 40s](https://www.youtube.com/watch_videos?title=Kimlik%2C+v%C3%BCcut+ve+Modernizm%27in+kavramlar%C4%B1+alt+%C3%BCst+etmesi%3A+Amerika+Birle%C5%9Fik+Devletleri&video_ids=o9mx7_O-1xE%2CxqXIumCYdTw%2CE0sJebO9G1M%2CC25XBj2hoR4%2C0s0-ZqVegWs%2C2CV0dN6Pgd8%2Cr_rVyt-ojpY%2C9IZhzUDSBTY%2Cl2VrAsu0KeE%2CGPkyckCN60I%2CAc9Qi6sVyyU) )
     - [Asya, Afrika, Avrupa, Latin Amerika ve Orta Doğu](https://tr.khanacademy.org/humanities/global-culture/identity-body/identity-body-europe) (15 Articles, 1 Exercise, 1 Test, 14 Videos | [1h 31m 37s](https://www.youtube.com/watch_videos?title=Asya%2C+Afrika%2C+Avrupa%2C+Latin+Amerika+ve+Orta+Do%C4%9Fu&video_ids=2694F2moqxw%2CpS0ey1u34_o%2CItE9GCPIwp4%2CVOGinkO3zis%2Co57_NsEkl14%2CJJSh-NemR7w%2CNb6EQUS8hDo%2CEjPDTKdcjUA%2CTa2pZ63Gjf0%2Ci599gdSzTcE%2CmdvHugYm2jg%2CsmFQPVTWe5w%2C48W3own3jLM%2C0yDctNNYBX0) )
-  - [Kavramsal Sanat ve Performans Sanatı ](https://tr.khanacademy.org/humanities/global-culture/conceptual-performance) (12 Articles, 1 Exercise, 17 Videos | [1h 17m 36s](https://www.youtube.com/watch_videos?title=Kavramsal+Sanat+ve+Performans+Sanat%C4%B1+&video_ids=_6vqUjJnqzo%2C4m_uMtf4ZjU%2C34Ajwlpgy10%2CmCWr_iDh114%2CNCrSHpz0cZk%2C6Rb0PAu4fmA%2CrBVqKBS0c7M%2CFjJvRcyaA6w%2CwoPQgCCi_70%2CLwTp-FQEoC8%2CAc2P-_P2GM8%2Cd0n-x9nUfzI%2CNPkVsR2zcp8%2CWIhf3UBNTlA%2CcKoautUlvNI%2C-b2p8r8OFHE%2C_cM1D0mlPVs) )
+  - [Kavramsal ve Performans sanatı](https://tr.khanacademy.org/humanities/global-culture/conceptual-performance) (12 Articles, 1 Exercise, 17 Videos | [1h 17m 36s](https://www.youtube.com/watch_videos?title=Kavramsal+ve+Performans+sanat%C4%B1&video_ids=_6vqUjJnqzo%2C4m_uMtf4ZjU%2C34Ajwlpgy10%2CmCWr_iDh114%2CNCrSHpz0cZk%2C6Rb0PAu4fmA%2CrBVqKBS0c7M%2CFjJvRcyaA6w%2CwoPQgCCi_70%2CLwTp-FQEoC8%2CAc2P-_P2GM8%2Cd0n-x9nUfzI%2CNPkVsR2zcp8%2CWIhf3UBNTlA%2CcKoautUlvNI%2C-b2p8r8OFHE%2C_cM1D0mlPVs) )
   - [21. Yüzyılda Küresel Modernizm
 ](https://tr.khanacademy.org/humanities/global-culture/global-art-architecture) (15 Articles, 5 Exercises, 24 Videos | [2h 7m 29s](https://www.youtube.com/watch_videos?title=21.+Y%C3%BCzy%C4%B1lda+K%C3%BCresel+Modernizm%0A&video_ids=hXm8NZWlGRg%2C8wBEqPrgUDY%2C_GfSvZDHxgU%2CskHR8wrO490%2CysAtYooYQXY%2C4kkGfQinVBQ%2COsOBNSzLSPI%2CKo9lKMhyTVc%2CGzdNILR6C44%2CspwMh8M6kWU%2Cp90F-AKAbuA%2C6eAJVY45DJY%2CdugIbmRWS_M%2COCP1kaLn72s%2CKPkHdy5LjZg%2Cxyxb-dDxMo4%2CVrIndhFU0uo%2CF1EaEMNiuqY%2CGoWSdff2vBE%2CCahw1vsuUDY%2CYnxPIbJ1-3I%2CZCa6V1DDDkc%2CW9WeCi5O1Vw%2CSSCo7GR6YjU) )
 
-## [Modernizmler (1900-1980)](https://tr.khanacademy.org/humanities/art-1010) (12 Topics)
+## [Dışavurumculuktan Pop Art'a](https://tr.khanacademy.org/humanities/art-1010) (12 Topics)
   - [Yeni Başlayanlar için 20. Yüzyıl Sanatı Rehberi
 ](https://tr.khanacademy.org/humanities/art-1010/beginners-guide-20-21) (2 Articles, 2 Videos | [18m 57s](https://www.youtube.com/watch_videos?title=Yeni+Ba%C5%9Flayanlar+i%C3%A7in+20.+Y%C3%BCzy%C4%B1l+Sanat%C4%B1+Rehberi%0A&video_ids=8-5DTsl1V5k%2CF0JQHehOV-8) )
-  - [Fovizm, Kübizm ve Ekspresyonizm (Dışavurumculuk)](https://tr.khanacademy.org/humanities/art-1010/early-abstraction) (3 Topics)
-    - [Fovizm ve Matisse ](https://tr.khanacademy.org/humanities/art-1010/early-abstraction/fauvism-matisse) (6 Articles, 6 Videos | [24m 50s](https://www.youtube.com/watch_videos?title=Fovizm+ve+Matisse+&video_ids=Qlvi4_QgwZA%2Cnz_zwsgjRbw%2CGfIfriFMMOg%2Cjd1f6GPfWWo%2CqAxkdFjfHXs%2CV5znnlPkwQg) )
-    - [Ekspresyonizm (Dışavurumculuk)  ](https://tr.khanacademy.org/humanities/art-1010/early-abstraction/expressionism1) (2 Articles, 9 Videos | [41m 46s](https://www.youtube.com/watch_videos?title=Ekspresyonizm+%28D%C4%B1%C5%9Favurumculuk%29++&video_ids=mTnUopoHxC8%2Cm-QZqmaLgNM%2CpPzDtGC6lug%2CB_Lr63Jr840%2CcroM4PvOdbM%2C6iZCvBu6pbM%2C3ltQi6c2YwU%2Ctb6-zOggXjQ%2CH6ThdS-GIxM) )
-    - [Kübizm ve Etkileri](https://tr.khanacademy.org/humanities/art-1010/early-abstraction/cubism) (7 Articles, 2 Exercises, 12 Videos | [53m 39s](https://www.youtube.com/watch_videos?title=K%C3%BCbizm+ve+Etkileri&video_ids=jkT1BVRfJI8%2CH2OBRs0mhh0%2C7RtBW_c36qs%2CwB7-Kr-8f1s%2CrBOSRgsCGIA%2CSk7KcOxJcs0%2C9S6tI70Z5dY%2CG-1A_xhXsiA%2CNCBYSdSWalw%2CknUytaAWzhI%2CyBsCPKOgCaQ%2CPeJ7CS4imLk) )
-  - [I. Dünya Savaşı, Fütürizm ve Dada](https://tr.khanacademy.org/humanities/art-1010/wwi-dada) (1 Topic)
+  - [Erken Dönem Soyutlama: Fovizm, Ekspresyonizm ve Kübizm](https://tr.khanacademy.org/humanities/art-1010/early-abstraction) (3 Topics)
+    - [Fovizm ve Matisse](https://tr.khanacademy.org/humanities/art-1010/early-abstraction/fauvism-matisse) (6 Articles, 6 Videos | [24m 50s](https://www.youtube.com/watch_videos?title=Fovizm+ve+Matisse&video_ids=Qlvi4_QgwZA%2Cnz_zwsgjRbw%2CGfIfriFMMOg%2Cjd1f6GPfWWo%2CqAxkdFjfHXs%2CV5znnlPkwQg) )
+    - [Ekspresyonizm - Dışavurumculuk
+](https://tr.khanacademy.org/humanities/art-1010/early-abstraction/expressionism1) (2 Articles, 9 Videos | [41m 46s](https://www.youtube.com/watch_videos?title=Ekspresyonizm+-+D%C4%B1%C5%9Favurumculuk%0A&video_ids=mTnUopoHxC8%2Cm-QZqmaLgNM%2CpPzDtGC6lug%2CB_Lr63Jr840%2CcroM4PvOdbM%2C6iZCvBu6pbM%2C3ltQi6c2YwU%2Ctb6-zOggXjQ%2CH6ThdS-GIxM) )
+    - [Sanat Tarihi: Kübizm](https://tr.khanacademy.org/humanities/art-1010/early-abstraction/cubism) (7 Articles, 2 Exercises, 12 Videos | [53m 39s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+K%C3%BCbizm&video_ids=jkT1BVRfJI8%2CH2OBRs0mhh0%2C7RtBW_c36qs%2CwB7-Kr-8f1s%2CrBOSRgsCGIA%2CSk7KcOxJcs0%2C9S6tI70Z5dY%2CG-1A_xhXsiA%2CNCBYSdSWalw%2CknUytaAWzhI%2CyBsCPKOgCaQ%2CPeJ7CS4imLk) )
+  - [I. Dünya Savaşı ve Dada](https://tr.khanacademy.org/humanities/art-1010/wwi-dada) (1 Topic)
     - [Dadaizm](https://tr.khanacademy.org/humanities/art-1010/wwi-dada/dada1) (4 Articles, 2 Exercises, 7 Videos | [45m 18s](https://www.youtube.com/watch_videos?title=Dadaizm&video_ids=TyBIzTptPqU%2Cz-uLnHkNxaU%2Cf6OOF05ydLk%2Cl_A0UNhNZn8%2Cw_5OnTxKDvI%2C5wMnfhNz1WU%2C5OR2zkurkwY) )
   - [Savaşlar Arasında Sanat: Avangart ve Totaliterliğin Yükselişi](https://tr.khanacademy.org/humanities/art-1010/art-between-wars) (5 Topics)
-    - [Savaşlar Arasındaki Dönemde Alman Sanatı](https://tr.khanacademy.org/humanities/art-1010/art-between-wars/neue-sachlichkeit) (2 Articles, 1 Exercise, 11 Videos | [1h 9m 37s](https://www.youtube.com/watch_videos?title=Sava%C5%9Flar+Aras%C4%B1ndaki+D%C3%B6nemde+Alman+Sanat%C4%B1&video_ids=gIgI-yXzsVQ%2C32tjFPCzSHQ%2CqQDx4v5Oa2g%2Cm_lolCtxt7E%2CO_W3rrr9QSI%2C0V7toXthkh4%2Cq2pxPHE7EnA%2CksqVj7JhQ5o%2CjEVfDSfO9Gw%2C8qGwCypgYr4%2CRHKnB8KvV-I) )
+    - [Sanat Tarihi: Yeni Nesnellik](https://tr.khanacademy.org/humanities/art-1010/art-between-wars/neue-sachlichkeit) (2 Articles, 1 Exercise, 11 Videos | [1h 9m 37s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Yeni+Nesnellik&video_ids=gIgI-yXzsVQ%2C32tjFPCzSHQ%2CqQDx4v5Oa2g%2Cm_lolCtxt7E%2CO_W3rrr9QSI%2C0V7toXthkh4%2Cq2pxPHE7EnA%2CksqVj7JhQ5o%2CjEVfDSfO9Gw%2C8qGwCypgYr4%2CRHKnB8KvV-I) )
     - [Uluslararası Avangart](https://tr.khanacademy.org/humanities/art-1010/art-between-wars/intl-avant-garde) (2 Articles, 11 Videos | [39m 4s](https://www.youtube.com/watch_videos?title=Uluslararas%C4%B1+Avangart&video_ids=xxDPpc62quE%2C3sCB3udmu1Y%2CMk68Es1TS0A%2CXv0AFaAjKnI%2CpKxzJ6fdkuk%2CH8INfn2zbD8%2CLFoO8KketgA%2C4FBhKIITXNg%2CNaxhuXIpdj0%2Cx3zaWSbxmAo%2CSjvAZ9AkrmE) )
     - [Sürrealizm (Gerçeküstücülük)](https://tr.khanacademy.org/humanities/art-1010/art-between-wars/surrealism1) (3 Articles, 2 Exercises, 6 Videos | [31m 2s](https://www.youtube.com/watch_videos?title=S%C3%BCrrealizm+%28Ger%C3%A7ek%C3%BCst%C3%BCc%C3%BCl%C3%BCk%29&video_ids=SIsq00jJY7Y%2CKTMLclXURtU%2Cq95p6SyGSjs%2CRM445gY39HM%2Cwpe3BLoMPIk%2CHn39FYUiqkI) )
     - [Latin Amerika Modernizmi](https://tr.khanacademy.org/humanities/art-1010/art-between-wars/latin-american-modernism1) (8 Articles, 4 Exercises, 4 Videos | [21m 44s](https://www.youtube.com/watch_videos?title=Latin+Amerika+Modernizmi&video_ids=8KiH-TG2Fu4%2CKa9tX3wdyb4%2CeDTjqEi83uQ%2CVVnEP10Nxgo) )
     - [II. Dünya Savaşı'na Kadar Amerikan Sanatı](https://tr.khanacademy.org/humanities/art-1010/art-between-wars/american-art-wwii) (9 Articles, 1 Test, 18 Videos | [1h 32m 32s](https://www.youtube.com/watch_videos?title=II.+D%C3%BCnya+Sava%C5%9F%C4%B1%27na+Kadar+Amerikan+Sanat%C4%B1&video_ids=oIOctoNEgbc%2C8kfrFEiGGzg%2CwEJdcLxDGxg%2CFxqlCZiOuok%2C1zuV_VH1Ep8%2CZPEgE1D7Exs%2ChEzxajyvFEc%2CE55vrmTeNTI%2C19Kf4qDTTAE%2C0b344zkiwWU%2Ct4lgvB5cV5E%2CxNJKb7h6Ums%2CtyOQTuvDOVQ%2Coxt66TqUc7I%2Ct2JQQcD59xs%2CiM6VkoCf2RQ%2Cn-UwgEq2RKQ%2CPSPksF60yTw) )
-  - [Savaş Sonrası Dönemde Avrupa'da Figürasyon ve Soyutlama](https://tr.khanacademy.org/humanities/art-1010/art-post-war-britain) (1 Article, 7 Videos | [29m 9s](https://www.youtube.com/watch_videos?title=Sava%C5%9F+Sonras%C4%B1+D%C3%B6nemde+Avrupa%27da+Fig%C3%BCrasyon+ve+Soyutlama&video_ids=TMUAYeygy5U%2ChbxzmO_vi_k%2CnU4NwocOU50%2Crywv-ID10K0%2CtD-ic-Xe6fc%2CcR8yB3LL1BE%2CwslK4NeRcdM) )
-  - [Art Brut](https://tr.khanacademy.org/humanities/art-1010/art-brut) (2 Articles)
+  - [Savaş Sonrası Britanya’da Şekillendirme ve Soyutluk
+](https://tr.khanacademy.org/humanities/art-1010/art-post-war-britain) (1 Article, 7 Videos | [29m 9s](https://www.youtube.com/watch_videos?title=Sava%C5%9F+Sonras%C4%B1+Britanya%E2%80%99da+%C5%9Eekillendirme+ve+Soyutluk%0A&video_ids=TMUAYeygy5U%2ChbxzmO_vi_k%2CnU4NwocOU50%2Crywv-ID10K0%2CtD-ic-Xe6fc%2CcR8yB3LL1BE%2CwslK4NeRcdM) )
   - [Soyut Dışavurumculuk ve New York Ekolü](https://tr.khanacademy.org/humanities/art-1010/abstract-exp-nyschool) (2 Topics)
     - [Soyut Dışavurumculuk
 ](https://tr.khanacademy.org/humanities/art-1010/abstract-exp-nyschool/abstract-expressionism) (3 Articles, 1 Exercise, 21 Videos | [2h 34m 55s](https://www.youtube.com/watch_videos?title=Soyut+D%C4%B1%C5%9Favurumculuk%0A&video_ids=xwLnJS8Moyg%2CD4AZc8lvkHM%2Cr7sJ_WNiSrs%2C91-htuqmezI%2CQy1T97OaIkE%2CTOccFjAzD1E%2CGAsBWbXG9sk%2C8-5DTsl1V5k%2CsmvNW6QXvUc%2CohDwG5Z8q0Y%2CGHUYaYI_w9U%2CuQTGfb81i3w%2CAGqAggmwyMU%2C2tJZgmd_Nqo%2CMQmjzi9D8TQ%2CZ-EiSD108OM%2CmmrsUrnr_7E%2Cc4jOX1ArJc8%2CuPrW-JPEkcc%2C8Njv5veYzuo%2Cvg-vCsD6ZFU) )
@@ -4385,59 +4013,46 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
   - [Mimari ve Tasarım](https://tr.khanacademy.org/humanities/art-1010/architecture-20c) (12 Articles, 3 Exercises, 7 Videos | [47m 15s](https://www.youtube.com/watch_videos?title=Mimari+ve+Tasar%C4%B1m&video_ids=ARSO10l_NFo%2CsCvypP1XCcs%2CoUiSrB4RvoU%2CLnWUyMHekt0%2Ca-WjAMNdRRM%2CPYSPk-kGIhY%2CyhoZCzSEFQc) )
 
 ## [İslam Dünyası'nda Sanat](https://tr.khanacademy.org/humanities/art-islam) (5 Topics)
-  - [Yeni Başlayanlar için İslam Sanatı
-](https://tr.khanacademy.org/humanities/art-islam/beginners-guide-islamic-art) (5 Articles)
   - [Erken Dönem](https://tr.khanacademy.org/humanities/art-islam/islamic-art-early) (5 Articles, 2 Exercises, 1 Video | [2m 59s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem&video_ids=j0nKBSlTsHU) )
   - [Ortaçağ Dönemi](https://tr.khanacademy.org/humanities/art-islam/islamic-art-medieval) (9 Articles, 3 Exercises, 4 Videos | [19m 16s](https://www.youtube.com/watch_videos?title=Orta%C3%A7a%C4%9F+D%C3%B6nemi&video_ids=Pw6UjWegJJk%2CIzlgfEiM05s%2C9JQDOtlp_38%2C4kEwj4bVhZM) )
-  - [Geç Dönem](https://tr.khanacademy.org/humanities/art-islam/islamic-art-late-period) (15 Articles, 1 Exercise, 8 Videos | [42m 23s](https://www.youtube.com/watch_videos?title=Ge%C3%A7+D%C3%B6nem&video_ids=TPj756HYLi8%2C-XDH4XPJ9fg%2CPqkct-Dgxx0%2Cebh_MxxIElE%2Ctaql24kczjk%2CFA4OsxDEQfw%2CU6fX99id6Ng%2CkGnDc_QNssY) )
-  - [İslam Dünyası Sanatı (Test)](https://tr.khanacademy.org/humanities/art-islam/arts-islamic-quiz) (1 Exercise)
+  - [İslam Dünyası Sanatları: Geç Dönem](https://tr.khanacademy.org/humanities/art-islam/islamic-art-late-period) (15 Articles, 1 Exercise, 8 Videos | [42m 23s](https://www.youtube.com/watch_videos?title=%C4%B0slam+D%C3%BCnyas%C4%B1+Sanatlar%C4%B1%3A+Ge%C3%A7+D%C3%B6nem&video_ids=TPj756HYLi8%2C-XDH4XPJ9fg%2CPqkct-Dgxx0%2Cebh_MxxIElE%2Ctaql24kczjk%2CFA4OsxDEQfw%2CU6fX99id6Ng%2CkGnDc_QNssY) )
 
-## [Avrupa'da Barok Sanattan Neoklasik Sanata](https://tr.khanacademy.org/humanities/monarchy-enlightenment) (4 Topics)
+## [Avrupa'da Barok, Rokoko ve Neoklasik Sanat](https://tr.khanacademy.org/humanities/monarchy-enlightenment) (4 Topics)
   - [Barok Sanat](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1) (7 Topics)
     - [Barok'a yeni başlayanlar için bir rehber](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/beginners-guide-baroque1) (2 Articles, 1 Exercise, 1 Video | [9m 31s](https://www.youtube.com/watch_videos?title=Barok%27a+yeni+ba%C5%9Flayanlar+i%C3%A7in+bir+rehber&video_ids=k4ZqSfLt6fk) )
     - [İtalya](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/baroque-italy) (7 Articles, 4 Exercises, 22 Videos | [1h 52m 40s](https://www.youtube.com/watch_videos?title=%C4%B0talya&video_ids=QKfmTQi2Yq0%2C0uEtvaUsI_w%2CbdnPdZMZ9PU%2C1MnyIUXyboY%2Cho4W11Z3EbE%2Ck5NSxONkQJw%2CJN0qJWL7GLo%2C9UT43MHdTIg%2CEhEg8Wx_NA8%2CCXgBR6GoFTE%2C3Fpp2UfLWQc%2C-yxSjUvh0g8%2CJftEcBnopPI%2CJ0ch5FD8R7s%2C_WUTKh4oB40%2Cb6TWYPphKyg%2C8elfsrVTznk%2CEczhLjFtyio%2CWLS0aj7yUoA%2CRwadBQBJFTI%2CPBnitPevDlc%2CgI-wCutsEU0) )
-    - [Belçika
-](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/flanders-1) (4 Articles, 1 Exercise, 6 Videos | [31m 39s](https://www.youtube.com/watch_videos?title=Bel%C3%A7ika%0A&video_ids=qyQGBJIYC5s%2Ct9_lemSlr1o%2CjWQ4V43TJ6o%2Chv0Cg3VDnGk%2Cd06wlpEIBks%2CWD84FlWv9LU) )
-    - [Hollanda Cumhuriyeti](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/holland) (14 Articles, 2 Exercises, 19 Videos | [1h 21m 50s](https://www.youtube.com/watch_videos?title=Hollanda+Cumhuriyeti&video_ids=TOoldrJqxZA%2CcbJ7NPO5cHc%2CQUqK8CB9G0I%2CPknj2Ria92E%2CRHMX8eDG_pQ%2C7qw70ebHWLk%2CuJR4EE2iwFg%2CwsL4Uh0BrQw%2Cdf2WqgfFWXg%2C6dO_SrtC7Gs%2CCQWUNLMFIC0%2C3LwVhJgDpFo%2CjyKSeTd3-KY%2CCJNQDZDobIY%2C_nxA7egCSmA%2CEgrVloi3mDs%2ChuFtuNuW0oQ%2Cbjz7h1KHDvs%2CvDK9jRsJuFk) )
-    - [İspanya](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/spain) (6 Articles, 2 Exercises, 6 Videos | [35m 5s](https://www.youtube.com/watch_videos?title=%C4%B0spanya&video_ids=dNoeLF6I52s%2CDWYce8A_2m0%2CLBS6N0NHo6s%2C9KhfmX8MQ8Q%2C3LoTODQJ7j8%2C9Wb-T1F033Q) )
-    - [Fransa](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/france) (3 Articles, 2 Exercises, 3 Videos | [10m 21s](https://www.youtube.com/watch_videos?title=Fransa&video_ids=s07GHopmypE%2CP_BjvnuV5yo%2CjlkVvEOQUcI) )
-    - [İngiltere](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/baroque-england) (1 Article, 1 Test)
-  - [Rokoko](https://tr.khanacademy.org/humanities/monarchy-enlightenment/rococo) (6 Articles, 3 Exercises, 9 Videos | [30m 2s](https://www.youtube.com/watch_videos?title=Rokoko&video_ids=ooQnQLmk_Cw%2CZwh7cZWWWJg%2C8v1ZbdfEeuo%2CkoBtjZGF3rQ%2C8-hhZ8LXAqc%2C755Lv1uJ_YQ%2CUxJ9BLNUxz4%2CZSki1elqnEw%2CpMu8c6ed9Jo) )
-  - [Neo- Klasik
-](https://tr.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism) (11 Articles, 2 Exercises, 6 Videos | [27m 8s](https://www.youtube.com/watch_videos?title=Neo-+Klasik%0A&video_ids=qfAga9DAuU4%2CktoLkF4poI8%2Cr4SacHy7gPo%2CHw2_hv439Fg%2CovOKjwLE4qA%2C_VEd-wmlkHo) )
+    - [Sanat Tarihi: Flandre](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/flanders-1) (4 Articles, 1 Exercise, 6 Videos | [31m 39s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Flandre&video_ids=qyQGBJIYC5s%2Ct9_lemSlr1o%2CjWQ4V43TJ6o%2Chv0Cg3VDnGk%2Cd06wlpEIBks%2CWD84FlWv9LU) )
+    - [Sanat Tarihi: Hollanda](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/holland) (14 Articles, 2 Exercises, 19 Videos | [1h 21m 50s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Hollanda&video_ids=TOoldrJqxZA%2CcbJ7NPO5cHc%2CQUqK8CB9G0I%2CPknj2Ria92E%2CRHMX8eDG_pQ%2C7qw70ebHWLk%2CuJR4EE2iwFg%2CwsL4Uh0BrQw%2Cdf2WqgfFWXg%2C6dO_SrtC7Gs%2CCQWUNLMFIC0%2C3LwVhJgDpFo%2CjyKSeTd3-KY%2CCJNQDZDobIY%2C_nxA7egCSmA%2CEgrVloi3mDs%2ChuFtuNuW0oQ%2Cbjz7h1KHDvs%2CvDK9jRsJuFk) )
+    - [Sanat Tarihi: İspanya ](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/spain) (6 Articles, 2 Exercises, 6 Videos | [35m 5s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+%C4%B0spanya+&video_ids=dNoeLF6I52s%2CDWYce8A_2m0%2CLBS6N0NHo6s%2C9KhfmX8MQ8Q%2C3LoTODQJ7j8%2C9Wb-T1F033Q) )
+    - [Sanat Tarihi: Fransa](https://tr.khanacademy.org/humanities/monarchy-enlightenment/baroque-art1/france) (3 Articles, 2 Exercises, 3 Videos | [10m 21s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Fransa&video_ids=s07GHopmypE%2CP_BjvnuV5yo%2CjlkVvEOQUcI) )
+  - [Sanat Tarihi: Rokoko](https://tr.khanacademy.org/humanities/monarchy-enlightenment/rococo) (6 Articles, 3 Exercises, 9 Videos | [30m 2s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Rokoko&video_ids=ooQnQLmk_Cw%2CZwh7cZWWWJg%2C8v1ZbdfEeuo%2CkoBtjZGF3rQ%2C8-hhZ8LXAqc%2C755Lv1uJ_YQ%2CUxJ9BLNUxz4%2CZSki1elqnEw%2CpMu8c6ed9Jo) )
+  - [Sanat Tarihi: Neo- Klasik](https://tr.khanacademy.org/humanities/monarchy-enlightenment/neo-classicism) (11 Articles, 2 Exercises, 6 Videos | [27m 8s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Neo-+Klasik&video_ids=qfAga9DAuU4%2CktoLkF4poI8%2Cr4SacHy7gPo%2CHw2_hv439Fg%2CovOKjwLE4qA%2C_VEd-wmlkHo) )
   - [18. Yüzyılda İngiliz Sanatı](https://tr.khanacademy.org/humanities/monarchy-enlightenment/britain-18c) (2 Topics)
-    - [On sekizinci yüzyılda İngiliz sanatı](https://tr.khanacademy.org/humanities/monarchy-enlightenment/britain-18c/britain-ageof-revolution) (3 Articles, 1 Exercise, 7 Videos | [37m 43s](https://www.youtube.com/watch_videos?title=On+sekizinci+y%C3%BCzy%C4%B1lda+%C4%B0ngiliz+sanat%C4%B1&video_ids=GK4Seomr_IA%2CmW7c3q33e08%2CBmsejntbXRw%2CFJo94ydy46s%2CQVEA3Uqui8k%2ChVX5jK9BUrA%2CnzwCt8vGdAw) )
-    - [Devrimler çağı (test)](https://tr.khanacademy.org/humanities/monarchy-enlightenment/britain-18c/age-revolution-quiz) (1 Exercise)
+    - [Devrim Çağı'nda Britanya ve Amerika
+](https://tr.khanacademy.org/humanities/monarchy-enlightenment/britain-18c/britain-ageof-revolution) (3 Articles, 1 Exercise, 7 Videos | [37m 43s](https://www.youtube.com/watch_videos?title=Devrim+%C3%87a%C4%9F%C4%B1%27nda+Britanya+ve+Amerika%0A&video_ids=GK4Seomr_IA%2CmW7c3q33e08%2CBmsejntbXRw%2CFJo94ydy46s%2CQVEA3Uqui8k%2ChVX5jK9BUrA%2CnzwCt8vGdAw) )
 
-## [Tarih Öncesi Sanat](https://tr.khanacademy.org/humanities/prehistoric-art) (3 Topics)
+## [Avrupa'da Tarih Öncesi Sanat](https://tr.khanacademy.org/humanities/prehistoric-art) (3 Topics)
   - [Paleolitik Sanat](https://tr.khanacademy.org/humanities/prehistoric-art/paleolithic-art) (5 Articles, 1 Exercise, 2 Videos | [9m 16s](https://www.youtube.com/watch_videos?title=Paleolitik+Sanat&video_ids=9a6Y0OogmIA%2C66QTe0eLzrU) )
   - [Neolitik Sanat](https://tr.khanacademy.org/humanities/prehistoric-art/neolithic-art) (8 Articles, 6 Videos | [23m 57s](https://www.youtube.com/watch_videos?title=Neolitik+Sanat&video_ids=lQd_VRPgVw8%2CAmBm0kGrqZ8%2CkB5iSbi5R_E%2Ck5csNbUL13M%2C5IIqTbhQjbg%2CNjb57Cd2Zp8) )
-  - [Test: Tarih Öncesi Sanat](https://tr.khanacademy.org/humanities/prehistoric-art/quiz-prehistoric) (1 Exercise)
 
-## [Antik Akdeniz](https://tr.khanacademy.org/humanities/ancient-art-civilizations) (9 Topics)
-  - [Eski Yakın Doğu (Mezopotamya)
-](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1) (7 Topics)
+## [Antik Akdeniz Sanatı](https://tr.khanacademy.org/humanities/ancient-art-civilizations) (9 Topics)
+  - [Smarthistory tarafından sunulmaktadır. Antik Yakın Doğu](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1) (7 Topics)
     - [Antik Yakın Doğu ](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1/the-ancient-near-east-an-introduction) (3 Articles, 2 Videos | [6m 24s](https://www.youtube.com/watch_videos?title=Antik+Yak%C4%B1n+Do%C4%9Fu+&video_ids=m7LHUpN9SeA%2CeFGLaFR7le4) )
     - [Sümerler](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1/sumerian) (9 Articles, 1 Exercise, 3 Videos | [18m 50s](https://www.youtube.com/watch_videos?title=S%C3%BCmerler&video_ids=9VCVwrvkcgo%2CVj9ZAsKgO0c%2CHBjYUTYas9E) )
     - [Akadlar](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1/akkadian) (1 Article, 1 Exercise, 2 Videos | [5m 59s](https://www.youtube.com/watch_videos?title=Akadlar&video_ids=4L_63iNWe-Q%2CAd7xMRYwsRY) )
     - [Babiller](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1/babylonian) (5 Articles, 2 Exercises, 5 Videos | [25m 45s](https://www.youtube.com/watch_videos?title=Babiller&video_ids=IEmAVoFRD0k%2CPuL66KcZMa8%2CJO9YxZYd0qY%2CEHnwZfndFAk%2CfG3zus-Ri5A) )
     - [Asurlar](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1/assyrian) (3 Articles, 1 Exercise, 4 Videos | [23m 55s](https://www.youtube.com/watch_videos?title=Asurlar&video_ids=flO7VZNGiD8%2CIt4MWErdpvk%2Cdxk_FtZnb7w%2Cvpe7fevbReA) )
     - [Persler](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1/persian) (2 Articles, 2 Videos | [18m 47s](https://www.youtube.com/watch_videos?title=Persler&video_ids=GX6iawlkzFY%2C5z_QoH6lo1M) )
-    - [Test: Antik Yakın Doğu Sanatı](https://tr.khanacademy.org/humanities/ancient-art-civilizations/ancient-near-east1/quiz-ancient-near-eastern-art) (1 Exercise, 1 Test)
-  - [Antik Mısır
-](https://tr.khanacademy.org/humanities/ancient-art-civilizations/egypt-art) (4 Topics)
-    - [Antik Mısır'a yeni başlayanlar için bir Rehber](https://tr.khanacademy.org/humanities/ancient-art-civilizations/egypt-art/beginners-guide-egypt) (3 Articles)
+  - [Smarthistory tarafından sunulmaktadır. Mısır Sanatı ve Kültürü](https://tr.khanacademy.org/humanities/ancient-art-civilizations/egypt-art) (4 Topics)
     - [Hanedan Öncesi ve Eski Krallık
 ](https://tr.khanacademy.org/humanities/ancient-art-civilizations/egypt-art/predynastic-old-kingdom) (6 Articles, 2 Exercises, 1 Video | [3m 32s](https://www.youtube.com/watch_videos?title=Hanedan+%C3%96ncesi+ve+Eski+Krall%C4%B1k%0A&video_ids=IKkcop-dlUY) )
     - [Orta Krallık ve Yeni Krallık](https://tr.khanacademy.org/humanities/ancient-art-civilizations/egypt-art/new-kingdom) (6 Articles, 3 Exercises, 9 Videos | [37m 9s](https://www.youtube.com/watch_videos?title=Orta+Krall%C4%B1k+ve+Yeni+Krall%C4%B1k&video_ids=xiOSAmJtUKw%2CgvADNh_udJ8%2CvoSBZbYRP2I%2CydZdvefzAog%2C88lHVp_Isl0%2CLETZZAB1PP0%2CYUYaQA0SZcA%2CjhechxE5w60%2CGyiWlFidqXE) )
     - [ Batlamyus
 ](https://tr.khanacademy.org/humanities/ancient-art-civilizations/egypt-art/ptolemaic) (3 Articles, 1 Test, 2 Videos | [3m 53s](https://www.youtube.com/watch_videos?title=%C2%A0Batlamyus%0A&video_ids=XUlg4ULOGrE%2CTrYMmvljq7Q) )
-  - [Ege](https://tr.khanacademy.org/humanities/ancient-art-civilizations/aegean-art1) (3 Topics)
+  - [Smarthistory tarafından sunulmaktadır. Ege Sanatı](https://tr.khanacademy.org/humanities/ancient-art-civilizations/aegean-art1) (3 Topics)
     - [Kiklad](https://tr.khanacademy.org/humanities/ancient-art-civilizations/aegean-art1/cycladic) (2 Videos | [9m 56s](https://www.youtube.com/watch_videos?title=Kiklad&video_ids=_6YO3Zi8QKs%2CJ__qK5ANG2w) )
     - [Miken](https://tr.khanacademy.org/humanities/ancient-art-civilizations/aegean-art1/mycenaean) (2 Exercises, 4 Videos | [18m 52s](https://www.youtube.com/watch_videos?title=Miken&video_ids=A5E74NRdJvg%2CF1kjDGPYnlc%2CJBJaqVaXI0U%2CiwmfYII2ffE) )
-    - [Minoan](https://tr.khanacademy.org/humanities/ancient-art-civilizations/aegean-art1/minoan) (10 Articles)
-  - [Antik Yunan
-](https://tr.khanacademy.org/humanities/ancient-art-civilizations/greek-art) (8 Topics)
+  - [Smarthistory tarafından sunulmaktadır. Yunan sanatı](https://tr.khanacademy.org/humanities/ancient-art-civilizations/greek-art) (8 Topics)
     - [Yeni Başlayanlar için Antik Yunan Rehberi
 ](https://tr.khanacademy.org/humanities/ancient-art-civilizations/greek-art/beginners-guide-greece) (5 Articles, 5 Videos | [15m 44s](https://www.youtube.com/watch_videos?title=Yeni+Ba%C5%9Flayanlar+i%C3%A7in+Antik+Yunan+Rehberi%0A&video_ids=-jqrILNgleM%2C5diQv1F6i54%2C-jSRJRWRWJU%2CSPFZ8rfHZPw%2CvbWgJFiD2o8) )
     - [Çömlekçilik](https://tr.khanacademy.org/humanities/ancient-art-civilizations/greek-art/greek-pottery) (3 Articles, 3 Exercises, 8 Videos | [43m 51s](https://www.youtube.com/watch_videos?title=%C3%87%C3%B6mlek%C3%A7ilik&video_ids=8IIyRlCZAVc%2CaYyRg8xTbZQ%2CZVBxsVcKqPo%2CWp3gdVOz8a0%2CuA4NTgvdFg8%2CdOfFdl6uitI%2C352NsilBr3w%2Cs2kZ20Vim2E) )
@@ -4447,10 +4062,9 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
     - [Klasik Dönem](https://tr.khanacademy.org/humanities/ancient-art-civilizations/greek-art/classical) (3 Articles, 4 Exercises, 12 Videos | [1h 25m 14s](https://www.youtube.com/watch_videos?title=Klasik+D%C3%B6nem&video_ids=EAR9RAMg9NY%2CGfuo6qVQXa8%2C4Wn0GC7ffG0%2CxZ49Vo7n_fU%2CuF_W0jQ7bi0%2CTJ1l9Sp_A68%2CAdyefZ2iXUc%2CzHo18HellXU%2CqjlZQ6HMF54%2Cqkh4HOcp20w%2CBSRGlxr4sjA%2CZRAQ6nCu0I8) )
     - [Geç Dönem Klasik (4. yüzyıl)](https://tr.khanacademy.org/humanities/ancient-art-civilizations/greek-art/late-classical) (4 Videos | [25m 24s](https://www.youtube.com/watch_videos?title=Ge%C3%A7+D%C3%B6nem+Klasik+%284.+y%C3%BCzy%C4%B1l%29&video_ids=nI07zaDpnJU%2CT-Yv4mp5yp8%2CREeBUSYRzRo%2CL4x53VVRN0A) )
     - [Helenistik](https://tr.khanacademy.org/humanities/ancient-art-civilizations/greek-art/hellenistic) (5 Exercises, 8 Videos | [37m 48s](https://www.youtube.com/watch_videos?title=Helenistik&video_ids=KQ63wu7lsXo%2CJL1CRrYKH8g%2CtXHzgyiGUcc%2CZUN5fIGIQYY%2CHSvN4CSFSbg%2C7TJsl_8zfqk%2CIz-C0C5Ck58%2Cosb2LIh-D1M) )
-    - [Yunan sanatı](https://tr.khanacademy.org/humanities/ancient-art-civilizations/greek-art/greek-art-quiz) (1 Exercise, 1 Test)
-  - [Nebatiler](https://tr.khanacademy.org/humanities/ancient-art-civilizations/nabataean) (3 Articles, 1 Video | [3m 50s](https://www.youtube.com/watch_videos?title=Nebatiler&video_ids=WZgYhVgWR8g) )
+  - [Smarthistory tarafından sunulmaktadır. Nebatiler](https://tr.khanacademy.org/humanities/ancient-art-civilizations/nabataean) (3 Articles, 1 Video | [3m 50s](https://www.youtube.com/watch_videos?title=Smarthistory+taraf%C4%B1ndan+sunulmaktad%C4%B1r.+Nebatiler&video_ids=WZgYhVgWR8g) )
   - [Etrüsk](https://tr.khanacademy.org/humanities/ancient-art-civilizations/etruscan) (11 Articles, 1 Exercise, 3 Videos | [10m 50s](https://www.youtube.com/watch_videos?title=Etr%C3%BCsk&video_ids=L9FQe3VuuiE%2CGiz_88LZaI8%2CzrCzgbBKtrM) )
-  - [Antik Roma](https://tr.khanacademy.org/humanities/ancient-art-civilizations/roman) (7 Topics)
+  - [Smarthistory tarafından sunulmaktadır. Antik Roma sanatı](https://tr.khanacademy.org/humanities/ancient-art-civilizations/roman) (7 Topics)
     - [Yeni Başlayanlar için Antik Roma Rehberi
 ](https://tr.khanacademy.org/humanities/ancient-art-civilizations/roman/beginners-guide-rome) (12 Articles, 4 Videos | [31m 13s](https://www.youtube.com/watch_videos?title=Yeni+Ba%C5%9Flayanlar+i%C3%A7in+Antik+Roma+Rehberi%0A&video_ids=wDxt-nL95Y4%2CgciDo_svj-A%2CvgV1yzP0ZTI%2Cmg-2OnAe8NI) )
     - [Duvar Boyama](https://tr.khanacademy.org/humanities/ancient-art-civilizations/roman/wall-painting) (3 Articles, 2 Videos | [13m 17s](https://www.youtube.com/watch_videos?title=Duvar+Boyama&video_ids=Ypr2NsKRkEg%2C2zkwCZJWVn4) )
@@ -4458,24 +4072,20 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
     - [Erken İmparatorluk Dönemi](https://tr.khanacademy.org/humanities/ancient-art-civilizations/roman/early-empire) (8 Articles, 4 Exercises, 10 Videos | [1h 33s](https://www.youtube.com/watch_videos?title=Erken+%C4%B0mparatorluk+D%C3%B6nemi&video_ids=mhhalkHfFtQ%2CAZ2nzFtjw3k%2C-58r76IWwHw%2CoLPy2ZRxH6w%2CdY_BVSOF4Fk%2C41aaPjdf3mE%2C2SYRF49b3MA%2CDuMdzXrBDsE%2CdLFRD1FSTnA%2CINM1ofzPm4w) )
     - [Orta İmparatorluk Dönemi](https://tr.khanacademy.org/humanities/ancient-art-civilizations/roman/middle-empire) (4 Articles, 3 Exercises, 10 Videos | [51m 42s](https://www.youtube.com/watch_videos?title=Orta+%C4%B0mparatorluk+D%C3%B6nemi&video_ids=N_evEBIiias%2C1Ijc8d-xXBY%2CRMcjEt3-F1A%2CUcbjGGpf28M%2CoO0HyeaTsfc%2CX-0qiUdSvTg%2C8AZZV-YGSe8%2CY6J9KNwgv4Y%2CYG6b2jADjtc%2CffoJCq3nghs) )
     - [Geç İmparatorluk Dönemi](https://tr.khanacademy.org/humanities/ancient-art-civilizations/roman/late-empire) (1 Article, 2 Exercises, 6 Videos | [37m 6s](https://www.youtube.com/watch_videos?title=Ge%C3%A7+%C4%B0mparatorluk+D%C3%B6nemi&video_ids=QDPSayuUNl0%2CGR1ebYVsnEA%2Cb67xSRooAa8%2Cx6JbVJb4-6g%2CvvDcrzeBRyM%2Cca5bG939xL8) )
-    - [Antik Roma (Test)](https://tr.khanacademy.org/humanities/ancient-art-civilizations/roman/rome-quiz) (1 Exercise, 1 Test)
-  - [Palmira](https://tr.khanacademy.org/humanities/ancient-art-civilizations/palmyra) (3 Articles, 1 Video | [5m 58s](https://www.youtube.com/watch_videos?title=Palmira&video_ids=ovcWVu3XfAQ) )
-  - [Yahudilik ve Sanat](https://tr.khanacademy.org/humanities/ancient-art-civilizations/judaism-art) (10 Articles, 3 Videos | [15m 29s](https://www.youtube.com/watch_videos?title=Yahudilik+ve+Sanat&video_ids=2SYRF49b3MA%2Cm-Ox1qaPXew%2CQMH7d844Uog) )
+  - [Smarthistory tarafından sunulmaktadır. Antik Palmira sanatı](https://tr.khanacademy.org/humanities/ancient-art-civilizations/palmyra) (3 Articles, 1 Video | [5m 58s](https://www.youtube.com/watch_videos?title=Smarthistory+taraf%C4%B1ndan+sunulmaktad%C4%B1r.+Antik+Palmira+sanat%C4%B1&video_ids=ovcWVu3XfAQ) )
+  - [Smarthistory tarafından sunulmaktadır. Yahudilik ve Sanat](https://tr.khanacademy.org/humanities/ancient-art-civilizations/judaism-art) (10 Articles, 3 Videos | [15m 29s](https://www.youtube.com/watch_videos?title=Smarthistory+taraf%C4%B1ndan+sunulmaktad%C4%B1r.+Yahudilik+ve+Sanat&video_ids=2SYRF49b3MA%2Cm-Ox1qaPXew%2CQMH7d844Uog) )
 
-## [Ortaçağ'da Avrupa + Bizans](https://tr.khanacademy.org/humanities/medieval-world) (9 Topics)
-  - [Yeni Başlayanlar için Ortaçağ Avrupa Rehberi
-](https://tr.khanacademy.org/humanities/medieval-world/medieval-europe) (7 Articles, 1 Exercise, 6 Videos | [25m 45s](https://www.youtube.com/watch_videos?title=Yeni+Ba%C5%9Flayanlar+i%C3%A7in+Orta%C3%A7a%C4%9F+Avrupa+Rehberi%0A&video_ids=Lm5Si7Uwu2g%2CaYSZ62qneco%2CHpCaYzfgBTY%2CA25l7STTy0c%2CQMH7d844Uog%2CHN3X1sA24R4) )
-  - [Ortaçağ Avrupası'nda Kitaplar ve Bilginin Yayılması](https://tr.khanacademy.org/humanities/medieval-world/medieval-book) (2 Topics)
+## [Smarthistory tarafından sunulmaktadır. Ortaçağ Avrupası](https://tr.khanacademy.org/humanities/medieval-world) (9 Topics)
+  - [Smarthistory tarafından sunulmaktadır. Ortaçağ Avrupası'na yeni başlayanlar için rehber](https://tr.khanacademy.org/humanities/medieval-world/medieval-europe) (7 Articles, 1 Exercise, 6 Videos | [25m 45s](https://www.youtube.com/watch_videos?title=Smarthistory+taraf%C4%B1ndan+sunulmaktad%C4%B1r.+Orta%C3%A7a%C4%9F+Avrupas%C4%B1%27na+yeni+ba%C5%9Flayanlar+i%C3%A7in+rehber&video_ids=Lm5Si7Uwu2g%2CaYSZ62qneco%2CHpCaYzfgBTY%2CA25l7STTy0c%2CQMH7d844Uog%2CHN3X1sA24R4) )
+  - [Brought to you by Smarthistory. Books and the dissemination of knowledge in the Middle Ages](https://tr.khanacademy.org/humanities/medieval-world/medieval-book) (2 Topics)
     - [Bir Ortaçağ Kitabı Hazırlama](https://tr.khanacademy.org/humanities/medieval-world/medieval-book/making-medieval-book) (10 Articles, 4 Videos | [21m 5s](https://www.youtube.com/watch_videos?title=Bir+Orta%C3%A7a%C4%9F+Kitab%C4%B1+Haz%C4%B1rlama&video_ids=Q6Qy4GHMXWE%2CZCGCUO0hByI%2C2gIqG6VbHe0%2CLm5Si7Uwu2g) )
     - [Bir Ortaçağ Kitabı Kullanma
 ](https://tr.khanacademy.org/humanities/medieval-world/medieval-book/using-medieval-book) (8 Articles, 1 Video | [4m 30s](https://www.youtube.com/watch_videos?title=Bir+Orta%C3%A7a%C4%9F+Kitab%C4%B1+Kullanma%0A&video_ids=HpCaYzfgBTY) )
   - [Erken Hristiyanlık Dönemi
 ](https://tr.khanacademy.org/humanities/medieval-world/early-christian1) (10 Articles, 4 Exercises, 8 Videos | [54m 18s](https://www.youtube.com/watch_videos?title=Erken+Hristiyanl%C4%B1k+D%C3%B6nemi%0A&video_ids=PwEnvs91IZU%2CMuZApVj2NnM%2CVBaRg5B90lY%2C24ufRwoQIb0%2CuIVxA1WaOpE%2CfVx7NGCo55g%2ClDEryY8jI68%2CUhCzih6cjR4) )
-  - [Bizans](https://tr.khanacademy.org/humanities/medieval-world/byzantine1) (4 Topics)
-    - [Bizans Sanatı ve Kültürüne Yeni Başlayanlar için Bir Rehber](https://tr.khanacademy.org/humanities/medieval-world/byzantine1/beginners-guide-byzantine) (2 Articles)
+  - [Bizans (Geç Roma İmparatorluğu)](https://tr.khanacademy.org/humanities/medieval-world/byzantine1) (4 Topics)
     - [Konstantinopolis ve Doğu](https://tr.khanacademy.org/humanities/medieval-world/byzantine1/constantinople-east) (3 Articles, 1 Exercise, 7 Videos | [44m 29s](https://www.youtube.com/watch_videos?title=Konstantinopolis+ve+Do%C4%9Fu&video_ids=5s5ktxqVJGM%2CYMxQDWDXnKQ%2CqRPwrVv1nCA%2C9lVE3trJf1A%2CTPj756HYLi8%2CNEMsyLAVnWo%2CZH0P0uBY3PY) )
     - [Venedik ve Ravenna](https://tr.khanacademy.org/humanities/medieval-world/byzantine1/venice-ravenna) (1 Article, 1 Exercise, 4 Videos | [27m 35s](https://www.youtube.com/watch_videos?title=Venedik+ve+Ravenna&video_ids=It3i-dKusIM%2CWvNnUEvDUBg%2C1RKXL8aeCBw%2C8SQoJDlNth0) )
-    - [Test: Bizans Sanatı](https://tr.khanacademy.org/humanities/medieval-world/byzantine1/quiz-byzantine) (1 Exercise, 1 Test)
   - [Erken Orta Çağ Dönemi](https://tr.khanacademy.org/humanities/medieval-world/early-medieval) (10 Articles, 4 Exercises, 4 Videos | [27m 5s](https://www.youtube.com/watch_videos?title=Erken+Orta+%C3%87a%C4%9F+D%C3%B6nemi&video_ids=B2JvFFMTgUw%2C0P1m1afVfFI%2CTYds0dsratI%2Ch8hQIRmrEnM) )
   - [Karolenj Dönemi
 ](https://tr.khanacademy.org/humanities/medieval-world/carolingian1) (3 Articles, 2 Exercises, 5 Videos | [33m 58s](https://www.youtube.com/watch_videos?title=Karolenj+D%C3%B6nemi%0A&video_ids=XQT8Vwp4j0U%2Cio-gXupzWs8%2CeqC8gVxxB-s%2CcXzcUuSlsgE%2CE3NJCc1WGL0) )
@@ -4486,56 +4096,52 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
   - [Gotik Dönem
 ](https://tr.khanacademy.org/humanities/medieval-world/gothic1) (12 Articles, 5 Exercises, 1 Test, 14 Videos | [2h 3m 7s](https://www.youtube.com/watch_videos?title=Gotik+D%C3%B6nem%0A&video_ids=I-zu-MzrRwg%2CJk3VsinLgvc%2CHijg5XG6yg8%2C9STNgMoRXHM%2CxsHYPNYmJCs%2CvigjJih8Pn4%2CH4zXQrBeJU8%2CHc96IQmEOIY%2CTuA00wpXaYA%2CYCKzhNQISZo%2CZ2Zmmx0u-gE%2CBPAsaeCbFZQ%2Cvsjl4aE2VkA%2CabKtscO6lMU) )
 
-## [Avrupa 1300-1600](https://tr.khanacademy.org/humanities/renaissance-reformation) (8 Topics)
+## [Avrupa'da Rönesans ve Reform](https://tr.khanacademy.org/humanities/renaissance-reformation) (8 Topics)
   - [İtalya'da Geç Dönem Gotik Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy) (4 Topics)
-    - [Geç Dönem Gotik'e yeni başlayanlar için başlangıç rehberi](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/beginners-guide-late-gothic) (2 Articles, 1 Video | [10m 23s](https://www.youtube.com/watch_videos?title=Ge%C3%A7+D%C3%B6nem+Gotik%27e+yeni+ba%C5%9Flayanlar+i%C3%A7in+ba%C5%9Flang%C4%B1%C3%A7+rehberi&video_ids=WVyusmjiTXI) )
+    - [Geç Gotik sanat, giriş](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/beginners-guide-late-gothic) (2 Articles, 1 Video | [10m 23s](https://www.youtube.com/watch_videos?title=Ge%C3%A7+Gotik+sanat%2C+giri%C5%9F&video_ids=WVyusmjiTXI) )
     - [Floransa, Geç Dönem Gotik](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/florence-late-gothic) (3 Articles, 3 Exercises, 10 Videos | [1h 19s](https://www.youtube.com/watch_videos?title=Floransa%2C+Ge%C3%A7+D%C3%B6nem+Gotik&video_ids=_alU-o_qDt8%2CMB9Mo4ohugg%2CDKnFvXmUlOI%2CMQct5EFQ9x8%2Cfmol6LSz9oA%2CMUorQ0_7XzM%2Cw7VRxZsu77M%2CEMakKKlQ_AI%2Cbe9rz_HOnXI%2CncgAfzRSJrI) )
     - [Siena, Geç Dönem Gotik](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/siena-late-gothic) (1 Article, 5 Exercises, 8 Videos | [40m 2s](https://www.youtube.com/watch_videos?title=Siena%2C+Ge%C3%A7+D%C3%B6nem+Gotik&video_ids=2fijnNzktDI%2Cw6Tgu14VSLY%2C1JL5ZR-ocOs%2CPu1WCHsYfKQ%2C48BlvdkDMNo%2Cu5GAGz6H7iM%2CZ29bpAW1AUM%2CqUxRqVn-XXs) )
     - [Pisa ve Roma, Geç Dönem Gotik](https://tr.khanacademy.org/humanities/renaissance-reformation/late-gothic-italy/pisa-rome) (1 Test, 2 Videos | [17m 47s](https://www.youtube.com/watch_videos?title=Pisa+ve+Roma%2C+Ge%C3%A7+D%C3%B6nem+Gotik&video_ids=DXEG8l1FRRk%2CvTzG8iKcOYM) )
-  - [İtalya'da Rönesans: 1400ler](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1) (4 Topics)
-    - [Başlangıç Rehberi ](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence) (4 Articles, 4 Videos | [35m 53s](https://www.youtube.com/watch_videos?title=Ba%C5%9Flang%C4%B1%C3%A7+Rehberi+&video_ids=6YiL9MNyGKE%2C1iTC9cBk6Ac%2CQQVgYU83D3M%2CACh2ZBZsDiA) )
-    - [Orta ve Kuzey İtalya'da Heykel ve Mimari](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/sculpture-architecture-florence) (3 Articles, 6 Exercises, 16 Videos | [1h 21m 59s](https://www.youtube.com/watch_videos?title=Orta+ve+Kuzey+%C4%B0talya%27da+Heykel+ve+Mimari&video_ids=5UkLKSZ8qXc%2CfWkewBPMKEk%2CMPcLQhxNLzo%2CFXdbGPm3s6M%2CyjSsw1_WK-A%2CYAvGfkPrzp0%2CjAuHL95xi50%2C-V51ZjxFeH4%2CGGRdodQDXBI%2CvOXS33MS3mM%2CwEnmjI-MsyQ%2C6kUUJJV_MNA%2CgmMtutFYgWk%2Ck6nRZx-F3GE%2C5oxBN2E5Rt8%2C1wDFFqcXZOo) )
-    - [Orta ve Kuzey İtalya'da Resim](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/painting-in-florence) (12 Articles, 8 Exercises, 18 Videos | [1h 37m 36s](https://www.youtube.com/watch_videos?title=Orta+ve+Kuzey+%C4%B0talya%27da+Resim&video_ids=EDvGjazA1lA%2C4xFs8F7B2E4%2CKl4Dcj9o570%2CX3YobqZdMtU%2ChMzFbORRiss%2C6lH7zWK_SAg%2Cif535nX6d4g%2CnwCRaV5TN9s%2CaxppRJaMf5A%2C-yVkBBlKQRI%2CN5ICTzcREEs%2CpqD6nL1kwY4%2CqwZn852brII%2CK6PBfbkMzFU%2CwWZIP815BzU%2C7IKxP5zzO2M%2CnGCKUYxAoY0%2ChgMqBYJ1WPI) )
+  - [Erken Rönesans](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1) (4 Topics)
+    - [ Yeni Başlayanlar için Rönesans Floransa’sı Rehberi
+](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/beginners-renaissance-florence) (4 Articles, 4 Videos | [35m 53s](https://www.youtube.com/watch_videos?title=%C2%A0Yeni+Ba%C5%9Flayanlar+i%C3%A7in+R%C3%B6nesans+Floransa%E2%80%99s%C4%B1+Rehberi%0A&video_ids=6YiL9MNyGKE%2C1iTC9cBk6Ac%2CQQVgYU83D3M%2CACh2ZBZsDiA) )
+    - [ Floransa’da Heykel ve Mimari
+](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/sculpture-architecture-florence) (3 Articles, 6 Exercises, 16 Videos | [1h 21m 59s](https://www.youtube.com/watch_videos?title=%C2%A0Floransa%E2%80%99da+Heykel+ve+Mimari%0A&video_ids=5UkLKSZ8qXc%2CfWkewBPMKEk%2CMPcLQhxNLzo%2CFXdbGPm3s6M%2CyjSsw1_WK-A%2CYAvGfkPrzp0%2CjAuHL95xi50%2C-V51ZjxFeH4%2CGGRdodQDXBI%2CvOXS33MS3mM%2CwEnmjI-MsyQ%2C6kUUJJV_MNA%2CgmMtutFYgWk%2Ck6nRZx-F3GE%2C5oxBN2E5Rt8%2C1wDFFqcXZOo) )
+    - [Floransa'da Resim Sanatı](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/painting-in-florence) (12 Articles, 8 Exercises, 18 Videos | [1h 37m 36s](https://www.youtube.com/watch_videos?title=Floransa%27da+Resim+Sanat%C4%B1&video_ids=EDvGjazA1lA%2C4xFs8F7B2E4%2CKl4Dcj9o570%2CX3YobqZdMtU%2ChMzFbORRiss%2C6lH7zWK_SAg%2Cif535nX6d4g%2CnwCRaV5TN9s%2CaxppRJaMf5A%2C-yVkBBlKQRI%2CN5ICTzcREEs%2CpqD6nL1kwY4%2CqwZn852brII%2CK6PBfbkMzFU%2CwWZIP815BzU%2C7IKxP5zzO2M%2CnGCKUYxAoY0%2ChgMqBYJ1WPI) )
     - [Venedik](https://tr.khanacademy.org/humanities/renaissance-reformation/early-renaissance1/venice-early-ren) (5 Articles, 1 Exercise, 9 Videos | [48m 16s](https://www.youtube.com/watch_videos?title=Venedik&video_ids=HI4Pre5WzQQ%2CH_hDbjVnRqY%2CPxCTyVQMVbs%2CNCu83PcEQ1U%2CrTey6h4BQhc%2CwIbpSJdSz90%2CXpHuPHwLggM%2CGN0P5RkQAow%2CXGZvvQ8BmjY) )
-  - [İtalya'da Rönesans ve Sonrası: 1500ler](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome) (7 Topics)
+  - [Floransa ve Roma'da Yüksek Rönesans Dönemi](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome) (7 Topics)
     - [Yeni Başlayanlar için Yüksek Rönesans Dönemi Rehberi](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/beginners-guide-high-ren) (4 Articles, 1 Video | [4m 21s](https://www.youtube.com/watch_videos?title=Yeni+Ba%C5%9Flayanlar+i%C3%A7in+Y%C3%BCksek+R%C3%B6nesans+D%C3%B6nemi+Rehberi&video_ids=VZ4YPpn2j6g) )
     - [Leonardo da Vinci](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/leonardo-da-vinci) (5 Articles, 1 Exercise, 7 Videos | [40m 48s](https://www.youtube.com/watch_videos?title=Leonardo+da+Vinci&video_ids=R4a-t2ENFKA%2C9SYkI5RImSM%2C94xKRkCHlv0%2C1vYACNLJsUc%2CL4F2lgyi7FA%2CIGophiltTG8%2CsfSqlN7qgzA) )
     - [Michelangelo](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/michelangelo) (7 Articles, 1 Exercise, 10 Videos | [54m 20s](https://www.youtube.com/watch_videos?title=Michelangelo&video_ids=YUd7JmSmCh4%2C5LBI-otSbJM%2C-oXAekrYytA%2CGUy9y-l0Srg%2Ch44bnIGogu8%2CPEE3B8Fsuc0%2CqVJbQEFLVEY%2Cc2MuTvQM61Y%2C5gVlGU4zUeY%2C0FoCucYeCNI) )
     - [Raffaello](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/high-renaissance1) (2 Articles, 1 Exercise, 7 Videos | [37m 39s](https://www.youtube.com/watch_videos?title=Raffaello&video_ids=H_Guv2Mk1E0%2CoAnnou5_7pg%2CwhqZCcO4tn8%2CuO7GVjnt3CU%2Cln9VIRiocps%2CKc4wAiuIvAQ%2Cd5_Tb5sD_a0) )
     - [Bramante](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/bramante) (1 Article, 1 Exercise, 2 Videos | [10m 29s](https://www.youtube.com/watch_videos?title=Bramante&video_ids=ihqd8_H1ROE%2Cm8a87ZojSuc) )
-    - [Maniyerizm (Üslupçuluk)](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/pontormo) (4 Articles, 2 Exercises, 8 Videos | [45m 59s](https://www.youtube.com/watch_videos?title=Maniyerizm+%28%C3%9Cslup%C3%A7uluk%29&video_ids=ABhqENOxSrU%2CsuIUUGdNyWk%2CZ8akHLaGaZg%2C2lXL4HscWGI%2C6w2E8G0sEPc%2CTow9KpjXc1I%2C4mpFcaeElCs%2Cr9bQ46uo0vc) )
-    - [Venedik](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/late-renaissance-venice) (6 Articles, 2 Exercises, 1 Test, 19 Videos | [1h 30m 21s](https://www.youtube.com/watch_videos?title=Venedik&video_ids=LFA_qmGuY2A%2CYaCJpllrAzk%2CisUyarZSM6A%2CnRqdPXi_zvk%2CWdDqrcYs-CA%2C8KkBzq9aBMo%2C-ngmZo-dvy4%2ChunCRrXUNIY%2CqD6ct0VS15c%2CZVUH4-Wsdwg%2CiNW6SYDmkDI%2ChrBMFNvvOBI%2C76jN09XiK8U%2Cdrn2_aQHyG0%2CL9xg6jaIS-E%2Ce41Wh7jhoxc%2Cx3GFqNYaVRE%2CBgrwohxf9Ws%2CYhsjS5CtCTE) )
-  - [Kuzey Avrupa'da Rönesans: 1400ler](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1) (10 Topics)
-    - [Kuzey Rönesansı'na Yeni Başlayanlar İçin Kılavuz](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/beginners-guide-northern-renaissance) (5 Articles, 2 Exercises)
+    - [Pontormo](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/pontormo) (4 Articles, 2 Exercises, 8 Videos | [45m 59s](https://www.youtube.com/watch_videos?title=Pontormo&video_ids=ABhqENOxSrU%2CsuIUUGdNyWk%2CZ8akHLaGaZg%2C2lXL4HscWGI%2C6w2E8G0sEPc%2CTow9KpjXc1I%2C4mpFcaeElCs%2Cr9bQ46uo0vc) )
+    - [Venedik'te Geç Rönesans](https://tr.khanacademy.org/humanities/renaissance-reformation/high-ren-florence-rome/late-renaissance-venice) (6 Articles, 2 Exercises, 1 Test, 19 Videos | [1h 30m 21s](https://www.youtube.com/watch_videos?title=Venedik%27te+Ge%C3%A7+R%C3%B6nesans&video_ids=LFA_qmGuY2A%2CYaCJpllrAzk%2CisUyarZSM6A%2CnRqdPXi_zvk%2CWdDqrcYs-CA%2C8KkBzq9aBMo%2C-ngmZo-dvy4%2ChunCRrXUNIY%2CqD6ct0VS15c%2CZVUH4-Wsdwg%2CiNW6SYDmkDI%2ChrBMFNvvOBI%2C76jN09XiK8U%2Cdrn2_aQHyG0%2CL9xg6jaIS-E%2Ce41Wh7jhoxc%2Cx3GFqNYaVRE%2CBgrwohxf9Ws%2CYhsjS5CtCTE) )
+  - [Kuzey Rönesans Dönemi](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1) (10 Topics)
     - [Claus Sluter ve Claus de Werve
 ](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/sluter) (1 Exercise, 2 Videos | [8m 15s](https://www.youtube.com/watch_videos?title=Claus+Sluter+ve+Claus+de+Werve%0A&video_ids=Wf-jB2tX1ZQ%2CPwBEe7KC2k4) )
     - [Limbourg Kardeşler](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/limbourg-brothers) (1 Article, 1 Video | [2m 55s](https://www.youtube.com/watch_videos?title=Limbourg+Karde%C5%9Fler&video_ids=Bb5UUXO1xa4) )
     - [Campin
 ](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/campin) (1 Exercise, 2 Videos | [14m 56s](https://www.youtube.com/watch_videos?title=Campin%0A&video_ids=gCdZQRX4CDM%2Cq1X0Lj7YEMs) )
     - [Van Eyck](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/burgundy-netherlands) (2 Articles, 2 Exercises, 5 Videos | [27m 18s](https://www.youtube.com/watch_videos?title=Van+Eyck&video_ids=udgNvPpDb2I%2CJVhwinCiELI%2CWFF02TnVBO0%2Ci1JaH7tHPwI%2CsNwK3g38Fu0) )
-    - [Christus](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/christus) (1 Article, 2 Videos | [8m 39s](https://www.youtube.com/watch_videos?title=Christus&video_ids=0qvRL_MtEjE%2CJofD1WHgt3w) )
+    - [Petrus c](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/christus) (1 Article, 2 Videos | [8m 39s](https://www.youtube.com/watch_videos?title=Petrus+c&video_ids=0qvRL_MtEjE%2CJofD1WHgt3w) )
     - [Van der Weyden](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/weyden) (1 Exercise, 4 Videos | [24m 43s](https://www.youtube.com/watch_videos?title=Van+der+Weyden&video_ids=SLf_oAkngP4%2CHhN5Zkbpt_k%2C3npb3UZ0b9o%2CigTCJ7TCrOo) )
     - [Van der Goes](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/vandergoes) (1 Video | [3m 48s](https://www.youtube.com/watch_videos?title=Van+der+Goes&video_ids=B0eHEo-f6fc) )
-    - [Quarton (?)](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/quarton) (1 Video | [5m 51s](https://www.youtube.com/watch_videos?title=Quarton+%28%3F%29&video_ids=_0YdFG17fQc) )
-    - [Dini Rölikler ve Halılar](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/reliquaries-manuscripts-tapestries) (1 Article, 1 Test, 2 Videos | [8m 49s](https://www.youtube.com/watch_videos?title=Dini+R%C3%B6likler+ve+Hal%C4%B1lar&video_ids=3UrldoCOi5w%2CV19lvaQyFuQ) )
-  - [Kuzey Avrupa'da Rönesans ve Sonrası: 1500ler](https://tr.khanacademy.org/humanities/renaissance-reformation/northern) (9 Topics)
-    - [Başlangıç Rehberi ](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/northern-ren-16c) (2 Articles)
-    - [Pacher ve Grünewald](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/england-france-tyrol) (1 Article, 1 Exercise, 1 Video | [6m 15s](https://www.youtube.com/watch_videos?title=Pacher+ve+Gr%C3%BCnewald&video_ids=KdDIIYqXmjw) )
+    - [Quarton](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/quarton) (1 Video | [5m 51s](https://www.youtube.com/watch_videos?title=Quarton&video_ids=_0YdFG17fQc) )
+    - [Reliquaries, El Yazmaları ve Duvar Halıları](https://tr.khanacademy.org/humanities/renaissance-reformation/northern-renaissance1/reliquaries-manuscripts-tapestries) (1 Article, 1 Test, 2 Videos | [8m 49s](https://www.youtube.com/watch_videos?title=Reliquaries%2C+El+Yazmalar%C4%B1+ve+Duvar+Hal%C4%B1lar%C4%B1&video_ids=3UrldoCOi5w%2CV19lvaQyFuQ) )
+  - [Kuzey Rönesansı: Onaltıncı Yüzyıl](https://tr.khanacademy.org/humanities/renaissance-reformation/northern) (9 Topics)
+    - [İngiltere, Fransa ve Tyrol](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/england-france-tyrol) (1 Article, 1 Exercise, 1 Video | [6m 15s](https://www.youtube.com/watch_videos?title=%C4%B0ngiltere%2C+Fransa+ve+Tyrol&video_ids=KdDIIYqXmjw) )
     - [Hieronymus Bosch](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/hieronymus-bosch) (1 Article, 1 Video | [8m 52s](https://www.youtube.com/watch_videos?title=Hieronymus+Bosch&video_ids=Ea6qS3nuvng) )
     - [Albrecht Dürer](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/durer) (6 Articles, 1 Exercise, 8 Videos | [30m 53s](https://www.youtube.com/watch_videos?title=Albrecht+D%C3%BCrer&video_ids=g1mCnSKZFAA%2CWMZA_KKn91E%2C1EqFyiah8p8%2CLpA7PkSDmCo%2CQ9Y39Hhvk1k%2Cz11pYvaLctY%2CWyNqLrb0LRE%2Cymh2lcsPEdU) )
-    - [Antwerp, Bruges ve Brüksel](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/antwerp-bruges) (2 Articles, 1 Exercise, 8 Videos | [30m 50s](https://www.youtube.com/watch_videos?title=Antwerp%2C+Bruges+ve+Br%C3%BCksel&video_ids=9fiJ7mSzamw%2Cq8cYGh-K6Ok%2Cr4uV9UgLmRY%2Cx44HZco44As%2C2p-nurU0y9o%2C7qAhz0sN0ys%2CXHjUeQMdk-o%2CX3dCjTUmicY) )
+    - [Antwerp ve Bruges](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/antwerp-bruges) (2 Articles, 1 Exercise, 8 Videos | [30m 50s](https://www.youtube.com/watch_videos?title=Antwerp+ve+Bruges&video_ids=9fiJ7mSzamw%2Cq8cYGh-K6Ok%2Cr4uV9UgLmRY%2Cx44HZco44As%2C2p-nurU0y9o%2C7qAhz0sN0ys%2CXHjUeQMdk-o%2CX3dCjTUmicY) )
     - [Cranach ve Altdorfer](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/cranach-altdorfer) (1 Article, 1 Exercise, 4 Videos | [16m 57s](https://www.youtube.com/watch_videos?title=Cranach+ve+Altdorfer&video_ids=g4XZGhnFOwM%2Cbaifq1b1-i4%2CyRm0c5XFPwQ%2C6m26gaTq9Z4) )
     - [Hans Holbein](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/holbein) (1 Article, 4 Videos | [18m 17s](https://www.youtube.com/watch_videos?title=Hans+Holbein&video_ids=GdT4fvza8As%2CAN6Yit1MGFY%2CPNRqTmHWHqs%2C_B09qZrt7iM) )
     - [İngiltere](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/england) (2 Videos | [8m 47s](https://www.youtube.com/watch_videos?title=%C4%B0ngiltere&video_ids=BbHkw2qbS04%2Cs5-OV0jnkJ4) )
-    - [Test: 16. yüzyılda Kuzey Rönesansı](https://tr.khanacademy.org/humanities/renaissance-reformation/northern/northern-renaissance-1500s) (1 Exercise, 1 Test)
-  - [İspanya'da Rönesans ve Sonrası](https://tr.khanacademy.org/humanities/renaissance-reformation/renaissance-in-spain) (4 Articles, 1 Video | [4m 10s](https://www.youtube.com/watch_videos?title=%C4%B0spanya%27da+R%C3%B6nesans+ve+Sonras%C4%B1&video_ids=7j6xDC3tOL0) )
-  - [Reform ve Karşı Reform](https://tr.khanacademy.org/humanities/renaissance-reformation/protestant-reformation1) (2 Articles, 2 Exercises, 4 Videos | [37m 30s](https://www.youtube.com/watch_videos?title=Reform+ve+Kar%C5%9F%C4%B1+Reform&video_ids=NHsxQiWgyaY%2CaKefXapoZUs%2Cb4tcJRC0ouk%2CwX796f4u9Ws) )
+  - [İspanya'da Rönesans ](https://tr.khanacademy.org/humanities/renaissance-reformation/renaissance-in-spain) (4 Articles, 1 Video | [4m 10s](https://www.youtube.com/watch_videos?title=%C4%B0spanya%27da+R%C3%B6nesans+&video_ids=7j6xDC3tOL0) )
+  - [Protestan Reformu](https://tr.khanacademy.org/humanities/renaissance-reformation/protestant-reformation1) (2 Articles, 2 Exercises, 4 Videos | [37m 30s](https://www.youtube.com/watch_videos?title=Protestan+Reformu&video_ids=NHsxQiWgyaY%2CaKefXapoZUs%2Cb4tcJRC0ouk%2CwX796f4u9Ws) )
 
-## [I. Dünya Savaşı Öncesi Amerikan Sanatı](https://tr.khanacademy.org/humanities/art-americas) (8 Topics)
-  - [Amerika Kıtası Sanatı'na Yeni Başlayanlar İçin Rehber](https://tr.khanacademy.org/humanities/art-americas/beginners-guide-americas) (4 Articles)
-  - [Kolonileşmeden Önce Kuzey Amerika](https://tr.khanacademy.org/humanities/art-americas/early-cultures) (12 Topics)
-    - [Tarih Öncesi Meksika](https://tr.khanacademy.org/humanities/art-americas/early-cultures/prehistoric-mexico) (1 Article)
-    - [Clovis Kültürü](https://tr.khanacademy.org/humanities/art-americas/early-cultures/clovis-culture) (1 Article)
+## [Kuzey ve Güney Amerika'da Sanat](https://tr.khanacademy.org/humanities/art-americas) (8 Topics)
+  - [Early cultures in the Americas](https://tr.khanacademy.org/humanities/art-americas/early-cultures) (12 Topics)
     - [Moundbuilders Toplulukları](https://tr.khanacademy.org/humanities/art-americas/early-cultures/moundbuilders) (2 Articles, 1 Video | [7m 4s](https://www.youtube.com/watch_videos?title=Moundbuilders+Topluluklar%C4%B1&video_ids=Auczc5MpYtc) )
     - [Tlatilco](https://tr.khanacademy.org/humanities/art-americas/early-cultures/tlatilco) (1 Article, 1 Video | [5m 7s](https://www.youtube.com/watch_videos?title=Tlatilco&video_ids=qvO6sdUi5z4) )
     - [Olmek](https://tr.khanacademy.org/humanities/art-americas/early-cultures/olmec) (4 Articles, 3 Videos | [11m 9s](https://www.youtube.com/watch_videos?title=Olmek&video_ids=GWv2CjL1vEI%2C5hMtqxCIyIY%2Cm_z5DPN-7mY) )
@@ -4544,97 +4150,78 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
     - [Klasik Veracruz Kültürü](https://tr.khanacademy.org/humanities/art-americas/early-cultures/classic-veracruz) (1 Video | [7m 13s](https://www.youtube.com/watch_videos?title=Klasik+Veracruz+K%C3%BClt%C3%BCr%C3%BC&video_ids=0WcMdWjt3Rk) )
     - [Maya](https://tr.khanacademy.org/humanities/art-americas/early-cultures/maya) (8 Articles, 3 Videos | [19m 1s](https://www.youtube.com/watch_videos?title=Maya&video_ids=3JM-Xiz6vrg%2CrYaSgvh20Uo%2Ckz7K0pP7kAE) )
     - [Anasaziler (Ancestral Puebloan)](https://tr.khanacademy.org/humanities/art-americas/early-cultures/ancestral-puebloan) (2 Articles, 1 Video | [6m 20s](https://www.youtube.com/watch_videos?title=Anasaziler+%28Ancestral+Puebloan%29&video_ids=ifY8gBIonAc) )
-    - [Huastec](https://tr.khanacademy.org/humanities/art-americas/early-cultures/huastec) (1 Article)
-    - [Mixtec](https://tr.khanacademy.org/humanities/art-americas/early-cultures/mixtec) (1 Article)
     - [Aztek (Meksika)](https://tr.khanacademy.org/humanities/art-americas/early-cultures/aztec-mexica) (10 Articles, 7 Videos | [38m 2s](https://www.youtube.com/watch_videos?title=Aztek+%28Meksika%29&video_ids=rLrvPF3FDjg%2C86zSgZWVkVk%2Cmpfh26qNtmQ%2CEa1swMiVhhg%2COhdyovjHk8g%2C_xvB2mV01ws%2Cc0OX6iJGJMo) )
-  - [Kolonileşmeden Önce Güney Amerika](https://tr.khanacademy.org/humanities/art-americas/south-america-early) (10 Topics)
-    - [Yeni Başlayanlar için Rehber](https://tr.khanacademy.org/humanities/art-americas/south-america-early/a-beginn) (1 Article)
-    - [Cupisnique](https://tr.khanacademy.org/humanities/art-americas/south-america-early/cupisnique) (1 Video | [4m 51s](https://www.youtube.com/watch_videos?title=Cupisnique&video_ids=jAXIQip4TO4) )
-    - [Paracas ve Nasca Kültürleri](https://tr.khanacademy.org/humanities/art-americas/south-america-early/paracas-nasca) (4 Articles)
-    - [Chavin Kültürü](https://tr.khanacademy.org/humanities/art-americas/south-america-early/chavin) (1 Article)
+  - [Yeni Başlayanlar için Rehber](https://tr.khanacademy.org/humanities/art-americas/south-america-early) (10 Topics)
+    - [cupisnique](https://tr.khanacademy.org/humanities/art-americas/south-america-early/cupisnique) (1 Video | [4m 51s](https://www.youtube.com/watch_videos?title=cupisnique&video_ids=jAXIQip4TO4) )
     - [Moche Kültürü](https://tr.khanacademy.org/humanities/art-americas/south-america-early/moche-culture) (1 Article, 2 Videos | [12m 13s](https://www.youtube.com/watch_videos?title=Moche+K%C3%BClt%C3%BCr%C3%BC&video_ids=VqBEjrFVXiU%2CF6jGHz0t6aM) )
-    - [Chimú Kültürü](https://tr.khanacademy.org/humanities/art-americas/south-america-early/chim-culture) (1 Article)
-    - [Sicán](https://tr.khanacademy.org/humanities/art-americas/south-america-early/sican) (1 Video | [8m 36s](https://www.youtube.com/watch_videos?title=Sic%C3%A1n&video_ids=x1LinuzLQVk) )
+    - [Sicán culture](https://tr.khanacademy.org/humanities/art-americas/south-america-early/sican) (1 Video | [8m 36s](https://www.youtube.com/watch_videos?title=Sic%C3%A1n+culture&video_ids=x1LinuzLQVk) )
     - [İnka](https://tr.khanacademy.org/humanities/art-americas/south-america-early/inca-art) (8 Articles, 1 Video | [5m 44s](https://www.youtube.com/watch_videos?title=%C4%B0nka&video_ids=rZxPbdzJAAY) )
     - [Antik Kolombiya Beylikleri](https://tr.khanacademy.org/humanities/art-americas/south-america-early/ancient-colombia) (3 Articles, 3 Videos | [12m 58s](https://www.youtube.com/watch_videos?title=Antik+Kolombiya+Beylikleri&video_ids=bVIrET_R4ng%2C1hnhiAA11Xo%2Cg1wUVfUF1d0) )
     - [Amazon Halkları](https://tr.khanacademy.org/humanities/art-americas/south-america-early/amazonian-people) (1 Article, 2 Videos | [10m 34s](https://www.youtube.com/watch_videos?title=Amazon+Halklar%C4%B1&video_ids=PigcGYLCr2M%2CJBc6VuGG1FE) )
-  - [Sömürge Döneminde Latin Amerika](https://tr.khanacademy.org/humanities/art-americas/new-spain) (4 Topics)
-    - [Yeni Başlayanlar için Rehber](https://tr.khanacademy.org/humanities/art-americas/new-spain/spanish-colonies-beginners-guide) (1 Article)
+  - [Amerika Kıtasındaki İspanyol Kolonileri](https://tr.khanacademy.org/humanities/art-americas/new-spain) (4 Topics)
     - [Yeni İspanya Genel Valiliği](https://tr.khanacademy.org/humanities/art-americas/new-spain/viceroyalty-new-spain) (16 Articles, 9 Videos | [50m 7s](https://www.youtube.com/watch_videos?title=Yeni+%C4%B0spanya+Genel+Valili%C4%9Fi&video_ids=V8vsNprk4vc%2CqLonCtRfbEU%2CQ3U8ez2BpUM%2CiupG9Z1jQVA%2CVbJBulu1X0Y%2C8jCl13KK9II%2C3LoTODQJ7j8%2COpdr_qnGPcw%2CbRI-f8LFfh0) )
     - [Peru Genel Valiliği](https://tr.khanacademy.org/humanities/art-americas/new-spain/viceroyalty-peru) (5 Articles, 1 Video | [8m 35s](https://www.youtube.com/watch_videos?title=Peru+Genel+Valili%C4%9Fi&video_ids=PpXFwaEgCi8) )
-    - [Sömürge Döneminde Brezilya](https://tr.khanacademy.org/humanities/art-americas/new-spain/colonial-brazil) (4 Articles)
   - [1600'den Sonra Amerikan Yerli Sanatı](https://tr.khanacademy.org/humanities/art-americas/native-north-america) (7 Topics)
-    - [1600'lerden sonra Yerli Amerikan sanatı için başlangıç kılavuzu](https://tr.khanacademy.org/humanities/art-americas/native-north-america/beg-guide-native-am-1600) (2 Articles)
     - [Doğu](https://tr.khanacademy.org/humanities/art-americas/native-north-america/native-american-east) (3 Articles, 1 Video | [6m 51s](https://www.youtube.com/watch_videos?title=Do%C4%9Fu&video_ids=iy3do7JTTKo) )
     - [Batı](https://tr.khanacademy.org/humanities/art-americas/native-north-america/native-american-west) (3 Articles, 4 Videos | [22m 4s](https://www.youtube.com/watch_videos?title=Bat%C4%B1&video_ids=Q8cUk2nYjGE%2Cv9le45EsCVA%2C6zPr5UL-vXQ%2COtDT_WcIEgo) )
     - [Güneybatı](https://tr.khanacademy.org/humanities/art-americas/native-north-america/native-american-southwest) (3 Articles, 1 Video | [6m 34s](https://www.youtube.com/watch_videos?title=G%C3%BCneybat%C4%B1&video_ids=XlhMVLFjkyE) )
-    - [Kuzeybatı Sahili](https://tr.khanacademy.org/humanities/art-americas/native-north-america/native-american-northwest-coast) (4 Articles)
-    - [Kuzey Kutbu](https://tr.khanacademy.org/humanities/art-americas/native-north-america/native-american-arctic) (1 Article)
     - [Çağdaş Sanat](https://tr.khanacademy.org/humanities/art-americas/native-north-america/native-american-contemporary-art) (2 Articles, 2 Videos | [13m 1s](https://www.youtube.com/watch_videos?title=%C3%87a%C4%9Fda%C5%9F+Sanat&video_ids=_GfSvZDHxgU%2CskHR8wrO490) )
   - [Erken Cumhuriyet Döneminde İngiliz Kolonileri](https://tr.khanacademy.org/humanities/art-americas/british-colonies) (2 Topics)
     - [Sömürge dönemi](https://tr.khanacademy.org/humanities/art-americas/british-colonies/colonial-period) (8 Articles, 3 Videos | [14m 28s](https://www.youtube.com/watch_videos?title=S%C3%B6m%C3%BCrge+d%C3%B6nemi&video_ids=-XmziEpUYtI%2Cyl90pOqnW9w%2CZLautKzkMc0) )
     - [Erken Cumhuriyet](https://tr.khanacademy.org/humanities/art-americas/british-colonies/early-republic) (8 Articles, 1 Exercise, 2 Videos | [9m 29s](https://www.youtube.com/watch_videos?title=Erken+Cumhuriyet&video_ids=i2AryWOiJqc%2CYFLBo-wvd3w) )
-  - [ABD'de Sanat: 1800'ler](https://tr.khanacademy.org/humanities/art-americas/us-art-19c) (4 Topics)
+  - [19. yüzyılda A.B.D.'de sanat](https://tr.khanacademy.org/humanities/art-americas/us-art-19c) (4 Topics)
     - [ABD'de Romantizm](https://tr.khanacademy.org/humanities/art-americas/us-art-19c/romanticism-us) (4 Articles, 2 Exercises, 7 Videos | [36m 33s](https://www.youtube.com/watch_videos?title=ABD%27de+Romantizm&video_ids=IrfQjbNwqkA%2CmZn-QTqExd8%2CRA_AUfRnKvM%2CW8VNqca7KpI%2CHLdKWno6YCs%2CW2q0aa2HmhA%2CBjlOZ2a8RGM) )
     - [ABD'de Realizm](https://tr.khanacademy.org/humanities/art-americas/us-art-19c/realism-us) (6 Articles, 10 Videos | [54m 2s](https://www.youtube.com/watch_videos?title=ABD%27de+Realizm&video_ids=VXusfNi_f4Q%2CkRSalPQepTo%2C5oUfPT8LJxI%2C1LrHCPUeACE%2CD7o-kAP8PqA%2CxerjJiBUKxw%2CglUrv1rwYFs%2CqOaYKEukVZ8%2CEd04nwauglI%2CxcF7H2hyD6A) )
-    - [Amerikan Estetikçiliği ve Yaldızlı Çağ](https://tr.khanacademy.org/humanities/art-americas/us-art-19c/civil-war-gilded-age) (5 Articles, 1 Video | [4m 16s](https://www.youtube.com/watch_videos?title=Amerikan+Estetik%C3%A7ili%C4%9Fi+ve+Yald%C4%B1zl%C4%B1+%C3%87a%C4%9F&video_ids=qyggwdM45Es) )
+    - [Amerika: İç Savaştan Yaldızlı Çağa](https://tr.khanacademy.org/humanities/art-americas/us-art-19c/civil-war-gilded-age) (5 Articles, 1 Video | [4m 16s](https://www.youtube.com/watch_videos?title=Amerika%3A+%C4%B0%C3%A7+Sava%C5%9Ftan+Yald%C4%B1zl%C4%B1+%C3%87a%C4%9Fa&video_ids=qyggwdM45Es) )
     - [19. Yüzyıl Amerikan Heykel Sanatı, Mimarisi ve Fotoğrafçılığı](https://tr.khanacademy.org/humanities/art-americas/us-art-19c/us-19c-arch-sculp-photo) (7 Articles, 6 Videos | [35m 47s](https://www.youtube.com/watch_videos?title=19.+Y%C3%BCzy%C4%B1l+Amerikan+Heykel+Sanat%C4%B1%2C+Mimarisi+ve+Foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1%C4%9F%C4%B1&video_ids=Ct9iepqScxk%2C3PAKSd5bLck%2CgDNvhbCtNU0%2CpF3Cjcnnx5k%2CJ4cZt2Pbqws%2C5vKc5dSajTw) )
   - [Bağımsızlıktan Sonra Latin Amerika](https://tr.khanacademy.org/humanities/art-americas/latin-america-after-independence) (2 Topics)
     - [18. ve 19. Yüzyıllarda Meksika Sanatı](https://tr.khanacademy.org/humanities/art-americas/latin-america-after-independence/art-of-mexico-in-the-18th-and-19th-centuries) (4 Articles, 1 Video | [5m 25s](https://www.youtube.com/watch_videos?title=18.+ve+19.+Y%C3%BCzy%C4%B1llarda+Meksika+Sanat%C4%B1&video_ids=Zdjx9shipuA) )
-    - [Bağımsızlıktan Sonra Latin Amerika](https://tr.khanacademy.org/humanities/art-americas/latin-america-after-independence/south-america-after-independence) (3 Articles)
 
 ## [19. Yüzyıl Avrupası'nda Sanat](https://tr.khanacademy.org/humanities/becoming-modern) (7 Topics)
-  - [Modernleşme](https://tr.khanacademy.org/humanities/becoming-modern/intro-becoming-modern) (2 Articles, 1 Video | [5m 49s](https://www.youtube.com/watch_videos?title=Modernle%C5%9Fme&video_ids=wU1kxeDUO18) )
+  - [Giriş-modernleşme](https://tr.khanacademy.org/humanities/becoming-modern/intro-becoming-modern) (2 Articles, 1 Video | [5m 49s](https://www.youtube.com/watch_videos?title=Giri%C5%9F-modernle%C5%9Fme&video_ids=wU1kxeDUO18) )
   - [Romantizm](https://tr.khanacademy.org/humanities/becoming-modern/romanticism) (6 Topics)
-    - [Romantizm ](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-intro) (1 Article)
-    - [Fransa](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france) (9 Articles, 4 Exercises, 8 Videos | [34m 34s](https://www.youtube.com/watch_videos?title=Fransa&video_ids=6YwT7NYs9vk%2ClJDRw-SQ6kw%2C50lxDm4IL2Q%2CubLL_cyCXK4%2CjlVBaqyGKMs%2Ctd32cqmhX5o%2CiDBJK0y8vb0%2C6skizQlC-uU) )
-    - [İspanya](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain) (3 Articles, 2 Exercises, 3 Videos | [17m 35s](https://www.youtube.com/watch_videos?title=%C4%B0spanya&video_ids=kb6Vmy8x9Ns%2C_QM-DfhrNv8%2Cblb6owWMTzA) )
+    - [Fransa'da Romantizm](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-france) (9 Articles, 4 Exercises, 8 Videos | [34m 34s](https://www.youtube.com/watch_videos?title=Fransa%27da+Romantizm&video_ids=6YwT7NYs9vk%2ClJDRw-SQ6kw%2C50lxDm4IL2Q%2CubLL_cyCXK4%2CjlVBaqyGKMs%2Ctd32cqmhX5o%2CiDBJK0y8vb0%2C6skizQlC-uU) )
+    - [İspanya'da Romantizm](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-spain) (3 Articles, 2 Exercises, 3 Videos | [17m 35s](https://www.youtube.com/watch_videos?title=%C4%B0spanya%27da+Romantizm&video_ids=kb6Vmy8x9Ns%2C_QM-DfhrNv8%2Cblb6owWMTzA) )
     - [İngiltere (Blake ve Fuseli)](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-england) (3 Articles, 1 Exercise, 3 Videos | [11m 9s](https://www.youtube.com/watch_videos?title=%C4%B0ngiltere+%28Blake+ve+Fuseli%29&video_ids=6jKpWr9CjV8%2ChfHr6RPCwaQ%2CS8XbAUF-sZw) )
     - [İngiltere (Constable, Turner, Martin ve Nash)](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/england-constable-turner) (12 Articles, 3 Exercises, 5 Videos | [21m 31s](https://www.youtube.com/watch_videos?title=%C4%B0ngiltere+%28Constable%2C+Turner%2C+Martin+ve+Nash%29&video_ids=PVmczLwlU00%2C6a8EugxlpdY%2CRPiHii4uQAI%2CwNo_APYDqmg%2CcbEd6oBgzHk) )
-    - [Almanya](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-germany) (1 Article, 3 Exercises, 1 Test, 4 Videos | [17m](https://www.youtube.com/watch_videos?title=Almanya&video_ids=1L9pAKXIv8g%2CpFq4Zc9RVzE%2CNYVbjL42eW4%2C-SawWGPI5SE) )
+    - [Almanya'da Romantizm](https://tr.khanacademy.org/humanities/becoming-modern/romanticism/romanticism-in-germany) (1 Article, 3 Exercises, 1 Test, 4 Videos | [17m](https://www.youtube.com/watch_videos?title=Almanya%27da+Romantizm&video_ids=1L9pAKXIv8g%2CpFq4Zc9RVzE%2CNYVbjL42eW4%2C-SawWGPI5SE) )
   - [Erken Fotoğrafçılık](https://tr.khanacademy.org/humanities/becoming-modern/early-photography) (4 Articles, 3 Videos | [19m 32s](https://www.youtube.com/watch_videos?title=Erken+Foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k&video_ids=GrBxP-EGzZc%2C6ZOy63uVDK0%2CVMDDhGKKN9w) )
   - [Victoria Dönemi'nde Sanat ve Mimari](https://tr.khanacademy.org/humanities/becoming-modern/victorian-art-architecture) (3 Topics)
     - [Erken Dönem Victoria](https://tr.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/early-victorian) (2 Articles, 1 Exercise, 1 Video | [6m 28s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Victoria&video_ids=bUvn-1xfBZw) )
-    - [ Ön Raffaelocular ve Orta Victoria Döneminde Sanat](https://tr.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites) (24 Articles, 3 Exercises, 16 Videos | [1h 13m 54s](https://www.youtube.com/watch_videos?title=+%C3%96n+Raffaelocular+ve+Orta+Victoria+D%C3%B6neminde+Sanat&video_ids=PSqc7zDbCYU%2CgPHScZDrke0%2Ch1nN6WTzO3Q%2CX4jcHB_hp2c%2C20n0i2KQRCs%2CuuUVL8QVXgc%2CgtDUB4nL5DY%2Cv3QVgPEAmbc%2CD2arzOmTATw%2CzrjeF8-wWb0%2CQKj96haWOGI%2CWnBYPM4nuJI%2CSpoY9umA3_0%2CK5npSwyqgGU%2CRYWn6taqHlM%2C27-X6HLE0xY) )
-    - [Geç Dönem Victoria](https://tr.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/victorian-late) (3 Articles, 1 Exercise, 1 Test, 3 Videos | [12m 18s](https://www.youtube.com/watch_videos?title=Ge%C3%A7+D%C3%B6nem+Victoria&video_ids=wwV2gldtJUg%2CcldhNLF8ICU%2C7TYjyud_nJg) )
-  - [Realizm (Gerçekçilik), Empresyonizm (İzlenimcilik) ve Post Empresyonizm (Art İzlenimcilik)](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france) (5 Topics)
-    - [Sanat ve Fransız Devleti](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/second-empire) (2 Articles, 2 Exercises, 2 Videos | [10m 35s](https://www.youtube.com/watch_videos?title=Sanat+ve+Frans%C4%B1z+Devleti&video_ids=zU_8ow6KXrk%2CCb5cmi9Y3g4) )
-    - [Realizm (Gerçekçilik)](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/realism) (8 Articles, 2 Exercises, 15 Videos | [1h 7m 14s](https://www.youtube.com/watch_videos?title=Realizm+%28Ger%C3%A7ek%C3%A7ilik%29&video_ids=HNZTmnngqrM%2CiFHIL6rZnj0%2Cs6ZspLK4Ugc%2C_Ir5gbyXBEM%2CNiVnzbRYmMM%2CBX5PKx4bjBU%2CbihBbqzL96Y%2C3xBGF8H3bQ4%2C2tZnAEkT-0Q%2C4KrD80x1oUQ%2CU3jg55NIvko%2CVkcHYTIEbrQ%2C6hz6Xv8-Sb4%2CiHuewgZR17s%2CJegkFmhMHf8) )
-    - [Empresyonizm (İzlenimcilik)
-](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/impressionism) (5 Articles, 1 Exercise, 27 Videos | [2h 1m 4s](https://www.youtube.com/watch_videos?title=Empresyonizm+%28%C4%B0zlenimcilik%29%0A&video_ids=-ARuSRJZrBA%2CqZ0YxWp8U8E%2CsXxM6OGYfiM%2CGJ05i--LYww%2Cf8vMo9pwTrc%2CCHuOTIbESX0%2CETmUuNcjHUI%2CEI4Wwi3FW-c%2C1O-EULPNaok%2CzPsc8-MVJOY%2C0-qZknV5Nmw%2CTOEPWDW_xYU%2CDuKNybfhO2c%2CMHFlmbq6_Hc%2CtWjnbh5Z9Vg%2CPDG6OQVBXGk%2CfpnIGUds1FQ%2CF0JQHehOV-8%2CgFCR_n8OBu8%2CR90HS8OkqJU%2CCktSZnTQou4%2C69zJ3UDh5Tw%2CmNAYyJVkjcs%2CdIC_iHuMNGA%2Co6amlRsb1n4%2C6zyT4j3Vl5w%2C7qaxUhbiQUc) )
-    - [Post Empresyonizm (Art İzlenimcilik)](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism) (12 Articles, 1 Exercise, 15 Videos | [1h 13m 36s](https://www.youtube.com/watch_videos?title=Post+Empresyonizm+%28Art+%C4%B0zlenimcilik%29&video_ids=cnPiInHbltw%2C6YkL_XuaqHk%2CpCGT9JKx2CY%2CDYf9h_HUKF0%2C_DFYIXozdIs%2CrNvV3Nj1mt0%2CpQu1RMIkg3c%2CwnGwd9qLnG8%2Cl4IjXprHLaU%2C8uIjl4u4je8%2CA3PzqVAekM4%2CKJuYXFHvRaY%2CiQY3SdZeZ6g%2CYFtf-xA7_oM%2CQpsmUUsnnqk) )
+    - [Pre-Raphaelites and mid-Victorian art](https://tr.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/pre-raphaelites) (24 Articles, 3 Exercises, 16 Videos | [1h 13m 54s](https://www.youtube.com/watch_videos?title=Pre-Raphaelites+and+mid-Victorian+art&video_ids=PSqc7zDbCYU%2CgPHScZDrke0%2Ch1nN6WTzO3Q%2CX4jcHB_hp2c%2C20n0i2KQRCs%2CuuUVL8QVXgc%2CgtDUB4nL5DY%2Cv3QVgPEAmbc%2CD2arzOmTATw%2CzrjeF8-wWb0%2CQKj96haWOGI%2CWnBYPM4nuJI%2CSpoY9umA3_0%2CK5npSwyqgGU%2CRYWn6taqHlM%2C27-X6HLE0xY) )
+    - [Sanat Tarihi: Geç Viktorya Dönemi](https://tr.khanacademy.org/humanities/becoming-modern/victorian-art-architecture/victorian-late) (3 Articles, 1 Exercise, 1 Test, 3 Videos | [12m 18s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Ge%C3%A7+Viktorya+D%C3%B6nemi&video_ids=wwV2gldtJUg%2CcldhNLF8ICU%2C7TYjyud_nJg) )
+  - [Fransa'da avant-gardın doğuşu](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france) (5 Topics)
+    - [Sanat Tarihi: İkinci İmparatorluk](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/second-empire) (2 Articles, 2 Exercises, 2 Videos | [10m 35s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+%C4%B0kinci+%C4%B0mparatorluk&video_ids=zU_8ow6KXrk%2CCb5cmi9Y3g4) )
+    - [Sanat Tarihi: Realizm (Gerçekçilik)](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/realism) (8 Articles, 2 Exercises, 15 Videos | [1h 7m 14s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Realizm+%28Ger%C3%A7ek%C3%A7ilik%29&video_ids=HNZTmnngqrM%2CiFHIL6rZnj0%2Cs6ZspLK4Ugc%2C_Ir5gbyXBEM%2CNiVnzbRYmMM%2CBX5PKx4bjBU%2CbihBbqzL96Y%2C3xBGF8H3bQ4%2C2tZnAEkT-0Q%2C4KrD80x1oUQ%2CU3jg55NIvko%2CVkcHYTIEbrQ%2C6hz6Xv8-Sb4%2CiHuewgZR17s%2CJegkFmhMHf8) )
+    - [Sanat Tarihi: Empresyonizm](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/impressionism) (5 Articles, 1 Exercise, 27 Videos | [2h 1m 4s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Empresyonizm&video_ids=-ARuSRJZrBA%2CqZ0YxWp8U8E%2CsXxM6OGYfiM%2CGJ05i--LYww%2Cf8vMo9pwTrc%2CCHuOTIbESX0%2CETmUuNcjHUI%2CEI4Wwi3FW-c%2C1O-EULPNaok%2CzPsc8-MVJOY%2C0-qZknV5Nmw%2CTOEPWDW_xYU%2CDuKNybfhO2c%2CMHFlmbq6_Hc%2CtWjnbh5Z9Vg%2CPDG6OQVBXGk%2CfpnIGUds1FQ%2CF0JQHehOV-8%2CgFCR_n8OBu8%2CR90HS8OkqJU%2CCktSZnTQou4%2C69zJ3UDh5Tw%2CmNAYyJVkjcs%2CdIC_iHuMNGA%2Co6amlRsb1n4%2C6zyT4j3Vl5w%2C7qaxUhbiQUc) )
+    - [Sanat Tarihi: Post Empresyonizm (Geç İzlenimcilik)](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/post-impressionism) (12 Articles, 1 Exercise, 15 Videos | [1h 13m 36s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Post+Empresyonizm+%28Ge%C3%A7+%C4%B0zlenimcilik%29&video_ids=cnPiInHbltw%2C6YkL_XuaqHk%2CpCGT9JKx2CY%2CDYf9h_HUKF0%2C_DFYIXozdIs%2CrNvV3Nj1mt0%2CpQu1RMIkg3c%2CwnGwd9qLnG8%2Cl4IjXprHLaU%2C8uIjl4u4je8%2CA3PzqVAekM4%2CKJuYXFHvRaY%2CiQY3SdZeZ6g%2CYFtf-xA7_oM%2CQpsmUUsnnqk) )
     - [Heykel](https://tr.khanacademy.org/humanities/becoming-modern/avant-garde-france/avant-garde-sculpture) (3 Articles, 1 Test, 2 Videos | [7m 21s](https://www.youtube.com/watch_videos?title=Heykel&video_ids=xnoTcKfJxsU%2Cbfv9T1lSO2U) )
-  - [Sembolizm & Art Nouveau ](https://tr.khanacademy.org/humanities/becoming-modern/symbolism) (3 Articles, 2 Exercises, 12 Videos | [48m 11s](https://www.youtube.com/watch_videos?title=Sembolizm+%26+Art+Nouveau+&video_ids=XVYkLzlevT0%2Cjdf_xJpZF48%2CpMjDNcxeWKE%2CLbBs2kS6uXA%2CNNEDE76uJXQ%2CFrRxfiMtbHs%2CUKhEnNX1k6g%2CPJu5msWDUgI%2CdVvRyttybWM%2CumkSHoX3_W4%2C98FA76wghP4%2C0HUmsXZPYtY) )
-  - [Rusya: Gezginler](https://tr.khanacademy.org/humanities/becoming-modern/russia-peredvizhniki) (1 Topic)
-    - [Peredvizhniki (Gezginler)](https://tr.khanacademy.org/humanities/becoming-modern/russia-peredvizhniki/wanderers) (2 Articles)
+  - [Sanat Tarihi: Sembolizm](https://tr.khanacademy.org/humanities/becoming-modern/symbolism) (3 Articles, 2 Exercises, 12 Videos | [48m 11s](https://www.youtube.com/watch_videos?title=Sanat+Tarihi%3A+Sembolizm&video_ids=XVYkLzlevT0%2Cjdf_xJpZF48%2CpMjDNcxeWKE%2CLbBs2kS6uXA%2CNNEDE76uJXQ%2CFrRxfiMtbHs%2CUKhEnNX1k6g%2CPJu5msWDUgI%2CdVvRyttybWM%2CumkSHoX3_W4%2C98FA76wghP4%2C0HUmsXZPYtY) )
+  - [Rusya: Peredvizhniki (Gezginler)](https://tr.khanacademy.org/humanities/becoming-modern/russia-peredvizhniki) (1 Topic)
 
 ## [Asya Sanatı](https://tr.khanacademy.org/humanities/art-asia) (7 Topics)
   - [Asya Sanatı ve Kültürüne Yeni Başlayanlar için Rehber](https://tr.khanacademy.org/humanities/art-asia/beginners-guide-asian-culture) (2 Topics)
     - [Hindu sanatı ve kültürüne giriş](https://tr.khanacademy.org/humanities/art-asia/beginners-guide-asian-culture/hindu-art-culture) (8 Articles, 5 Videos | [18m 28s](https://www.youtube.com/watch_videos?title=Hindu+sanat%C4%B1+ve+k%C3%BClt%C3%BCr%C3%BCne+giri%C5%9F&video_ids=R4vspZqiYqg%2C87l8yPByY7c%2CqJ5_21WNh9A%2C31D7K-yIklE%2CfGLdIqfoWG8) )
-    - [Budist Sanatı](https://tr.khanacademy.org/humanities/art-asia/beginners-guide-asian-culture/buddhist-art-culture) (14 Articles, 6 Videos | [27m](https://www.youtube.com/watch_videos?title=Budist+Sanat%C4%B1&video_ids=byhsOtGrj_U%2CnHqLQutRJ2s%2Cgrp9Yss8uBA%2CoeuBRzzSLjk%2CKJ839QiDwfs%2CdNrsRpfEujw) )
-  - [Çin](https://tr.khanacademy.org/humanities/art-asia/imperial-china) (15 Topics)
+    - [Budist Sanatı ve Kültürü'ne yeni başlayanlar için bir Rehber](https://tr.khanacademy.org/humanities/art-asia/beginners-guide-asian-culture/buddhist-art-culture) (14 Articles, 6 Videos | [27m](https://www.youtube.com/watch_videos?title=Budist+Sanat%C4%B1+ve+K%C3%BClt%C3%BCr%C3%BC%27ne+yeni+ba%C5%9Flayanlar+i%C3%A7in+bir+Rehber&video_ids=byhsOtGrj_U%2CnHqLQutRJ2s%2Cgrp9Yss8uBA%2CoeuBRzzSLjk%2CKJ839QiDwfs%2CdNrsRpfEujw) )
+  - [ Emperyal Çin
+](https://tr.khanacademy.org/humanities/art-asia/imperial-china) (15 Topics)
     - [Çin'de Neolitik Sanat](https://tr.khanacademy.org/humanities/art-asia/imperial-china/neolithic-art-china) (5 Articles, 1 Exercise, 2 Videos | [9m](https://www.youtube.com/watch_videos?title=%C3%87in%27de+Neolitik+Sanat&video_ids=5IIqTbhQjbg%2Ck5csNbUL13M) )
     - [Çin İmparatorluğu'na Yeni Başlayanlar İçin Rehber](https://tr.khanacademy.org/humanities/art-asia/imperial-china/beginners-guide-imperial-china) (3 Articles, 5 Videos | [16m 16s](https://www.youtube.com/watch_videos?title=%C3%87in+%C4%B0mparatorlu%C4%9Fu%27na+Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Rehber&video_ids=eZwQ4wgv3MM%2CFH9Q1qxP2Hk%2CVZ-fYAyebAU%2CnMVwwW1nXBs%2CwKRuMee3wFI) )
     - [Shang Hanedanlığı (Yaklaşık, 1600- MÖ 1050)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/shang-dynasty) (3 Articles, 2 Videos | [6m 49s](https://www.youtube.com/watch_videos?title=Shang+Hanedanl%C4%B1%C4%9F%C4%B1+%28Yakla%C5%9F%C4%B1k%2C+1600-+M%C3%96+1050%29&video_ids=bjsvdv9APbM%2Cfg8BcoOoP6M) )
     - [Zhou Hanedanlığı (Yaklaşık, MÖ 1046 - MÖ 256)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/zhou-dynasty) (1 Article, 1 Video | [5m 36s](https://www.youtube.com/watch_videos?title=Zhou+Hanedanl%C4%B1%C4%9F%C4%B1+%28Yakla%C5%9F%C4%B1k%2C+M%C3%96+1046+-+M%C3%96+256%29&video_ids=BWYBvksbiag) )
-    - [Qin Hanedanlığı (221 - 206 MÖ)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/qin-dynasty) (1 Article)
-    - [Han Hanedanlığı (MÖ 206 - MS 220)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/han-dynasty) (7 Articles)
-    - [İmparator Zhao'dan Sonra (319-351)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/later-zhao) (1 Video | [2m 3s](https://www.youtube.com/watch_videos?title=%C4%B0mparator+Zhao%27dan+Sonra+%28319-351%29&video_ids=v8vrsImAG10) )
+    - [ Later Zhao](https://tr.khanacademy.org/humanities/art-asia/imperial-china/later-zhao) (1 Video | [2m 3s](https://www.youtube.com/watch_videos?title=+Later+Zhao&video_ids=v8vrsImAG10) )
     - [Kuzey Wie Hanedanlığı (386 - 534)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/northern-wei) (1 Article, 1 Video | [2m 52s](https://www.youtube.com/watch_videos?title=Kuzey+Wie+Hanedanl%C4%B1%C4%9F%C4%B1+%28386+-+534%29&video_ids=aI3_Uge_Y_Y) )
-    - [Kuzey Qi Hanedanlığı (550 - 577)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/northern-qi) (1 Video | [7m 47s](https://www.youtube.com/watch_videos?title=Kuzey+Qi+Hanedanl%C4%B1%C4%9F%C4%B1+%28550+-+577%29&video_ids=q5RYwBb3i6M) )
-    - [Sui Hanedanlığı (589-618)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/sui-dynasty) (1 Article)
+    - [Kuzey Qi hanedanlığı (550 - 577)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/northern-qi) (1 Video | [7m 47s](https://www.youtube.com/watch_videos?title=Kuzey+Qi+hanedanl%C4%B1%C4%9F%C4%B1+%28550+-+577%29&video_ids=q5RYwBb3i6M) )
     - [Tang Hanedanlığı (618-907)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/tang-dynasty) (10 Articles, 1 Video | [4m 36s](https://www.youtube.com/watch_videos?title=Tang+Hanedanl%C4%B1%C4%9F%C4%B1+%28618-907%29&video_ids=GM4NGGEWiB4) )
     - [ Liao Hanedanlığı (907–1125)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/liao-dynasty) (1 Video | [2m 46s](https://www.youtube.com/watch_videos?title=+Liao+Hanedanl%C4%B1%C4%9F%C4%B1+%28907%E2%80%931125%29&video_ids=hkXu2vaTDv4) )
     - [Song Hanedanlığı (960-1279)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/song-dynasty) (7 Articles, 2 Videos | [11m 20s](https://www.youtube.com/watch_videos?title=Song+Hanedanl%C4%B1%C4%9F%C4%B1+%28960-1279%29&video_ids=d_iWXcj7hu0%2CQKbAShtfAF8) )
     - [Yuan Hanedanlığı (1271-1368)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/yuan-dynasty) (5 Articles, 2 Videos | [10m 24s](https://www.youtube.com/watch_videos?title=Yuan+Hanedanl%C4%B1%C4%9F%C4%B1+%281271-1368%29&video_ids=mEi21YvYxt8%2CfzR_XGYjqDM) )
-    - [Ming Hanedanlığı (1368–1644)](https://tr.khanacademy.org/humanities/art-asia/imperial-china/ming-dynasty) (6 Articles, 3 Videos | [11m 1s](https://www.youtube.com/watch_videos?title=Ming+Hanedanl%C4%B1%C4%9F%C4%B1+%281368%E2%80%931644%29&video_ids=30aTpX4xgbM%2CLxzyk2Bw1vA%2CVORWID9Q7CU) )
-  - [Kore](https://tr.khanacademy.org/humanities/art-asia/korea-japan) (5 Topics)
-    - [Kore Sanatına Yeni Başlayanlar için Rehber](https://tr.khanacademy.org/humanities/art-asia/korea-japan/korean-art) (3 Articles, 2 Videos | [8m 49s](https://www.youtube.com/watch_videos?title=Kore+Sanat%C4%B1na+Yeni+Ba%C5%9Flayanlar+i%C3%A7in+Rehber&video_ids=vB3zFRvFjck%2CM6md03-9Lcg) )
-    - [Proto Üç Krallık Dönemi (MÖ 300- MS 300)](https://tr.khanacademy.org/humanities/art-asia/korea-japan/proto-three-kingdoms) (1 Article)
-    - [Üç Krallık Dönemi (MÖ 57 - MS 676)](https://tr.khanacademy.org/humanities/art-asia/korea-japan/three-kingdoms) (1 Article)
+    - [Ming hanedanı](https://tr.khanacademy.org/humanities/art-asia/imperial-china/ming-dynasty) (6 Articles, 3 Videos | [11m 1s](https://www.youtube.com/watch_videos?title=Ming+hanedan%C4%B1&video_ids=30aTpX4xgbM%2CLxzyk2Bw1vA%2CVORWID9Q7CU) )
+  - [Art in Korea](https://tr.khanacademy.org/humanities/art-asia/korea-japan) (5 Topics)
+    - [Kore sanatı](https://tr.khanacademy.org/humanities/art-asia/korea-japan/korean-art) (3 Articles, 2 Videos | [8m 49s](https://www.youtube.com/watch_videos?title=Kore+sanat%C4%B1&video_ids=vB3zFRvFjck%2CM6md03-9Lcg) )
     - [Goryeo Hanedanlığı (918-1392) ](https://tr.khanacademy.org/humanities/art-asia/korea-japan/goryeo-dynasty) (2 Articles, 2 Videos | [10m 29s](https://www.youtube.com/watch_videos?title=Goryeo+Hanedanl%C4%B1%C4%9F%C4%B1+%28918-1392%29+&video_ids=4LrAji1Zfzg%2C1Iw-2Frofe8) )
     - [Joseon Hanedanlığı (1392-1910)](https://tr.khanacademy.org/humanities/art-asia/korea-japan/joseon-dynasty) (4 Articles, 3 Videos | [16m 13s](https://www.youtube.com/watch_videos?title=Joseon+Hanedanl%C4%B1%C4%9F%C4%B1+%281392-1910%29&video_ids=xIStBCMQXVs%2CX4CB-3Q4VSk%2C1vkG-HuPdhU) )
-  - [Japonya](https://tr.khanacademy.org/humanities/art-asia/art-japan) (7 Topics)
+  - [Japonya'da Sanat](https://tr.khanacademy.org/humanities/art-asia/art-japan) (7 Topics)
     - [Japon Sanatı'na Yeni Başlayanlar İçin Rehber](https://tr.khanacademy.org/humanities/art-asia/art-japan/japanese-art) (3 Articles, 2 Videos | [7m 9s](https://www.youtube.com/watch_videos?title=Japon+Sanat%C4%B1%27na+Yeni+Ba%C5%9Flayanlar+%C4%B0%C3%A7in+Rehber&video_ids=byhsOtGrj_U%2C--x2tpjceW4) )
     - [Kofun Dönemi (MS 300-552)](https://tr.khanacademy.org/humanities/art-asia/art-japan/kofun-period) (1 Article, 1 Video | [5m 3s](https://www.youtube.com/watch_videos?title=Kofun+D%C3%B6nemi+%28MS+300-552%29&video_ids=5WfLhyNJ5yE) )
     - [Nara Dönemi (710–794)](https://tr.khanacademy.org/humanities/art-asia/art-japan/nara-period) (2 Articles, 1 Video | [3m 25s](https://www.youtube.com/watch_videos?title=Nara+D%C3%B6nemi+%28710%E2%80%93794%29&video_ids=2zzcjLvPknU) )
@@ -4643,127 +4230,110 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
     - [Muromachi Dönemi (1392–1573)](https://tr.khanacademy.org/humanities/art-asia/art-japan/muromachi-period) (6 Articles, 5 Videos | [26m 56s](https://www.youtube.com/watch_videos?title=Muromachi+D%C3%B6nemi+%281392%E2%80%931573%29&video_ids=6FMJAKsNfj4%2CvwoK8-y-5_U%2CaPkozSQAI3s%2CEE_L20B5OJM%2CmhtQ1RMmMUE) )
     - [Edo Dönemi (1615–1868)](https://tr.khanacademy.org/humanities/art-asia/art-japan/edo-period) (17 Articles, 7 Videos | [18m 13s](https://www.youtube.com/watch_videos?title=Edo+D%C3%B6nemi+%281615%E2%80%931868%29&video_ids=16uj48sUzGQ%2CRHZa8BG9Oqk%2CY-g_iIf8ZnY%2C0j-I43hjhjU%2CpnKt5faDK-s%2COn6FFHRSV5U%2CPejvfADBF2c) )
   - [Güney Asya](https://tr.khanacademy.org/humanities/art-asia/south-asia) (4 Topics)
-    - [Güney Asya, giriş](https://tr.khanacademy.org/humanities/art-asia/south-asia/south-asia-intro) (2 Articles)
-    - [Güney Asya'da Hindu Sanatı](https://tr.khanacademy.org/humanities/art-asia/south-asia/hindu-art) (8 Articles, 2 Videos | [33m 30s](https://www.youtube.com/watch_videos?title=G%C3%BCney+Asya%27da+Hindu+Sanat%C4%B1&video_ids=IX85uiG86RA%2C9d2YQh1FH1U) )
-    - [Güney Asya'da Budist Sanatı](https://tr.khanacademy.org/humanities/art-asia/south-asia/buddhist-art2) (7 Articles, 4 Videos | [29m 41s](https://www.youtube.com/watch_videos?title=G%C3%BCney+Asya%27da+Budist+Sanat%C4%B1&video_ids=jl6S0wdeWk4%2Cgrp9Yss8uBA%2CoeuBRzzSLjk%2CCzw9lzb1Fbo) )
+    - [Hindu sanatı](https://tr.khanacademy.org/humanities/art-asia/south-asia/hindu-art) (8 Articles, 2 Videos | [33m 30s](https://www.youtube.com/watch_videos?title=Hindu+sanat%C4%B1&video_ids=IX85uiG86RA%2C9d2YQh1FH1U) )
+    - [Budist Sanatı](https://tr.khanacademy.org/humanities/art-asia/south-asia/buddhist-art2) (7 Articles, 4 Videos | [29m 41s](https://www.youtube.com/watch_videos?title=Budist+Sanat%C4%B1&video_ids=jl6S0wdeWk4%2Cgrp9Yss8uBA%2CoeuBRzzSLjk%2CCzw9lzb1Fbo) )
     - [Afganistan'da Sanat](https://tr.khanacademy.org/humanities/art-asia/south-asia/afghanistan) (1 Article, 3 Videos | [9m 3s](https://www.youtube.com/watch_videos?title=Afganistan%27da+Sanat&video_ids=pEJ97FdSmXo%2CP33gAytNyqc%2C-1afyNT6OnM) )
   - [Güneydoğu Asya](https://tr.khanacademy.org/humanities/art-asia/southeast-asia) (6 Topics)
-    - [Güneydoğu Asya Sanatına Yeni Başlayanlar için Rehber](https://tr.khanacademy.org/humanities/art-asia/southeast-asia/beg-guide-southeast-asia) (1 Article)
     - [Kamboçya](https://tr.khanacademy.org/humanities/art-asia/southeast-asia/mainland-se-asia) (1 Article, 5 Videos | [16m 36s](https://www.youtube.com/watch_videos?title=Kambo%C3%A7ya&video_ids=rQFDsjJnssI%2CncLt9beOGas%2C0MlIdJ9NUUI%2CvVLvByoJxBo%2CjlA395EDn3c) )
-    - [Myanmar](https://tr.khanacademy.org/humanities/art-asia/southeast-asia/myanmar) (2 Articles)
     - [Endonezya](https://tr.khanacademy.org/humanities/art-asia/southeast-asia/maritime-se-asia) (6 Articles, 1 Video | [6m 13s](https://www.youtube.com/watch_videos?title=Endonezya&video_ids=Y1o1r5p3CHM) )
     - [Bali](https://tr.khanacademy.org/humanities/art-asia/southeast-asia/bali) (3 Articles, 6 Videos | [18m 32s](https://www.youtube.com/watch_videos?title=Bali&video_ids=xhUq1LqBdJo%2CK4NQkGz02ME%2CYTgDNAaTQD4%2CqW5oVou_Nfk%2CYxnGYNPPRM0%2CsGi-z7e8XxI) )
-    - [Tayland](https://tr.khanacademy.org/humanities/art-asia/southeast-asia/thailand) (2 Articles)
   - [Himalayalar](https://tr.khanacademy.org/humanities/art-asia/himalayas) (2 Topics)
     - [Nepal](https://tr.khanacademy.org/humanities/art-asia/himalayas/nepal) (1 Video | [7m 4s](https://www.youtube.com/watch_videos?title=Nepal&video_ids=QbK1IYN77Pc) )
     - [Tibet](https://tr.khanacademy.org/humanities/art-asia/himalayas/tibet) (14 Articles, 3 Videos | [14m 50s](https://www.youtube.com/watch_videos?title=Tibet&video_ids=uWstOuxp8F8%2Cd0eZEcPCfPM%2Cf5gPnUySD9A) )
 
 ## [Afrika Sanatı](https://tr.khanacademy.org/humanities/art-africa) (6 Topics)
-  - [Afrika Sanatı](https://tr.khanacademy.org/humanities/art-africa/african-art-intro) (13 Articles)
-  - [Doğu Afrika ve Afrika Boynuzu](https://tr.khanacademy.org/humanities/art-africa/east-africa2) (2 Topics)
-    - [Etiyopya](https://tr.khanacademy.org/humanities/art-africa/east-africa2/ethiopia) (6 Articles, 1 Exercise)
+  - [Doğu Afrika](https://tr.khanacademy.org/humanities/art-africa/east-africa2) (2 Topics)
     - [Tanzanya](https://tr.khanacademy.org/humanities/art-africa/east-africa2/tanzania) (1 Video | [8m 50s](https://www.youtube.com/watch_videos?title=Tanzanya&video_ids=8EwJjYywtCY) )
   - [Batı Afrika](https://tr.khanacademy.org/humanities/art-africa/west-africa) (9 Topics)
-    - [Burkina Faso](https://tr.khanacademy.org/humanities/art-africa/west-africa/burkina-faso) (1 Article)
-    - [Kamerun](https://tr.khanacademy.org/humanities/art-africa/west-africa/cameroon-topic) (1 Article)
     - [Gana](https://tr.khanacademy.org/humanities/art-africa/west-africa/ghana) (5 Articles, 1 Exercise, 2 Videos | [12m 11s](https://www.youtube.com/watch_videos?title=Gana&video_ids=6bsWW4Ke_Hs%2COsOBNSzLSPI) )
     - [Gine](https://tr.khanacademy.org/humanities/art-africa/west-africa/guinea) (1 Article, 1 Video | [4m 9s](https://www.youtube.com/watch_videos?title=Gine&video_ids=U9nskX7TlYI) )
-    - [Fildişi Sahili](https://tr.khanacademy.org/humanities/art-africa/west-africa/ivory-coast) (2 Articles)
     - [Mali](https://tr.khanacademy.org/humanities/art-africa/west-africa/mali1) (6 Articles, 4 Videos | [17m 18s](https://www.youtube.com/watch_videos?title=Mali&video_ids=81C16Ezu_Fg%2C3Lia2EqEl08%2C594Aq4w2UcA%2CXuoS3icaNP0) )
     - [Nijerya](https://tr.khanacademy.org/humanities/art-africa/west-africa/nigeria) (11 Articles, 1 Exercise, 4 Videos | [17m 57s](https://www.youtube.com/watch_videos?title=Nijerya&video_ids=dFc8p4O3NVA%2CYbCNfIif4L8%2C-6tIOjcupxw%2CA5Py-S6fIIc) )
-    - [Benin Cumhuriyeti](https://tr.khanacademy.org/humanities/art-africa/west-africa/republic-benin) (1 Article)
     - [Sierra Leone Cumhuriyeti
 ](https://tr.khanacademy.org/humanities/art-africa/west-africa/sierra-leone) (5 Articles, 2 Videos | [12m 23s](https://www.youtube.com/watch_videos?title=Sierra+Leone%C2%A0Cumhuriyeti%0A&video_ids=D8_pUAwfnps%2CJgG8QmUpLjI) )
   - [Kuzey Afrika](https://tr.khanacademy.org/humanities/art-africa/north-a) (1 Topic)
-    - [Cezayir ve Libya](https://tr.khanacademy.org/humanities/art-africa/north-a/algeria-and-libya) (2 Articles, 1 Video | [2m 42s](https://www.youtube.com/watch_videos?title=Cezayir+ve+Libya&video_ids=Njb57Cd2Zp8) )
+    - [Cezayir](https://tr.khanacademy.org/humanities/art-africa/north-a/algeria-and-libya) (2 Articles, 1 Video | [2m 42s](https://www.youtube.com/watch_videos?title=Cezayir&video_ids=Njb57Cd2Zp8) )
   - [Güney Afrika](https://tr.khanacademy.org/humanities/art-africa/southern-africa) (3 Topics)
-    - [Namibya](https://tr.khanacademy.org/humanities/art-africa/southern-africa/namibia) (2 Articles)
-    - [Güney Afrika](https://tr.khanacademy.org/humanities/art-africa/southern-africa/south-africa) (2 Articles)
     - [Zimbabve](https://tr.khanacademy.org/humanities/art-africa/southern-africa/zimbabwe) (1 Article, 1 Video | [2m 46s](https://www.youtube.com/watch_videos?title=Zimbabve&video_ids=Klmys0oM7ME) )
-  - [Orta Afrika](https://tr.khanacademy.org/humanities/art-africa/central-africa) (3 Topics)
+  - [Art of Central Africa](https://tr.khanacademy.org/humanities/art-africa/central-africa) (3 Topics)
     - [Kamerun](https://tr.khanacademy.org/humanities/art-africa/central-africa/cameroon1) (1 Video | [3m](https://www.youtube.com/watch_videos?title=Kamerun&video_ids=n5vr_1moniU) )
     - [Demokratik Kongo Cumhuriyeti](https://tr.khanacademy.org/humanities/art-africa/central-africa/democratic-republic-of-the-congo) (7 Articles, 2 Videos | [9m 20s](https://www.youtube.com/watch_videos?title=Demokratik+Kongo+Cumhuriyeti&video_ids=wfeCsxcJWfk%2CRpssry8MS30) )
     - [Gabon](https://tr.khanacademy.org/humanities/art-africa/central-africa/gabon-art) (1 Article, 1 Video | [4m 46s](https://www.youtube.com/watch_videos?title=Gabon&video_ids=XNffFE7OGxo) )
 
 ## [Okyanusya'da Sanat](https://tr.khanacademy.org/humanities/art-oceania) (4 Topics)
-  - [Lapita Kültürü](https://tr.khanacademy.org/humanities/art-oceania/lapita-cultur) (1 Article)
   - [Polinezya](https://tr.khanacademy.org/humanities/art-oceania/polynesia) (12 Articles, 4 Videos | [23m 33s](https://www.youtube.com/watch_videos?title=Polinezya&video_ids=b06FwTP9TOU%2C6Il72KZHgCA%2CO9VEHgZn3hw%2COuhml7FOu4M) )
   - [Melanezya](https://tr.khanacademy.org/humanities/art-oceania/melanesia) (6 Articles, 3 Videos | [13m 50s](https://www.youtube.com/watch_videos?title=Melanezya&video_ids=_VFLhubnnrk%2CmTgMlmQjMhA%2ChgaxAN-Goeg) )
   - [Mikronezya](https://tr.khanacademy.org/humanities/art-oceania/micronesia) (4 Articles, 1 Video | [6m 9s](https://www.youtube.com/watch_videos?title=Mikronezya&video_ids=rrJkjEYJLWs) )
 
 ## [AP®︎ Sanat Tarihi](https://tr.khanacademy.org/humanities/ap-art-history) (12 Topics)
-  - [Buradan başlayın](https://tr.khanacademy.org/humanities/ap-art-history/introduction-ap-arthistory) (4 Articles, 6 Videos | [37m 28s](https://www.youtube.com/watch_videos?title=Buradan+ba%C5%9Flay%C4%B1n&video_ids=V6OYCrqLiKE%2CsM2MOyonDsY%2C_QM-DfhrNv8%2CqfITRYcnP84%2CBvB4oKKB8jA%2Cb5uV-tGHl4k) )
+  - [AP Sanat Tarihi çalışmalarında esas konular](https://tr.khanacademy.org/humanities/ap-art-history/introduction-ap-arthistory) (4 Articles, 6 Videos | [37m 28s](https://www.youtube.com/watch_videos?title=AP+Sanat+Tarihi+%C3%A7al%C4%B1%C5%9Fmalar%C4%B1nda+esas+konular&video_ids=V6OYCrqLiKE%2CsM2MOyonDsY%2C_QM-DfhrNv8%2CqfITRYcnP84%2CBvB4oKKB8jA%2Cb5uV-tGHl4k) )
   - [AP Sanat Tarihi çalışmaları için kültürlere ve dinlere giriş](https://tr.khanacademy.org/humanities/ap-art-history/cultures-religions-ap-arthistory) (11 Articles, 3 Videos | [53m 41s](https://www.youtube.com/watch_videos?title=AP+Sanat+Tarihi+%C3%A7al%C4%B1%C5%9Fmalar%C4%B1+i%C3%A7in+k%C3%BClt%C3%BCrlere+ve+dinlere+giri%C5%9F&video_ids=IX85uiG86RA%2Cjl6S0wdeWk4%2CsPHrmZ05Zs4) )
   - [Genel Tarih öncesi: MÖ 30.000-500](https://tr.khanacademy.org/humanities/ap-art-history/global-prehistory-ap) (1 Topic)
-    - [Paleolitik, Mezolitik ve Neolitik  ](https://tr.khanacademy.org/humanities/ap-art-history/global-prehistory-ap/paleolithic-mesolithic-neolithic) (15 Articles, 5 Videos | [21m 25s](https://www.youtube.com/watch_videos?title=Paleolitik%2C+Mezolitik+ve+Neolitik++&video_ids=AmBm0kGrqZ8%2Ck5csNbUL13M%2C5IIqTbhQjbg%2CkB5iSbi5R_E%2CqvO6sdUi5z4) )
-  - [Antik Akdeniz: 3500 M.Ö.-300 M.S.  ](https://tr.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap) (5 Topics)
+    - [Paleolitik, Mezolitik ve Neolitik](https://tr.khanacademy.org/humanities/ap-art-history/global-prehistory-ap/paleolithic-mesolithic-neolithic) (15 Articles, 5 Videos | [21m 25s](https://www.youtube.com/watch_videos?title=Paleolitik%2C+Mezolitik+ve+Neolitik&video_ids=AmBm0kGrqZ8%2Ck5csNbUL13M%2C5IIqTbhQjbg%2CkB5iSbi5R_E%2CqvO6sdUi5z4) )
+  - [Antik Akdeniz: 3500 M.Ö.-300 M.S.](https://tr.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap) (5 Topics)
     - [Eski Yakın Doğu (Mezopotamya)
 ](https://tr.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ancient-near-east-a) (6 Articles, 5 Videos | [26m 17s](https://www.youtube.com/watch_videos?title=Eski+Yak%C4%B1n+Do%C4%9Fu+%28Mezopotamya%29%0A&video_ids=9VCVwrvkcgo%2CVj9ZAsKgO0c%2CJO9YxZYd0qY%2CflO7VZNGiD8%2C5z_QoH6lo1M) )
-    - [Antik Mısır
-](https://tr.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ancient-egypt-ap) (11 Articles, 5 Videos | [25m 53s](https://www.youtube.com/watch_videos?title=Antik+M%C4%B1s%C4%B1r%0A&video_ids=IKkcop-dlUY%2CgvADNh_udJ8%2CvoSBZbYRP2I%2CydZdvefzAog%2CjhechxE5w60) )
+    - [Antik Mısır ](https://tr.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ancient-egypt-ap) (11 Articles, 5 Videos | [25m 53s](https://www.youtube.com/watch_videos?title=Antik+M%C4%B1s%C4%B1r%C2%A0&video_ids=IKkcop-dlUY%2CgvADNh_udJ8%2CvoSBZbYRP2I%2CydZdvefzAog%2CjhechxE5w60) )
     - [Antik Yunan
 ](https://tr.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/greece-etruria-rome) (2 Articles, 17 Videos | [1h 56m 44s](https://www.youtube.com/watch_videos?title=Antik+Yunan%0A&video_ids=-jqrILNgleM%2C4Wn0GC7ffG0%2Cv1_pCZBVWuY%2C8vnd4kxXaic%2CHKHFg2n6Eus%2Cs2kZ20Vim2E%2CEAR9RAMg9NY%2CxZ49Vo7n_fU%2CTJ1l9Sp_A68%2CuF_W0jQ7bi0%2CAdyefZ2iXUc%2CBSRGlxr4sjA%2CZRAQ6nCu0I8%2CZUN5fIGIQYY%2CHSvN4CSFSbg%2CIz-C0C5Ck58%2C7TJsl_8zfqk) )
     - [Antik Etrurya](https://tr.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ap-ancient-etruria) (4 Articles, 3 Videos | [10m 50s](https://www.youtube.com/watch_videos?title=Antik+Etrurya&video_ids=Giz_88LZaI8%2CL9FQe3VuuiE%2CzrCzgbBKtrM) )
     - [Antik Roma](https://tr.khanacademy.org/humanities/ap-art-history/ancient-mediterranean-ap/ap-ancient-rome) (5 Articles, 10 Videos | [1h 1m 41s](https://www.youtube.com/watch_videos?title=Antik+Roma&video_ids=wDxt-nL95Y4%2Cmg-2OnAe8NI%2ConZSvdL86w8%2CmhhalkHfFtQ%2C41aaPjdf3mE%2CDuMdzXrBDsE%2CINM1ofzPm4w%2CdLFRD1FSTnA%2CN_evEBIiias%2CffoJCq3nghs) )
-  - [Erken Dönem Avrupa ve Sömürge Döneminde Amerika Kıtaları: MS 200-1750](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas) (5 Topics)
-    - [Avrupa'da Orta Çağ sanatı](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/medieval-europe-islamic-world) (19 Articles, 16 Videos | [2h 6m 51s](https://www.youtube.com/watch_videos?title=Avrupa%27da+Orta+%C3%87a%C4%9F+sanat%C4%B1&video_ids=PwEnvs91IZU%2CuIVxA1WaOpE%2ClDEryY8jI68%2CIt3i-dKusIM%2C5s5ktxqVJGM%2CYMxQDWDXnKQ%2CTPj756HYLi8%2CqRPwrVv1nCA%2CTYds0dsratI%2CKi0Dd_4WuZw%2CJk3VsinLgvc%2Cvsjl4aE2VkA%2Cfmol6LSz9oA%2CMUorQ0_7XzM%2Cw7VRxZsu77M%2CEMakKKlQ_AI) )
-    - [Orta Çağ döneminde İslam Dünyası'nda sanat ](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/ap-art-islamic-world-medieval) (4 Articles)
+  - [Early Europe and colonial Americas: 200-1750 C.E.](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas) (5 Topics)
+    - [Ortaçağ Avrupası ve İslam Dünyası (3-1 ve 3-2)](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/medieval-europe-islamic-world) (19 Articles, 16 Videos | [2h 6m 51s](https://www.youtube.com/watch_videos?title=Orta%C3%A7a%C4%9F+Avrupas%C4%B1+ve+%C4%B0slam+D%C3%BCnyas%C4%B1+%283-1+ve+3-2%29&video_ids=PwEnvs91IZU%2CuIVxA1WaOpE%2ClDEryY8jI68%2CIt3i-dKusIM%2C5s5ktxqVJGM%2CYMxQDWDXnKQ%2CTPj756HYLi8%2CqRPwrVv1nCA%2CTYds0dsratI%2CKi0Dd_4WuZw%2CJk3VsinLgvc%2Cvsjl4aE2VkA%2Cfmol6LSz9oA%2CMUorQ0_7XzM%2Cw7VRxZsu77M%2CEMakKKlQ_AI) )
     - [Avrupa'da Rönesans Sanatı](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/renaissance-art-europe-ap) (8 Articles, 14 Videos | [1h 28m 24s](https://www.youtube.com/watch_videos?title=Avrupa%27da+R%C3%B6nesans+Sanat%C4%B1&video_ids=q1X0Lj7YEMs%2CyjSsw1_WK-A%2CsNwK3g38Fu0%2C6kUUJJV_MNA%2C5oxBN2E5Rt8%2CaxppRJaMf5A%2CK6PBfbkMzFU%2CIGophiltTG8%2CPEE3B8Fsuc0%2CqVJbQEFLVEY%2Cc2MuTvQM61Y%2CuO7GVjnt3CU%2CABhqENOxSrU%2CqD6ct0VS15c) )
-    - [Protestan Reformu ve Katolik Karşı Reformu](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/reformation-counter-reformation) (4 Articles, 10 Videos | [1h 6m 18s](https://www.youtube.com/watch_videos?title=Protestan+Reformu+ve+Katolik+Kar%C5%9F%C4%B1+Reformu&video_ids=WLS0aj7yUoA%2C7qAhz0sN0ys%2CsLCAtMEW2L8%2CjWQ4V43TJ6o%2CCXgBR6GoFTE%2Ck5NSxONkQJw%2CLBS6N0NHo6s%2CCJNQDZDobIY%2Cbjz7h1KHDvs%2CGK4Seomr_IA) )
-    - [Amerika'da Sömürge Dönemi](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/colonial-americas) (5 Articles, 2 Videos | [11m 11s](https://www.youtube.com/watch_videos?title=Amerika%27da+S%C3%B6m%C3%BCrge+D%C3%B6nemi&video_ids=8jCl13KK9II%2CiupG9Z1jQVA) )
+    - [Protestan reformu ve Katolik karşı reformu (3-5)](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/reformation-counter-reformation) (4 Articles, 10 Videos | [1h 6m 18s](https://www.youtube.com/watch_videos?title=Protestan+reformu+ve+Katolik+kar%C5%9F%C4%B1+reformu+%283-5%29&video_ids=WLS0aj7yUoA%2C7qAhz0sN0ys%2CsLCAtMEW2L8%2CjWQ4V43TJ6o%2CCXgBR6GoFTE%2Ck5NSxONkQJw%2CLBS6N0NHo6s%2CCJNQDZDobIY%2Cbjz7h1KHDvs%2CGK4Seomr_IA) )
+    - [Amerika'da sömürge dönemi](https://tr.khanacademy.org/humanities/ap-art-history/early-europe-and-colonial-americas/colonial-americas) (5 Articles, 2 Videos | [11m 11s](https://www.youtube.com/watch_videos?title=Amerika%27da+s%C3%B6m%C3%BCrge+d%C3%B6nemi&video_ids=8jCl13KK9II%2CiupG9Z1jQVA) )
   - [Later Europe and Americas: 1750-1980 C.E.](https://tr.khanacademy.org/humanities/ap-art-history/later-europe-and-americas) (2 Topics)
-    - [Aydınlanma ve devrim](https://tr.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/enlightenment-revolution) (11 Articles, 7 Videos | [35m 56s](https://www.youtube.com/watch_videos?title=Ayd%C4%B1nlanma+ve+devrim&video_ids=ZSki1elqnEw%2CqfAga9DAuU4%2ClJDRw-SQ6kw%2C6skizQlC-uU%2CW8VNqca7KpI%2CRPiHii4uQAI%2CbUvn-1xfBZw) )
-    - [Modern ve çağdaş sanat](https://tr.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/modernity-ap) (31 Articles, 14 Videos | [1h 24m 31s](https://www.youtube.com/watch_videos?title=Modern+ve+%C3%A7a%C4%9Fda%C5%9F+sanat&video_ids=bihBbqzL96Y%2CfpnIGUds1FQ%2CZdjx9shipuA%2CKJuYXFHvRaY%2C7RtBW_c36qs%2CUKhEnNX1k6g%2CMk68Es1TS0A%2Ctb6-zOggXjQ%2C0b344zkiwWU%2Ct4lgvB5cV5E%2Cf6OOF05ydLk%2Cy0xbZTe1JSM%2CPYSPk-kGIhY%2CvrbNsHs7ptE) )
+    - [Aydınlanma ve Devrim (4-1)](https://tr.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/enlightenment-revolution) (11 Articles, 7 Videos | [35m 56s](https://www.youtube.com/watch_videos?title=Ayd%C4%B1nlanma+ve+Devrim+%284-1%29&video_ids=ZSki1elqnEw%2CqfAga9DAuU4%2ClJDRw-SQ6kw%2C6skizQlC-uU%2CW8VNqca7KpI%2CRPiHii4uQAI%2CbUvn-1xfBZw) )
+    - [Modernizm](https://tr.khanacademy.org/humanities/ap-art-history/later-europe-and-americas/modernity-ap) (31 Articles, 14 Videos | [1h 24m 31s](https://www.youtube.com/watch_videos?title=Modernizm&video_ids=bihBbqzL96Y%2CfpnIGUds1FQ%2CZdjx9shipuA%2CKJuYXFHvRaY%2C7RtBW_c36qs%2CUKhEnNX1k6g%2CMk68Es1TS0A%2Ctb6-zOggXjQ%2C0b344zkiwWU%2Ct4lgvB5cV5E%2Cf6OOF05ydLk%2Cy0xbZTe1JSM%2CPYSPk-kGIhY%2CvrbNsHs7ptE) )
   - [Yerli Amerika](https://tr.khanacademy.org/humanities/ap-art-history/indigenous-americas) (16 Articles, 6 Videos | [32m 4s](https://www.youtube.com/watch_videos?title=Yerli+Amerika&video_ids=ifY8gBIonAc%2C86zSgZWVkVk%2CEa1swMiVhhg%2COhdyovjHk8g%2CGWv2CjL1vEI%2Cc0OX6iJGJMo) )
   - [Afrika: Milat'tan sonra 1100-1980](https://tr.khanacademy.org/humanities/ap-art-history/africa-ap) (6 Articles, 9 Videos | [47m 1s](https://www.youtube.com/watch_videos?title=Afrika%3A+Milat%27tan+sonra+1100-1980&video_ids=Klmys0oM7ME%2C3Ph2D--ZeHQ%2C6bsWW4Ke_Hs%2CwfeCsxcJWfk%2CD8_pUAwfnps%2CA5Py-S6fIIc%2Cn5vr_1moniU%2CXNffFE7OGxo%2C-6tIOjcupxw) )
   - [Batı ve orta Asya: M.Ö. 500 -M.S.1980](https://tr.khanacademy.org/humanities/ap-art-history/west-and-central-asia) (13 Articles, 3 Videos | [9m 9s](https://www.youtube.com/watch_videos?title=Bat%C4%B1+ve+orta+Asya%3A+M.%C3%96.+500+-M.S.1980&video_ids=WZgYhVgWR8g%2CH2ouAHNWbA4%2C9JQDOtlp_38) )
   - [South, East, and Southeast Asia: 300 B.C.E. - 1980 C.E.](https://tr.khanacademy.org/humanities/ap-art-history/south-east-se-asia) (6 Topics)
     - [Hindistan](https://tr.khanacademy.org/humanities/ap-art-history/south-east-se-asia/india-art) (8 Articles, 4 Videos | [59m 25s](https://www.youtube.com/watch_videos?title=Hindistan&video_ids=IX85uiG86RA%2CR4vspZqiYqg%2Cjl6S0wdeWk4%2CnHqLQutRJ2s) )
     - [Çin](https://tr.khanacademy.org/humanities/ap-art-history/south-east-se-asia/china-art) (9 Articles, 4 Videos | [14m 3s](https://www.youtube.com/watch_videos?title=%C3%87in&video_ids=X6DLgjfIxvc%2CaI3_Uge_Y_Y%2CfzR_XGYjqDM%2C30aTpX4xgbM) )
-    - [Kore](https://tr.khanacademy.org/humanities/ap-art-history/south-east-se-asia/korea-art) (2 Articles)
     - [Japonya](https://tr.khanacademy.org/humanities/ap-art-history/south-east-se-asia/japan-art) (5 Articles, 2 Videos | [9m 50s](https://www.youtube.com/watch_videos?title=Japonya&video_ids=kUYtyYxUNmc%2C6FMJAKsNfj4) )
     - [Kamboçya](https://tr.khanacademy.org/humanities/ap-art-history/south-east-se-asia/cambodia-art) (1 Article, 1 Video | [5m 3s](https://www.youtube.com/watch_videos?title=Kambo%C3%A7ya&video_ids=8SFSV25C4WY) )
-    - [Endonezya](https://tr.khanacademy.org/humanities/ap-art-history/south-east-se-asia/indonesia-art) (1 Article)
-  - [Pasifik ](https://tr.khanacademy.org/humanities/ap-art-history/the-pacific) (11 Articles, 2 Videos | [12m 39s](https://www.youtube.com/watch_videos?title=Pasifik+&video_ids=b06FwTP9TOU%2C_VFLhubnnrk) )
+  - [Pasifik (içerik alanı 9)](https://tr.khanacademy.org/humanities/ap-art-history/the-pacific) (11 Articles, 2 Videos | [12m 39s](https://www.youtube.com/watch_videos?title=Pasifik+%28i%C3%A7erik+alan%C4%B1+9%29&video_ids=b06FwTP9TOU%2C_VFLhubnnrk) )
   - [Çağdaş küresel: 1980'den bugüne](https://tr.khanacademy.org/humanities/ap-art-history/global-contemporary) (22 Articles, 5 Videos | [36m 35s](https://www.youtube.com/watch_videos?title=%C3%87a%C4%9Fda%C5%9F+k%C3%BCresel%3A+1980%27den+bug%C3%BCne&video_ids=q-UreIW2WcE%2CNPkVsR2zcp8%2COsOBNSzLSPI%2CdugIbmRWS_M%2CF1EaEMNiuqY) )
 
 ## [AP®︎ Dünya Tarihi](https://tr.khanacademy.org/humanities/ap-world-history) (4 Topics)
   - [Başlangıçlar  MÖ 600](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings) (9 Topics)
-    - [Dünya Tarihi Nedir?](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/what-is-world-history) (1 Article)
     - [İnsanlığın Kökeni ve İlk İnsan Toplulukları](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/ap-origin-humans-early-societies) (4 Articles, 1 Exercise, 3 Videos | [38m 44s](https://www.youtube.com/watch_videos?title=%C4%B0nsanl%C4%B1%C4%9F%C4%B1n+K%C3%B6keni+ve+%C4%B0lk+%C4%B0nsan+Topluluklar%C4%B1&video_ids=LbKbBzs1ti4%2CDs9SAmOtAWk%2ClXR3HKFLSrc) )
     - [The Neolithic Revolution and the birth of agriculture](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/ap-birth-agriculture-neolithic-revolution) (4 Articles, 1 Exercise, 1 Quiz, 2 Videos | [20m 9s](https://www.youtube.com/watch_videos?title=The+Neolithic+Revolution+and+the+birth+of+agriculture&video_ids=JvBHwVpBCwM%2CRkC25y288ck) )
-    - [Antik Mezopotamya](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/ap-ancient-mesopotamia) (2 Articles, 1 Exercise, 2 Videos | [17m 21s](https://www.youtube.com/watch_videos?title=Antik+Mezopotamya&video_ids=9GQdh2eGP-Y%2CIh26fli0vAU) )
+    - [İlk Uygarlıklar (Medeniyetler)](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/ap-ancient-mesopotamia) (2 Articles, 1 Exercise, 2 Videos | [17m 21s](https://www.youtube.com/watch_videos?title=%C4%B0lk+Uygarl%C4%B1klar+%28Medeniyetler%29&video_ids=9GQdh2eGP-Y%2CIh26fli0vAU) )
     - [Antik Mısır
 ](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/ap-ancient-egypt-hittites) (3 Articles, 1 Exercise, 1 Quiz, 2 Videos | [27m 32s](https://www.youtube.com/watch_videos?title=Antik+M%C4%B1s%C4%B1r%0A&video_ids=SGSLyp8mmMc%2C-j7N-XPi5Z0) )
     - [Antik Hindistan 
 ](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/ap-ancient-india) (2 Articles, 1 Exercise, 3 Videos | [28m 26s](https://www.youtube.com/watch_videos?title=Antik+Hindistan+%0A&video_ids=mi9sMazNPxM%2CxBIbflTfxm8%2CkemwplAKWsY) )
     - [Çin'de Shang Hanedanlığı](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/ap-shang-dynasty-china) (2 Articles, 1 Exercise, 1 Video | [7m 28s](https://www.youtube.com/watch_videos?title=%C3%87in%27de+Shang+Hanedanl%C4%B1%C4%9F%C4%B1&video_ids=80CB7yoOxmA) )
-    - [Antik Sanat ve Eserler ](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/supplemental-materials) (2 Videos | [12m 45s](https://www.youtube.com/watch_videos?title=Antik+Sanat+ve+Eserler+&video_ids=Vj9ZAsKgO0c%2CqWYjhL8srHA) )
+    - [Supplemental materials](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/supplemental-materials) (2 Videos | [12m 45s](https://www.youtube.com/watch_videos?title=Supplemental+materials&video_ids=Vj9ZAsKgO0c%2CqWYjhL8srHA) )
     - [İnsanların Gerçekleştirdiği Yenilikler ve Çevre](https://tr.khanacademy.org/humanities/ap-world-history/ap-world-history-beginnings/ap-pre-history-humanity-on-earth-tutorial) (1 Test, 4 Videos | [45m 57s](https://www.youtube.com/watch_videos?title=%C4%B0nsanlar%C4%B1n+Ger%C3%A7ekle%C5%9Ftirdi%C4%9Fi+Yenilikler+ve+%C3%87evre&video_ids=UQSpEKvQxeA%2Ct1K8YdTDmqs%2ChGCLNHJ-aEg%2Chk5QiOaIJRs) )
-  - [MÖ 600 - MS 600 İkinci Dalga Medeniyetleri](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval) (14 Topics)
+  - [Antik Çağ ve Ortaçağ Tarihi](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval) (14 Topics)
     - [Pers İmparatorluğu](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-ancient-persia) (2 Articles, 1 Exercise, 1 Quiz, 3 Videos | [32m 12s](https://www.youtube.com/watch_videos?title=Pers+%C4%B0mparatorlu%C4%9Fu&video_ids=uLN8VIcvClo%2CF2tqV9u9vzY%2CEqEEndY0sT8) )
     - [Yunan Uygarlığı
 ](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-classical-greece) (4 Articles, 1 Exercise, 6 Videos | [59m 46s](https://www.youtube.com/watch_videos?title=Yunan+Uygarl%C4%B1%C4%9F%C4%B1%0A&video_ids=--zuoW_Z_oQ%2C9AHqFKc3mKY%2CpJQr77Vzwyk%2CpwwNxWXf1eU%2Cybcmd6yLH3c%2Cy5jWJA2f2rc) )
-    - [İmparatorlukların Yükselişi ve Çöküşü](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-empire-of-alexander-the-great) (4 Articles, 1 Exercise, 5 Videos | [42m 20s](https://www.youtube.com/watch_videos?title=%C4%B0mparatorluklar%C4%B1n+Y%C3%BCkseli%C5%9Fi+ve+%C3%87%C3%B6k%C3%BC%C5%9F%C3%BC&video_ids=cNjNtnpw0Nc%2CFyBIHMDLx9E%2Cg39owvSlC-g%2CAgYVtucDPt8%2CWGxQq2jH7vc) )
-    - [Antik Roma](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/rise-of-rome) (3 Articles, 1 Exercise, 7 Videos | [1h 6m 2s](https://www.youtube.com/watch_videos?title=Antik+Roma&video_ids=Rl-1snoSWpo%2CwpjXGK7pvfQ%2C1GogX7H2P6k%2CPG3vxLHo1Ws%2C7DUY9OxFc0E%2CY33LnxG2L80%2CUZ3oEn5Q7U4) )
+    - [AP Empires, Exchange, and the Rise of Hellenism](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-empire-of-alexander-the-great) (4 Articles, 1 Exercise, 5 Videos | [42m 20s](https://www.youtube.com/watch_videos?title=AP+Empires%2C+Exchange%2C+and+the+Rise+of+Hellenism&video_ids=cNjNtnpw0Nc%2CFyBIHMDLx9E%2Cg39owvSlC-g%2CAgYVtucDPt8%2CWGxQq2jH7vc) )
+    - [Roma İmparatorluğu
+](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/rise-of-rome) (3 Articles, 1 Exercise, 7 Videos | [1h 6m 2s](https://www.youtube.com/watch_videos?title=Roma+%C4%B0mparatorlu%C4%9Fu%0A&video_ids=Rl-1snoSWpo%2CwpjXGK7pvfQ%2C1GogX7H2P6k%2CPG3vxLHo1Ws%2C7DUY9OxFc0E%2CY33LnxG2L80%2CUZ3oEn5Q7U4) )
     - [Antik ve Emperyal Çin](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-zhou-qin-han-china) (3 Articles, 1 Exercise, 2 Videos | [17m 47s](https://www.youtube.com/watch_videos?title=Antik+ve+Emperyal+%C3%87in&video_ids=6L9jWmLkaS0%2CiPQ6GB822x4) )
-    - [Erken Dönem Yahudilik](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-judaism) (2 Articles, 2 Videos | [16m 11s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Yahudilik&video_ids=cP-fdixB1Zc%2CiBWCZxyElIM) )
-    - [Erken Hristiyanlık Dönemi](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-christianity) (2 Articles, 1 Exercise, 1 Quiz, 4 Videos | [47m 13s](https://www.youtube.com/watch_videos?title=Erken+Hristiyanl%C4%B1k+D%C3%B6nemi&video_ids=gUbsSL2OiBg%2CQSC86jWqGKc%2CZ-Xzp-WMv4E%2CT8O4AcTyjHc) )
-    - [Erken Dönem Amerika Kıtaları](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-ancient-americas) (4 Articles, 1 Exercise, 3 Videos | [23m 35s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Amerika+K%C4%B1talar%C4%B1&video_ids=o2XjXFvruIM%2CHPRPaTqNnZk%2C3yb1jBTwMeI) )
-    - [Hindistan İmparatorlukları](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-early-indian-empires) (2 Articles, 2 Videos | [17m 45s](https://www.youtube.com/watch_videos?title=Hindistan+%C4%B0mparatorluklar%C4%B1&video_ids=P0zrLZrlyko%2CEZWy7IFBCEQ) )
-    - [Erken Dönem Hinduizm](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-hinduism) (2 Articles, 6 Videos | [50m 6s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Hinduizm&video_ids=xBIbflTfxm8%2CWhTpJxlJi2I%2CINv2gdpfXPQ%2CUWTdCorvOWU%2CwE89PE7NS4s%2CSZUipvwNx3w) )
-    - [Erken Dönem Budizmi](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-buddhism-intro) (2 Articles, 1 Exercise, 1 Quiz, 4 Videos | [29m 54s](https://www.youtube.com/watch_videos?title=Erken+D%C3%B6nem+Budizmi&video_ids=X-_cJU-pFwQ%2C7OusxN80ZpI%2CaCA6ioTLw-Q%2COmFgyJRj66I) )
+    - [Musevilik](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-judaism) (2 Articles, 2 Videos | [16m 11s](https://www.youtube.com/watch_videos?title=Musevilik&video_ids=cP-fdixB1Zc%2CiBWCZxyElIM) )
+    - [Hristiyanlık](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-christianity) (2 Articles, 1 Exercise, 1 Quiz, 4 Videos | [47m 13s](https://www.youtube.com/watch_videos?title=Hristiyanl%C4%B1k&video_ids=gUbsSL2OiBg%2CQSC86jWqGKc%2CZ-Xzp-WMv4E%2CT8O4AcTyjHc) )
+    - [Antik Amerika](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-ancient-americas) (4 Articles, 1 Exercise, 3 Videos | [23m 35s](https://www.youtube.com/watch_videos?title=Antik+Amerika&video_ids=o2XjXFvruIM%2CHPRPaTqNnZk%2C3yb1jBTwMeI) )
+    - [Hindistan'da Kurulan İmparatorluklar](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-early-indian-empires) (2 Articles, 2 Videos | [17m 45s](https://www.youtube.com/watch_videos?title=Hindistan%27da+Kurulan+%C4%B0mparatorluklar&video_ids=P0zrLZrlyko%2CEZWy7IFBCEQ) )
+    - [Hinduizm](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-hinduism) (2 Articles, 6 Videos | [50m 6s](https://www.youtube.com/watch_videos?title=Hinduizm&video_ids=xBIbflTfxm8%2CWhTpJxlJi2I%2CINv2gdpfXPQ%2CUWTdCorvOWU%2CwE89PE7NS4s%2CSZUipvwNx3w) )
+    - [Budizm](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-buddhism-intro) (2 Articles, 1 Exercise, 1 Quiz, 4 Videos | [29m 54s](https://www.youtube.com/watch_videos?title=Budizm&video_ids=X-_cJU-pFwQ%2C7OusxN80ZpI%2CaCA6ioTLw-Q%2COmFgyJRj66I) )
     - [Bağdaştırma](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-syncretism) (1 Article, 1 Video | [9m 8s](https://www.youtube.com/watch_videos?title=Ba%C4%9Fda%C5%9Ft%C4%B1rma&video_ids=YwLKEgBnMvc) )
     - [Kadınlar ve Aileler](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-women-and-families) (1 Article, 1 Video | [10m 38s](https://www.youtube.com/watch_videos?title=Kad%C4%B1nlar+ve+Aileler&video_ids=rmPqoWYlH-Q) )
-    - [Kıtalar arası Ticaret: İpek Yolu](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-silk-road) (1 Article, 1 Exercise, 1 Test, 1 Video | [6m 54s](https://www.youtube.com/watch_videos?title=K%C4%B1talar+aras%C4%B1+Ticaret%3A+%C4%B0pek+Yolu&video_ids=muLh-dOaw94) )
-  - [600 - 1450 Bölgesel ve Bölgelerarası Etkileşimler](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions) (19 Topics)
+    - [İpek Yolu](https://tr.khanacademy.org/humanities/ap-world-history/ap-ancient-medieval/ap-silk-road) (1 Article, 1 Exercise, 1 Test, 1 Video | [6m 54s](https://www.youtube.com/watch_videos?title=%C4%B0pek+Yolu&video_ids=muLh-dOaw94) )
+  - [Bölgesel ve Bölgeler arası Etkileşimler](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions) (19 Topics)
     - [Bizans İmparatorluğu](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-byzantine-empire) (1 Article, 1 Exercise, 2 Videos | [17m 11s](https://www.youtube.com/watch_videos?title=Bizans+%C4%B0mparatorlu%C4%9Fu&video_ids=Y4-F3zk7pFc%2CFx4l41R5nxY) )
-    - [Avrupa'da Orta Çağ: Feodalizm ve Serflik](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-european-middle-ages-feudalism-and-serfdom) (1 Article, 2 Exercises, 5 Videos | [45m 28s](https://www.youtube.com/watch_videos?title=Avrupa%27da+Orta+%C3%87a%C4%9F%3A+Feodalizm+ve+Serflik&video_ids=H5ZJujqa0YQ%2Cp3pYuY4buIk%2C4o6wnbgi6bg%2CZhgUG3JTmoA%2CNRPVX6I6C-A) )
+    - [Avrupa Orta Çağ ve Serflik ](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-european-middle-ages-feudalism-and-serfdom) (1 Article, 2 Exercises, 5 Videos | [45m 28s](https://www.youtube.com/watch_videos?title=Avrupa+Orta+%C3%87a%C4%9F+ve+Serflik+&video_ids=H5ZJujqa0YQ%2Cp3pYuY4buIk%2C4o6wnbgi6bg%2CZhgUG3JTmoA%2CNRPVX6I6C-A) )
     - [İslamiyet'in Kökenleri](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/ap-origins-of-islam) (1 Exercise, 4 Videos | [36m 22s](https://www.youtube.com/watch_videos?title=%C4%B0slamiyet%27in+K%C3%B6kenleri&video_ids=NOljVW4a90c%2Crjgp_gPuM4I%2CNfIPhMMqzBA%2CgB7ya6386iA) )
     - [İslamiyet'in Yayılması](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-spread-of-islam) (2 Articles, 1 Exercise, 2 Videos | [20m 22s](https://www.youtube.com/watch_videos?title=%C4%B0slamiyet%27in+Yay%C4%B1lmas%C4%B1&video_ids=pzOeBI42Yow%2CsDSTgKIQAzE) )
     - [Sünni ve Şii İslam](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-sunni-and-shia-islam) (2 Videos | [17m 27s](https://www.youtube.com/watch_videos?title=S%C3%BCnni+ve+%C5%9Eii+%C4%B0slam&video_ids=iMbAu2Oh7PA%2CFygpbbwsSGg) )
     - [İslam'ın Altın Çağı](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-golden-age-of-islam) (1 Article, 1 Exercise, 1 Video | [10m 44s](https://www.youtube.com/watch_videos?title=%C4%B0slam%27%C4%B1n+Alt%C4%B1n+%C3%87a%C4%9F%C4%B1&video_ids=ojRNx0Jcn14) )
-    - [Büyük Ayrılma](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-the-great-schism) (4 Videos | [32m 12s](https://www.youtube.com/watch_videos?title=B%C3%BCy%C3%BCk+Ayr%C4%B1lma&video_ids=Z-Xzp-WMv4E%2CT8O4AcTyjHc%2CjqMC4RBE4A0%2Ciql2eFZsV5Y) )
+    - [Ortaçağ Avrupası](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-the-great-schism) (4 Videos | [32m 12s](https://www.youtube.com/watch_videos?title=Orta%C3%A7a%C4%9F+Avrupas%C4%B1&video_ids=Z-Xzp-WMv4E%2CT8O4AcTyjHc%2CjqMC4RBE4A0%2Ciql2eFZsV5Y) )
     - [Haçlı Seferleri](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-the-crusades) (1 Exercise, 4 Videos | [32m 21s](https://www.youtube.com/watch_videos?title=Ha%C3%A7l%C4%B1+Seferleri&video_ids=NGyCpI1zE6k%2CNRPVX6I6C-A%2C7LY2CMteGw8%2CT9ACF4I4q0k) )
     - [Moğollar](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-the-mongols) (4 Videos | [27m 7s](https://www.youtube.com/watch_videos?title=Mo%C4%9Follar&video_ids=e6-aeGnimb8%2CRoefNVxrB-k%2CRnANh25uiBw%2CIx57FZqqPAo) )
     - [Çin'de Song Hanedanlığı](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-song-china) (1 Exercise, 3 Videos | [22m 9s](https://www.youtube.com/watch_videos?title=%C3%87in%27de+Song+Hanedanl%C4%B1%C4%9F%C4%B1&video_ids=K5UbnilpzXA%2CPn9n-k1JIUo%2CUC6FzTX1htA) )
@@ -4771,71 +4341,61 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
     - [Mayalar, Aztekler ve İnkalar](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-maya-aztec-and-inca) (1 Exercise, 2 Videos | [9m 50s](https://www.youtube.com/watch_videos?title=Mayalar%2C+Aztekler+ve+%C4%B0nkalar&video_ids=JJyFqosRmLg%2CY4sJkufRxY8) )
     - [Çevre ve Ticaret](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-environment-and-trade) (1 Article, 1 Exercise, 1 Video | [9m 36s](https://www.youtube.com/watch_videos?title=%C3%87evre+ve+Ticaret&video_ids=iMMZ_cHaPMY) )
     - [İnsan Göçü](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-human-migration) (1 Exercise, 1 Video | [8m 15s](https://www.youtube.com/watch_videos?title=%C4%B0nsan+G%C3%B6%C3%A7%C3%BC&video_ids=MYL6OsPv7fE) )
-    - [Yeni Ticaret Şehirlerinin Ortaya Çıkması ](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-development-of-new-trading-cities) (1 Article, 1 Exercise)
-    - [Ticaret Yollarında Kültürel Etkileşimler ](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-cultural-interactions-along-trade-routes) (1 Article, 1 Exercise)
     - [Mali Kurumların Geliştirilmesi](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-development-of-financial-institutions) (1 Article, 1 Exercise, 1 Video | [9m 24s](https://www.youtube.com/watch_videos?title=Mali+Kurumlar%C4%B1n+Geli%C5%9Ftirilmesi&video_ids=T9ACF4I4q0k) )
-    - [Hastalıklar ve Nüfusbilim](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-disease-and-demography) (1 Article, 1 Exercise)
-    - [İslam Dünyasında Sosyal Kurumlar](https://tr.khanacademy.org/humanities/ap-world-history/600-1450-regional-and-interregional-interactions/copy-of-social-institutions-in-the-islamic-world) (1 Article, 1 Exercise)
   - [1450 - Günümüz](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation) (15 Topics)
     - [İspanya ve Portekiz İmparatorlukları](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/spanish-and-portuguese-empires-ap) (1 Video | [9m 48s](https://www.youtube.com/watch_videos?title=%C4%B0spanya+ve+Portekiz+%C4%B0mparatorluklar%C4%B1&video_ids=vYV43Ti1iYw) )
     - [Bilimsel Devrim ve Aydınlanma](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-scientific-revolution-and-enlightenment) (1 Video | [8m 31s](https://www.youtube.com/watch_videos?title=Bilimsel+Devrim+ve+Ayd%C4%B1nlanma&video_ids=Y2s_ryE6QC0) )
     - [Hindistan'da Babür Hakimiyeti](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-mughal-rule-in-india) (2 Videos | [16m 33s](https://www.youtube.com/watch_videos?title=Hindistan%27da+Bab%C3%BCr+Hakimiyeti&video_ids=mGnm89Rfi98%2CIx57FZqqPAo) )
     - [Sihizm](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-sikhism) (2 Videos | [21m 59s](https://www.youtube.com/watch_videos?title=Sihizm&video_ids=925fZ4WKISo%2ClIHJcTf31NM) )
-    - [Protestan Reformu](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-the-protestant-reformation) (1 Article)
     - [Rus İmparatorluğu](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-the-russian-empire) (1 Video | [9m 53s](https://www.youtube.com/watch_videos?title=Rus+%C4%B0mparatorlu%C4%9Fu&video_ids=iqG7RDCpZGg) )
     - [Amerikan Devrimi](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-american-revolution) (1 Video | [8m 38s](https://www.youtube.com/watch_videos?title=Amerikan+Devrimi&video_ids=er1L9BB6UoE) )
     - [Fransız İhtilali](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-french-revolution) (1 Video | [17m 5s](https://www.youtube.com/watch_videos?title=Frans%C4%B1z+%C4%B0htilali&video_ids=Bi_VpgYBkaA) )
-    - [Latin Amerika'nın Bağımsızlığı](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-latin-american-independence) (1 Video | [5m 49s](https://www.youtube.com/watch_videos?title=Latin+Amerika%27n%C4%B1n+Ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1%C4%9F%C4%B1&video_ids=y6lIgVSvizk) )
+    - [Amerika Kıtalarında Bağımsızlık](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-latin-american-independence) (1 Video | [5m 49s](https://www.youtube.com/watch_videos?title=Amerika+K%C4%B1talar%C4%B1nda+Ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1k&video_ids=y6lIgVSvizk) )
     - [Emperyalizm](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-imperialism) (3 Videos | [25m 29s](https://www.youtube.com/watch_videos?title=Emperyalizm&video_ids=gtXg_rebBQc%2CVlZpo580bA8%2CQhgUkvdqtmk) )
     - [I. Dünya Savaşı](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/world-war-1) (6 Videos | [54m 34s](https://www.youtube.com/watch_videos?title=I.+D%C3%BCnya+Sava%C5%9F%C4%B1&video_ids=zFe5aAq1SN4%2Cc3NCLvTQpBc%2CLhnuR3ow9Ro%2CuPFPlVfdf0k%2C8LVsVKzIUVY%2C-dndE9kKWOs) )
-    - [II. Dünya Savaşı](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/world-war-ii) (7 Videos | [1h 2m 20s](https://www.youtube.com/watch_videos?title=II.+D%C3%BCnya+Sava%C5%9F%C4%B1&video_ids=SC2CITgTeSY%2CNZKmIKppbmI%2CzuDD4BfA4Hg%2CS5JuLbfHrow%2CYbUcokuO4x4%2CYXOUm6F3LFU%2C9z_YTypZ1u8) )
+    - [İkinci Dünya Savaşı'na Genel Bakış
+](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/world-war-ii) (7 Videos | [1h 2m 20s](https://www.youtube.com/watch_videos?title=%C4%B0kinci+D%C3%BCnya+Sava%C5%9F%C4%B1%27na+Genel+Bak%C4%B1%C5%9F%0A&video_ids=SC2CITgTeSY%2CNZKmIKppbmI%2CzuDD4BfA4Hg%2CS5JuLbfHrow%2CYbUcokuO4x4%2CYXOUm6F3LFU%2C9z_YTypZ1u8) )
     - [Çin Tarihine Genel Bakış
 ](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-overview-of-chinese-history-1911-1949) (1 Video | [11m 7s](https://www.youtube.com/watch_videos?title=%C3%87in+Tarihine+Genel+Bak%C4%B1%C5%9F%0A&video_ids=LWIdIR2tKnw) )
     - [Soğuk Savaş](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-the-cold-war) (4 Videos | [57m 4s](https://www.youtube.com/watch_videos?title=So%C4%9Fuk+Sava%C5%9F&video_ids=Cb1yy5CgKJI%2C_m7C-76_5CU%2C5SyF6RA2oyc%2CTh6u1e8SQgU) )
-    - [ İnsan Hakları](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-human-rights) (3 Videos | [28m 37s](https://www.youtube.com/watch_videos?title=+%C4%B0nsan+Haklar%C4%B1&video_ids=xjh0L2Km_cs%2C5CZ0oZ_lXSY%2C8xIA10NQakI) )
+    - [İnsan Hakları](https://tr.khanacademy.org/humanities/ap-world-history/1450-1750-renaissance-and-reformation/copy-of-human-rights) (3 Videos | [28m 37s](https://www.youtube.com/watch_videos?title=%C4%B0nsan+Haklar%C4%B1&video_ids=xjh0L2Km_cs%2C5CZ0oZ_lXSY%2C8xIA10NQakI) )
 
 
 # [İçerik Ortaklarımız](https://tr.khanacademy.org/partner-content) (17 Topics)
 
 ## [Metropolitan Sanat Müzesi](https://tr.khanacademy.org/partner-content/metropolitan-museum) (4 Topics)
-  - [82nci Sokak & Beşinci Cadde
-](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth) (13 Topics)
-    - [Beden ve Zihin](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/body-and-mind) (9 Videos | [24m 48s](https://www.youtube.com/watch_videos?title=Beden+ve+Zihin&video_ids=UW2N10_91EI%2ChkXu2vaTDv4%2C81C16Ezu_Fg%2C5hMtqxCIyIY%2CqVJbQEFLVEY%2CtXHzgyiGUcc%2C9PT43Tlj6Xw%2CQ9Y39Hhvk1k%2CvxQp-QyNB1E) )
+  - [82. ve Beşinci](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth) (13 Topics)
+    - [Beden ve zihin ](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/body-and-mind) (9 Videos | [24m 48s](https://www.youtube.com/watch_videos?title=Beden+ve+zihin+&video_ids=UW2N10_91EI%2ChkXu2vaTDv4%2C81C16Ezu_Fg%2C5hMtqxCIyIY%2CqVJbQEFLVEY%2CtXHzgyiGUcc%2C9PT43Tlj6Xw%2CQ9Y39Hhvk1k%2CvxQp-QyNB1E) )
     - [Kitaplar, Müzik ve Edebiyat
 ](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/books-music-literature) (8 Videos | [22m 26s](https://www.youtube.com/watch_videos?title=Kitaplar%2C+M%C3%BCzik+ve+Edebiyat%0A&video_ids=tkV-7pg8iVs%2CY6Y909tDVgM%2Cb3KQLvVYffA%2CHqgJxTmivrw%2C7qw70ebHWLk%2CQKbAShtfAF8%2CBb5UUXO1xa4%2CQo8ijrsDo4U) )
     - [Kendini Adama](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/devotion) (12 Videos | [33m 37s](https://www.youtube.com/watch_videos?title=Kendini+Adama&video_ids=2JIz-9Gk3-E%2CE9remHfxkHk%2CPlW371NPII4%2CqaouOzZ6Sjk%2CAS_spsrYMHo%2CTZQ4hCeW2x8%2CUoY9kLcwk2k%2C7KTfVhWrS30%2C1b5pg9wVezo%2CWFN3kxLlNkg%2CCzw9lzb1Fbo%2ChfHr6RPCwaQ) )
-    - [Yemek Yeme](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/dining) (4 Videos | [10m 20s](https://www.youtube.com/watch_videos?title=Yemek+Yeme&video_ids=c3zb7KIKVfg%2CXbo8x0WtXdQ%2CGNNH8yr-yTw%2CNP24x4-XYYk) )
+    - [Yemek yeme ](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/dining) (4 Videos | [10m 20s](https://www.youtube.com/watch_videos?title=Yemek+yeme+&video_ids=c3zb7KIKVfg%2CXbo8x0WtXdQ%2CGNNH8yr-yTw%2CNP24x4-XYYk) )
     - [Aile ve Toplum ](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/family-and-community) (7 Videos | [19m 23s](https://www.youtube.com/watch_videos?title=Aile+ve+Toplum+&video_ids=q4cByCChFf0%2CNN9Lln2fTfE%2CqQ59uYqvLsc%2CWpyoFQoOz44%2ChgaxAN-Goeg%2Cr4SacHy7gPo%2CreXFTrl6UyM) )
     - [Kavşaklar
 ](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/intersections) (7 Videos | [19m 25s](https://www.youtube.com/watch_videos?title=Kav%C5%9Faklar%0A&video_ids=w5x9hqDBWY0%2CsxHdjBiN6HA%2CAd7xMRYwsRY%2Ch7R38hqHePI%2CcgugUUPcHbY%2CdV-ihlqVLQ4%2CocVic2N2OvA) )
     - [Doğa](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/nature) (8 Videos | [21m 27s](https://www.youtube.com/watch_videos?title=Do%C4%9Fa&video_ids=98FA76wghP4%2CxiOSAmJtUKw%2Cd-JgvqgvE4Q%2CKZIpM-nsIGU%2Cp0aPvUchSpM%2CEd04nwauglI%2CjjyrxcHxVdQ%2CVORWID9Q7CU) )
-    - [Gözlemler](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/observations) (8 Videos | [22m 41s](https://www.youtube.com/watch_videos?title=G%C3%B6zlemler&video_ids=px5CFmgn2hY%2CuJR4EE2iwFg%2CH_m3AM0JSPE%2CNMxVPf40p8k%2Cg1mCnSKZFAA%2C4DQiiJ3ZFBI%2CpZdBVp1h1L8%2CE55vrmTeNTI) )
+    - [Gözlemler ](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/observations) (8 Videos | [22m 41s](https://www.youtube.com/watch_videos?title=G%C3%B6zlemler+&video_ids=px5CFmgn2hY%2CuJR4EE2iwFg%2CH_m3AM0JSPE%2CNMxVPf40p8k%2Cg1mCnSKZFAA%2C4DQiiJ3ZFBI%2CpZdBVp1h1L8%2CE55vrmTeNTI) )
     - [Güç](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/power) (6 Videos | [16m 42s](https://www.youtube.com/watch_videos?title=G%C3%BC%C3%A7&video_ids=Pqkct-Dgxx0%2CrplgUO-LmEI%2CYUYaQA0SZcA%2CDPm3rFQGZXE%2CilBmQmYwOF8%2CwllGOV1GPHU) )
     - [Bilmeceler ve Süprizler
 ](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/puzzles-and-surprises) (5 Videos | [13m 44s](https://www.youtube.com/watch_videos?title=Bilmeceler+ve+S%C3%BCprizler%0A&video_ids=3_QRWRhC9ss%2C_1RjHc6fMCI%2Cw1D_jnD5fPk%2Cka9BRE7ZgTA%2CFR4RrGZ3JmI) )
     - [Giyinme Sanatı](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/dress) (8 Videos | [22m 8s](https://www.youtube.com/watch_videos?title=Giyinme+Sanat%C4%B1&video_ids=bBJxiAjNJDA%2C6rbNdl7mixE%2CuY7Dp0_CZIU%2ChyMRiJdQ83A%2C88DmekiY3yo%2C82x0XM9-G_Y%2Ch9DdmFnROSY%2ChdAc2TClOcI) )
-    - [Dönüşümler](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/transformation) (6 Videos | [16m 21s](https://www.youtube.com/watch_videos?title=D%C3%B6n%C3%BC%C5%9F%C3%BCmler&video_ids=Cahw1vsuUDY%2CiM6VkoCf2RQ%2Cga7a738bTvI%2Cr4uV9UgLmRY%2Cr-fu54c7Dpk%2C_Qlj3D0TZjE) )
+    - [Dönüşüm](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/transformation) (6 Videos | [16m 21s](https://www.youtube.com/watch_videos?title=D%C3%B6n%C3%BC%C5%9F%C3%BCm&video_ids=Cahw1vsuUDY%2CiM6VkoCf2RQ%2Cga7a738bTvI%2Cr4uV9UgLmRY%2Cr-fu54c7Dpk%2C_Qlj3D0TZjE) )
     - [Savaş ve Fetih ](https://tr.khanacademy.org/partner-content/metropolitan-museum/82nd-and-fifth/war-and-conquest) (1 Exercise, 7 Videos | [20m 4s](https://www.youtube.com/watch_videos?title=Sava%C5%9F+ve+Fetih+&video_ids=M4myZj0vaS4%2C372pUFHSIpo%2CqAxkdFjfHXs%2CdbBebaFHVEo%2Ca9uLLPAp-i8%2CxkpKu07FUTU%2CimWDnRCi164) )
-  - [Abartılı İcatlar
-](https://tr.khanacademy.org/partner-content/metropolitan-museum/extravagant-inventions) (5 Videos | [8m 54s](https://www.youtube.com/watch_videos?title=Abart%C4%B1l%C4%B1+%C4%B0catlar%0A&video_ids=Upz9JjLwUvk%2C8GR5-x2bDKQ%2CdwgwYwD3_AU%2CLKMlU77F6Zk%2CHrN4Ml6evPk) )
+  - [Abartılı İcatlar](https://tr.khanacademy.org/partner-content/metropolitan-museum/extravagant-inventions) (5 Videos | [8m 54s](https://www.youtube.com/watch_videos?title=Abart%C4%B1l%C4%B1+%C4%B0catlar&video_ids=Upz9JjLwUvk%2C8GR5-x2bDKQ%2CdwgwYwD3_AU%2CLKMlU77F6Zk%2CHrN4Ml6evPk) )
   - [Eserlerin Korunması](https://tr.khanacademy.org/partner-content/metropolitan-museum/making-finding-conserving) (9 Videos | [49m 35s](https://www.youtube.com/watch_videos?title=Eserlerin+Korunmas%C4%B1&video_ids=3oznnP6SkSc%2Cen5UPyqRtjM%2CL0k1qoNqVDo%2CtjCWOISzMzg%2CVWrjvjzOoDI%2CkGnDc_QNssY%2CMb37sUuVoqw%2CLTLZoWvD6wo%2Chrd3hdosby8) )
   - [#MetKids: Çocuklar İçin Sanat
 ](https://tr.khanacademy.org/partner-content/metropolitan-museum/metkids) (4 Topics)
     - [Soru - Cevap](https://tr.khanacademy.org/partner-content/metropolitan-museum/metkids/metkids-q-a) (16 Videos | [43m 17s](https://www.youtube.com/watch_videos?title=Soru+-+Cevap&video_ids=3Hzaw0hZaB0%2CcGrD1W_bu8c%2CdXuPnWw8IBI%2CjYdw_4eVYJw%2CNbhAdO9Rd6U%2C7WY9JqKVe2s%2C-VELxdiFKpg%2CocaVb5fk04o%2Ci9bkluajDHQ%2C3VkuJ1IU_Mg%2C9nuSPAuJ6D4%2CP6PGKw9VbB0%2CA4FMfmFJDdc%2COFgIuOfQwws%2CbGnP-MPmWes%2C9sHSTk5l9z0) )
     - [Kutlamalar](https://tr.khanacademy.org/partner-content/metropolitan-museum/metkids/metkids-celebrate) (4 Videos | [7m 32s](https://www.youtube.com/watch_videos?title=Kutlamalar&video_ids=h-I3UUp9Z5s%2CpXJH_sJfqBk%2CIV5xiD3Tw8M%2Cd3IcEbvOyrs) )
-    - [Çocuklar Tarafından Hazırlandı!
-](https://tr.khanacademy.org/partner-content/metropolitan-museum/metkids/metkids-made-by-kids) (12 Videos | [23m 13s](https://www.youtube.com/watch_videos?title=%C3%87ocuklar+Taraf%C4%B1ndan+Haz%C4%B1rland%C4%B1%21%0A&video_ids=hC3dQcyycr0%2Ck7qIBhH7ZBM%2CKcUhV7sguKQ%2CBdYxtriEIDU%2CRE1eD8TSPRQ%2CEo2Ex19N1Gc%2CsEkeEOzEHVc%2CIfl2pNlSi8I%2COeVozk7xCMQ%2CaCiUtMxh0sI%2CHKZWzvmTSbk%2CQQRKEKvcCEU) )
+    - [Made by Kids](https://tr.khanacademy.org/partner-content/metropolitan-museum/metkids/metkids-made-by-kids) (12 Videos | [23m 13s](https://www.youtube.com/watch_videos?title=Made+by+Kids&video_ids=hC3dQcyycr0%2Ck7qIBhH7ZBM%2CKcUhV7sguKQ%2CBdYxtriEIDU%2CRE1eD8TSPRQ%2CEo2Ex19N1Gc%2CsEkeEOzEHVc%2CIfl2pNlSi8I%2COeVozk7xCMQ%2CaCiUtMxh0sI%2CHKZWzvmTSbk%2CQQRKEKvcCEU) )
     - [Oluştur](https://tr.khanacademy.org/partner-content/metropolitan-museum/metkids/metkids-create) (13 Videos | [23m 10s](https://www.youtube.com/watch_videos?title=Olu%C5%9Ftur&video_ids=pCS9jKELfXA%2C3j7H8YLS51Y%2CNVmykYQzomo%2CPF1gZE2bwQg%2CaOSHl1mmZZA%2CmhRcN3yga2U%2Cx5CJRVxOmpA%2CNF-N-LADpdk%2CeYDW-wHkgpY%2CZ06U5RuvRBE%2CorEokMc-8vI%2C3E5NCZWn5vE%2Cqmh6HAYwpoc) )
 
 ## [Tate](https://tr.khanacademy.org/partner-content/tate) (9 Topics)
-  - [Haydi Gezmeye Başlayalım!
-](https://tr.khanacademy.org/partner-content/tate/get-started-here) (1 Topic)
+  - [Başla](https://tr.khanacademy.org/partner-content/tate/get-started-here) (1 Topic)
     - [Khan Academy'de Tate'e Hoş Geldiniz!
 ](https://tr.khanacademy.org/partner-content/tate/get-started-here/welcome-to-tate) (4 Articles, 1 Video | [31s](https://www.youtube.com/watch_videos?title=Khan+Academy%27de+Tate%27e+Ho%C5%9F+Geldiniz%21%0A&video_ids=xKdnCdduh_k) )
   - [Sanatta Çelişki ve Çatışma
 ](https://tr.khanacademy.org/partner-content/tate/conflict-contradiction) (5 Topics)
-    - [Activities](https://tr.khanacademy.org/partner-content/tate/conflict-contradiction/conflict-activities) (2 Articles)
-    - [Sanat ve Çatışma](https://tr.khanacademy.org/partner-content/tate/conflict-contradiction/art-and-conflict) (3 Articles)
     - [Çatışmayı Belgelemek
 ](https://tr.khanacademy.org/partner-content/tate/conflict-contradiction/documenting-conflict) (1 Article, 7 Videos | [37m 54s](https://www.youtube.com/watch_videos?title=%C3%87at%C4%B1%C5%9Fmay%C4%B1+Belgelemek%0A&video_ids=3D8K42iReCE%2CtD-ic-Xe6fc%2CWET3ypbY5rI%2CspwMh8M6kWU%2Cp90F-AKAbuA%2CQt5p0jcIRWg%2Cxyxb-dDxMo4) )
     - [Durumu Zorlamak
@@ -4843,7 +4403,6 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
     - [Çelişki Yaratmak
 ](https://tr.khanacademy.org/partner-content/tate/conflict-contradiction/creating-contradiction) (1 Article, 4 Videos | [16m 48s](https://www.youtube.com/watch_videos?title=%C3%87eli%C5%9Fki+Yaratmak%0A&video_ids=ZCa6V1DDDkc%2Cu5oeUMxU7ns%2Cz0viQvwN5vo%2C4kkGfQinVBQ) )
   - [Sanat ve Sanat Tarihinde Kadın](https://tr.khanacademy.org/partner-content/tate/women-in-art) (4 Topics)
-    - [Activities](https://tr.khanacademy.org/partner-content/tate/women-in-art/women-activities) (2 Articles)
     - [Sanatta Kadının Yeri
 ](https://tr.khanacademy.org/partner-content/tate/women-in-art/history-of-women-in-art) (1 Article, 1 Video | [5m 49s](https://www.youtube.com/watch_videos?title=Sanatta+Kad%C4%B1n%C4%B1n+Yeri%0A&video_ids=wU1kxeDUO18) )
     - [Sanatçı Olarak Kadın
@@ -4852,8 +4411,7 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 ](https://tr.khanacademy.org/partner-content/tate/women-in-art/womens-issues-in-art) (1 Article, 5 Videos | [25m 49s](https://www.youtube.com/watch_videos?title=Kad%C4%B1n+Meselelerinin+Sanatsal+Yans%C4%B1malar%C4%B1%0A&video_ids=naaRn_COzhU%2CW5YRw7Uq1GM%2CMjx8MVHEfu4%2CMLobRZk4SF8%2CfDEwHN32lFk) )
   - [Global Modernizm
 ](https://tr.khanacademy.org/partner-content/tate/global-modernisms) (5 Topics)
-    - [Tüm Dünyada Pop Art
-](https://tr.khanacademy.org/partner-content/tate/global-modernisms/global-pop) (4 Articles, 10 Videos | [51m](https://www.youtube.com/watch_videos?title=T%C3%BCm+D%C3%BCnyada+Pop+Art%0A&video_ids=6kvKyrUJlQ0%2C8b_5cBXzAq0%2C5uDQBQnBUUg%2CIDZzx-odJBg%2CoVsmob6C2BM%2CpioC-TcV46s%2CBa5tfN8ZZ6c%2CLdV-B5-x9Qk%2CejLLfQ18nk8%2CNzkb3JWVoWs) )
+    - [Global Pop Art](https://tr.khanacademy.org/partner-content/tate/global-modernisms/global-pop) (4 Articles, 10 Videos | [51m](https://www.youtube.com/watch_videos?title=Global+Pop+Art&video_ids=6kvKyrUJlQ0%2C8b_5cBXzAq0%2C5uDQBQnBUUg%2CIDZzx-odJBg%2CoVsmob6C2BM%2CpioC-TcV46s%2CBa5tfN8ZZ6c%2CLdV-B5-x9Qk%2CejLLfQ18nk8%2CNzkb3JWVoWs) )
     - [Afrika](https://tr.khanacademy.org/partner-content/tate/global-modernisms/african-art) (1 Article, 5 Videos | [20m 17s](https://www.youtube.com/watch_videos?title=Afrika&video_ids=pS0ey1u34_o%2CSSCo7GR6YjU%2CKPkHdy5LjZg%2C9FbnBzq-J9I%2C8fpa-POj2OU) )
     - [Latin Amerika](https://tr.khanacademy.org/partner-content/tate/global-modernisms/latin-america) (1 Article, 4 Videos | [21m 40s](https://www.youtube.com/watch_videos?title=Latin+Amerika&video_ids=Ac2P-_P2GM8%2Ci599gdSzTcE%2C6eAJVY45DJY%2C8CoCWv5TERg) )
     - [Asya](https://tr.khanacademy.org/partner-content/tate/global-modernisms/asian-art) (1 Article, 5 Videos | [34m 8s](https://www.youtube.com/watch_videos?title=Asya&video_ids=F1EaEMNiuqY%2CIpSUBTKxqdo%2CEjPDTKdcjUA%2C3qwqSsLPb5Y%2CGzdNILR6C44) )
@@ -4872,18 +4430,15 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 ](https://tr.khanacademy.org/partner-content/tate/meet-500-years/midcentury-to-today) (1 Article, 1 Exercise, 6 Videos | [20m 22s](https://www.youtube.com/watch_videos?title=20.+yy%27%C4%B1n+Ortas%C4%B1ndan+G%C3%BCn%C3%BCm%C3%BCze%3A+Modernizm+ve+Miras%C4%B1%0A&video_ids=rywv-ID10K0%2CnU4NwocOU50%2CcR8yB3LL1BE%2CsmFQPVTWe5w%2C48W3own3jLM%2CpHXJTVDh0sY) )
   - [Sanatçıyla Tanışın: JMW Turner
 ](https://tr.khanacademy.org/partner-content/tate/meet-jmw-turner) (4 Topics)
-    - [Activities](https://tr.khanacademy.org/partner-content/tate/meet-jmw-turner/turner-activities) (2 Articles)
     - [Turner: Sanatçının Eserleri ve Sergisi
 ](https://tr.khanacademy.org/partner-content/tate/meet-jmw-turner/turner-the-artist) (2 Articles, 2 Videos | [6m 57s](https://www.youtube.com/watch_videos?title=Turner%3A+Sanat%C3%A7%C4%B1n%C4%B1n+Eserleri+ve+Sergisi%0A&video_ids=P_34n_h0Kj0%2CrBUtoWo7n88) )
     - [Turner'ın Galerisini Ziyaret Ediniz](https://tr.khanacademy.org/partner-content/tate/meet-jmw-turner/visit-turners-gallery) (4 Articles, 1 Video | [16m 18s](https://www.youtube.com/watch_videos?title=Turner%27%C4%B1n+Galerisini+Ziyaret+Ediniz&video_ids=VTfEJo2zhc4) )
     - [Turner Gibi Boyamayı Öğrenin
 ](https://tr.khanacademy.org/partner-content/tate/meet-jmw-turner/paint-like-turner) (1 Article, 3 Videos | [15m 20s](https://www.youtube.com/watch_videos?title=Turner+Gibi+Boyamay%C4%B1+%C3%96%C4%9Frenin%0A&video_ids=mJD7BZSnrYY%2CgWcNZ_aZGls%2CX4FHQVhTlu4) )
   - [Arşivler, Bellek ve Konservasyon](https://tr.khanacademy.org/partner-content/tate/archives-memory) (4 Topics)
-    - [Activities](https://tr.khanacademy.org/partner-content/tate/archives-memory/archives-activities) (2 Articles)
     - [Arşiv Nedir?](https://tr.khanacademy.org/partner-content/tate/archives-memory/what-is-an-archive) (1 Article, 9 Videos | [58m 20s](https://www.youtube.com/watch_videos?title=Ar%C5%9Fiv+Nedir%3F&video_ids=F0ktuu9IQe8%2CbTrlm-Yt5Rg%2CCE8G-Ibj4v4%2C7FjG69k43zw%2CtBGebJ2IiFE%2CzaTMGbixJmI%2Cc7x033zr-BA%2Ca0p1E3uDGjM%2C7cmv1cEfHto) )
     - [Sanat ve Hafıza](https://tr.khanacademy.org/partner-content/tate/archives-memory/art-and-memory) (1 Article, 5 Videos | [21m 14s](https://www.youtube.com/watch_videos?title=Sanat+ve+Haf%C4%B1za&video_ids=O7kIc_E6hh4%2CBfwRoKeDnkE%2CW2DRwQgRLkA%2CxNrvLe_ENYU%2CUHIDZ9SKqmU) )
-    - [Muhafaza: Perde Arkası
-](https://tr.khanacademy.org/partner-content/tate/archives-memory/conserving-art) (1 Article, 3 Videos | [26m 8s](https://www.youtube.com/watch_videos?title=Muhafaza%3A+Perde+Arkas%C4%B1%0A&video_ids=AGqAggmwyMU%2Cw9lSC5s9XoQ%2C0yDctNNYBX0) )
+    - [Sanatın Korunması](https://tr.khanacademy.org/partner-content/tate/archives-memory/conserving-art) (1 Article, 3 Videos | [26m 8s](https://www.youtube.com/watch_videos?title=Sanat%C4%B1n+Korunmas%C4%B1&video_ids=AGqAggmwyMU%2Cw9lSC5s9XoQ%2C0yDctNNYBX0) )
   - [Performans ve Katılım Sanatı
 ](https://tr.khanacademy.org/partner-content/tate/participation-performance) (3 Topics)
     - [Performans Sanatı](https://tr.khanacademy.org/partner-content/tate/participation-performance/performance) (1 Article, 5 Videos | [24m 7s](https://www.youtube.com/watch_videos?title=Performans+Sanat%C4%B1&video_ids=_6vqUjJnqzo%2Cf1jBHNQb2-A%2CUODaRxt8Zuw%2CrBVqKBS0c7M%2Cko6ktCYloIk) )
@@ -4922,7 +4477,7 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 
 ## [Kaliforniya Fen Bilimleri Akademisi](https://tr.khanacademy.org/partner-content/cas-biodiversity) (9 Topics)
   - [Biyoçeşitlilik Dünyasına Hoşgeldiniz!](https://tr.khanacademy.org/partner-content/cas-biodiversity/cas-welcome) (1 Topic)
-    - [Hoş geldiniz ](https://tr.khanacademy.org/partner-content/cas-biodiversity/cas-welcome/cal-academy-welcome) (1 Article, 1 Video | [55s](https://www.youtube.com/watch_videos?title=Ho%C5%9F+geldiniz+&video_ids=ABlNa3PU3ow) )
+    - [Hoş geldiniz](https://tr.khanacademy.org/partner-content/cas-biodiversity/cas-welcome/cal-academy-welcome) (1 Article, 1 Video | [55s](https://www.youtube.com/watch_videos?title=Ho%C5%9F+geldiniz&video_ids=ABlNa3PU3ow) )
   - [Biyoçeşitlilik Neden Önemli?](https://tr.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca) (2 Topics)
     - [Biyoçeşitlilik ve Ekosistemin İşlevi](https://tr.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-funct) (6 Articles, 1 Exercise, 1 Video | [8m 56s](https://www.youtube.com/watch_videos?title=Biyo%C3%A7e%C5%9Fitlilik+ve+Ekosistemin+%C4%B0%C5%9Flevi&video_ids=CUZWBs3Pd3g) )
     - [Biyoçeşitlilik ve Ekosistem Hizmetleri](https://tr.khanacademy.org/partner-content/cas-biodiversity/why-is-biodiversity-important-ca/biodiversity-and-ecosystem-servi) (5 Articles, 1 Exercise, 1 Video | [9m 3s](https://www.youtube.com/watch_videos?title=Biyo%C3%A7e%C5%9Fitlilik+ve+Ekosistem+Hizmetleri&video_ids=erWrokVLlqk) )
@@ -4967,30 +4522,24 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 
 ## [Exploratorium](https://tr.khanacademy.org/partner-content/exploratorium-ddp) (4 Topics)
   - [Ses](https://tr.khanacademy.org/partner-content/exploratorium-ddp/sound-explo) (2 Topics)
-    - [Ses- Giriş](https://tr.khanacademy.org/partner-content/exploratorium-ddp/sound-explo/sound-intro) (1 Article)
     - [Ses Görüntüleyicisi
 ](https://tr.khanacademy.org/partner-content/exploratorium-ddp/sound-explo/vocal-visualizer) (1 Article, 4 Videos | [11m 12s](https://www.youtube.com/watch_videos?title=Ses+G%C3%B6r%C3%BCnt%C3%BCleyicisi%0A&video_ids=RnEgWKIp_pI%2CMQ-hy77hX-g%2CrFodELJANtw%2CbZk3WaqhqBI) )
-  - [Işık ve Renk](https://tr.khanacademy.org/partner-content/exploratorium-ddp/light-and-color) (5 Topics)
-    - [Işık ve Renk](https://tr.khanacademy.org/partner-content/exploratorium-ddp/light-and-color/light-color-intro) (1 Article)
+  - [Işık ve Renge Giriş](https://tr.khanacademy.org/partner-content/exploratorium-ddp/light-and-color) (5 Topics)
     - [Kutudaki Sabun Tabakası
 ](https://tr.khanacademy.org/partner-content/exploratorium-ddp/light-and-color/soap-film-on-can) (1 Article, 4 Videos | [4m 57s](https://www.youtube.com/watch_videos?title=Kutudaki+Sabun+Tabakas%C4%B1%0A&video_ids=BQcOFaJZD0A%2CbRhD-I9Aj4Q%2CiXxaROkQMV4%2CBnpiCs1y0O4) )
     - [Sabun Tabakası Oluşturma Modeli
 ](https://tr.khanacademy.org/partner-content/exploratorium-ddp/light-and-color/soap-film-interference-model) (1 Article, 4 Videos | [9m](https://www.youtube.com/watch_videos?title=Sabun+Tabakas%C4%B1+Olu%C5%9Fturma+Modeli%0A&video_ids=Ct1kH5aDPBs%2CLQCLSTwr30s%2CTBzahYMza4c) )
-    - [CD Spektroskopu
-](https://tr.khanacademy.org/partner-content/exploratorium-ddp/light-and-color/cd-spectroscope) (1 Article, 4 Videos | [10m 10s](https://www.youtube.com/watch_videos?title=CD+Spektroskopu%0A&video_ids=yrGE6iPVxI4%2CfBC1w5kQaL4%2CINrNEFiSRCo%2C_XAe6wxkATY) )
+    - [CD Spektroskop](https://tr.khanacademy.org/partner-content/exploratorium-ddp/light-and-color/cd-spectroscope) (1 Article, 4 Videos | [10m 10s](https://www.youtube.com/watch_videos?title=CD+Spektroskop&video_ids=yrGE6iPVxI4%2CfBC1w5kQaL4%2CINrNEFiSRCo%2C_XAe6wxkATY) )
     - [Renkli Gölgeler](https://tr.khanacademy.org/partner-content/exploratorium-ddp/light-and-color/colored-shadows) (2 Articles, 5 Videos | [7m 20s](https://www.youtube.com/watch_videos?title=Renkli+G%C3%B6lgeler&video_ids=VcAUEjeNir4%2C6A1QWaP7cBo%2CYlS0QxLjBEg%2CgZqGnV_JcD8%2CBG38cJUU6PU) )
-  - [Kimya](https://tr.khanacademy.org/partner-content/exploratorium-ddp/exploratorium-chemistry) (4 Topics)
-    - [Kimya](https://tr.khanacademy.org/partner-content/exploratorium-ddp/exploratorium-chemistry/chemistry-2) (1 Article)
+  - [Elektrik](https://tr.khanacademy.org/partner-content/exploratorium-ddp/exploratorium-chemistry) (4 Topics)
     - [Bozuk Paradan Pil](https://tr.khanacademy.org/partner-content/exploratorium-ddp/exploratorium-chemistry/penny-battery) (1 Article, 5 Videos | [8m 28s](https://www.youtube.com/watch_videos?title=Bozuk+Paradan+Pil&video_ids=53zK5guLC0E%2CG2x6rX3iXNQ%2CR8c9TCHXH_g%2CfYH6xt-iNSk%2CENrMevVEW3w) )
     - [Okyanus Asitleşmesini Bir Bardağın İçinde Gösteren Deney
 ](https://tr.khanacademy.org/partner-content/exploratorium-ddp/exploratorium-chemistry/ocean-acidification) (1 Article, 5 Videos | [10m 59s](https://www.youtube.com/watch_videos?title=Okyanus+Asitle%C5%9Fmesini+Bir+Barda%C4%9F%C4%B1n+%C4%B0%C3%A7inde%C2%A0G%C3%B6steren+Deney%0A&video_ids=_eEpQzakZoo%2CPSQLHbOlbPY%2Cz0-iZ4yYRB0%2CJyLebggr180%2C7IlHJHQBg_Y) )
     - [Elektrolizi Gösterme
 ](https://tr.khanacademy.org/partner-content/exploratorium-ddp/exploratorium-chemistry/indicating-electrolysis) (1 Article, 4 Videos | [5m 51s](https://www.youtube.com/watch_videos?title=Elektrolizi+G%C3%B6sterme%0A&video_ids=a5qCVAYkO5U%2Chu12DiGm9Bc%2Cs7tUmkLUwyY%2CkMRI2HvkaJs) )
   - [Elektromanyetizm](https://tr.khanacademy.org/partner-content/exploratorium-ddp/expl-electromagnet) (3 Topics)
-    - [Elektromanyetizmaya Giriş ](https://tr.khanacademy.org/partner-content/exploratorium-ddp/expl-electromagnet/electromagnetism-intro) (1 Article)
     - [Gelin Teli](https://tr.khanacademy.org/partner-content/exploratorium-ddp/expl-electromagnet/flyingtinsel) (1 Article, 4 Videos | [7m 51s](https://www.youtube.com/watch_videos?title=Gelin+Teli&video_ids=CrYkAzkDbUI%2CCJ4Apxawb0c%2CdhCqLKzhgac%2CCcOzS19O1gA) )
-    - [Işığı Sese Dönüştürelim!
-](https://tr.khanacademy.org/partner-content/exploratorium-ddp/expl-electromagnet/light-to-sound) (4 Articles, 4 Videos | [12m 26s](https://www.youtube.com/watch_videos?title=I%C5%9F%C4%B1%C4%9F%C4%B1+Sese+D%C3%B6n%C3%BC%C5%9Ft%C3%BCrelim%21%0A&video_ids=yNUXjsdae8M%2C0vjsRD-mbTI%2CKGfnpAdbV88%2CnS46CgJPOVo) )
+    - [Işığı sese çevirme](https://tr.khanacademy.org/partner-content/exploratorium-ddp/expl-electromagnet/light-to-sound) (4 Articles, 4 Videos | [12m 26s](https://www.youtube.com/watch_videos?title=I%C5%9F%C4%B1%C4%9F%C4%B1+sese+%C3%A7evirme&video_ids=yNUXjsdae8M%2C0vjsRD-mbTI%2CKGfnpAdbV88%2CnS46CgJPOVo) )
 
 ## [Amerikan Doğa Tarihi Müzesi](https://tr.khanacademy.org/partner-content/amnh) (5 Topics)
   - [Dinozorlar](https://tr.khanacademy.org/partner-content/amnh/dinosaurs) (4 Topics)
@@ -5007,9 +4556,7 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
     - [Galaksiler](https://tr.khanacademy.org/partner-content/amnh/the-universe/galaxies) (6 Articles, 1 Exercise, 1 Video | [7m 58s](https://www.youtube.com/watch_videos?title=Galaksiler&video_ids=MtF3rUMl8W8) )
     - [Evren](https://tr.khanacademy.org/partner-content/amnh/the-universe/universe) (6 Articles, 1 Exercise, 5 Videos | [30m 15s](https://www.youtube.com/watch_videos?title=Evren&video_ids=hA9bdiaEvKM%2CJVDrUbLK7ps%2CoddXtTgdQeU%2CRslxL2QuqT0%2Cwd3WJBAA7OE) )
   - [İnsanın Gelişimi](https://tr.khanacademy.org/partner-content/amnh/human-evolutio) (3 Topics)
-    - [Darwin ve doğal seçilimle evrim (Amerikan Doğa Tarihi Müzesi)](https://tr.khanacademy.org/partner-content/amnh/human-evolutio/darwin-and-evolution-by-natural-selection) (6 Articles, 1 Exercise)
-    - [İnsan Gelişimi: Kanıt (Amerikan Doğal Tarih Müzesi)
-](https://tr.khanacademy.org/partner-content/amnh/human-evolutio/human-evolution-the-evidence) (6 Articles, 1 Exercise, 3 Videos | [36m 50s](https://www.youtube.com/watch_videos?title=%C4%B0nsan+Geli%C5%9Fimi%3A+Kan%C4%B1t+%28Amerikan+Do%C4%9Fal+Tarih+M%C3%BCzesi%29%0A&video_ids=oYyh9gPUyCA%2Cayq187m5WBw%2Cr8LRIfXvH0k) )
+    - [İnsanın Evrimi: Kanıtlar](https://tr.khanacademy.org/partner-content/amnh/human-evolutio/human-evolution-the-evidence) (6 Articles, 1 Exercise, 3 Videos | [36m 50s](https://www.youtube.com/watch_videos?title=%C4%B0nsan%C4%B1n+Evrimi%3A+Kan%C4%B1tlar&video_ids=oYyh9gPUyCA%2Cayq187m5WBw%2Cr8LRIfXvH0k) )
     - [Gelişim ve İnsan Sağlığı (Amerikan Doğal Tarih Müzesi)
 ](https://tr.khanacademy.org/partner-content/amnh/human-evolutio/evolution-and-human-health) (3 Articles, 1 Exercise, 3 Videos | [52m 1s](https://www.youtube.com/watch_videos?title=Geli%C5%9Fim+ve+%C4%B0nsan+Sa%C4%9Fl%C4%B1%C4%9F%C4%B1+%28Amerikan+Do%C4%9Fal+Tarih+M%C3%BCzesi%29%0A&video_ids=rvTB0JIsVWU%2CKFVSdsMyGuc%2CLOjTSgNyiFQ) )
   - [Depremler ve Yanardağlar](https://tr.khanacademy.org/partner-content/amnh/earthquakes-and-volcanoes) (4 Topics)
@@ -5019,11 +4566,11 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 
 ## [Asya Sanat Müzesi](https://tr.khanacademy.org/partner-content/asian-art-museum) (11 Topics)
   - [Genel Bakış](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-overview) (1 Topic)
-    - [Genel Bakış](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-overview/asian-art-introduction) (1 Article, 1 Video | [3m 56s](https://www.youtube.com/watch_videos?title=Genel+Bak%C4%B1%C5%9F&video_ids=EE_L20B5OJM) )
+    - [Giriş ](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-overview/asian-art-introduction) (1 Article, 1 Video | [3m 56s](https://www.youtube.com/watch_videos?title=Giri%C5%9F+&video_ids=EE_L20B5OJM) )
   - [Güney Asya](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-south-asia-topic) (1 Topic)
     - [Güney Asya](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-south-asia-topic/aam-south-asia) (2 Articles, 3 Videos | [53m 35s](https://www.youtube.com/watch_videos?title=G%C3%BCney+Asya&video_ids=jl6S0wdeWk4%2CIX85uiG86RA%2C8iVtIOb9zeg) )
   - [Güneydoğu Asya](https://tr.khanacademy.org/partner-content/asian-art-museum/southeast-asia1) (3 Topics)
-    - [Kamboçya ve Myanmar (Burma)](https://tr.khanacademy.org/partner-content/asian-art-museum/southeast-asia1/cambodia-myanmar) (2 Articles, 2 Videos | [7m 57s](https://www.youtube.com/watch_videos?title=Kambo%C3%A7ya+ve+Myanmar+%28Burma%29&video_ids=8SFSV25C4WY%2CjlA395EDn3c) )
+    - [Kamboçya ve Myanmar](https://tr.khanacademy.org/partner-content/asian-art-museum/southeast-asia1/cambodia-myanmar) (2 Articles, 2 Videos | [7m 57s](https://www.youtube.com/watch_videos?title=Kambo%C3%A7ya+ve+Myanmar&video_ids=8SFSV25C4WY%2CjlA395EDn3c) )
     - [Endonezya](https://tr.khanacademy.org/partner-content/asian-art-museum/southeast-asia1/indonesia) (3 Articles, 2 Videos | [13m 22s](https://www.youtube.com/watch_videos?title=Endonezya&video_ids=Y1o1r5p3CHM%2CNsret2gwzpY) )
     - [Bali](https://tr.khanacademy.org/partner-content/asian-art-museum/southeast-asia1/bali-ddp) (3 Articles, 7 Videos | [25m 32s](https://www.youtube.com/watch_videos?title=Bali&video_ids=xhUq1LqBdJo%2CK4NQkGz02ME%2CYTgDNAaTQD4%2CqW5oVou_Nfk%2CYxnGYNPPRM0%2CsGi-z7e8XxI%2CKECVOceXWkc) )
   - [Himalayalar ve Tibet Budist Dünyası](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-himalayas) (1 Topic)
@@ -5039,55 +4586,45 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
   - [Budizm](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-buddhism-topic) (1 Topic)
     - [Budizm](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-buddhism-topic/buddhism) (13 Articles, 6 Videos | [30m 22s](https://www.youtube.com/watch_videos?title=Budizm&video_ids=bj7VMsfqCWc%2Cgrp9Yss8uBA%2CnHqLQutRJ2s%2CdNrsRpfEujw%2CvB3zFRvFjck%2CbyhsOtGrj_U) )
   - [Sanat Eserlerinin Konservasyonu](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-art-conservation) (1 Topic)
-    - [Sanat koruma](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-art-conservation/aam-conservation) (5 Videos | [24m 39s](https://www.youtube.com/watch_videos?title=Sanat+koruma&video_ids=t4WSAXX9rAM%2C4BgHVMu_chs%2CMLtAQ4608to%2COOwrOltXAJY%2CLbEKraQjHh8) )
+    - [Koruma](https://tr.khanacademy.org/partner-content/asian-art-museum/aam-art-conservation/aam-conservation) (5 Videos | [24m 39s](https://www.youtube.com/watch_videos?title=Koruma&video_ids=t4WSAXX9rAM%2C4BgHVMu_chs%2CMLtAQ4608to%2COOwrOltXAJY%2CLbEKraQjHh8) )
 
 ## [British Museum](https://tr.khanacademy.org/partner-content/british-museum) (7 Topics)
   - [Afrika](https://tr.khanacademy.org/partner-content/british-museum/africa1) (6 Topics)
-    - [Afrika](https://tr.khanacademy.org/partner-content/british-museum/africa1/africa-intro-bm) (4 Articles)
     - [Antik Mısır
 ](https://tr.khanacademy.org/partner-content/british-museum/africa1/ancient-egypt-bm) (8 Articles, 7 Videos | [16m 8s](https://www.youtube.com/watch_videos?title=Antik+M%C4%B1s%C4%B1r%0A&video_ids=TrYMmvljq7Q%2Croq6ufqW6X0%2CWkXOOFWie6Y%2C_8Ft-ihxerc%2CGyiWlFidqXE%2CFq-Lb378mYk%2CPBvatqbwCfY) )
-    - [Aksum](https://tr.khanacademy.org/partner-content/british-museum/africa1/aksum-bm) (2 Articles)
     - [İfe](https://tr.khanacademy.org/partner-content/british-museum/africa1/ife-bm) (1 Article, 3 Videos | [14m 12s](https://www.youtube.com/watch_videos?title=%C4%B0fe&video_ids=L0UtbTuDkZE%2CdFc8p4O3NVA%2CYbCNfIif4L8) )
-    - [Benin](https://tr.khanacademy.org/partner-content/british-museum/africa1/benin-bm) (5 Articles)
     - [Sierra Leone Cumhuriyeti
 ](https://tr.khanacademy.org/partner-content/british-museum/africa1/sierra-leone-bm) (3 Articles, 1 Video | [6m 47s](https://www.youtube.com/watch_videos?title=Sierra+Leone%C2%A0Cumhuriyeti%0A&video_ids=JgG8QmUpLjI) )
   - [Amerika Kıtası](https://tr.khanacademy.org/partner-content/british-museum/the-americas-bm) (3 Topics)
     - [Güney Amerika](https://tr.khanacademy.org/partner-content/british-museum/the-americas-bm/south-america) (4 Articles, 4 Videos | [18m 42s](https://www.youtube.com/watch_videos?title=G%C3%BCney+Amerika&video_ids=rZxPbdzJAAY%2Cg1wUVfUF1d0%2CbVIrET_R4ng%2C1hnhiAA11Xo) )
-    - [Mezoamerika ve Orta Amerika](https://tr.khanacademy.org/partner-content/british-museum/the-americas-bm/meso-central-america-bm) (14 Articles)
-    - [Yerli Kuzey Amerika ](https://tr.khanacademy.org/partner-content/british-museum/the-americas-bm/native-north-america-bm) (7 Articles)
   - [Asya](https://tr.khanacademy.org/partner-content/british-museum/asia1) (8 Topics)
     - [Çin](https://tr.khanacademy.org/partner-content/british-museum/asia1/british-museum-china) (11 Articles, 2 Videos | [12m 43s](https://www.youtube.com/watch_videos?title=%C3%87in&video_ids=W3dPF2a9M1k%2Cd0n-x9nUfzI) )
     - [Japonya](https://tr.khanacademy.org/partner-content/british-museum/asia1/japan-bm) (1 Article, 1 Video | [5m 12s](https://www.youtube.com/watch_videos?title=Japonya&video_ids=PejvfADBF2c) )
     - [Hindistan](https://tr.khanacademy.org/partner-content/british-museum/asia1/british-museum-india) (3 Articles, 1 Video | [4m 1s](https://www.youtube.com/watch_videos?title=Hindistan&video_ids=9d2YQh1FH1U) )
     - [Afganistan](https://tr.khanacademy.org/partner-content/british-museum/asia1/british-museum-afghanistan) (1 Article, 5 Videos | [12m 45s](https://www.youtube.com/watch_videos?title=Afganistan&video_ids=pEJ97FdSmXo%2C-1afyNT6OnM%2CZKLieA2UAfo%2CP33gAytNyqc%2Ch3G_XqBZ2Mc) )
-    - [Tayland](https://tr.khanacademy.org/partner-content/british-museum/asia1/bm-thailand) (2 Articles)
-    - [Myanmar](https://tr.khanacademy.org/partner-content/british-museum/asia1/bm-myanmar) (1 Article)
-    - [Endonezya](https://tr.khanacademy.org/partner-content/british-museum/asia1/bm-indonesia) (2 Articles)
     - [İran](https://tr.khanacademy.org/partner-content/british-museum/asia1/iran) (3 Articles, 4 Videos | [14m 36s](https://www.youtube.com/watch_videos?title=%C4%B0ran&video_ids=taql24kczjk%2CFA4OsxDEQfw%2CNzWiRsOvAiU%2COvnUbjgI0XQ) )
   - [Avrupa](https://tr.khanacademy.org/partner-content/british-museum/europe1) (4 Topics)
     - [Antik Yunan
 ](https://tr.khanacademy.org/partner-content/british-museum/europe1/bm-ancient-greece) (5 Articles, 6 Videos | [16m 40s](https://www.youtube.com/watch_videos?title=Antik+Yunan%0A&video_ids=5diQv1F6i54%2C-jSRJRWRWJU%2CSPFZ8rfHZPw%2CvbWgJFiD2o8%2CzHo18HellXU%2CCstmE8dmeEg) )
     - [Antik Roma](https://tr.khanacademy.org/partner-content/british-museum/europe1/ancient-rome-bm) (6 Articles, 3 Videos | [9m 30s](https://www.youtube.com/watch_videos?title=Antik+Roma&video_ids=RMcjEt3-F1A%2CLb8agZEIi4Q%2CX-0qiUdSvTg) )
     - [Orta Çağ](https://tr.khanacademy.org/partner-content/british-museum/europe1/medieval-era-bm) (9 Articles, 2 Videos | [9m 26s](https://www.youtube.com/watch_videos?title=Orta+%C3%87a%C4%9F&video_ids=dpl0uKPxQsE%2CA25l7STTy0c) )
-    - [Rönesans](https://tr.khanacademy.org/partner-content/british-museum/europe1/renaissance-bm) (9 Articles, 2 Videos | [4m 53s](https://www.youtube.com/watch_videos?title=R%C3%B6nesans&video_ids=3UrldoCOi5w%2CX3dCjTUmicY) )
+    - [Rönesans-bm](https://tr.khanacademy.org/partner-content/british-museum/europe1/renaissance-bm) (9 Articles, 2 Videos | [4m 53s](https://www.youtube.com/watch_videos?title=R%C3%B6nesans-bm&video_ids=3UrldoCOi5w%2CX3dCjTUmicY) )
   - [Orta Doğu](https://tr.khanacademy.org/partner-content/british-museum/middle-east-bm) (2 Topics)
     - [Eski Yakın Doğu (Mezopotamya)
 ](https://tr.khanacademy.org/partner-content/british-museum/middle-east-bm/ancient-near-east-bm) (6 Articles, 3 Videos | [22m 27s](https://www.youtube.com/watch_videos?title=Eski+Yak%C4%B1n+Do%C4%9Fu+%28Mezopotamya%29%0A&video_ids=PuL66KcZMa8%2CfG3zus-Ri5A%2CGX6iawlkzFY) )
     - [  İslami Orta Doğu](https://tr.khanacademy.org/partner-content/british-museum/middle-east-bm/islamic-middle-east) (3 Articles, 2 Videos | [5m 25s](https://www.youtube.com/watch_videos?title=++%C4%B0slami+Orta+Do%C4%9Fu&video_ids=sPHrmZ05Zs4%2C7CBCh6iBrPQ) )
   - [Okyanusya](https://tr.khanacademy.org/partner-content/british-museum/oceania-british-museum) (3 Topics)
     - [Polinezya](https://tr.khanacademy.org/partner-content/british-museum/oceania-british-museum/polynesia-bm) (7 Articles, 1 Video | [6m 39s](https://www.youtube.com/watch_videos?title=Polinezya&video_ids=Ouhml7FOu4M) )
-    - [Melanezya](https://tr.khanacademy.org/partner-content/british-museum/oceania-british-museum/melanesia-bm) (3 Articles)
-    - [Mikronezya](https://tr.khanacademy.org/partner-content/british-museum/oceania-british-museum/micronesia-bm) (2 Articles)
   - [British Museum’da Çağdaş Heykeltraşlar
 ](https://tr.khanacademy.org/partner-content/british-museum/old-new-contemporary-art) (4 Videos | [11m 23s](https://www.youtube.com/watch_videos?title=British+Museum%E2%80%99da+%C3%87a%C4%9Fda%C5%9F+Heykeltra%C5%9Flar%0A&video_ids=ZNhTHnoMelA%2CwKg8YUdEvUM%2CDMRY3CEVsnk%2C_UDiDz02XCs) )
 
 ## [All Star Orchestra](https://tr.khanacademy.org/partner-content/all-star-orchestra) (4 Topics)
   - [Müzikte Temel Bilgiler
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/music-basics) (2 Topics)
-    - [Notalar ve Ritim](https://tr.khanacademy.org/partner-content/all-star-orchestra/music-basics/elements-of-music) (1 Article, 6 Videos | [25m 18s](https://www.youtube.com/watch_videos?title=Notalar+ve+Ritim&video_ids=9ZtDqDjxxSc%2C59XgDmUZ75A%2Cmn6CDWk4Cak%2C2Cje9bBESI0%2Cw89mmoD0O4c%2CesbqpgAD-EM) )
+    - [Music Basics: Notes and rhythm ](https://tr.khanacademy.org/partner-content/all-star-orchestra/music-basics/elements-of-music) (1 Article, 6 Videos | [25m 18s](https://www.youtube.com/watch_videos?title=Music+Basics%3A+Notes+and+rhythm+&video_ids=9ZtDqDjxxSc%2C59XgDmUZ75A%2Cmn6CDWk4Cak%2C2Cje9bBESI0%2Cw89mmoD0O4c%2CesbqpgAD-EM) )
     - [Müziği Okumak
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/music-basics/reading-music) (1 Article, 10 Videos | [28m 44s](https://www.youtube.com/watch_videos?title=M%C3%BCzi%C4%9Fi+Okumak%0A&video_ids=rpYRUQvArEY%2COPEfSEyFET4%2C3SQOfqHJ1QM%2CpC1qyX4w96E%2C90S0Ru8qww8%2CPuD_ppGtv3I%2Cr9JS_vZOGVg%2C7rwd7i6Ls9M%2CN1lLDGCeh3k%2CMzHqA8pCWKk) )
-  - [Band instrument lessons](https://tr.khanacademy.org/partner-content/all-star-orchestra/band-instrument-lessons) (4 Topics)
+  - [Band instrument lessons with the U.S. Marine Band](https://tr.khanacademy.org/partner-content/all-star-orchestra/band-instrument-lessons) (4 Topics)
     - [Tahta Nefesli Çalgılar
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/band-instrument-lessons/band-woodwinds) (9 Videos | [1h 9m 34s](https://www.youtube.com/watch_videos?title=Tahta+Nefesli+%C3%87alg%C4%B1lar%0A&video_ids=oQ0LEOKo9Yw%2ChoLg06rnF9M%2CAPzvFz-D_kI%2C9kTpqqDLMVo%2CNYW0Vzxs9mI%2Cecq9MzKpbHE%2C8p1WTyJpgO8%2CqTU3FcxK-iU%2CtBdp1F5hM4I) )
     - [Bakır Nefesli Çalgılar
@@ -5102,8 +4639,7 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/Tchaikovsky-4th-analysis) (4 Videos | [32m 13s](https://www.youtube.com/watch_videos?title=Pyotr+%C4%B0lyi%C3%A7+%C3%87aykovski%3A+Senfoni+No.4%0A&video_ids=9_-YqgZs6vI%2CknQtiFUyCi8%2CBsLnura5zwE%2C7X1_3i9DimY) )
     - [Robert Schumann: 3. Senfoni "Rhenish"](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/shumann-rhenish-analysis) (5 Videos | [27m 28s](https://www.youtube.com/watch_videos?title=Robert+Schumann%3A+3.+Senfoni+%22Rhenish%22&video_ids=yI7kDoB6YsI%2C4xCD0k7rUbo%2CPFX9BFI3--g%2ChiWFB_iS0OE%2CH7dVIruG-oU) )
     - [Johannes Brahms: Akademik Festival Uvertürü](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/brahms-af-verture) (1 Video | [12m 12s](https://www.youtube.com/watch_videos?title=Johannes+Brahms%3A+Akademik+Festival+Uvert%C3%BCr%C3%BC&video_ids=VIV-yJfIrlI) )
-    - [Antonín Dvořák: 9. Senfoni  "From the New World" (Yeni Dünyadan)
-](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/dvorak-symphony-9) (5 Videos | [38m 57s](https://www.youtube.com/watch_videos?title=Anton%C3%ADn+Dvo%C5%99%C3%A1k%3A+9.+Senfoni+%C2%A0%22From+the+New+World%22+%28Yeni+D%C3%BCnyadan%29%0A&video_ids=4vuybxJvRuA%2CEgzqu5DWwbA%2CumoSO56Nwa8%2C9x1vnGfIE8k%2CAqvaQfbAC64) )
+    - [Antonín Dvořák. "Yeni Dünya"dan 9. Senfoni](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/dvorak-symphony-9) (5 Videos | [38m 57s](https://www.youtube.com/watch_videos?title=Anton%C3%ADn+Dvo%C5%99%C3%A1k.+%22Yeni+D%C3%BCnya%22dan+9.+Senfoni&video_ids=4vuybxJvRuA%2CEgzqu5DWwbA%2CumoSO56Nwa8%2C9x1vnGfIE8k%2CAqvaQfbAC64) )
     - [Gustav Mahler: Symphony No. 2 – 1st Movement ](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/mahler-symphony-2) (2 Videos | [26m 42s](https://www.youtube.com/watch_videos?title=Gustav+Mahler%3A+Symphony+No.+2+%E2%80%93+1st+Movement+&video_ids=VZVN-MKI5MM%2CciSWiGwESOY) )
     - [Igor Stravinsky: Suite from The Firebird (Ateş Kuşundan Bir Süit)
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/stravinsky-firebird) (1 Video | [14m 51s](https://www.youtube.com/watch_videos?title=Igor+Stravinsky%3A+Suite+from+The+Firebird+%28Ate%C5%9F+Ku%C5%9Fundan+Bir+S%C3%BCit%29%0A&video_ids=Im_XjHgQfW0) )
@@ -5117,11 +4653,10 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
     - [Augusta Read Thomas: Of Paradise and Light (Cennet ve Işık Hakkında)
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/read-thomas) (1 Video | [7m 35s](https://www.youtube.com/watch_videos?title=Augusta+Read+Thomas%3A+Of+Paradise+and+Light+%28Cennet+ve+I%C5%9F%C4%B1k+Hakk%C4%B1nda%29%0A&video_ids=7BEbEZstN_k) )
     - [Bright Sheng: Black Swan](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/sheng01) (1 Video | [10m 10s](https://www.youtube.com/watch_videos?title=Bright+Sheng%3A+Black+Swan&video_ids=Lbm4ouevlVo) )
-    - [Richard Danielpour: 4. Piyano Konçertosu, Üçüncü Bölüm
-](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/danielpour-concerto-analysis) (1 Video | [7m 1s](https://www.youtube.com/watch_videos?title=Richard+Danielpour%3A+4.+Piyano+Kon%C3%A7ertosu%2C+%C3%9C%C3%A7%C3%BCnc%C3%BC+B%C3%B6l%C3%BCm%0A&video_ids=t-0Sv1lbFTA) )
+    - [Richard Danielpour: Concerto 4, Movement III](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/danielpour-concerto-analysis) (1 Video | [7m 1s](https://www.youtube.com/watch_videos?title=Richard+Danielpour%3A+Concerto+4%2C+Movement+III&video_ids=t-0Sv1lbFTA) )
     - [David Stock: Blast! (Büyük Patlama)
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/stockbast) (1 Video | [6m 14s](https://www.youtube.com/watch_videos?title=David+Stock%3A+Blast%21+%28B%C3%BCy%C3%BCk+Patlama%29%0A&video_ids=WnopTqmQ1gU) )
-    - [Ellen Taaffe Zwilich:  Avanti!](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/taaffeezwilchavanti) (1 Video | [4m 23s](https://www.youtube.com/watch_videos?title=Ellen+Taaffe+Zwilich%3A++Avanti%21&video_ids=ZGtMbTBRWAg) )
+    - [Ellen Taaffe Zwilch:  Avanti!](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/taaffeezwilchavanti) (1 Video | [4m 23s](https://www.youtube.com/watch_videos?title=Ellen+Taaffe+Zwilch%3A++Avanti%21&video_ids=ZGtMbTBRWAg) )
     - [Joseph Schwantner: Şairin Saati
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/masterpieces-old-and-new/shwantnerthepoetshour) (1 Video | [18m 14s](https://www.youtube.com/watch_videos?title=Joseph+Schwantner%3A+%C5%9Eairin+Saati%0A&video_ids=tf4o5byJ83E) )
   - [Orkestradaki Enstrümanlar](https://tr.khanacademy.org/partner-content/all-star-orchestra/instruments-of-the-orchestra) (4 Topics)
@@ -5129,9 +4664,8 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/instruments-of-the-orchestra/string-instruments) (5 Videos | [47m 7s](https://www.youtube.com/watch_videos?title=Telli+%C3%87alg%C4%B1lar%0A&video_ids=m2DBfaL7Zo4%2CgvjFMvLVnG0%2CivbT-wvzK58%2CfJiCHUimtpc%2C35sOcVflhE0) )
     - [Tahta Nefesli Çalgılar
 ](https://tr.khanacademy.org/partner-content/all-star-orchestra/instruments-of-the-orchestra/woodwinds) (8 Videos | [1h 11m 51s](https://www.youtube.com/watch_videos?title=Tahta+Nefesli+%C3%87alg%C4%B1lar%0A&video_ids=h7dD-8eD5oA%2CMJIagUN4Lhw%2C_Ub-jKHFEQg%2C0lX34MHTs8E%2CoG7C7U3FhhQ%2CHALbfdYE3hM%2C5flvVD_tnRw%2CxWvhFIh8AaI) )
-    - [Bakır Nefesli Çalgılar
-](https://tr.khanacademy.org/partner-content/all-star-orchestra/instruments-of-the-orchestra/brass) (5 Videos | [1h 10m 7s](https://www.youtube.com/watch_videos?title=Bak%C4%B1r+Nefesli+%C3%87alg%C4%B1lar%0A&video_ids=PoHKNFGbwjM%2CN1GWZbwh2jQ%2C9onC3FwiQeg%2Cp6Ovm_jaeKg%2CIOIx0T4vx8c) )
-    - [Perküsyon](https://tr.khanacademy.org/partner-content/all-star-orchestra/instruments-of-the-orchestra/percussion) (3 Videos | [26m 49s](https://www.youtube.com/watch_videos?title=Perk%C3%BCsyon&video_ids=-kn_8vUT0eI%2Cr2syXj4Eb6w%2CH235paj_4PE) )
+    - [FRENCH HORN: Interview and Demonstration with Principal John Cerminaro](https://tr.khanacademy.org/partner-content/all-star-orchestra/instruments-of-the-orchestra/brass) (5 Videos | [1h 10m 7s](https://www.youtube.com/watch_videos?title=FRENCH+HORN%3A+Interview+and+Demonstration+with+Principal+John+Cerminaro&video_ids=PoHKNFGbwjM%2CN1GWZbwh2jQ%2C9onC3FwiQeg%2Cp6Ovm_jaeKg%2CIOIx0T4vx8c) )
+    - [PIANO (as orchestral instrument): Interview and Demonstration with Kimberly Russ](https://tr.khanacademy.org/partner-content/all-star-orchestra/instruments-of-the-orchestra/percussion) (3 Videos | [26m 49s](https://www.youtube.com/watch_videos?title=PIANO+%28as+orchestral+instrument%29%3A+Interview+and+Demonstration+with+Kimberly+Russ&video_ids=-kn_8vUT0eI%2Cr2syXj4Eb6w%2CH235paj_4PE) )
 
 ## [Stanford Üniversitesi Tıp Fakültesi](https://tr.khanacademy.org/partner-content/stanford-medicine) (7 Topics)
   - [Tüberküloz (Verem)](https://tr.khanacademy.org/partner-content/stanford-medicine/tuberculosis-lesson) (15 Videos | [2h 38m 59s](https://www.youtube.com/watch_videos?title=T%C3%BCberk%C3%BCloz+%28Verem%29&video_ids=eGXasjUBMVk%2CzjXkj45qyE0%2C6_fkXSsKHgU%2C8nh-lC0iT70%2C0DREdSN-54c%2CT5qKn1o1ujA%2C7nCOJrpWFew%2CqbXKrR9BQmg%2CTGJTKdPxRX8%2CfaqhDcrWfHQ%2ChAXnQgU4bsg%2C_20mkyAB7tY%2C2K1ekrZ6ej4%2Cvce3BZFo27Y%2CS8s-g7KZR50) )
@@ -5141,13 +4675,12 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
   - [Astım](https://tr.khanacademy.org/partner-content/stanford-medicine/asthma) (2 Videos | [16m 44s](https://www.youtube.com/watch_videos?title=Ast%C4%B1m&video_ids=Eh0l6hSMWDQ%2CD5ELnMQuQdc) )
   - [Emzirme](https://tr.khanacademy.org/partner-content/stanford-medicine/breastfeeding) (2 Videos | [11m 3s](https://www.youtube.com/watch_videos?title=Emzirme&video_ids=LVHOQKGRxXA%2C8Q8KSRHVBV0) )
 
-## [Kablosuz Felsefe (Wi-Phi)](https://tr.khanacademy.org/partner-content/wi-phi) (4 Topics)
+## [Wi-Phi (Kablosuz Felsefe)](https://tr.khanacademy.org/partner-content/wi-phi) (4 Topics)
   - [Eleştirel Düşünme](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking) (3 Topics)
     - [Temel Bilgiler](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fundamentals) (10 Exercises, 14 Videos | [1h 18m 51s](https://www.youtube.com/watch_videos?title=Temel+Bilgiler&video_ids=Cum3k-Wglfw%2C3jvQrpVQaYM%2CvflZuk-_Hz4%2Cp3E6i8QhRpA%2C9uOF3AZI_Gc%2CDR42xdsLWkc%2C2kSqB7y0NjU%2CQ4BuSYoULxQ%2Cs6GgvpcgIm8%2CkdJ6aGToDlo%2CpCGnyaa5E5g%2C3P0fUHUaZcs%2COqmJhPQYRc8%2CU-_f8RQIIiw) )
     - [Safsatalar](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-fallacies) (7 Exercises, 14 Videos | [1h 17m 10s](https://www.youtube.com/watch_videos?title=Safsatalar&video_ids=VDGp04CfM4M%2CHuEONOD03Go%2CuEhRqiSA4ko%2CwnbK76m691I%2CqBkj-AYYg7w%2C2ArXbUhbikQ%2Cj4spchvottI%2C5A7hSaoRv0g%2CsggpruVGe9g%2CIODR5mJMwOU%2CbmIqWT7qMj4%2Chfil34ayaEU%2CyxylBjtzMNQ%2CAf0STrY58i4) )
     - [Bilişsel Önyargı](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking/wiphi-cognitive-biases) (7 Videos | [30m 43s](https://www.youtube.com/watch_videos?title=Bili%C5%9Fsel+%C3%96nyarg%C4%B1&video_ids=TCBALVumrUQ%2CNFiDdbquWJY%2CroRIPM3i0ZM%2CLBNtChg4t4k%2C4TuQ7YI-soQ%2CRhyJGwNpEcw%2CsO9xwAyeWX0) )
-  - [Metafizik ve Epistemoloji
-](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-metaphysics-epistemology) (8 Topics)
+  - [Metafizik ve epistemoloji](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-metaphysics-epistemology) (8 Topics)
     - [Metafizik](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-metaphysics-epistemology/wiphi-metaphysics) (6 Videos | [47m 7s](https://www.youtube.com/watch_videos?title=Metafizik&video_ids=dYAoiLhOuao%2CiSfXdNIolQA%2CM8oITAoaCr4%2C4RyHHTBv7DQ%2CMzuTn1PiZgE%2CX_IuG3kJY_g) )
     - [Zihin](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-metaphysics-epistemology/wiphi-mind) (4 Videos | [27m 36s](https://www.youtube.com/watch_videos?title=Zihin&video_ids=AMTMtWHclKo%2CrMYdKz4xxMc%2Cb5kDRza-Xqs%2ClcIqoN9oRgo) )
     - [Dil](https://tr.khanacademy.org/partner-content/wi-phi/wiphi-metaphysics-epistemology/wiphi-language) (7 Videos | [1h 2m 41s](https://www.youtube.com/watch_videos?title=Dil&video_ids=-6hoDNZoV5g%2Cwe6uSVf4qss%2C4Q9QTqef7BI%2CVpZgA0MLVZs%2CXs6E-FEls1c%2COxt1DdfT8ME%2CW0BG49ir32E) )
@@ -5173,7 +4706,7 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
   - [Kimya ve biyoloji](https://tr.khanacademy.org/partner-content/mit-k12/chem-and-bio) (10 Videos | [40m 20s](https://www.youtube.com/watch_videos?title=Kimya+ve+biyoloji&video_ids=R1kxajH629A%2CK9mhXBOhuHU%2CzDo-UG3i75o%2C6zzA4BU2e58%2CmlzxxD9A07E%2CerMCADOJcHk%2CpRc4FxrNGyY%2CIe6LrhZ7y48%2Cbw2vf6yZqOI%2Cd91KsKuziQ0) )
   - [Mühendislik ve Elektronik](https://tr.khanacademy.org/partner-content/mit-k12/eng-and-electronics) (9 Videos | [37m 8s](https://www.youtube.com/watch_videos?title=M%C3%BChendislik+ve+Elektronik&video_ids=-wlayEVUl1M%2CGzhFgEYiVyY%2ClVnHIjwIByw%2CNddfda_cN04%2Cy2vzH1MjRqQ%2C8cVsgFN3hSM%2C-Kovxf6g0mo%2C4KFIvRQWTjg%2CEx1ktxOxVgI) )
   - [Fizik](https://tr.khanacademy.org/partner-content/mit-k12/mit-k12-physics) (15 Videos | [1h 25m 47s](https://www.youtube.com/watch_videos?title=Fizik&video_ids=uMWX3e0odi4%2CNbqjrlpmJIM%2CvbWHEfNqXB4%2C4KFIvRQWTjg%2CVYPOW_spxJI%2CE0RTxhpaUCM%2CqAJorxF8IxM%2C0zCFM-eHBTU%2Cj8lZIVORZUo%2C-GK3S-D2c0A%2CAoX9QX5JZqA%2C7lePxxrkuEA%2CJwhisVLW_g8%2CahfcJEg4-Os%2CKVq3xyh6FJs) )
-  - [Dünya ve Uzay](https://tr.khanacademy.org/partner-content/mit-k12/mit-k12-ea) (4 Videos | [19m 32s](https://www.youtube.com/watch_videos?title=D%C3%BCnya+ve+Uzay&video_ids=4RarO2wS14Q%2Ctm1FvHRruUQ%2CEUnxdEKufP4%2CGD0T8dlSe_A) )
+  - [Doğa Bilimleri](https://tr.khanacademy.org/partner-content/mit-k12/mit-k12-ea) (4 Videos | [19m 32s](https://www.youtube.com/watch_videos?title=Do%C4%9Fa+Bilimleri&video_ids=4RarO2wS14Q%2Ctm1FvHRruUQ%2CEUnxdEKufP4%2CGD0T8dlSe_A) )
   - [Matematik](https://tr.khanacademy.org/partner-content/mit-k12/mit-math) (2 Videos | [9m 1s](https://www.youtube.com/watch_videos?title=Matematik&video_ids=WFtTdf3I6Ug%2CKOhfD9pjqoo) )
   - [Maddeler](https://tr.khanacademy.org/partner-content/mit-k12/mit-k12-materials) (7 Videos | [32m 8s](https://www.youtube.com/watch_videos?title=Maddeler&video_ids=-wlayEVUl1M%2CGzhFgEYiVyY%2ClVnHIjwIByw%2CFKnGqkyhjps%2CD4q6vnQjHxY%2CZr-kMl8B_II%2CTpDMhqHLviY) )
   - [Ölçüm](https://tr.khanacademy.org/partner-content/mit-k12/mit-k12-measurement) (4 Videos | [22m 39s](https://www.youtube.com/watch_videos?title=%C3%96l%C3%A7%C3%BCm&video_ids=1ABVXJfwVxU%2C4D1yZaxW3Hw%2CjskPH3DmXMw%2CfVOkL5CUvSA) )
@@ -5185,56 +4718,51 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
   - [ABD Sağlık Sistemi- Giriş](https://tr.khanacademy.org/partner-content/brookings-institution/introduction-to-healthcare) (1 Exercise, 10 Videos | [2h 5m 8s](https://www.youtube.com/watch_videos?title=ABD+Sa%C4%9Fl%C4%B1k+Sistemi-+Giri%C5%9F&video_ids=mG_BZ8GgqJU%2Cq8olT3TyHm8%2CAXv9B0bcZ1A%2CglMvD6x4vqw%2C6unzbhlxXxM%2C5ahti9i1eFM%2CZXUpfcTvSaI%2CGyBS8GMynKQ%2CW6gKc7Yjig8%2CZbAh3QoKd3U) )
 
 ## [Pixar'da Neler Oluyor?](https://tr.khanacademy.org/partner-content/pixar) (15 Topics)
-  - [Oryantasyon](https://tr.khanacademy.org/partner-content/pixar/start) (1 Topic)
-    - [Buradan başlayın](https://tr.khanacademy.org/partner-content/pixar/start/introduction) (1 Article, 1 Interactive, 1 Video | [5m 20s](https://www.youtube.com/watch_videos?title=Buradan+ba%C5%9Flay%C4%B1n&video_ids=JFqYcGhv410) )
+  - [Buradan başla!](https://tr.khanacademy.org/partner-content/pixar/start) (1 Topic)
+    - [Lego Robotları](https://tr.khanacademy.org/partner-content/pixar/start/introduction) (1 Article, 1 Interactive, 1 Video | [5m 20s](https://www.youtube.com/watch_videos?title=Lego+Robotlar%C4%B1&video_ids=JFqYcGhv410) )
   - [Hikaye Anlatma Sanatı](https://tr.khanacademy.org/partner-content/pixar/storytelling) (6 Topics)
     - [1. Hepimiz Birer Hikaye Anlatıcısıyız
 ](https://tr.khanacademy.org/partner-content/pixar/storytelling/we-are-all-storytellers) (5 Articles, 6 Videos | [18m 23s](https://www.youtube.com/watch_videos?title=1.+Hepimiz+Birer+Hikaye+Anlat%C4%B1c%C4%B1s%C4%B1y%C4%B1z%0A&video_ids=1rMnzNZkIX0%2CoDRbUu0hR68%2CnEaXR6oV27Y%2CHJzmjsD0rJg%2CEgLXNwdMizM%2CeDsMGtPSHMM) )
-    - [2. Karakter](https://tr.khanacademy.org/partner-content/pixar/storytelling/character) (7 Articles, 7 Videos | [30m 10s](https://www.youtube.com/watch_videos?title=2.+Karakter&video_ids=rYAkl5HGKnU%2Csd7K9mGywQA%2CUgI49ZRy14Y%2CbbikMFO2PAQ%2C2Vw8sZSuWoA%2CKplsKC7GD04%2CFIpdNs9O9tY) )
-    - [3. Hikaye Yapısı
-](https://tr.khanacademy.org/partner-content/pixar/storytelling/story-structure) (6 Articles, 7 Videos | [32m 12s](https://www.youtube.com/watch_videos?title=3.+Hikaye+Yap%C4%B1s%C4%B1%0A&video_ids=bKrCKg9ggVI%2CtUZRoJ__mk4%2C0K4V8PTI03Y%2CUJLt26LmhPE%2CytvyNdc-GdY%2CWeaNoo-Shl4%2CS1lqDoOy7jE) )
-    - [4. Görsel dil](https://tr.khanacademy.org/partner-content/pixar/storytelling/visual-language) (8 Articles, 8 Videos | [40m 19s](https://www.youtube.com/watch_videos?title=4.+G%C3%B6rsel+dil&video_ids=7eGcMOCh644%2Cqbf1RFkxsOY%2CebCtiFwtxLE%2C1iX2VDZWQ2A%2CxtWZJgX4Ntw%2CjJt6Tqk5uJA%2Cw-xAFDuJqrI%2CAuHNFagQ5B8) )
-    - [5. Film Grameri](https://tr.khanacademy.org/partner-content/pixar/storytelling/film-grammar) (6 Articles, 7 Videos | [37m 12s](https://www.youtube.com/watch_videos?title=5.+Film+Grameri&video_ids=GQVCepF_6xk%2CCxoCLLpHaPY%2CPWxQGhGgJXY%2CjSfPR-d4Htc%2CVjBEfpLKLhI%2CVMQIlb7t2v4%2CKYI5KGnSkmQ) )
-    - [6. Hikaye Taslağının Anlatımı ve Geri Bildirim](https://tr.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film) (5 Articles, 6 Videos | [33m 3s](https://www.youtube.com/watch_videos?title=6.+Hikaye+Tasla%C4%9F%C4%B1n%C4%B1n+Anlat%C4%B1m%C4%B1+ve+Geri+Bildirim&video_ids=cnA0Kh3YtnQ%2CG4vZZ07MsVM%2C5OQ3EHS-Ir0%2C0u4Qk7bWo48%2C2EaZ6fRMjKs%2CD88wlvz5i4A) )
+    - [Karakter](https://tr.khanacademy.org/partner-content/pixar/storytelling/character) (7 Articles, 7 Videos | [30m 10s](https://www.youtube.com/watch_videos?title=Karakter&video_ids=rYAkl5HGKnU%2Csd7K9mGywQA%2CUgI49ZRy14Y%2CbbikMFO2PAQ%2C2Vw8sZSuWoA%2CKplsKC7GD04%2CFIpdNs9O9tY) )
+    - [Hikaye yapısı](https://tr.khanacademy.org/partner-content/pixar/storytelling/story-structure) (6 Articles, 7 Videos | [32m 12s](https://www.youtube.com/watch_videos?title=Hikaye+yap%C4%B1s%C4%B1&video_ids=bKrCKg9ggVI%2CtUZRoJ__mk4%2C0K4V8PTI03Y%2CUJLt26LmhPE%2CytvyNdc-GdY%2CWeaNoo-Shl4%2CS1lqDoOy7jE) )
+    - [Görsel dil](https://tr.khanacademy.org/partner-content/pixar/storytelling/visual-language) (8 Articles, 8 Videos | [40m 19s](https://www.youtube.com/watch_videos?title=G%C3%B6rsel+dil&video_ids=7eGcMOCh644%2Cqbf1RFkxsOY%2CebCtiFwtxLE%2C1iX2VDZWQ2A%2CxtWZJgX4Ntw%2CjJt6Tqk5uJA%2Cw-xAFDuJqrI%2CAuHNFagQ5B8) )
+    - [Filmin yapıtaşları](https://tr.khanacademy.org/partner-content/pixar/storytelling/film-grammar) (6 Articles, 7 Videos | [37m 12s](https://www.youtube.com/watch_videos?title=Filmin+yap%C4%B1ta%C5%9Flar%C4%B1&video_ids=GQVCepF_6xk%2CCxoCLLpHaPY%2CPWxQGhGgJXY%2CjSfPR-d4Htc%2CVjBEfpLKLhI%2CVMQIlb7t2v4%2CKYI5KGnSkmQ) )
+    - [Filminizin hikaye tahtasını hazırlayın](https://tr.khanacademy.org/partner-content/pixar/storytelling/storyboard-your-film) (5 Articles, 6 Videos | [33m 3s](https://www.youtube.com/watch_videos?title=Filminizin+hikaye+tahtas%C4%B1n%C4%B1+haz%C4%B1rlay%C4%B1n&video_ids=cnA0Kh3YtnQ%2CG4vZZ07MsVM%2C5OQ3EHS-Ir0%2C0u4Qk7bWo48%2C2EaZ6fRMjKs%2CD88wlvz5i4A) )
   - [Işıklandırma Sanatı ](https://tr.khanacademy.org/partner-content/pixar/art-of-lighting) (1 Topic)
     - [Işıklandırmaya Giriş](https://tr.khanacademy.org/partner-content/pixar/art-of-lighting/introduction-to-virtual-lighting) (7 Articles, 9 Videos | [43m 4s](https://www.youtube.com/watch_videos?title=I%C5%9F%C4%B1kland%C4%B1rmaya+Giri%C5%9F&video_ids=pOeaflcMlVU%2Ck2fYzZLP1HQ%2CvnDk2E4G1sg%2CHpnFBQvwK3A%2CtP7zouXk5k0%2CJ3HGahDdBog%2Cf5ow3UUJ680%2CKOzsvY10ddU%2CmJUwZsdvz4o) )
-  - [Simülasyon](https://tr.khanacademy.org/partner-content/pixar/simulation) (2 Topics)
+  - [Saç simülasyonu](https://tr.khanacademy.org/partner-content/pixar/simulation) (2 Topics)
     - [Saç Simülasyonu 101
 ](https://tr.khanacademy.org/partner-content/pixar/simulation/hair-simulation-101) (3 Articles, 1 Exercise, 7 Videos | [19m 53s](https://www.youtube.com/watch_videos?title=Sa%C3%A7+Sim%C3%BClasyonu+101%0A&video_ids=fYeDDoYaOeE%2CSaWHapmJVbI%2C5s6VOP--qaU%2C9cXNnv9b-4w%2CJWvAbyDeRgo%2CY2-gqOp2S74%2CtxchzEZClbM) )
     - [Kendi Simülasyonunuzu Kodlayın
 ](https://tr.khanacademy.org/partner-content/pixar/simulation/hair-simulation-code) (4 Articles, 5 Interactives, 5 Videos | [16m 3s](https://www.youtube.com/watch_videos?title=Kendi+Sim%C3%BClasyonunuzu+Kodlay%C4%B1n%0A&video_ids=MeQa3xMnAmw%2CAmPb5HlB7Dk%2CN52cRzvBPTI%2CJg0AuxtMUQ0%2C3wfMPxORS-4) )
   - [Renk Bilimi](https://tr.khanacademy.org/partner-content/pixar/color) (2 Topics)
-    - [Renklere giriş](https://tr.khanacademy.org/partner-content/pixar/color/color-101) (1 Article, 4 Exercises, 7 Videos | [24m 26s](https://www.youtube.com/watch_videos?title=Renklere+giri%C5%9F&video_ids=s1tLXJENc5g%2C-TFDX34zQVc%2C25usAT57IwU%2Cgu5a48vHpBQ%2CUXcxhUEjpnA%2CL8oSVfBP-0U%2CQYeNzJ7_SHw) )
+    - [Renkler](https://tr.khanacademy.org/partner-content/pixar/color/color-101) (1 Article, 4 Exercises, 7 Videos | [24m 26s](https://www.youtube.com/watch_videos?title=Renkler&video_ids=s1tLXJENc5g%2C-TFDX34zQVc%2C25usAT57IwU%2Cgu5a48vHpBQ%2CUXcxhUEjpnA%2CL8oSVfBP-0U%2CQYeNzJ7_SHw) )
     - [Renk Boşlukları](https://tr.khanacademy.org/partner-content/pixar/color/color-space) (5 Exercises, 5 Videos | [10m 8s](https://www.youtube.com/watch_videos?title=Renk+Bo%C5%9Fluklar%C4%B1&video_ids=pebrNDtyMpQ%2C7KETFXbCerw%2CB1BcmvGHPkk%2CO3w4hfss5YU%2C-Zwt3Yo6T1M) )
   - [Sanal Kameralar](https://tr.khanacademy.org/partner-content/pixar/virtual-cameras) (2 Topics)
     - [Sanal Kameralar Nasıl Çalışır?
 ](https://tr.khanacademy.org/partner-content/pixar/virtual-cameras/virtual-cameras-1) (3 Articles, 2 Exercises, 7 Videos | [20m 40s](https://www.youtube.com/watch_videos?title=Sanal+Kameralar+Nas%C4%B1l+%C3%87al%C4%B1%C5%9F%C4%B1r%3F%0A&video_ids=rLebh1jvat4%2CnahiAgP4R80%2CDucaOqZ_JTM%2CNhTOoiYdFQ0%2CHkvK3WC_NEI%2CMRtN8mGW4LM%2CKUtnB5ZRbrA) )
-    - [Alan Derinliği Matematiği
-](https://tr.khanacademy.org/partner-content/pixar/virtual-cameras/depth-of-field) (5 Exercises, 5 Videos | [11m 45s](https://www.youtube.com/watch_videos?title=Alan+Derinli%C4%9Fi+Matemati%C4%9Fi%0A&video_ids=iWOjeFMkE2s%2CuyWquvh-Pk8%2CI7NH0JOmlVk%2CZUpK5SmdIds%2Ce3v794S4ZMw) )
+    - [Alan Derinliği
+](https://tr.khanacademy.org/partner-content/pixar/virtual-cameras/depth-of-field) (5 Exercises, 5 Videos | [11m 45s](https://www.youtube.com/watch_videos?title=Alan+Derinli%C4%9Fi%0A&video_ids=iWOjeFMkE2s%2CuyWquvh-Pk8%2CI7NH0JOmlVk%2CZUpK5SmdIds%2Ce3v794S4ZMw) )
   - [Efektler
 ](https://tr.khanacademy.org/partner-content/pixar/effects) (2 Topics)
     - [Parçacık Sistemleri
 ](https://tr.khanacademy.org/partner-content/pixar/effects/particle) (1 Exercise, 4 Interactives, 7 Videos | [13m 40s](https://www.youtube.com/watch_videos?title=Par%C3%A7ac%C4%B1k+Sistemleri%0A&video_ids=N0ODa33OnW0%2CuLXg4oO37Rk%2CFVsx4ZDMWcM%2C6LDIPtvDjFw%2CPt8Sp3193N0%2CDlequhDiCxQ%2CExXDi6J5lmA) )
-    - [Parçacık Sistemlerinin Fiziği
-](https://tr.khanacademy.org/partner-content/pixar/effects/particle-physics) (1 Article, 6 Exercises, 6 Videos | [17m 55s](https://www.youtube.com/watch_videos?title=Par%C3%A7ac%C4%B1k+Sistemlerinin+Fizi%C4%9Fi%0A&video_ids=f7sco6LILs8%2C6kUjXNeFOxY%2CnhAQAneEPic%2Cg7Xr5cKJwGg%2CVqAIpdE1DIE%2CtdYl-7QMdmc) )
+    - [Parçacık sistemlerinin fiziği](https://tr.khanacademy.org/partner-content/pixar/effects/particle-physics) (1 Article, 6 Exercises, 6 Videos | [17m 55s](https://www.youtube.com/watch_videos?title=Par%C3%A7ac%C4%B1k+sistemlerinin+fizi%C4%9Fi&video_ids=f7sco6LILs8%2C6kUjXNeFOxY%2CnhAQAneEPic%2Cg7Xr5cKJwGg%2CVqAIpdE1DIE%2CtdYl-7QMdmc) )
   - [Modeller](https://tr.khanacademy.org/partner-content/pixar/pattern) (2 Topics)
     - [Dinozor Derisinin Geometrisi
 ](https://tr.khanacademy.org/partner-content/pixar/pattern/dino) (1 Article, 3 Exercises, 1 Interactive, 7 Videos | [20m 57s](https://www.youtube.com/watch_videos?title=Dinozor+Derisinin+Geometrisi%0A&video_ids=WeOQDObHztw%2ClRc-tQR-q4c%2CWaRkI5VO2TM%2CJyniScBaNd4%2CD7R5zq9hA6Q%2CdaI8N4uWezE%2CDSjgDX0WoFc) )
-    - [Rastgele Boyama](https://tr.khanacademy.org/partner-content/pixar/pattern/perlin-noise) (2 Articles, 4 Exercises, 1 Interactive, 5 Videos | [15m 16s](https://www.youtube.com/watch_videos?title=Rastgele+Boyama&video_ids=bMqlb23CcOU%2Ca1vHqWANjJQ%2Cbc0NQf5Kn6Y%2C1M8oMcpOtH0%2CC3benovnxtQ) )
-  - [Model Üretimi
-](https://tr.khanacademy.org/partner-content/pixar/pixar-rigging) (2 Topics)
-    - [Rigging'e giriş](https://tr.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging) (2 Articles, 3 Exercises, 2 Interactives, 7 Videos | [15m 4s](https://www.youtube.com/watch_videos?title=Rigging%27e+giri%C5%9F&video_ids=KlbVDyEHGjw%2CFLZhURU2BHQ%2C1D_cJWwZ3aA%2C0zmY4z4mSps%2Cn4yTFtsEDe0%2CBL7EFJsWj8c%2CGlrg9dRIxDE) )
+    - [Perlin gürültüsü ile boyama](https://tr.khanacademy.org/partner-content/pixar/pattern/perlin-noise) (2 Articles, 4 Exercises, 1 Interactive, 5 Videos | [15m 16s](https://www.youtube.com/watch_videos?title=Perlin+g%C3%BCr%C3%BClt%C3%BCs%C3%BC+ile+boyama&video_ids=bMqlb23CcOU%2Ca1vHqWANjJQ%2Cbc0NQf5Kn6Y%2C1M8oMcpOtH0%2CC3benovnxtQ) )
+  - [Donatma (yeni)](https://tr.khanacademy.org/partner-content/pixar/pixar-rigging) (2 Topics)
+    - [Model Üretimi
+](https://tr.khanacademy.org/partner-content/pixar/pixar-rigging/intro-to-rigging) (2 Articles, 3 Exercises, 2 Interactives, 7 Videos | [15m 4s](https://www.youtube.com/watch_videos?title=Model+%C3%9Cretimi%0A&video_ids=KlbVDyEHGjw%2CFLZhURU2BHQ%2C1D_cJWwZ3aA%2C0zmY4z4mSps%2Cn4yTFtsEDe0%2CBL7EFJsWj8c%2CGlrg9dRIxDE) )
     - [Karakteri Kodlayın
 ](https://tr.khanacademy.org/partner-content/pixar/pixar-rigging/code-character) (1 Article, 5 Challenges, 1 Interactive, 7 Videos | [6m 19s](https://www.youtube.com/watch_videos?title=Karakteri+Kodlay%C4%B1n%0A&video_ids=M1ckuiYlMRE%2Cpfb2JVkiSu0%2ConUYX12gwc4) )
   - [Animasyon](https://tr.khanacademy.org/partner-content/pixar/animate) (2 Topics)
     - [Animasyon](https://tr.khanacademy.org/partner-content/pixar/animate/ball) (3 Articles, 1 Exercise, 4 Interactives, 6 Videos | [13m 16s](https://www.youtube.com/watch_videos?title=Animasyon&video_ids=ai1q1JKBw4s%2Cdko983pCAI8%2C0CP6YczoCMg%2C3f6dcR_KBiE%2Cn89E301NHVU%2CnfqkEsKHrC4) )
-    - [Animasyon Eğrilerinin Matematiği
-](https://tr.khanacademy.org/partner-content/pixar/animate/parametric-curves) (2 Articles, 1 Exercise, 1 Interactive, 4 Videos | [7m 35s](https://www.youtube.com/watch_videos?title=Animasyon+E%C4%9Frilerinin+Matemati%C4%9Fi%0A&video_ids=kLoVsxI5TZY%2CXeY1z2QW_6s%2CXEzRsAvEBhc%2CcTkwU6U7LjA) )
+    - [Bezier Eğrileri](https://tr.khanacademy.org/partner-content/pixar/animate/parametric-curves) (2 Articles, 1 Exercise, 1 Interactive, 4 Videos | [7m 35s](https://www.youtube.com/watch_videos?title=Bezier+E%C4%9Frileri&video_ids=kLoVsxI5TZY%2CXeY1z2QW_6s%2CXEzRsAvEBhc%2CcTkwU6U7LjA) )
   - [Çevre Modelleme](https://tr.khanacademy.org/partner-content/pixar/environment-modeling-2) (2 Topics)
-    - [Parabolleri Kullanarak Çim Modelleme
-](https://tr.khanacademy.org/partner-content/pixar/environment-modeling-2/animating-parabolas-ver2) (2 Articles, 2 Exercises, 3 Interactives, 7 Videos | [16m 9s](https://www.youtube.com/watch_videos?title=Parabolleri+Kullanarak+%C3%87im+Modelleme%0A&video_ids=Olum5kX8vX8%2CYs18pD7lSJ0%2CANm70iF4Z_U%2CtHmWMQ7FKcQ%2CdFq1793ipKc%2CGMzlN0IRRUY%2CpOM3RYtlL-Y) )
-    - [Parabollerle Hesap Yapma
-](https://tr.khanacademy.org/partner-content/pixar/environment-modeling-2/mathematics-of-parabolas2-ver2) (1 Article, 4 Exercises, 5 Videos | [13m 33s](https://www.youtube.com/watch_videos?title=Parabollerle+Hesap+Yapma%0A&video_ids=RKNCDm5HmSI%2C3_ntlDnPawE%2CjXJCo7qJQNU%2C9nyfG_0wAkM%2Ci1Y8nP-qmEY) )
+    - [Parabolleri hareketlendirme](https://tr.khanacademy.org/partner-content/pixar/environment-modeling-2/animating-parabolas-ver2) (2 Articles, 2 Exercises, 3 Interactives, 7 Videos | [16m 9s](https://www.youtube.com/watch_videos?title=Parabolleri+hareketlendirme&video_ids=Olum5kX8vX8%2CYs18pD7lSJ0%2CANm70iF4Z_U%2CtHmWMQ7FKcQ%2CdFq1793ipKc%2CGMzlN0IRRUY%2CpOM3RYtlL-Y) )
+    - [Parabollerin matematiği 2](https://tr.khanacademy.org/partner-content/pixar/environment-modeling-2/mathematics-of-parabolas2-ver2) (1 Article, 4 Exercises, 5 Videos | [13m 33s](https://www.youtube.com/watch_videos?title=Parabollerin+matemati%C4%9Fi+2&video_ids=RKNCDm5HmSI%2C3_ntlDnPawE%2CjXJCo7qJQNU%2C9nyfG_0wAkM%2Ci1Y8nP-qmEY) )
   - [Karakter Modelleme](https://tr.khanacademy.org/partner-content/pixar/modeling-character) (2 Topics)
     - [Alt Bölüm Yüzeyleriyle Modelleme
 ](https://tr.khanacademy.org/partner-content/pixar/modeling-character/modeling-subdivision) (1 Article, 2 Exercises, 3 Interactives, 6 Videos | [16m 1s](https://www.youtube.com/watch_videos?title=Alt+B%C3%B6l%C3%BCm+Y%C3%BCzeyleriyle+Modelleme%0A&video_ids=aL6OvOvCh0k%2Ca-8ZZ_xyjKQ%2CBk8DQGE59DE%2CU1qwZ9Lg9AY%2CjDEwVlHLWII%2CTN6Cknl55kA) )
@@ -5246,40 +4774,25 @@ Aşağıdaki ressamlar gibi tablo yapın...](https://tr.khanacademy.org/humaniti
 ](https://tr.khanacademy.org/partner-content/pixar/crowds/crowds-1) (2 Articles, 1 Exercise, 3 Interactives, 7 Videos | [13m 5s](https://www.youtube.com/watch_videos?title=Kalabal%C4%B1k+Bir+Sahne+Olu%C5%9Fturma%0A&video_ids=ygsqZfZGndI%2COyUBh_qPyL8%2C6d3q6UWxdfI%2CLI4VSHatA2o%2Cx_X_po2vdyk%2C-wZYXno6AlQ%2Ctj_oQOtM-HM) )
     - [Kalabalığı Sayma
 ](https://tr.khanacademy.org/partner-content/pixar/crowds/crowds2) (1 Article, 5 Exercises, 1 Interactive, 6 Videos | [11m 28s](https://www.youtube.com/watch_videos?title=Kalabal%C4%B1%C4%9F%C4%B1+Sayma%0A&video_ids=0wNHNMKED6M%2CO5EGSISCTJ0%2CDv-Tk4JyUJU%2C34TqWeuaUBI%2C5h1trawckUU%2CR_dPMtITaQg) )
-  - [Set ve Sahne](https://tr.khanacademy.org/partner-content/pixar/sets) (2 Topics)
-    - [Geometrik Dönüşümler
-](https://tr.khanacademy.org/partner-content/pixar/sets/sets1) (4 Articles, 3 Exercises, 8 Videos | [20m 31s](https://www.youtube.com/watch_videos?title=Geometrik+D%C3%B6n%C3%BC%C5%9F%C3%BCmler%0A&video_ids=DY_FVQ63X0A%2CBBOmQpvX95c%2C4glB0xsuftY%2CEeNmsBo6O_Q%2Ck-NydSwC2zY%2C7t3Qhb8Mezo%2CRXYpcj2Eba8%2Ctj_oQOtM-HM) )
+  - [Düzen](https://tr.khanacademy.org/partner-content/pixar/sets) (2 Topics)
+    - [Temel sahne oluşturma](https://tr.khanacademy.org/partner-content/pixar/sets/sets1) (4 Articles, 3 Exercises, 8 Videos | [20m 31s](https://www.youtube.com/watch_videos?title=Temel+sahne+olu%C5%9Fturma&video_ids=DY_FVQ63X0A%2CBBOmQpvX95c%2C4glB0xsuftY%2CEeNmsBo6O_Q%2Ck-NydSwC2zY%2C7t3Qhb8Mezo%2CRXYpcj2Eba8%2Ctj_oQOtM-HM) )
     - [Döndürmenin Matematiği
 ](https://tr.khanacademy.org/partner-content/pixar/sets/rotation) (1 Article, 3 Exercises, 3 Videos | [10m 18s](https://www.youtube.com/watch_videos?title=D%C3%B6nd%C3%BCrmenin+Matemati%C4%9Fi%0A&video_ids=MiwUIDKiVaQ%2Cif-JPxR2_N0%2CqzVq6wIa01A) )
   - [Rendering (Görselleştirme)
 ](https://tr.khanacademy.org/partner-content/pixar/rendering) (2 Topics)
     - [Rendering (Görselleştirme) 101
 ](https://tr.khanacademy.org/partner-content/pixar/rendering/rendering1) (1 Article, 3 Exercises, 6 Videos | [15m 53s](https://www.youtube.com/watch_videos?title=Rendering+%28G%C3%B6rselle%C5%9Ftirme%29+101%0A&video_ids=GRYr10N3gAM%2CRoUuMP84Omc%2CYslcUbnnNck%2C2zkDPa0KhRw%2CpDSn05883BE%2C1FoqopKcfEU) )
-    - [Görselleştirmenin matematiği](https://tr.khanacademy.org/partner-content/pixar/rendering/rendering-2) (1 Article, 6 Exercises, 6 Videos | [17m 23s](https://www.youtube.com/watch_videos?title=G%C3%B6rselle%C5%9Ftirmenin+matemati%C4%9Fi&video_ids=9i9nQikF_Tk%2CcCPnYiel5Ho%2CyLk2YIF_ZRE%2CGKwrwhjj6Gk%2CLDgifAEM_2U%2CZ_yeShCAOY4) )
+    - [Rendering (Görselleştirme) Matematiği
+](https://tr.khanacademy.org/partner-content/pixar/rendering/rendering-2) (1 Article, 6 Exercises, 6 Videos | [17m 23s](https://www.youtube.com/watch_videos?title=Rendering+%28G%C3%B6rselle%C5%9Ftirme%29+Matemati%C4%9Fi%0A&video_ids=9i9nQikF_Tk%2CcCPnYiel5Ho%2CyLk2YIF_ZRE%2CGKwrwhjj6Gk%2CLDgifAEM_2U%2CZ_yeShCAOY4) )
 
 ## [Kaynaklar](https://tr.khanacademy.org/resources) (11 Topics)
-- [Öğretmenler](https://tr.khanacademy.org/resources/teacher-essentials) (11 Topics)
-  - [Başlarken ](https://tr.khanacademy.org/resources/teacher-essentials/getting-started-on-khan-academy) (6 Articles)
-  - [Uygulama ](https://tr.khanacademy.org/resources/teacher-essentials/implementation) (6 Articles)
-  - [İçeriğimiz](https://tr.khanacademy.org/resources/teacher-essentials/our-content) (4 Articles)
+- [Öğretmenler için temel bilgiler](https://tr.khanacademy.org/resources/teacher-essentials) (11 Topics)
   - [Platformun Sunduğu Özellikler](https://tr.khanacademy.org/resources/teacher-essentials/product-tour-videos) (5 Videos | [18m 11s](https://www.youtube.com/watch_videos?title=Platformun+Sundu%C4%9Fu+%C3%96zellikler&video_ids=0voUVCMGQqE%2Cdblm90wfpQw%2Cw6WAgsHdWt4%2CaSWkAaFoe7o%2Cn3qUCCv9OTI) )
-  - [Resmi SAT Hazırlığı](https://tr.khanacademy.org/resources/teacher-essentials/official-sat-practice) (3 Articles)
-  - [Matematik öğretmenleri](https://tr.khanacademy.org/resources/teacher-essentials/math-teachers) (3 Articles)
   - [Bilgisayar programlama öğretimi](https://tr.khanacademy.org/resources/teacher-essentials/teaching-computing) (23 Articles, 2 Videos | [8m 52s](https://www.youtube.com/watch_videos?title=Bilgisayar+programlama+%C3%B6%C4%9Fretimi&video_ids=cbD_MVIUBf8%2CkHRDz-ydWCk) )
-  - [Güvenlik, gizlilik ve ek kaynaklar](https://tr.khanacademy.org/resources/teacher-essentials/safety-privacy-and-additional-resources) (4 Articles)
-  - [ Big Ideas Matematik Cebir 1 ile uyumlu Khan Academy](https://tr.khanacademy.org/resources/teacher-essentials/khan-academy-aligned-to-big-ideas-math-algebra-1) (1 Article)
 - [Öğrenciler](https://tr.khanacademy.org/resources/students) (1 Topic)
-  - [Öğrenciler için kaynaklar](https://tr.khanacademy.org/resources/students/resources-for-students) (2 Articles)
 - [Veliler ve Mentörler](https://tr.khanacademy.org/resources/parents-mentors-1) (5 Topics)
-  - [Khan Academy Hesapları](https://tr.khanacademy.org/resources/parents-mentors-1/khan-academy-accounts) (1 Article)
   - [Çocuğunuza yardım etme](https://tr.khanacademy.org/resources/parents-mentors-1/helping-your-child) (11 Articles, 2 Videos | [3m 22s](https://www.youtube.com/watch_videos?title=%C3%87ocu%C4%9Funuza+yard%C4%B1m+etme&video_ids=xK_Ghkxz6ck%2CYhHEP2W1gn8) )
-  - [Gizlilik ve güvenlik](https://tr.khanacademy.org/resources/parents-mentors-1/privacy-and-security) (6 Articles)
-  - [Khan Academy ile Evde Öğrenim](https://tr.khanacademy.org/resources/parents-mentors-1/homeschool-with-khan-academy) (6 Articles, 1 Video | [1m 17s](https://www.youtube.com/watch_videos?title=Khan+Academy+ile+Evde+%C3%96%C4%9Frenim&video_ids=HbmePz_MktE) )
-  - [Daha fazla yardım mı gerekiyor?](https://tr.khanacademy.org/resources/parents-mentors-1/need-more-help) (2 Articles)
+  - [Khan Academy ile Evde Eğitim](https://tr.khanacademy.org/resources/parents-mentors-1/homeschool-with-khan-academy) (6 Articles, 1 Video | [1m 17s](https://www.youtube.com/watch_videos?title=Khan+Academy+ile+Evde+E%C4%9Fitim&video_ids=HbmePz_MktE) )
 - [Okul dışı programlar](https://tr.khanacademy.org/resources/out-of-school-time-programs) (2 Topics)
-  - [Ders dışı programlarda Khan Academy](https://tr.khanacademy.org/resources/out-of-school-time-programs/khan-academy-in-out-of-school-programs) (2 Articles)
   - [Okul dışı programlar: vaka çalışmaları](https://tr.khanacademy.org/resources/out-of-school-time-programs/out-of-school-programs-case-studies) (4 Articles, 2 Videos | [9m 59s](https://www.youtube.com/watch_videos?title=Okul+d%C4%B1%C5%9F%C4%B1+programlar%3A+vaka+%C3%A7al%C4%B1%C5%9Fmalar%C4%B1&video_ids=hKa5Of7Dlbg%2Crw3s2C2TIO8) )
-- [Khan Academy no Brasil](https://tr.khanacademy.org/resources/khan-bncc) (2 Topics)
-  - [Base Nacional Comum Curricular](https://tr.khanacademy.org/resources/khan-bncc/bncc) (2 Articles)
-  - [Khapacitar](https://tr.khanacademy.org/resources/khan-bncc/khapacitar) (2 Articles)
-- [Scratch the Scratchpads Staging](https://tr.khanacademy.org/scratch-the-scratchpads-staging) (156 Challenges, 72 Interactives, 31 Projects, 120 Videos)
+- [Khan Academy e a BNCC](https://tr.khanacademy.org/resources/khan-bncc) (2 Topics)
