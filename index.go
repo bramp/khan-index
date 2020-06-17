@@ -1,7 +1,14 @@
+// Index scan all docs/*.md and write out a simple index.
 package main
 
-var (
+import (
+	"fmt"
+	"os"
+	"path/filepath"
+	"regexp"
+)
 
+var (
 	// The list of languages
 	languages = map[string]string{
 		"az":      "Azərbaycanca",
@@ -44,5 +51,53 @@ var (
 )
 
 func main() {
-	// Scan all docs/*.md and write out a simple index.
+	matches, err := filepath.Glob("docs/*.md")
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Failed to read docs: %s", err)
+	}
+
+	re := regexp.MustCompile(`([^./]+)\..+`)
+
+	// TODO Sort matches
+
+	for _, filename := range matches {
+		match := re.FindStringSubmatch(filename)
+		if len(match) < 1 {
+			fmt.Fprintf(os.Stderr, "Cannot extract language from filename %q", filename)
+			continue
+		}
+		lang := match[1]
+		if lang == "index" {
+			continue
+		}
+
+		language, ok := languages[lang]
+		if !ok {
+			fmt.Fprintf(os.Stderr, "Unknown language %q", lang)
+			continue
+		}
+
+		// Perhaps get something that maps language codes to country codes
+		flagRemap := map[string]string{
+			"da":      "dk",
+			"en":      "gb",
+			"hi":      "in", // Hindi (Indian)
+			"hy":      "am",
+			"nb":      "no",
+			"pt":      "br",
+			"pt-pt":   "pt",
+			"ko":      "kr",
+			"ja":      "jp",
+			"ka":      "ge", // Georgia
+			"ta":      "lk", //  Tamil people of India and Sri Lanka
+			"zh-hans": "cn",
+		}
+		flag := flagRemap[lang]
+		if flag == "" {
+			flag = lang
+		}
+
+		path := filepath.Base(filename)
+		fmt.Printf("* ![%s flag](flags/png/%s.png) [%s](%s)\n", language, flag, language, path)
+	}
 }

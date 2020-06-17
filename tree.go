@@ -3,6 +3,7 @@
 //
 // TODO:
 // [ ] Some children are "Talkthrough", which have videos, but aren't included yet.
+// [ ] The topic count seems wrong (after you exclude)
 package main
 
 import (
@@ -94,7 +95,7 @@ type Topic struct {
 // Returns true iff this node (and sub nodes) should be excluded out.
 func (t *Topic) Exclude() bool {
 	// Only descend into matching curricula
-	return t.RenderType == "Subject" && !curriculumKeyRe.Match([]byte(t.CurriculumKey))
+	return t.RenderType == "Subject" && !curriculumKeyRe.MatchString(t.CurriculumKey)
 }
 
 // Returns the number children (which are not excluded).
@@ -164,7 +165,7 @@ func main() {
 }
 
 func parseLanguageFromFilename(filename string) string {
-	re := regexp.MustCompile("(..)\\..*")
+	re := regexp.MustCompile(`([^/.]+)\..*`)
 	match := re.FindStringSubmatch(filename)
 	if len(match) > 1 {
 		return match[1]
@@ -294,6 +295,7 @@ func print(out io.Writer, t *Topic, depth int) {
 
 	fmt.Fprintf(out, "[%s](%s)", t.StandaloneTitle, t.Url)
 
+	// TODO This counts all children including excluded ones. Fix that.
 	kinds := countChildKinds(t.ChildData)
 	for k, v := range kinds {
 		allKinds[k] += v
